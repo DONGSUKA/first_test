@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 3:11**
-> 내가 노하여 맹세한 바와 같이 그들은 내 안식에 들어오지 못하리라 하였다 하였느니라
+📖 **마가복음 14:7**
+> 가난한 자들은 항상 너희와 함께 있으니 아무 때라도 원하는 대로 도울 수 있거니와 나는 너희와 항상 함께 있지 아니하리라
 
-🕊️ _업데이트 시각: 2025-07-26 17:49:51 KST_
+🕊️ _업데이트 시각: 2025-07-26 17:59:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
