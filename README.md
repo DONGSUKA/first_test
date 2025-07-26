@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 14:30**
-> 그 날에 여호와께서 이같이 이스라엘을 애굽 사람의 손에서 구원하시매 이스라엘이 바닷가에서 애굽 사람들이 죽어 있는 것을 보았더라
+📖 **시편 93:5**
+> 여호와여 주의 증거들이 매우 확실하고 거룩함이 주의 집에 합당하니 여호와는 영원무궁하시리이다
 
-🕊️ _업데이트 시각: 2025-07-27 00:56:59 KST_
+🕊️ _업데이트 시각: 2025-07-27 01:50:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
