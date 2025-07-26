@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 14:7**
-> 가난한 자들은 항상 너희와 함께 있으니 아무 때라도 원하는 대로 도울 수 있거니와 나는 너희와 항상 함께 있지 아니하리라
+📖 **예레미야 51:58**
+> 만군의 여호와께서 이와 같이 말씀하시니라 바벨론의 성벽은 훼파되겠고 그 높은 문들은 불에 탈 것이며 백성들의 수고는 헛될 것이요민족들의 수고는 불탈 것인즉 그들이 쇠잔하리라
 
-🕊️ _업데이트 시각: 2025-07-26 17:59:13 KST_
+🕊️ _업데이트 시각: 2025-07-26 18:38:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
