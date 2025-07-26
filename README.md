@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 7:1**
-> 하만의 몰락 왕이 하만과 함께 또 왕후 에스더의 잔치에 가니라
+📖 **출애굽기 14:30**
+> 그 날에 여호와께서 이같이 이스라엘을 애굽 사람의 손에서 구원하시매 이스라엘이 바닷가에서 애굽 사람들이 죽어 있는 것을 보았더라
 
-🕊️ _업데이트 시각: 2025-07-27 00:41:29 KST_
+🕊️ _업데이트 시각: 2025-07-27 00:56:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
