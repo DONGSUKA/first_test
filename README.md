@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 12:23**
-> 하나는 돌의 높은 곳의 돌 왕이요 하나는 길갈의 고임 왕이요
+📖 **사무엘상 26:13**
+> 이에 다윗이 건너편으로 가서 멀리 산 꼭대기에 서니 거리가 멀더라
 
-🕊️ _업데이트 시각: 2025-07-27 19:45:06 KST_
+🕊️ _업데이트 시각: 2025-07-27 19:55:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
