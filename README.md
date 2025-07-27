@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 10:47**
-> 이에 베드로가 이르되 이 사람들이 우리와 같이 성령을 받았으니 누가 능히 물로 세례 베풂을 금하리요 하고
+📖 **시편 69:7**
+> 내가 주를 위하여 비방을 받았사오니 수치가 나의 얼굴에 덮였나이다
 
-🕊️ _업데이트 시각: 2025-07-27 13:01:29 KST_
+🕊️ _업데이트 시각: 2025-07-27 14:04:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
