@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 15:54**
-> 이 썩을 것이 썩지 아니함을 입고 이 죽을 것이 죽지 아니함을 입을 때에는 사망을 삼키고 이기리라고 기록된 말씀이 이루어지리라
+📖 **마태복음 21:16**
+> 예수께 말하되 그들이 하는 말을 듣느냐 예수께서 이르시되 그렇다 어린 아기와 젖먹이들의 입에서 나오는 찬미를 온전하게 하셨나이다 함을 너희가 읽어 본 일이 없느냐 하시고
 
-🕊️ _업데이트 시각: 2025-07-28 04:44:11 KST_
+🕊️ _업데이트 시각: 2025-07-28 04:49:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
