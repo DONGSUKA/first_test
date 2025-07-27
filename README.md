@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 40:18**
-> 모세가 성막을 세우되 그 받침들을 놓고 그 널판들을 세우고 그 띠를 띠우고 그 기둥들을 세우고
+📖 **여호수아 12:23**
+> 하나는 돌의 높은 곳의 돌 왕이요 하나는 길갈의 고임 왕이요
 
-🕊️ _업데이트 시각: 2025-07-27 18:58:18 KST_
+🕊️ _업데이트 시각: 2025-07-27 19:45:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
