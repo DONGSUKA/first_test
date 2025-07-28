@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 34:8**
-> 모세가 급히 땅에 엎드려 경배하며
+📖 **사도행전 2:39**
+> 이 약속은 너희와 너희 자녀와 모든 먼 데 사람 곧 주 우리 하나님이 얼마든지 부르시는 자들에게 하신 것이라 하고
 
-🕊️ _업데이트 시각: 2025-07-29 01:58:39 KST_
+🕊️ _업데이트 시각: 2025-07-29 02:44:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
