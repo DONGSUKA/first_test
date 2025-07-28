@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 31:31**
-> 야곱이 라반에게 대답하여 이르되 내가 생각하기를 외삼촌이 외삼촌의 딸들을 내게서 억지로 빼앗으리라 하여 두려워하였음이니이다
+📖 **이사야 11:15**
+> 여호와께서 애굽 해만을 말리시고 그의 손을 유브라데 하수 위에 흔들어 뜨거운 바람을 일으켜 그 하수를 쳐 일곱 갈래로 나누어 신을신고 건너가게 하실 것이라
 
-🕊️ _업데이트 시각: 2025-07-28 20:35:08 KST_
+🕊️ _업데이트 시각: 2025-07-28 20:48:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
