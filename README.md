@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 1:28**
-> 그 때에 너희가 나를 부르리라 그래도 내가 대답하지 아니하겠고 부지런히 나를 찾으리라 그래도 나를 만나지 못하리니
+📖 **요한복음 12:28**
+> 아버지여, 아버지의 이름을 영광스럽게 하옵소서 하시니 이에 하늘에서 소리가 나서 이르되 내가 이미 영광스럽게 하였고 또다시 영광스럽게 하리라 하시니
 
-🕊️ _업데이트 시각: 2025-07-29 16:55:36 KST_
+🕊️ _업데이트 시각: 2025-07-29 17:57:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
