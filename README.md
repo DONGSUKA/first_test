@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 22:5**
-> 너 이름이 더럽고 어지러움이 많은 자여 가까운 자나 먼 자나 다 너를 조롱하리라
+📖 **에스겔 1:8**
+> 그 사방 날개 밑에는 각각 사람의 손이 있더라 그 네 생물의 얼굴과 날개가 이러하니
 
-🕊️ _업데이트 시각: 2025-07-29 14:47:04 KST_
+🕊️ _업데이트 시각: 2025-07-29 15:00:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
