@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 30:14**
-> 내가 바드로스를 황폐하게 하며 소안에 불을 지르며 노 나라를 심판하며
+📖 **누가복음 19:13**
+> 그 종 열을 불러 은화 열 므나를 주며 이르되 내가 돌아올 때까지 장사하라 하니라
 
-🕊️ _업데이트 시각: 2025-07-31 05:57:22 KST_
+🕊️ _업데이트 시각: 2025-07-31 06:39:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
