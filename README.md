@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 68:26**
-> 이스라엘의 근원에서 나온 너희여 대회 중에 하나님 곧 주를 송축할지어다
+📖 **에베소서 5:15**
+> 그리스도의 이름으로 감사하라 그런즉 너희가 어떻게 행할지를 자세히 주의하여 지혜 없는 자 같이 하지 말고 오직 지혜 있는 자 같이하여
 
-🕊️ _업데이트 시각: 2025-07-31 01:55:51 KST_
+🕊️ _업데이트 시각: 2025-07-31 02:45:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
