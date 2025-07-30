@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 9:21**
-> 그러나 지금 어떻게 해서 보는지 또는 누가 그 눈을 뜨게 하였는지 우리는 알지 못하나이다 그에게 물어 보소서 그가 장성하였으니 자기 일을 말하리이다
+📖 **에스라 8:31**
+> 에스라가 예루살렘으로 돌아오다 첫째 달 십이 일에 우리가 아하와 강을 떠나 예루살렘으로 갈새 우리 하나님의 손이 우리를 도우사 대적과 길에 매복한 자의 손에서 건지신지라
 
-🕊️ _업데이트 시각: 2025-07-31 02:56:32 KST_
+🕊️ _업데이트 시각: 2025-07-31 03:58:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
