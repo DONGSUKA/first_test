@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 18:23**
-> 그러나 레위인은 회막에서 봉사하며 자기들의 죄를 담당할 것이요 이스라엘 자손 중에는 기업이 없을 것이니 이는 너희 대대에 영원한율례라
+📖 **사도행전 13:24**
+> 그가 오시기에 앞서 요한이 먼저 회개의 세례를 이스라엘 모든 백성에게 전파하니라
 
-🕊️ _업데이트 시각: 2025-08-02 03:57:34 KST_
+🕊️ _업데이트 시각: 2025-08-02 04:29:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
