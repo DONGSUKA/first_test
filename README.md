@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 21:7**
-> 여호와께서 다윗의 집을 멸하기를 즐겨하지 아니하셨음은 이전에 다윗과 더불어 언약을 세우시고 또 다윗과 그의 자손에게 항상 등불을주겠다고 말씀하셨음이더라
+📖 **여호수아 6:13**
+> 제사장 일곱은 양각 나팔 일곱을 잡고 여호와의 궤 앞에서 계속 행진하며 나팔을 불고 무장한 자들은 그 앞에 행진하며 후군은 여호와의 궤 뒤를 따르고 제사장들은 나팔을 불며 행진하니라
 
-🕊️ _업데이트 시각: 2025-08-02 00:45:04 KST_
+🕊️ _업데이트 시각: 2025-08-02 00:58:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
