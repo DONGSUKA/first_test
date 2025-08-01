@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 137:1**
-> 우리가 바벨론의 여러 강변 거기에 앉아서 시온을 기억하며 울었도다
+📖 **누가복음 1:39**
+> 마리아가 엘리사벳을 방문하다 이 때에 마리아가 일어나 빨리 산골로 가서 유대 한 동네에 이르러
 
-🕊️ _업데이트 시각: 2025-08-02 01:56:37 KST_
+🕊️ _업데이트 시각: 2025-08-02 02:45:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
