@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 19:3**
-> 바울이 이르되 그러면 너희가 무슨 세례를 받았느냐 대답하되 요한의 세례니라
+📖 **이사야 7:3**
+> 그 때에 여호와께서 이사야에게 이르시되 너와 네 아들 스알야숩은 윗못 수도 끝 세탁자의 밭 큰 길에 나가서 아하스를 만나
 
-🕊️ _업데이트 시각: 2025-08-02 05:57:04 KST_
+🕊️ _업데이트 시각: 2025-08-02 06:37:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
