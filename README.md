@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 11:6**
-> 솔로몬이 여호와의 눈앞에서 악을 행하여 그의 아버지 다윗이 여호와를 온전히 따름 같이 따르지 아니하고
+📖 **창세기 45:14**
+> 자기 아우 베냐민의 목을 안고 우니 베냐민도 요셉의 목을 안고 우니라
 
-🕊️ _업데이트 시각: 2025-08-03 07:54:20 KST_
+🕊️ _업데이트 시각: 2025-08-03 08:41:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
