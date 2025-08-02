@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 37:20**
-> 내가 말하고 싶은 것을 어찌 그에게 고할 수 있으랴 삼켜지기를 바랄 자가 어디 있으랴
+📖 **에스겔 27:36**
+> 많은 민족의 상인들이 다 너를 비웃음이여 네가 공포의 대상이 되고 네가 영원히 다시 있지 못하리라 하셨느니라
 
-🕊️ _업데이트 시각: 2025-08-02 14:51:19 KST_
+🕊️ _업데이트 시각: 2025-08-02 14:59:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
