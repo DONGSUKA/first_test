@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 10:17**
-> 백성의 탄식 에워싸인 가운데에 앉은 자여 네 짐 꾸러미를 이 땅에서 꾸리라
+📖 **사무엘하 13:1**
+> 암논과 다말 그 후에 이 일이 있으니라 다윗의 아들 압살롬에게 아름다운 누이가 있으니 이름은 다말이라 다윗의 다른 아들 암논이 그를 사랑하나
 
-🕊️ _업데이트 시각: 2025-08-03 04:55:02 KST_
+🕊️ _업데이트 시각: 2025-08-03 05:39:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
