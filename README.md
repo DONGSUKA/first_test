@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 23:11**
-> 그일라 사람들이 나를 그의 손에 넘기겠나이까 주의 종이 들은 대로 사울이 내려 오겠나이까 이스라엘의 하나님 여호와여 원하건대 주의 종에게 일러 주옵소서 하니 여호와께서 이르시되 그가 내려오리라 하신지라
+📖 **에스겔 46:2**
+> 군주는 바깥 문 현관을 통하여 들어와서 문 벽 곁에 서고 제사장은 그를 위하여 번제와 감사제를 드릴 것이요 군주는 문 통로에서 예배한후에 밖으로 나가고 그 문은 저녁까지 닫지 말 것이며
 
-🕊️ _업데이트 시각: 2025-08-03 05:53:06 KST_
+🕊️ _업데이트 시각: 2025-08-03 05:58:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
