@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 1:2**
-> 여호야긴 왕이 사로잡힌 지 오 년 그 달 초닷새라
+📖 **마태복음 8:4**
+> 예수께서 이르시되 삼가 아무에게도 이르지 말고 다만 가서 제사장에게 네 몸을 보이고 모세가 명한 예물을 드려 그들에게 입증하라 하시니라
 
-🕊️ _업데이트 시각: 2025-08-03 22:45:10 KST_
+🕊️ _업데이트 시각: 2025-08-03 22:57:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
