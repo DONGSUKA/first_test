@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 11:12**
-> 모든 성읍에 방패와 창을 두어 매우 강하게 하니라 유다와 베냐민이 르호보암에게 속하였더라
+📖 **누가복음 1:48**
+> 그의 여종의 비천함을 돌보셨음이라 보라 이제 후로는 만세에 나를 복이 있다 일컬으리로다
 
-🕊️ _업데이트 시각: 2025-08-04 08:38:16 KST_
+🕊️ _업데이트 시각: 2025-08-04 08:52:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
