@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 5:17**
-> 예수와 율법 내가 율법이나 선지자를 폐하러 온 줄로 생각하지 말라 폐하러 온 것이 아니요 완전하게 하려 함이라
+📖 **마태복음 10:39**
+> 자기 목숨을 얻는 자는 잃을 것이요 나를 위하여 자기 목숨을 잃는 자는 얻으리라
 
-🕊️ _업데이트 시각: 2025-08-03 23:40:06 KST_
+🕊️ _업데이트 시각: 2025-08-03 23:52:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
