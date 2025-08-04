@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 37:15**
-> 하나님이 이런 것들에게 명령하셔서 그 구름의 번개로 번쩍거리게 하시는 것을 그대가 아느냐
+📖 **역대상 9:21**
+> 므셀레먀의 아들 스가랴는 회막 문지기가 되었더라
 
-🕊️ _업데이트 시각: 2025-08-04 20:22:33 KST_
+🕊️ _업데이트 시각: 2025-08-04 20:37:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
