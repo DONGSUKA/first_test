@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 19:14**
-> 하늘에 있는 군대들이 희고 깨끗한 세마포 옷을 입고 백마를 타고 그를 따르더라
+📖 **창세기 29:14**
+> 라반이 이르되 너는 참으로 내 혈육이로다 하였더라 야곱이 한 달을 그와 함께 거주하더니
 
-🕊️ _업데이트 시각: 2025-08-05 04:29:06 KST_
+🕊️ _업데이트 시각: 2025-08-05 04:41:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
