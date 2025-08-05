@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 25:27**
-> 그 죄목도 밝히지 아니하고 죄수를 보내는 것이 무리한 일인 줄 아나이다 하였더라
+📖 **히브리서 5:6**
+> 또한 이와 같이 다른 데서 말씀하시되 네가 영원히 멜기세덱의 반차를 따르는 제사장이라 하셨으니
 
-🕊️ _업데이트 시각: 2025-08-05 23:58:47 KST_
+🕊️ _업데이트 시각: 2025-08-06 00:21:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
