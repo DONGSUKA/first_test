@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 33:17**
-> 여호와께서 이와 같이 말씀하시니라 이스라엘 집의 왕위에 앉을 사람이 다윗에게 영원히 끊어지지 아니할 것이며
+📖 **로마서 1:31**
+> 우매한 자요 배약하는 자요 무정한 자요 무자비한 자라
 
-🕊️ _업데이트 시각: 2025-08-05 19:58:17 KST_
+🕊️ _업데이트 시각: 2025-08-05 20:16:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
