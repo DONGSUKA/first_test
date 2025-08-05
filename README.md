@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 26:28**
-> 거짓말 하는 자는 자기가 해한 자를 미워하고 아첨하는 입은 패망을 일으키느니라
+📖 **역대상 11:29**
+> 후사 사람 십브개와 아호아 사람 일래와
 
-🕊️ _업데이트 시각: 2025-08-06 00:57:56 KST_
+🕊️ _업데이트 시각: 2025-08-06 01:17:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
