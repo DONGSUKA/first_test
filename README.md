@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 15:3**
-> 여호와의 말씀이니라 내가 그들을 네 가지로 벌하리니 곧 죽이는 칼과 찢는 개와 삼켜 멸하는 공중의 새와 땅의 짐승으로 할 것이며
+📖 **역대상 20:4**
+> 블레셋 사람들과 싸우다(삼하 21:15-22) 이 후에 블레셋 사람들과 게셀에서 전쟁할 때에 후사 사람 십브개가 키가 큰 자의 아들 중에 십배를 쳐죽이매 그들이 항복하였더라
 
-🕊️ _업데이트 시각: 2025-08-06 04:51:19 KST_
+🕊️ _업데이트 시각: 2025-08-06 04:57:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
