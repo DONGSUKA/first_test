@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 18:20**
-> 너는 네 이웃의 아내와 동침하여 설정하므로 그 여자와 함께 자기를 더럽히지 말지니라
+📖 **사무엘하 1:11**
+> 이에 다윗이 자기 옷을 잡아 찢으매 함께 있는 모든 사람도 그리하고
 
-🕊️ _업데이트 시각: 2025-08-07 03:14:29 KST_
+🕊️ _업데이트 시각: 2025-08-07 03:47:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
