@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 4:6**
-> 그러면 거기에 들어갈 자들이 남아 있거니와 복음 전함을 먼저 받은 자들은 순종하지 아니함으로 말미암아 들어가지 못하였으므로
+📖 **시편 136:17**
+> 큰 왕들을 치신 이에게 감사하라 그 인자하심이 영원함이로다
 
-🕊️ _업데이트 시각: 2025-08-07 04:51:20 KST_
+🕊️ _업데이트 시각: 2025-08-07 04:56:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
