@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 10:37**
-> 만일 내가 내 아버지의 일을 행하지 아니하거든 나를 믿지 말려니와
+📖 **에스라 8:1**
+> 에스라와 함께 돌아온 백성들 아닥사스다 왕이 왕위에 있을 때에 나와 함께 바벨론에서 올라온 족장들과 그들의 계보는 이러하니라
 
-🕊️ _업데이트 시각: 2025-08-06 20:33:56 KST_
+🕊️ _업데이트 시각: 2025-08-06 20:45:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
