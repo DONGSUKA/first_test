@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 21:38**
-> 그러면 네가 이전에 소요를 일으켜 자객 사천 명을 거느리고 광야로 가던 애굽인이 아니냐
+📖 **열왕기하 9:36**
+> 돌아와서 전하니 예후가 이르되 이는 여호와께서 그 종 디셉 사람 엘리야를 통하여 말씀하신 바라 이르시기를 이스르엘 토지에서 개들이 이세벨의 살을 먹을지라
 
-🕊️ _업데이트 시각: 2025-08-07 06:44:28 KST_
+🕊️ _업데이트 시각: 2025-08-07 06:51:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
