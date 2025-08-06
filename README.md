@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 17:16**
-> 그 다음은 시그리의 아들 아마시야니 그는 자기를 여호와께 즐거이 드린 자라 큰 용사 이십만 명을 거느렸고
+📖 **민수기 26:13**
+> 세라에게서 난 세라 종족과 사울에게서 난 사울 종족이라
 
-🕊️ _업데이트 시각: 2025-08-06 15:39:26 KST_
+🕊️ _업데이트 시각: 2025-08-06 16:01:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
