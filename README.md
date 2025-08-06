@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 15:28**
-> 성령과 우리는 이 요긴한 것들 외에는 아무 짐도 너희에게 지우지 아니하는 것이 옳은 줄 알았노니
+📖 **아모스 7:2**
+> 메뚜기가 땅의 풀을 다 먹은지라 내가 이르되 주 여호와여 청하건대 사하소서 야곱이 미약하오니 어떻게 서리이까 하매
 
-🕊️ _업데이트 시각: 2025-08-07 08:53:41 KST_
+🕊️ _업데이트 시각: 2025-08-07 08:59:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
