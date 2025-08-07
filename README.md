@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 21:23**
-> 우리가 말하는 이대로 하라 서원한 네 사람이 우리에게 있으니
+📖 **사무엘상 16:10**
+> 이새가 그의 아들 일곱을 다 사무엘 앞으로 지나가게 하나 사무엘이 이새에게 이르되 여호와께서 이들을 택하지 아니하셨느니라 하고
 
-🕊️ _업데이트 시각: 2025-08-07 23:57:09 KST_
+🕊️ _업데이트 시각: 2025-08-08 00:16:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
