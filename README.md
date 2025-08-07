@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:8**
-> 더러는 좋은 땅에 떨어지매 나서 백 배의 결실을 하였느니라 이 말씀을 하시고 외치시되 들을 귀 있는 자는 들을지어다
+📖 **스가랴 14:14**
+> 유다도 예루살렘에서 싸우리니 이 때에 사방에 있는 이방 나라들의 보화 곧 금 은과 의복이 심히 많이 모여질 것이요
 
-🕊️ _업데이트 시각: 2025-08-08 04:44:25 KST_
+🕊️ _업데이트 시각: 2025-08-08 04:50:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
