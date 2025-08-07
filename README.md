@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 29:22**
-> 이에 수소를 잡으매 제사장들이 그 피를 받아 제단에 뿌리고 또 숫양들을 잡으매 그 피를 제단에 뿌리고 또 어린 양들을 잡으매 그 피를제단에 뿌리고
+📖 **역대하 20:27**
+> 유다와 예루살렘 모든 사람이 다시 여호사밧을 선두로 하여 즐겁게 예루살렘으로 돌아왔으니 이는 여호와께서 그들이 그 적군을 이김으로써 즐거워하게 하셨음이라
 
-🕊️ _업데이트 시각: 2025-08-07 17:46:16 KST_
+🕊️ _업데이트 시각: 2025-08-07 18:01:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
