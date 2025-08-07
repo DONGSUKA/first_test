@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 35:2**
-> 인자야 네 얼굴을 세일 산으로 향하고 그에게 예언하여
+📖 **이사야 26:12**
+> 여호와여 주께서 우리를 위하여 평강을 베푸시오리니 주께서 우리의 모든 일도 우리를 위하여 이루심이니이다
 
-🕊️ _업데이트 시각: 2025-08-07 19:21:06 KST_
+🕊️ _업데이트 시각: 2025-08-07 19:44:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
