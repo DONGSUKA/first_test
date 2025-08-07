@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 7:49**
-> 하난 자손과 깃델 자손과 가할 자손과
+📖 **시편 119:129**
+> 주의 증거들은 놀라우므로 내 영혼이 이를 지키나이다
 
-🕊️ _업데이트 시각: 2025-08-07 16:54:09 KST_
+🕊️ _업데이트 시각: 2025-08-07 17:14:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
