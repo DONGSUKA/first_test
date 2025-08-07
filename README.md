@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 14:14**
-> 유다도 예루살렘에서 싸우리니 이 때에 사방에 있는 이방 나라들의 보화 곧 금 은과 의복이 심히 많이 모여질 것이요
+📖 **마가복음 6:26**
+> 왕이 심히 근심하나 자기가 맹세한 것과 그 앉은 자들로 인하여 그를 거절할 수 없는지라
 
-🕊️ _업데이트 시각: 2025-08-08 04:50:36 KST_
+🕊️ _업데이트 시각: 2025-08-08 04:56:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
