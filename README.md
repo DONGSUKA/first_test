@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 34:35**
-> 이스라엘 자손이 모세의 얼굴의 광채를 보므로 모세가 여호와께 말하러 들어가기까지 다시 수건으로 자기 얼굴을 가렸더라
+📖 **신명기 13:14**
+> 너는 자세히 묻고 살펴 보아서 이런 가증한 일이 너희 가운데에 있다는 것이 확실한 사실로 드러나면
 
-🕊️ _업데이트 시각: 2025-08-08 15:26:03 KST_
+🕊️ _업데이트 시각: 2025-08-08 15:55:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
