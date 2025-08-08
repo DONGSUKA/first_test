@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 13:14**
-> 너는 자세히 묻고 살펴 보아서 이런 가증한 일이 너희 가운데에 있다는 것이 확실한 사실로 드러나면
+📖 **이사야 23:13**
+> 갈대아 사람의 땅을 보라 그 백성이 없어졌나니 곧 앗수르 사람이 그 곳을 들짐승이 사는 곳이 되게 하였으되 그들이 망대를 세우고 궁전을 헐어 황무하게 하였느니라
 
-🕊️ _업데이트 시각: 2025-08-08 15:55:14 KST_
+🕊️ _업데이트 시각: 2025-08-08 16:16:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
