@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 13:23**
-> 그러나 그 색점이 여전하고 퍼지지 아니하였으면 이는 종기 흔적이니 제사장은 그를 정하다 할지니라
+📖 **역대하 24:16**
+> 무리가 다윗 성 여러 왕의 묘실 중에 장사하였으니 이는 그가 이스라엘과 하나님과 그의 성전에 대하여 선을 행하였음이더라
 
-🕊️ _업데이트 시각: 2025-08-08 19:55:46 KST_
+🕊️ _업데이트 시각: 2025-08-08 20:10:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
