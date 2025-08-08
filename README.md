@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 10:4**
-> 그에게 아들 삼십 명이 있어 어린 나귀 삼십을 탔고 성읍 삼십을 가졌는데 그 성읍들은 길르앗 땅에 있고 오늘까지 하봇야일이라 부르더라
+📖 **잠언 12:3**
+> 사람이 악으로서 굳게 서지 못하거니와 의인의 뿌리는 움직이지 아니하느니라
 
-🕊️ _업데이트 시각: 2025-08-09 06:53:15 KST_
+🕊️ _업데이트 시각: 2025-08-09 06:58:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
