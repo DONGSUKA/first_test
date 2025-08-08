@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 6:12**
-> 모세가 여호와 앞에 아뢰어 이르되 이스라엘 자손도 내 말을 듣지 아니하였거든 바로가 어찌 들으리이까 나는 입이 둔한 자니이다
+📖 **역대하 34:25**
+> 이는 이 백성들이 나를 버리고 다른 신들에게 분향하며 그의 손의 모든 행위로 나의 노여움을 샀음이라 그러므로 나의 노여움을 이 곳에쏟으매 꺼지지 아니하리라 하라 하셨느니라
 
-🕊️ _업데이트 시각: 2025-08-08 13:49:28 KST_
+🕊️ _업데이트 시각: 2025-08-08 14:17:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
