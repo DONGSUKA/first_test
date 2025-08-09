@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 5:39**
-> 묵은 포도주를 마시고 새 것을 원하는 자가 없나니 이는 묵은 것이 좋다 함이니라
+📖 **신명기 22:21**
+> 그 처녀를 그의 아버지 집 문에서 끌어내고 그 성읍 사람들이 그를 돌로 쳐죽일지니 이는 그가 그의 아버지 집에서 창기의 행동을 하여이스라엘 중에서 악을 행하였음이라 너는 이와 같이 하여 너희 가운데서 악을 제할지니라
 
-🕊️ _업데이트 시각: 2025-08-09 18:47:57 KST_
+🕊️ _업데이트 시각: 2025-08-09 18:53:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
