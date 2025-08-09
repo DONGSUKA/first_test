@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 11:12**
-> 지혜 없는 자는 그의 이웃을 멸시하나 명철한 자는 잠잠하느니라
+📖 **누가복음 11:44**
+> 화 있을진저 너희여 너희는 평토장한 무덤 같아서 그 위를 밟는 사람이 알지 못하느니라
 
-🕊️ _업데이트 시각: 2025-08-10 00:30:50 KST_
+🕊️ _업데이트 시각: 2025-08-10 00:42:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
