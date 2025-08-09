@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 5:17**
-> 토기에 거룩한 물을 담고 성막 바닥의 티끌을 취하여 물에 넣고
+📖 **잠언 11:12**
+> 지혜 없는 자는 그의 이웃을 멸시하나 명철한 자는 잠잠하느니라
 
-🕊️ _업데이트 시각: 2025-08-10 00:11:40 KST_
+🕊️ _업데이트 시각: 2025-08-10 00:30:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
