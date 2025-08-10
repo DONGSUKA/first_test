@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 2:9**
-> 무리가 그의 기업의 경내 에브라임 산지 가아스 산 북쪽 딤낫 헤레스에 장사하였고
+📖 **잠언 3:19**
+> 여호와께서는 지혜로 땅에 터를 놓으셨으며 명철로 하늘을 견고히 세우셨고
 
-🕊️ _업데이트 시각: 2025-08-10 09:58:50 KST_
+🕊️ _업데이트 시각: 2025-08-10 12:03:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
