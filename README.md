@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 19:36**
-> 당신의 종은 왕을 모시고 요단을 건너려는 것뿐이거늘 왕께서 어찌하여 이같은 상으로 내게 갚으려 하시나이까
+📖 **에스겔 40:47**
+> 그가 또 그 뜰을 측량하니 길이는 백 척이요 너비는 백 척이라 네모 반듯하며 제단은 성전 앞에 있더라
 
-🕊️ _업데이트 시각: 2025-08-11 02:42:08 KST_
+🕊️ _업데이트 시각: 2025-08-11 02:49:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
