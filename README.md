@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 8:5**
-> 비록 하늘에나 땅에나 신이라 불리는 자가 있어 많은 신과 많은 주가 있으나
+📖 **마태복음 18:21**
+> 용서할 줄 모르는 종 비유 그 때에 베드로가 나아와 이르되 주여 형제가 내게 죄를 범하면 몇 번이나 용서하여 주리이까 일곱 번까지하오리이까
 
-🕊️ _업데이트 시각: 2025-08-10 22:55:17 KST_
+🕊️ _업데이트 시각: 2025-08-10 23:08:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
