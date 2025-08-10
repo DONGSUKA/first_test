@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 36:14**
-> 시브온의 손녀 아나의 딸 에서의 아내 오홀리바마의 아들들은 이러하니 그가 여우스와 얄람과 고라를 에서에게 낳았더라
+📖 **역대하 25:18**
+> 이스라엘 왕 요아스가 유다 왕 아마샤에게 사람을 보내어 이르되 레바논 가시나무가 레바논 백향목에게 전갈을 보내어 이르기를 네 딸을내 아들에게 주어 아내로 삼게 하라 하였더니 레바논 들짐승이 지나가다가 그 가시나무를 짓밟았느니라
 
-🕊️ _업데이트 시각: 2025-08-10 14:56:22 KST_
+🕊️ _업데이트 시각: 2025-08-10 15:17:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
