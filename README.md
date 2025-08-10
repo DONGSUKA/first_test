@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 7:23**
-> 이 모든 악한 것이 다 속에서 나와서 사람을 더럽게 하느니라
+📖 **창세기 29:23**
+> 저녁에 그의 딸 레아를 야곱에게로 데려가매 야곱이 그에게로 들어가니라
 
-🕊️ _업데이트 시각: 2025-08-10 20:07:18 KST_
+🕊️ _업데이트 시각: 2025-08-10 20:23:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
