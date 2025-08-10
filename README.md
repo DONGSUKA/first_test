@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 3:11**
-> (르바임 족속의 남은 자는 바산 왕 옥뿐이었으며 그의 침상은 철 침상이라 아직도 암몬 족속의 랍바에 있지 아니하냐 그것을 사람의 보통규빗으로 재면 그 길이가 아홉 규빗이요 너비가 네 규빗이니라)
+📖 **예레미야 21:12**
+> 여호와께서 이와 같이 말씀하시니라 다윗의 집이여 너는 아침마다 정의롭게 판결하여 탈취 당한 자를 압박자의 손에서 건지라 그리하지 아니하면 너희의 악행 때문에 내 분노가 불 같이 일어나서 사르리니 능히 끌 자가 없으리라
 
-🕊️ _업데이트 시각: 2025-08-10 20:53:01 KST_
+🕊️ _업데이트 시각: 2025-08-10 20:58:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
