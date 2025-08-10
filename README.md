@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 37:2**
-> 그와 그의 신하와 그의 땅 백성이 여호와께서 선지자 예레미야에게 하신 말씀을 듣지 아니하니라
+📖 **이사야 3:26**
+> 그 성문은 슬퍼하며 곡할 것이요 시온은 황폐하여 땅에 앉으리라
 
-🕊️ _업데이트 시각: 2025-08-11 06:30:19 KST_
+🕊️ _업데이트 시각: 2025-08-11 06:41:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
