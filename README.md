@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 39:17**
-> 주 여호와께서 이같이 말씀하셨느니라 너 인자야 너는 각종 새와 들의 각종 짐승에게 이르기를 너희는 모여 오라 내가 너희를 위한 잔치곧 이스라엘 산 위에 예비한 큰 잔치로 너희는 사방에서 모여 살을 먹으며 피를 마실지어다
+📖 **히브리서 11:35**
+> 여자들은 자기의 죽은 자들을 부활로 받아들이기도 하며 또 어떤 이들은 더 좋은 부활을 얻고자 하여 심한 고문을 받되 구차히 풀려나기를 원하지 아니하였으며
 
-🕊️ _업데이트 시각: 2025-08-10 14:36:27 KST_
+🕊️ _업데이트 시각: 2025-08-10 14:50:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
