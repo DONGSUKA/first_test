@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 17:15**
-> 보라 그들이 내게 이르기를 여호와의 말씀이 어디 있느냐 이제 임하게 할지어다 하나이다
+📖 **출애굽기 26:34**
+> 너는 지성소에 있는 증거궤 위에 속죄소를 두고
 
-🕊️ _업데이트 시각: 2025-08-11 13:53:04 KST_
+🕊️ _업데이트 시각: 2025-08-11 14:17:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
