@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 9:14**
-> 곧 작고 인구가 많지 아니한 어떤 성읍에 큰 왕이 와서 그것을 에워싸고 큰 흉벽을 쌓고 치고자 할 때에
+📖 **민수기 28:29**
+> 어린 양 일곱 마리에는 어린 양 한 마리마다 십분의 일을 드릴 것이며
 
-🕊️ _업데이트 시각: 2025-08-13 02:59:17 KST_
+🕊️ _업데이트 시각: 2025-08-13 03:29:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
