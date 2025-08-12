@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 11:21**
-> 느디님 사람은 오벨에 거주하니 시하와 기스바가 그들의 책임자가 되었느니라
+📖 **디도서 1:7**
+> 감독은 하나님의 청지기로서 책망할 것이 없고 제 고집대로 하지 아니하며 급히 분내지 아니하며 술을 즐기지 아니하며 구타하지 아니하며더러운 이득을 탐하지 아니하며
 
-🕊️ _업데이트 시각: 2025-08-13 05:34:14 KST_
+🕊️ _업데이트 시각: 2025-08-13 05:46:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
