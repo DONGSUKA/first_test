@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 24:12**
-> 발람이 발락에게 이르되 당신이 내게 보낸 사신들에게 내가 말하여 이르지 아니하였나이까
+📖 **민수기 35:18**
+> 만일 사람을 죽일 만한 나무 연장을 손에 들고 사람을 쳐죽이면 그는 살인한 자니 그 살인자는 반드시 죽일 것이니라
 
-🕊️ _업데이트 시각: 2025-08-12 14:58:09 KST_
+🕊️ _업데이트 시각: 2025-08-12 15:25:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
