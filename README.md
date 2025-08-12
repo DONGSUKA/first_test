@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:71**
-> 고난 당한 것이 내게 유익이라 이로 말미암아 내가 주의 율례들을 배우게 되었나이다
+📖 **누가복음 15:15**
+> 가서 그 나라 백성 중 한 사람에게 붙여 사니 그가 그를 들로 보내어 돼지를 치게 하였는데
 
-🕊️ _업데이트 시각: 2025-08-13 07:10:13 KST_
+🕊️ _업데이트 시각: 2025-08-13 07:32:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
