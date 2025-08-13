@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 6:57**
-> 아론 자손에게 도피성을 주었으니 헤브론과 립나와 그 초원과 얏딜과 에스드모아와 그 초원과
+📖 **시편 17:13**
+> 여호와여 일어나 그를 대항하여 넘어뜨리시고 주의 칼로 악인에게서 나의 영혼을 구원하소서
 
-🕊️ _업데이트 시각: 2025-08-13 13:47:43 KST_
+🕊️ _업데이트 시각: 2025-08-13 13:59:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
