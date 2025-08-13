@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한일서 3:21**
-> 사랑하는 자들아 만일 우리 마음이 우리를 책망할 것이 없으면 하나님 앞에서 담대함을 얻고
+📖 **욥기 37:17**
+> 땅이 고요할 때에 남풍으로 말미암아 그대의 의복이 따뜻한 까닭을 그대가 아느냐
 
-🕊️ _업데이트 시각: 2025-08-13 23:58:54 KST_
+🕊️ _업데이트 시각: 2025-08-14 00:16:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
