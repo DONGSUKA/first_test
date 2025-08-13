@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 4:6**
-> 이르되 이 모든 권위와 그 영광을 내가 네게 주리라 이것은 내게 넘겨 준 것이므로 내가 원하는 자에게 주노라
+📖 **역대상 10:11**
+> 길르앗야베스 모든 사람이 블레셋 사람들이 사울에게 행한 모든 일을 듣고
 
-🕊️ _업데이트 시각: 2025-08-14 05:54:15 KST_
+🕊️ _업데이트 시각: 2025-08-14 06:08:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
