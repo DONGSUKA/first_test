@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 107:43**
-> 지혜 있는 자들은 이러한 일들을 지켜 보고 여호와의 인자하심을 깨달으리로다
+📖 **이사야 23:4**
+> 시돈이여 너는 부끄러워할지어다 대저 바다 곧 바다의 요새가 말하기를 나는 산고를 겪지 못하였으며 출산하지 못하였으며 청년들을 양육하지도 못하였으며 처녀들을 생육하지도 못하였다 하였음이라
 
-🕊️ _업데이트 시각: 2025-08-13 20:46:30 KST_
+🕊️ _업데이트 시각: 2025-08-13 20:52:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
