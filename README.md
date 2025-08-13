@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 19:35**
-> 서기장이 무리를 진정시키고 이르되 에베소 사람들아 에베소 시가 큰 아데미와 제우스에게서 내려온 우상의 신전지기가 된 줄을 누가알지 못하겠느냐
+📖 **사도행전 19:13**
+> 이에 돌아다니며 마술하는 어떤 유대인들이 시험삼아 악귀 들린 자들에게 주 예수의 이름을 불러 말하되 내가 바울이 전파하는 예수를의지하여 너희에게 명하노라 하더라
 
-🕊️ _업데이트 시각: 2025-08-13 18:00:44 KST_
+🕊️ _업데이트 시각: 2025-08-13 18:26:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
