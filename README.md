@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 49:28**
-> 이들은 이스라엘의 열두 지파라 이와 같이 그들의 아버지가 그들에게 말하고 그들에게 축복하였으니 곧 그들 각 사람의 분량대로 축복하였더라
+📖 **창세기 37:19**
+> 서로 이르되 꿈 꾸는 자가 오는도다
 
-🕊️ _업데이트 시각: 2025-08-14 06:38:09 KST_
+🕊️ _업데이트 시각: 2025-08-14 06:45:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
