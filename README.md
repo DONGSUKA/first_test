@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 13:25**
-> 그가 예수의 가슴에 그대로 의지하여 말하되 주여 누구니이까
+📖 **예레미야 7:34**
+> 그 때에 내가 유다 성읍들과 예루살렘 거리에 기뻐하는 소리, 즐거워하는 소리, 신랑의 소리, 신부의 소리가 끊어지게 하리니 땅이 황폐하리라
 
-🕊️ _업데이트 시각: 2025-08-13 12:10:51 KST_
+🕊️ _업데이트 시각: 2025-08-13 12:56:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
