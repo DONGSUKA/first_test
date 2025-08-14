@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 29:14**
-> 나와 내 백성이 무엇이기에 이처럼 즐거운 마음으로 드릴 힘이 있었나이까 모든 것이 주께로 말미암았사오니 우리가 주의 손에서 받은것으로 주께 드렸을 뿐이니이다
+📖 **욥기 41:14**
+> 누가 그것의 턱을 벌릴 수 있겠느냐 그의 둥근 이틀은 심히 두렵구나
 
-🕊️ _업데이트 시각: 2025-08-14 18:22:42 KST_
+🕊️ _업데이트 시각: 2025-08-14 18:40:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
