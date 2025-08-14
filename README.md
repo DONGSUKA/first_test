@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 10:17**
-> 내가 내 목숨을 버리는 것은 그것을 내가 다시 얻기 위함이니 이로 말미암아 아버지께서 나를 사랑하시느니라
+📖 **역대하 32:33**
+> 히스기야가 그의 조상들과 함께 누우매 온 유다와 예루살렘 주민이 그를 다윗 자손의 묘실 중 높은 곳에 장사하여 그의 죽음에 그에게경의를 표하였더라 그의 아들 므낫세가 대신하여 왕이 되니라
 
-🕊️ _업데이트 시각: 2025-08-14 13:18:21 KST_
+🕊️ _업데이트 시각: 2025-08-14 13:46:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
