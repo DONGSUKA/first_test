@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 2:4**
-> 예수께서 이르시되 여자여 나와 무슨 상관이 있나이까 내 때가 아직 이르지 아니하였나이다
+📖 **로마서 16:3**
+> 너희는 그리스도 예수 안에서 나의 동역자들인 브리스가와 아굴라에게 문안하라
 
-🕊️ _업데이트 시각: 2025-08-15 02:56:30 KST_
+🕊️ _업데이트 시각: 2025-08-15 03:18:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
