@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 16:18**
-> 그는 여호와 앞 제단으로 나와서 그것을 위하여 속죄할지니 곧 그 수송아지의 피와 염소의 피를 가져다가 제단 귀퉁이 뿔들에 바르고
+📖 **마태복음 28:6**
+> 그가 여기 계시지 않고 그가 말씀 하시던 대로 살아나셨느니라 와서 그가 누우셨던 곳을 보라
 
-🕊️ _업데이트 시각: 2025-08-14 19:39:28 KST_
+🕊️ _업데이트 시각: 2025-08-14 19:52:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
