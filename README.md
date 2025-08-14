@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 89:24**
-> 나의 성실함과 인자함이 그와 함께 하리니 내 이름으로 말미암아 그의 뿔이 높아지리로다
+📖 **요한복음 11:48**
+> 만일 그를 이대로 두면 모든 사람이 그를 믿을 것이요 그리고 로마인들이 와서 우리 땅과 민족을 빼앗아 가리라 하니
 
-🕊️ _업데이트 시각: 2025-08-14 21:38:34 KST_
+🕊️ _업데이트 시각: 2025-08-14 22:21:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
