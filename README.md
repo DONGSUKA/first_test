@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 6:60**
-> 영생의 말씀 제자 중 여럿이 듣고 말하되 이 말씀은 어렵도다 누가 들을 수 있느냐 한대
+📖 **시편 89:24**
+> 나의 성실함과 인자함이 그와 함께 하리니 내 이름으로 말미암아 그의 뿔이 높아지리로다
 
-🕊️ _업데이트 시각: 2025-08-14 20:58:49 KST_
+🕊️ _업데이트 시각: 2025-08-14 21:38:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
