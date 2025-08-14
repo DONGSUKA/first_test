@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 5:25**
-> 사람이 와서 알리되 보소서 옥에 가두었던 사람들이 성전에 서서 백성을 가르치더이다 하니
+📖 **창세기 18:20**
+> 여호와께서 또 이르시되 소돔과 고모라에 대한 부르짖음이 크고 그 죄악이 심히 무거우니
 
-🕊️ _업데이트 시각: 2025-08-15 06:57:38 KST_
+🕊️ _업데이트 시각: 2025-08-15 07:14:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
