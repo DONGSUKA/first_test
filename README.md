@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:2**
-> 보니 아름답고 살진 일곱 암소가 강 가에서 올라와 갈밭에서 뜯어먹고
+📖 **신명기 11:26**
+> 내가 오늘 복과 저주를 너희 앞에 두나니
 
-🕊️ _업데이트 시각: 2025-08-15 06:28:07 KST_
+🕊️ _업데이트 시각: 2025-08-15 06:38:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
