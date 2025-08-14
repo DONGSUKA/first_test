@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 19:15**
-> 왕이 돌아와 요단에 이르매 유다 족속이 왕을 맞아 요단을 건너가게 하려고 길갈로 오니라
+📖 **잠언 17:16**
+> 미련한 자는 무지하거늘 손에 값을 가지고 지혜를 사려 함은 어찜인고
 
-🕊️ _업데이트 시각: 2025-08-15 01:54:54 KST_
+🕊️ _업데이트 시각: 2025-08-15 02:08:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
