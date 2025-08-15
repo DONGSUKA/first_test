@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:14**
-> 이것은 이상한 일이 아니니라 사탄도 자기를 광명의 천사로 가장하나니
+📖 **마태복음 26:27**
+> 또 잔을 가지사 감사 기도 하시고 그들에게 주시며 이르시되 너희가 다 이것을 마시라
 
-🕊️ _업데이트 시각: 2025-08-16 08:14:41 KST_
+🕊️ _업데이트 시각: 2025-08-16 08:30:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
