@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 28:7**
-> 그러나 너는 내가 네 귀와 모든 백성의 귀에 이르는 이 말을 잘 들으라
+📖 **창세기 2:16**
+> 여호와 하나님이 그 사람에게 명하여 이르시되 동산 각종 나무의 열매는 네가 임의로 먹되
 
-🕊️ _업데이트 시각: 2025-08-15 15:17:35 KST_
+🕊️ _업데이트 시각: 2025-08-15 15:47:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
