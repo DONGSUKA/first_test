@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 36:27**
-> 또 내 영을 너희 속에 두어 너희로 내 율례를 행하게 하리니 너희가 내 규례를 지켜 행할지라
+📖 **열왕기상 22:49**
+> 아합의 아들 아하시야가 여호사밧에게 이르되 내 종으로 당신의 종과 함께 배에 가게 하라 하나 여호사밧이 허락하지 아니하였더라
 
-🕊️ _업데이트 시각: 2025-08-15 16:32:25 KST_
+🕊️ _업데이트 시각: 2025-08-15 16:42:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
