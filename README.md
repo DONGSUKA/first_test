@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 10:35**
-> 그 날에 그 성읍을 취하고 칼날로 그것을 쳐서 그 중에 있는 모든 사람을 당일에 진멸하여 바쳤으니 라기스에 행한 것과 같았더라
+📖 **잠언 30:2**
+> 나는 다른 사람에게 비하면 짐승이라 내게는 사람의 총명이 있지 아니하니라
 
-🕊️ _업데이트 시각: 2025-08-16 06:13:14 KST_
+🕊️ _업데이트 시각: 2025-08-16 06:27:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
