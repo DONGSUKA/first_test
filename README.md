@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 17:16**
-> 그 다음은 시그리의 아들 아마시야니 그는 자기를 여호와께 즐거이 드린 자라 큰 용사 이십만 명을 거느렸고
+📖 **창세기 46:12**
+> 유다의 아들 곧 엘과 오난과 셀라와 베레스와 세라니 엘과 오난은 가나안 땅에서 죽었고 베레스의 아들은 헤스론과 하물이요
 
-🕊️ _업데이트 시각: 2025-08-16 04:31:40 KST_
+🕊️ _업데이트 시각: 2025-08-16 04:39:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
