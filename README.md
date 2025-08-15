@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 4:42**
-> 그 여자에게 말하되 이제 우리가 믿는 것은 네 말로 인함이 아니니 이는 우리가 친히 듣고 그가 참으로 세상의 구주신 줄 앎이라 하였더라
+📖 **열왕기상 13:18**
+> 그가 그 사람에게 이르되 나도 그대와 같은 선지자라 천사가 여호와의 말씀으로 내게 이르기를 그를 네 집으로 데리고 돌아가서 그에게 떡을 먹이고 물을 마시게 하라 하였느니라 하니 이는 그 사람을 속임이라
 
-🕊️ _업데이트 시각: 2025-08-16 00:35:26 KST_
+🕊️ _업데이트 시각: 2025-08-16 00:46:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
