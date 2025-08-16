@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 7:16**
-> 이는 내가 이미 이 성전을 택하고 거룩하게 하여 내 이름을 여기에 영원히 있게 하였음이라 내 눈과 내 마음이 항상 여기에 있으리라
+📖 **레위기 18:30**
+> 그러므로 너희는 내 명령을 지키고 너희가 들어가기 전에 행하던 가증한 풍속을 하나라도 따름으로 스스로 더럽히지 말라 나는 너희의하나님 여호와이니라
 
-🕊️ _업데이트 시각: 2025-08-16 21:16:48 KST_
+🕊️ _업데이트 시각: 2025-08-16 21:57:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
