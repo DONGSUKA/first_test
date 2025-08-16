@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 27:23**
-> 빌라도가 이르되 어찜이냐 무슨 악한 일을 하였느냐 그들이 더욱 소리 질러 이르되 십자가에 못 박혀야 하겠나이다 하는지라
+📖 **마태복음 11:6**
+> 누구든지 나로 말미암아 실족하지 아니하는 자는 복이 있도다 하시니라
 
-🕊️ _업데이트 시각: 2025-08-16 19:33:24 KST_
+🕊️ _업데이트 시각: 2025-08-16 19:44:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
