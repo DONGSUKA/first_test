@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 4:2**
-> 내가 선한 도리를 너희에게 전하노니 내 법을 떠나지 말라
+📖 **스가랴 1:15**
+> 안일한 여러 나라들 때문에 심히 진노하나니 나는 조금 노하였거늘 그들은 힘을 내어 고난을 더하였음이라
 
-🕊️ _업데이트 시각: 2025-08-17 05:58:44 KST_
+🕊️ _업데이트 시각: 2025-08-17 06:15:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
