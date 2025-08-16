@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:8**
-> 더러는 좋은 땅에 떨어지매 나서 백 배의 결실을 하였느니라 이 말씀을 하시고 외치시되 들을 귀 있는 자는 들을지어다
+📖 **미가 5:11**
+> 네 땅의 성읍들을 멸하며 네 모든 견고한 성을 무너뜨릴 것이며
 
-🕊️ _업데이트 시각: 2025-08-16 12:59:58 KST_
+🕊️ _업데이트 시각: 2025-08-16 13:25:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
