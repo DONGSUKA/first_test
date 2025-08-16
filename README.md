@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 7:17**
-> 증언하기를 네가 영원히 멜기세덱의 반차를 따르는 제사장이라 하였도다
+📖 **사무엘상 14:29**
+> 요나단이 이르되 내 아버지께서 이 땅을 곤란하게 하셨도다 보라 내가 이 꿀 조금을 맛보고도 내 눈이 이렇게 밝아졌거든
 
-🕊️ _업데이트 시각: 2025-08-17 07:07:48 KST_
+🕊️ _업데이트 시각: 2025-08-17 07:29:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
