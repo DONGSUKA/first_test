@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 21:25**
-> 주를 믿는 이방인에게는 우리가 우상의 제물과 피와 목매어 죽인 것과 음행을 피할 것을 결의하고 편지하였느니라 하니
+📖 **출애굽기 40:4**
+> 또 상을 들여놓고 그 위에 물품을 진설하고 등잔대를 들여놓아 불을 켜고
 
-🕊️ _업데이트 시각: 2025-08-17 07:59:02 KST_
+🕊️ _업데이트 시각: 2025-08-17 08:16:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
