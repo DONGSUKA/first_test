@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 14:9**
-> 또 다른 천사 곧 셋째가 그 뒤를 따라 큰 음성으로 이르되 만일 누구든지 짐승과 그의 우상에게 경배하고 이마에나 손에 표를 받으면
+📖 **민수기 31:24**
+> 너희는 일곱째 날에 옷을 빨아서 깨끗하게 한 후에 진영에 들어올지니라
 
-🕊️ _업데이트 시각: 2025-08-17 06:43:37 KST_
+🕊️ _업데이트 시각: 2025-08-17 06:49:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
