@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 38:7**
-> 그 때에 새벽 별들이 기뻐 노래하며 하나님의 아들들이 다 기뻐 소리를 질렀느니라
+📖 **빌립보서 3:19**
+> 그들의 마침은 멸망이요 그들의 신은 배요 그 영광은 그들의 부끄러움에 있고 땅의 일을 생각하는 자라
 
-🕊️ _업데이트 시각: 2025-08-16 23:13:38 KST_
+🕊️ _업데이트 시각: 2025-08-16 23:30:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
