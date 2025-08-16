@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **미가 5:11**
-> 네 땅의 성읍들을 멸하며 네 모든 견고한 성을 무너뜨릴 것이며
+📖 **시편 35:11**
+> 불의한 증인들이 일어나서 내가 알지 못하는 일로 내게 질문하며
 
-🕊️ _업데이트 시각: 2025-08-16 13:25:59 KST_
+🕊️ _업데이트 시각: 2025-08-16 13:44:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
