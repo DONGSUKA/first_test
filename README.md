@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌립보서 3:19**
-> 그들의 마침은 멸망이요 그들의 신은 배요 그 영광은 그들의 부끄러움에 있고 땅의 일을 생각하는 자라
+📖 **요한계시록 1:4**
+> 요한은 아시아에 있는 일곱 교회에 편지하노니 이제도 계시고 전에도 계셨고 장차 오실 이시며 그의 보좌 앞에 있는 일곱 영과
 
-🕊️ _업데이트 시각: 2025-08-16 23:30:45 KST_
+🕊️ _업데이트 시각: 2025-08-16 23:41:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
