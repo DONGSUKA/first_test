@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 31:24**
-> 너희는 일곱째 날에 옷을 빨아서 깨끗하게 한 후에 진영에 들어올지니라
+📖 **욥기 21:7**
+> 어찌하여 악인이 생존하고 장수하며 세력이 강하냐
 
-🕊️ _업데이트 시각: 2025-08-17 06:49:13 KST_
+🕊️ _업데이트 시각: 2025-08-17 06:54:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
