@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 11:7**
-> 그런즉 어떠하냐 이스라엘이 구하는 그것을 얻지 못하고 오직 택하심을 입은 자가 얻었고 그 남은 자들은 우둔하여졌느니라
+📖 **욥기 30:27**
+> 내 마음이 들끓어 고요함이 없구나 환난 날이 내게 임하였구나
 
-🕊️ _업데이트 시각: 2025-08-18 04:49:19 KST_
+🕊️ _업데이트 시각: 2025-08-18 04:55:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
