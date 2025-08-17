@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 22:7**
-> 부자는 가난한 자를 주관하고 빚진 자는 채주의 종이 되느니라
+📖 **누가복음 2:45**
+> 만나지 못하매 찾으면서 예루살렘에 돌아갔더니
 
-🕊️ _업데이트 시각: 2025-08-18 04:08:17 KST_
+🕊️ _업데이트 시각: 2025-08-18 04:22:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
