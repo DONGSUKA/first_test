@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 48:11**
-> 주의 심판으로 말미암아 시온 산은 기뻐하고 유다의 딸들은 즐거워할지어다
+📖 **민수기 33:8**
+> 하히롯 앞을 떠나 광야를 바라보고 바다 가운데를 지나 에담 광야로 사흘 길을 가서 마라에 진을 치고
 
-🕊️ _업데이트 시각: 2025-08-17 20:26:08 KST_
+🕊️ _업데이트 시각: 2025-08-17 20:33:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
