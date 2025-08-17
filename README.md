@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **유다서 1:17**
-> 훈계와 권면 사랑하는 자들아 너희는 우리 주 예수 그리스도의 사도들이 미리 한 말을 기억하라
+📖 **로마서 10:1**
+> 형제들아 내 마음에 원하는 바와 하나님께 구하는 바는 이스라엘을 위함이니 곧 그들로 구원을 받게 함이라
 
-🕊️ _업데이트 시각: 2025-08-18 01:57:11 KST_
+🕊️ _업데이트 시각: 2025-08-18 02:11:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
