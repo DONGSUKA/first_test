@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 15:21**
-> 내가 너를 악한 자의 손에서 건지며 무서운 자의 손에서 구원하리라
+📖 **역대상 1:42**
+> 에셀의 아들은 빌한과 사아완과 야아간이요 디산의 아들은 우스와 아란이더라
 
-🕊️ _업데이트 시각: 2025-08-17 18:58:20 KST_
+🕊️ _업데이트 시각: 2025-08-17 19:16:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
