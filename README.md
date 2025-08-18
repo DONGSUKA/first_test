@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 2:16**
-> 르우벤 진영에 속하여 계수된 군인의 총계는 십오만 천사백오십 명이라 그들은 제이대로 행진할지니라
+📖 **욥기 16:19**
+> 지금 나의 증인이 하늘에 계시고 나의 중보자가 높은 데 계시니라
 
-🕊️ _업데이트 시각: 2025-08-19 03:13:52 KST_
+🕊️ _업데이트 시각: 2025-08-19 03:45:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
