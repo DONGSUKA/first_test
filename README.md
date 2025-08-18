@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 29:21**
-> 야곱이 레아와 라헬을 아내로 맞다 야곱이 라반에게 이르되 내 기한이 찼으니 내 아내를 내게 주소서 내가 그에게 들어가겠나이다
+📖 **요한복음 1:22**
+> 또 말하되 누구냐 우리를 보낸 이들에게 대답하게 하라 너는 네게 대하여 무엇이라 하느냐
 
-🕊️ _업데이트 시각: 2025-08-19 05:42:42 KST_
+🕊️ _업데이트 시각: 2025-08-19 05:49:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
