@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 1:40**
-> 모든 백성이 그를 따라 올라와서 피리를 불며 크게 즐거워하므로 땅이 그들의 소리로 말미암아 갈라질 듯하니
+📖 **출애굽기 5:9**
+> 그 사람들의 노동을 무겁게 함으로 수고롭게 하여 그들로 거짓말을 듣지 않게 하라
 
-🕊️ _업데이트 시각: 2025-08-18 21:29:56 KST_
+🕊️ _업데이트 시각: 2025-08-18 22:10:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
