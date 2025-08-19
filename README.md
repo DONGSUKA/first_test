@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 8:12**
-> 솔로몬의 연설(대하 6:3-11) 그 때에 솔로몬이 이르되 여호와께서 캄캄한 데 계시겠다 말씀하셨사오나
+📖 **예레미야 37:11**
+> 예레미야를 붙잡아 가두다 갈대아인의 군대가 바로의 군대를 두려워하여 예루살렘에서 떠나매
 
-🕊️ _업데이트 시각: 2025-08-20 04:22:35 KST_
+🕊️ _업데이트 시각: 2025-08-20 04:29:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
