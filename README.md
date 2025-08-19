@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 6:5**
-> 종과 상전 종들아 두려워하고 떨며 성실한 마음으로 육체의 상전에게 순종하기를 그리스도께 하듯 하라
+📖 **누가복음 14:27**
+> 누구든지 자기 십자가를 지고 나를 따르지 않는 자도 능히 내 제자가 되지 못하리라
 
-🕊️ _업데이트 시각: 2025-08-19 18:43:14 KST_
+🕊️ _업데이트 시각: 2025-08-19 18:50:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
