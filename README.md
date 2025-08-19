@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 11:15**
-> 나의 사랑하는 자가 많은 악한 음모를 꾸미더니 나의 집에서 무엇을 하려느냐 거룩한 제물 고기로 네 재난을 피할 수 있겠느냐 그 때에 네가 기뻐하겠느냐
+📖 **에스라 8:22**
+> 이는 우리가 전에 왕에게 아뢰기를 우리 하나님의 손은 자기를 찾는 모든 자에게 선을 베푸시고 자기를 배반하는 모든 자에게는 권능과진노를 내리신다 하였으므로 길에서 적군을 막고 우리를 도울 보병과 마병을 왕에게 구하기를 부끄러워 하였음이라
 
-🕊️ _업데이트 시각: 2025-08-19 17:17:47 KST_
+🕊️ _업데이트 시각: 2025-08-19 17:42:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
