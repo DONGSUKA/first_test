@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 14:5**
-> 입할과 엘리수아와 엘벨렛과
+📖 **고린도후서 11:3**
+> 뱀이 그 간계로 하와를 미혹한 것 같이 너희 마음이 그리스도를 향하는 진실함과 깨끗함에서 떠나 부패할까 두려워하노라
 
-🕊️ _업데이트 시각: 2025-08-19 12:54:57 KST_
+🕊️ _업데이트 시각: 2025-08-19 13:12:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
