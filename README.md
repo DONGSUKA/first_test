@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 41:21**
-> 나무 제단과 성전의 문들 외전 문설주는 네모졌고 내전 전면에 있는 양식은 이러하니
+📖 **민수기 1:24**
+> 갓의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니
 
-🕊️ _업데이트 시각: 2025-08-19 23:58:52 KST_
+🕊️ _업데이트 시각: 2025-08-20 00:19:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
