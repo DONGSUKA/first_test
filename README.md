@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 33:33**
-> 홀하깃갓을 떠나 욧바다에 진을 치고
+📖 **시편 105:3**
+> 그의 거룩한 이름을 자랑하라 여호와를 구하는 자들은 마음이 즐거울지로다
 
-🕊️ _업데이트 시각: 2025-08-19 10:01:24 KST_
+🕊️ _업데이트 시각: 2025-08-19 11:42:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
