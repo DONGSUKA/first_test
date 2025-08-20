@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 3:6**
-> 새로 입교한 자도 말지니 교만하여져서 마귀를 정죄하는 그 정죄에 빠질까 함이요
+📖 **신명기 18:4**
+> 또 네가 처음 거둔 곡식과 포도주와 기름과 네가 처음 깎은 양털을 네가 그에게 줄 것이니
 
-🕊️ _업데이트 시각: 2025-08-21 02:15:53 KST_
+🕊️ _업데이트 시각: 2025-08-21 02:31:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
