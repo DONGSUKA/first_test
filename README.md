@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 27:6**
-> 리브가가 그의 아들 야곱에게 말하여 이르되 네 아버지가 네 형 에서에게 말씀하시는 것을 내가 들으니 이르시기를
+📖 **역대상 9:23**
+> 그들과 그들의 자손이 그 순차를 좇아 여호와의 성전 곧 성막 문을 지켰는데
 
-🕊️ _업데이트 시각: 2025-08-21 02:49:21 KST_
+🕊️ _업데이트 시각: 2025-08-21 02:55:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
