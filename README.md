@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 5:7**
-> 그들이 여호와께 정조를 지키지 아니하고 사생아를 낳았으니 그러므로 새 달이 그들과 그 기업을 함께 삼키리로다
+📖 **욥기 20:18**
+> 수고하여 얻은 것을 삼키지 못하고 돌려 주며 매매하여 얻은 재물로 즐거움을 삼지 못하리니
 
-🕊️ _업데이트 시각: 2025-08-21 07:57:35 KST_
+🕊️ _업데이트 시각: 2025-08-21 08:13:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
