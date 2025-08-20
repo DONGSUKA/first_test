@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 2:10**
-> 오직 하나님이 성령으로 이것을 우리에게 보이셨으니 성령은 모든 것 곧 하나님의 깊은 것까지도 통달하시느니라
+📖 **마태복음 26:51**
+> 예수와 함께 있던 자 중의 하나가 손을 펴 칼을 빼어 대제사장의 종을 쳐 그 귀를 떨어뜨리니
 
-🕊️ _업데이트 시각: 2025-08-21 07:08:36 KST_
+🕊️ _업데이트 시각: 2025-08-21 07:28:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
