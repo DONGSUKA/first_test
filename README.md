@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 16:8**
-> 너는 잔칫집에 들어가서 그들과 함께 앉아 먹거나 마시지 말라
+📖 **데살로니가후서 3:10**
+> 우리가 너희와 함께 있을 때에도 너희에게 명하기를 누구든지 일하기 싫어하거든 먹지도 말게 하라 하였더니
 
-🕊️ _업데이트 시각: 2025-08-21 05:10:14 KST_
+🕊️ _업데이트 시각: 2025-08-21 05:31:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
