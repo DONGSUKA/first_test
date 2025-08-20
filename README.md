@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 15:57**
-> 우리 주 예수 그리스도로 말미암아 우리에게 승리를 주시는 하나님께 감사하노니
+📖 **사사기 11:15**
+> 그에게 이르되 입다가 이같이 말하노라 이스라엘이 모압 땅과 암몬 자손의 땅을 점령하지 아니하였느니라
 
-🕊️ _업데이트 시각: 2025-08-21 00:52:31 KST_
+🕊️ _업데이트 시각: 2025-08-21 00:58:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
