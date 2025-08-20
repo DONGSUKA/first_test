@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 43:5**
-> 두려워하지 말라 내가 너와 함께 하여 네 자손을 동쪽에서부터 오게 하며 서쪽에서부터 너를 모을 것이며
+📖 **창세기 27:6**
+> 리브가가 그의 아들 야곱에게 말하여 이르되 네 아버지가 네 형 에서에게 말씀하시는 것을 내가 들으니 이르시기를
 
-🕊️ _업데이트 시각: 2025-08-21 02:42:15 KST_
+🕊️ _업데이트 시각: 2025-08-21 02:49:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
