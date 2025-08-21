@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 58:4**
-> 그들의 독은 뱀의 독 같으며 그들은 귀를 막은 귀머거리 독사 같으니
+📖 **역대하 9:22**
+> 솔로몬 왕의 재산과 지혜가 천하의 모든 왕들보다 큰지라
 
-🕊️ _업데이트 시각: 2025-08-21 20:14:45 KST_
+🕊️ _업데이트 시각: 2025-08-21 20:27:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
