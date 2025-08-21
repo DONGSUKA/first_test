@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 8:51**
-> 진실로 진실로 너희에게 이르노니 사람이 내 말을 지키면 영원히 죽음을 보지 아니하리라
+📖 **에스라 6:1**
+> 고레스의 조서와 다리오 왕의 명령 이에 다리오 왕이 조서를 내려 문서창고 곧 바벨론의 보물을 쌓아둔 보물전각에서 조사하게 하여
 
-🕊️ _업데이트 시각: 2025-08-22 08:26:04 KST_
+🕊️ _업데이트 시각: 2025-08-22 08:35:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
