@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 26:19**
-> 주 여호와께서 이같이 말씀하셨느니라 내가 너를 주민이 없는 성읍과 같이 황폐한 성읍이 되게 하고 깊은 바다가 네 위에 오르게 하며큰 물이 너를 덮게 할 때에
+📖 **느헤미야 13:3**
+> 백성이 이 율법을 듣고 곧 섞인 무리를 이스라엘 가운데에서 모두 분리하였느니라
 
-🕊️ _업데이트 시각: 2025-08-22 04:12:00 KST_
+🕊️ _업데이트 시각: 2025-08-22 04:24:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
