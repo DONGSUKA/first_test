@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 14:10**
-> 네가 어찌하여 네 형제를 비판하느냐 어찌하여 네 형제를 업신여기느냐 우리가 다 하나님의 심판대 앞에 서리라
+📖 **누가복음 10:11**
+> 너희 동네에서 우리 발에 묻은 먼지도 너희에게 떨어버리노라 그러나 하나님의 나라가 가까이 온 줄을 알라 하라
 
-🕊️ _업데이트 시각: 2025-08-21 20:49:10 KST_
+🕊️ _업데이트 시각: 2025-08-21 20:54:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
