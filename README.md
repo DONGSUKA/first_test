@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 55:18**
-> 나를 대적하는 자 많더니 나를 치는 전쟁에서 그가 내 생명을 구원하사 평안하게 하셨도다
+📖 **다니엘 11:25**
+> 그가 그의 힘을 떨치며 용기를 다하여 큰 군대를 거느리고 남방 왕을 칠 것이요 남방 왕도 심히 크고 강한 군대를 거느리고 맞아 싸울것이나 능히 당하지 못하리니 이는 그들이 계략을 세워 그를 침이니라
 
-🕊️ _업데이트 시각: 2025-08-22 16:43:39 KST_
+🕊️ _업데이트 시각: 2025-08-22 16:49:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
