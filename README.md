@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 24:29**
-> 여호수아와 엘르아살이 죽다 이 일 후에 여호와의 종 눈의 아들 여호수아가 백십 세에 죽으매
+📖 **사무엘하 11:9**
+> 그러나 우리아는 집으로 내려가지 아니하고 왕궁 문에서 그의 주의 모든 부하들과 더불어 잔지라
 
-🕊️ _업데이트 시각: 2025-08-23 18:49:26 KST_
+🕊️ _업데이트 시각: 2025-08-23 18:55:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
