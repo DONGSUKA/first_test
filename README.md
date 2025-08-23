@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 18:28**
-> 이는 성경으로써 예수는 그리스도라고 증언하여 공중 앞에서 힘있게 유대인의 말을 이김이러라
+📖 **신명기 18:2**
+> 그들이 그들의 형제 중에서 기업을 가지지 않을 것은 여호와께서 그들의 기업이 되심이니 그들에게 말씀하심 같으니라
 
-🕊️ _업데이트 시각: 2025-08-24 07:57:16 KST_
+🕊️ _업데이트 시각: 2025-08-24 08:12:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
