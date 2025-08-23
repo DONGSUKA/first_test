@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 20:21**
-> 에돔 왕이 이같이 이스라엘이 그의 영토로 지나감을 용납하지 아니하므로 이스라엘이 그들에게서 돌이키니라
+📖 **시편 102:2**
+> 나의 괴로운 날에 주의 얼굴을 내게서 숨기지 마소서 주의 귀를 내게 기울이사 내가 부르짖는 날에 속히 내게 응답하소서
 
-🕊️ _업데이트 시각: 2025-08-23 20:37:30 KST_
+🕊️ _업데이트 시각: 2025-08-23 20:43:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
