@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 79:5**
-> 여호와여 어느 때까지니이까 영원히 노하시리이까 주의 질투가 불붙듯 하시리이까
+📖 **출애굽기 28:32**
+> 두 어깨 사이에 머리 들어갈 구멍을 내고 그 주위에 갑옷 깃 같이 깃을 짜서 찢어지지 않게 하고
 
-🕊️ _업데이트 시각: 2025-08-23 17:35:54 KST_
+🕊️ _업데이트 시각: 2025-08-23 17:47:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
