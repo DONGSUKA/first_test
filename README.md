@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 28:2**
-> 보라 주께 있는 강하고 힘 있는 자가 쏟아지는 우박 같이, 파괴하는 광풍 같이, 큰 물이 넘침 같이 손으로 그 면류관을 땅에 던지리니
+📖 **열왕기상 21:22**
+> 또 네 집이 느밧의 아들 여로보암의 집처럼 되게 하고 아히야의 아들 바아사의 집처럼 되게 하리니 이는 네가 나를 노하게 하고 이스라엘이 범죄하게 한 까닭이니라 하셨고
 
-🕊️ _업데이트 시각: 2025-08-23 12:46:37 KST_
+🕊️ _업데이트 시각: 2025-08-23 12:55:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
