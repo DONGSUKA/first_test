@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 6:12**
-> 모세가 여호와 앞에 아뢰어 이르되 이스라엘 자손도 내 말을 듣지 아니하였거든 바로가 어찌 들으리이까 나는 입이 둔한 자니이다
+📖 **누가복음 5:8**
+> 시몬 베드로가 이를 보고 예수의 무릎 아래에 엎드려 이르되 주여 나를 떠나소서 나는 죄인이로소이다 하니
 
-🕊️ _업데이트 시각: 2025-08-23 13:32:40 KST_
+🕊️ _업데이트 시각: 2025-08-23 13:45:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
