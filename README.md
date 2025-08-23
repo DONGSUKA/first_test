@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 5:3**
-> 대저 음녀의 입술은 꿀을 떨어뜨리며 그의 입은 기름보다 미끄러우나
+📖 **출애굽기 14:26**
+> 여호와께서 모세에게 이르시되 네 손을 바다 위로 내밀어 물이 애굽 사람들과 그들의 병거들과 마병들 위에 다시 흐르게 하라 하시니
 
-🕊️ _업데이트 시각: 2025-08-24 03:20:21 KST_
+🕊️ _업데이트 시각: 2025-08-24 03:40:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
