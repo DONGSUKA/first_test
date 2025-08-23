@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 17:11**
-> 곧 그들이 네게 가르치는 율법의 뜻대로, 그들이 네게 말하는 판결대로 행할 것이요 그들이 네게 보이는 판결을 어겨 좌로나 우로나 치우치지 말 것이니라
+📖 **신명기 20:2**
+> 너희가 싸울 곳에 가까이 가면 제사장은 백성에게 나아가서 고하여 그들에게
 
-🕊️ _업데이트 시각: 2025-08-23 23:40:00 KST_
+🕊️ _업데이트 시각: 2025-08-23 23:45:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
