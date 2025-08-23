@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 16:7**
-> 또 내가 들으니 제단이 말하기를 그러하다 주 하나님 곧 전능하신 이시여 심판하시는 것이 참되시고 의로우시도다 하더라
+📖 **마태복음 10:27**
+> 내가 너희에게 어두운 데서 이르는 것을 광명한 데서 말하며 너희가 귓속말로 듣는 것을 집 위에서 전파하라
 
-🕊️ _업데이트 시각: 2025-08-24 05:56:45 KST_
+🕊️ _업데이트 시각: 2025-08-24 06:10:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
