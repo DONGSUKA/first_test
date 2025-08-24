@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:14**
-> 두아디라 시에 있는 자색 옷감 장사로서 하나님을 섬기는 루디아라 하는 한 여자가 말을 듣고 있을 때 주께서 그 마음을 열어 바울의말을 따르게 하신지라
+📖 **전도서 2:22**
+> 사람이 해 아래에서 행하는 모든 수고와 마음에 애쓰는 것이 무슨 소득이 있으랴
 
-🕊️ _업데이트 시각: 2025-08-24 15:53:31 KST_
+🕊️ _업데이트 시각: 2025-08-24 15:59:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
