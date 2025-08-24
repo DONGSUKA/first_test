@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 40:14**
-> 그가 또 현관을 측량하니 너비가 스무 척이요 현관 사방에 뜰이 있으며
+📖 **로마서 5:6**
+> 우리가 아직 연약할 때에 기약대로 그리스도께서 경건하지 않은 자를 위하여 죽으셨도다
 
-🕊️ _업데이트 시각: 2025-08-24 18:49:03 KST_
+🕊️ _업데이트 시각: 2025-08-24 18:55:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
