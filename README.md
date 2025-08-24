@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 13:1**
-> 바벨론에 대한 경고 아모스의 아들 이사야가 바벨론에 대하여 받은 경고라
+📖 **고린도전서 8:2**
+> 만일 누구든지 무엇을 아는 줄로 생각하면 아직도 마땅히 알 것을 알지 못하는 것이요
 
-🕊️ _업데이트 시각: 2025-08-24 22:56:15 KST_
+🕊️ _업데이트 시각: 2025-08-24 23:09:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
