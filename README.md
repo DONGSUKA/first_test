@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌립보서 1:2**
-> 하나님 우리 아버지와 주 예수 그리스도로부터 은혜와 평강이 너희에게 있을지어다
+📖 **열왕기하 15:29**
+> 이스라엘 왕 베가 때에 앗수르 왕 디글랏 빌레셀이 와서 이욘과 아벨벳 마아가와 야노아와 게데스와 하솔과 길르앗과 갈릴리와 납달리온 땅을 점령하고 그 백성을 사로잡아 앗수르로 옮겼더라
 
-🕊️ _업데이트 시각: 2025-08-25 07:49:07 KST_
+🕊️ _업데이트 시각: 2025-08-25 07:54:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
