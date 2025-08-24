@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 11:18**
-> 온 백성이 바알의 신당으로 가서 그 신당을 허물고 그 제단들과 우상들을 철저히 깨뜨리고 그 제단 앞에서 바알의 제사장 맛단을 죽이니라 제사장이 관리들을 세워 여호와의 성전을 수직하게 하고
+📖 **누가복음 4:18**
+> 주의 성령이 내게 임하셨으니 이는 가난한 자에게 복음을 전하게 하시려고 내게 기름을 부으시고 나를 보내사 포로 된 자에게 자유를, 눈 먼 자에게 다시 보게 함을 전파하며 눌린 자를 자유롭게 하고
 
-🕊️ _업데이트 시각: 2025-08-25 03:13:04 KST_
+🕊️ _업데이트 시각: 2025-08-25 03:37:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
