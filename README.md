@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 8:2**
-> 만일 누구든지 무엇을 아는 줄로 생각하면 아직도 마땅히 알 것을 알지 못하는 것이요
+📖 **사도행전 6:3**
+> 형제들아 너희 가운데서 성령과 지혜가 충만하여 칭찬 받는 사람 일곱을 택하라 우리가 이 일을 그들에게 맡기고
 
-🕊️ _업데이트 시각: 2025-08-24 23:09:26 KST_
+🕊️ _업데이트 시각: 2025-08-24 23:27:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
