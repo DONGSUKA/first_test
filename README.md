@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:55**
-> 애굽 온 땅이 굶주리매 백성이 바로에게 부르짖어 양식을 구하는지라 바로가 애굽 모든 백성에게 이르되 요셉에게 가서 그가 너희에게이르는 대로 하라 하니라
+📖 **여호수아 10:1**
+> 여호수아가 기브온을 구하다 그 때에 여호수아가 아이를 빼앗아 진멸하되 여리고와 그 왕에게 행한 것 같이 아이와 그 왕에게 행한 것과 또 기브온 주민이 이스라엘과 화친하여 그 중에 있다 함을 예루살렘 왕 아도니세덱이 듣고
 
-🕊️ _업데이트 시각: 2025-08-24 14:17:19 KST_
+🕊️ _업데이트 시각: 2025-08-24 14:33:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
