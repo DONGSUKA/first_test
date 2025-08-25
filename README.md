@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 10:9**
-> 너희 전대에 금이나 은이나 동을 가지지 말고
+📖 **사무엘하 14:12**
+> 여인이 이르되 청하건대 당신의 여종을 용납하여 한 말씀을 내 주 왕께 여쭙게 하옵소서 하니 그가 이르되 말하라 하니라
 
-🕊️ _업데이트 시각: 2025-08-25 18:58:41 KST_
+🕊️ _업데이트 시각: 2025-08-25 19:19:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
