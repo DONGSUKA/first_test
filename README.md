@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 35:8**
-> 너희가 이스라엘 자손의 소유에서 레위인에게 너희가 성읍을 줄 때에 많이 받은 자에게서는 많이 떼어서 주고 적게 받은 자에게서는 적게떼어 줄 것이라 각기 받은 기업을 따라서 그 성읍들을 레위인에게 줄지니라
+📖 **예레미야 41:10**
+> 미스바에 남아 있는 왕의 딸들과 모든 백성 곧 사령관 느부사라단이 아히감의 아들 그다랴에게 위임하였던 바 미스바에 남아 있는 모든 백성을 이스마엘이 사로잡되 곧 느다냐의 아들 이스마엘이 그들을 사로잡고 암몬 자손에게로 가려고 떠나니라
 
-🕊️ _업데이트 시각: 2025-08-26 02:29:18 KST_
+🕊️ _업데이트 시각: 2025-08-26 02:39:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
