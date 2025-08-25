@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 4:10**
-> 너는 음식물을 달아서 하루 이십 세겔씩 때를 따라 먹고
+📖 **에스라 3:10**
+> 건축자가 여호와의 성전의 기초를 놓을 때에 제사장들은 예복을 입고 나팔을 들고 아삽 자손 레위 사람들은 제금을 들고 서서 이스라엘왕 다윗의 규례대로 여호와를 찬송하되
 
-🕊️ _업데이트 시각: 2025-08-26 07:42:29 KST_
+🕊️ _업데이트 시각: 2025-08-26 07:49:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
