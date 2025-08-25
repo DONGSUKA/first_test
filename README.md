@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 14:21**
-> 인자는 자기에 대하여 기록된 대로 가거니와 인자를 파는 그 사람에게는 화가 있으리로다 그 사람은 차라리 나지 아니하였더라면 자기에게 좋을 뻔하였느니라 하시니라
+📖 **사무엘상 4:2**
+> 블레셋 사람들이 이스라엘에 대하여 전열을 벌이니라 그 둘이 싸우다가 이스라엘이 블레셋 사람들 앞에서 패하여 그들에게 전쟁에서 죽임을 당한 군사가 사천 명 가량이라
 
-🕊️ _업데이트 시각: 2025-08-26 03:45:05 KST_
+🕊️ _업데이트 시각: 2025-08-26 03:55:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
