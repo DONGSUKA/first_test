@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 11:27**
-> 이 두 왕이 마음에 서로 해하고자 하여 한 밥상에 앉았을 때에 거짓말을 할 것이라 일이 형통하지 못하리니 이는 아직 때가 이르지 아니하였으므로 그 일이 이루어지지 아니할 것임이니라
+📖 **누가복음 7:20**
+> 그들이 예수께 나아가 이르되 세례 요한이 우리를 보내어 당신께 여쭈어 보라고 하기를 오실 그이가 당신이오니이까 우리가 다른 이를기다리오리이까 하더이다 하니
 
-🕊️ _업데이트 시각: 2025-08-26 06:36:42 KST_
+🕊️ _업데이트 시각: 2025-08-26 06:43:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
