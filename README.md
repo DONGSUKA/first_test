@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 90:9**
-> 우리의 모든 날이 주의 분노 중에 지나가며 우리의 평생이 순식간에 다하였나이다
+📖 **에스라 9:2**
+> 그들의 딸을 맞이하여 아내와 며느리로 삼아 거룩한 자손이 그 지방 사람들과 서로 섞이게 하는데 방백들과 고관들이 이 죄에 더욱 으뜸이되었다 하는지라
 
-🕊️ _업데이트 시각: 2025-08-27 05:30:19 KST_
+🕊️ _업데이트 시각: 2025-08-27 05:41:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
