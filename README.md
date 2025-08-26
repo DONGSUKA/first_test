@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 9:12**
-> 이 봉사의 직무가 성도들의 부족한 것을 보충할 뿐 아니라 사람들이 하나님께 드리는 많은 감사로 말미암아 넘쳤느니라
+📖 **역대상 13:2**
+> 다윗이 이스라엘의 온 회중에게 이르되 만일 너희가 좋게 여기고 또 우리의 하나님 여호와께로 말미암았으면 우리가 이스라엘 온 땅에 남아 있는 우리 형제와 또 초원이 딸린 성읍에 사는 제사장과 레위 사람에게 전령을 보내 그들을 우리에게로 모이게 하고
 
-🕊️ _업데이트 시각: 2025-08-27 01:55:59 KST_
+🕊️ _업데이트 시각: 2025-08-27 02:09:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
