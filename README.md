@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 4:21**
-> 예수께서 이르시되 여자여 내 말을 믿으라 이 산에서도 말고 예루살렘에서도 말고 너희가 아버지께 예배할 때가 이르리라
+📖 **역대상 3:4**
+> 이 여섯은 헤브론에서 낳았더라 다윗이 거기서 칠 년 육 개월 다스렸고 또 예루살렘에서 삼십삼 년 다스렸으며
 
-🕊️ _업데이트 시각: 2025-08-26 20:49:18 KST_
+🕊️ _업데이트 시각: 2025-08-26 20:55:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
