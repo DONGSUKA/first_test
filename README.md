@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 38:28**
-> 천칠백칠십오 세겔로 기둥 갈고리를 만들고 기둥 머리를 싸고 기둥 가름대를 만들었으며
+📖 **역대상 6:61**
+> 그핫 자손의 남은 자에게는 절반 지파 즉 므낫세 반 지파 종족 중에서 제비 뽑아 열 성읍을 주었고
 
-🕊️ _업데이트 시각: 2025-08-27 06:59:25 KST_
+🕊️ _업데이트 시각: 2025-08-27 07:17:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
