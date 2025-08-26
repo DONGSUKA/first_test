@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 6:13**
-> 내가 자녀에게 말하듯 하노니 보답하는 것으로 너희도 마음을 넓히라
+📖 **누가복음 4:34**
+> 아 나사렛 예수여 우리가 당신과 무슨 상관이 있나이까 우리를 멸하러 왔나이까 나는 당신이 누구인 줄 아노니 하나님의 거룩한 자니이다
 
-🕊️ _업데이트 시각: 2025-08-26 23:31:39 KST_
+🕊️ _업데이트 시각: 2025-08-26 23:44:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
