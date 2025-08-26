@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 23:7**
-> 이것이 옛날에 건설된 너희 희락의 성 곧 그 백성이 자기 발로 먼 지방까지 가서 머물던 성읍이냐
+📖 **로마서 10:20**
+> 이사야는 매우 담대하여 내가 나를 찾지 아니한 자들에게 찾은 바 되고 내게 묻지 아니한 자들에게 나타났노라 말하였고
 
-🕊️ _업데이트 시각: 2025-08-27 03:52:57 KST_
+🕊️ _업데이트 시각: 2025-08-27 03:58:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
