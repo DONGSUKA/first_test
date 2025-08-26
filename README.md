@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 17:11**
-> 불의로 치부하는 자는 자고새가 낳지 아니한 알을 품음 같아서 그의 중년에 그것이 떠나겠고 마침내 어리석은 자가 되리라
+📖 **스가랴 1:15**
+> 안일한 여러 나라들 때문에 심히 진노하나니 나는 조금 노하였거늘 그들은 힘을 내어 고난을 더하였음이라
 
-🕊️ _업데이트 시각: 2025-08-27 08:40:01 KST_
+🕊️ _업데이트 시각: 2025-08-27 08:45:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
