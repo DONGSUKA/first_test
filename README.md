@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 9:41**
-> 베드로가 손을 내밀어 일으키고 성도들과 과부들을 불러 들여 그가 살아난 것을 보이니
+📖 **누가복음 10:15**
+> 가버나움아 네가 하늘에까지 높아지겠느냐 음부에까지 낮아지리라
 
-🕊️ _업데이트 시각: 2025-08-26 16:16:40 KST_
+🕊️ _업데이트 시각: 2025-08-26 16:31:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
