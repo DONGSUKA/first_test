@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 14:16**
-> 제자들이 나가 성내로 들어가서 예수께서 하시던 말씀대로 만나 유월절 음식을 준비하니라
+📖 **민수기 13:8**
+> 에브라임 지파에서는 눈의 아들 호세아요
 
-🕊️ _업데이트 시각: 2025-08-27 01:35:25 KST_
+🕊️ _업데이트 시각: 2025-08-27 01:48:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
