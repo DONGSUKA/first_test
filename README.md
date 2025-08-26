@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 31:1**
-> 내가 내 눈과 약속하였나니 어찌 처녀에게 주목하랴
+📖 **느헤미야 6:3**
+> 내가 곧 그들에게 사자들을 보내어 이르기를 내가 이제 큰 역사를 하니 내려가지 못하겠노라 어찌하여 역사를 중지하게 하고 너희에게로내려가겠느냐 하매
 
-🕊️ _업데이트 시각: 2025-08-26 13:00:25 KST_
+🕊️ _업데이트 시각: 2025-08-26 13:26:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
