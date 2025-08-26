@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 3:4**
-> 이 여섯은 헤브론에서 낳았더라 다윗이 거기서 칠 년 육 개월 다스렸고 또 예루살렘에서 삼십삼 년 다스렸으며
+📖 **잠언 28:24**
+> 부모의 물건을 도둑질하고서도 죄가 아니라 하는 자는 멸망 받게 하는 자의 동류니라
 
-🕊️ _업데이트 시각: 2025-08-26 20:55:01 KST_
+🕊️ _업데이트 시각: 2025-08-26 21:18:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
