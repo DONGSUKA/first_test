@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:65**
-> 그 여러 민족 중에서 네가 평안함을 얻지 못하며 네 발바닥이 쉴 곳도 얻지 못하고 여호와께서 거기에서 네 마음을 떨게 하고 눈을 쇠하게 하고 정신을 산란하게 하시리니
+📖 **에스라 5:3**
+> 그 때에 유브라데 강 건너편 총독 닷드내와 스달보스내와 그들의 동관들이 다 나아와 그들에게 이르되 누가 너희에게 명령하여 이 성전을건축하고 이 성곽을 마치게 하였느냐 하기로
 
-🕊️ _업데이트 시각: 2025-08-26 14:44:21 KST_
+🕊️ _업데이트 시각: 2025-08-26 14:50:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
