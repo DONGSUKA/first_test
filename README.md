@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 49:4**
-> 패역한 딸아 어찌하여 골짜기 곧 네 흐르는 골짜기를 자랑하느냐 네가 어찌하여 재물을 의뢰하여 말하기를 누가 내게 대적하여 오리요하느냐
+📖 **로마서 12:17**
+> 아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라
 
-🕊️ _업데이트 시각: 2025-08-26 23:51:06 KST_
+🕊️ _업데이트 시각: 2025-08-26 23:57:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
