@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 18:5**
-> 그들이 그 땅을 일곱 부분으로 나누되 유다는 남쪽 자기 지역에 있고 요셉의 족속은 북쪽에 있는 그들의 지역에 있으니
+📖 **에스겔 24:22**
+> 너희가 에스겔이 행한 바와 같이 행하여 입술을 가리지 아니하며 사람의 음식물을 먹지 아니하며
 
-🕊️ _업데이트 시각: 2025-08-28 06:29:13 KST_
+🕊️ _업데이트 시각: 2025-08-28 06:36:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
