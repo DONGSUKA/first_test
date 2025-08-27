@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 7:24**
-> 내가 너희에게 이르노니 제사장들이나 레위 사람들이나 노래하는 자들이나 문지기들이나 느디님 사람들이나 혹 하나님의 성전에서 일하는자들에게 조공과 관세와 통행세를 받는 것이 옳지 않으니라 하였노라
+📖 **신명기 28:67**
+> 네 마음의 두려움과 눈이 보는 것으로 말미암아 아침에는 이르기를 아하 저녁이 되었으면 좋겠다 할 것이요 저녁에는 이르기를 아하 아침이 되었으면 좋겠다 하리라
 
-🕊️ _업데이트 시각: 2025-08-28 03:16:32 KST_
+🕊️ _업데이트 시각: 2025-08-28 03:40:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
