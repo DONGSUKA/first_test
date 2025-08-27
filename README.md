@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 14:12**
-> 여인이 이르되 청하건대 당신의 여종을 용납하여 한 말씀을 내 주 왕께 여쭙게 하옵소서 하니 그가 이르되 말하라 하니라
+📖 **잠언 18:14**
+> 사람의 심령은 그의 병을 능히 이기려니와 심령이 상하면 그것을 누가 일으키겠느냐
 
-🕊️ _업데이트 시각: 2025-08-28 08:31:44 KST_
+🕊️ _업데이트 시각: 2025-08-28 08:39:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
