@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한일서 1:1**
-> 생명의 말씀 태초부터 있는 생명의 말씀에 관하여는 우리가 들은 바요 눈으로 본 바요 자세히 보고 우리의 손으로 만진 바라
+📖 **레위기 7:7**
+> 속죄제와 속건제는 규례가 같으니 그 제물은 속죄하는 제사장에게로 돌아갈 것이요
 
-🕊️ _업데이트 시각: 2025-08-27 23:50:20 KST_
+🕊️ _업데이트 시각: 2025-08-27 23:56:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
