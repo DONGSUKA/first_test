@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 21:22**
-> 성 안에서 내가 성전을 보지 못하였으니 이는 주 하나님 곧 전능하신 이와 및 어린 양이 그 성전이심이라
+📖 **여호수아 18:5**
+> 그들이 그 땅을 일곱 부분으로 나누되 유다는 남쪽 자기 지역에 있고 요셉의 족속은 북쪽에 있는 그들의 지역에 있으니
 
-🕊️ _업데이트 시각: 2025-08-28 06:17:27 KST_
+🕊️ _업데이트 시각: 2025-08-28 06:29:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
