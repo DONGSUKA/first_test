@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **골로새서 1:21**
-> 전에 악한 행실로 멀리 떠나 마음으로 원수가 되었던 너희를
+📖 **누가복음 6:37**
+> 비판하지 말라 그리하면 너희가 비판을 받지 않을 것이요 정죄하지 말라 그리하면 너희가 정죄를 받지 않을 것이요 용서하라 그리하면너희가 용서를 받을 것이요
 
-🕊️ _업데이트 시각: 2025-08-27 13:50:58 KST_
+🕊️ _업데이트 시각: 2025-08-27 13:56:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
