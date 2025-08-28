@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 14:43**
-> 돌을 빼내며 집을 긁고 고쳐 바른 후에 색점이 집에 재발하면
+📖 **고린도전서 16:16**
+> 이같은 사람들과 또 함께 일하며 수고하는 모든 사람에게 순종하라
 
-🕊️ _업데이트 시각: 2025-08-28 22:34:47 KST_
+🕊️ _업데이트 시각: 2025-08-28 22:46:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
