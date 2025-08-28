@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 8:17**
-> 자녀이면 또한 상속자 곧 하나님의 상속자요 그리스도와 함께 한 상속자니 우리가 그와 함께 영광을 받기 위하여 고난도 함께 받아야 할것이니라
+📖 **창세기 18:18**
+> 아브라함은 강대한 나라가 되고 천하 만민은 그로 말미암아 복을 받게 될 것이 아니냐
 
-🕊️ _업데이트 시각: 2025-08-28 17:37:21 KST_
+🕊️ _업데이트 시각: 2025-08-28 17:50:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
