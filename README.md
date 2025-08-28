@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 21:24**
-> 예수께서 대답하시되 나도 한 말을 너희에게 물으리니 너희가 대답하면 나도 무슨 권위로 이런 일을 하는지 이르리라
+📖 **예레미야 2:7**
+> 내가 너희를 기름진 땅에 인도하여 그것의 열매와 그것의 아름다운 것을 먹게 하였거늘 너희가 이리로 들어와서는 내 땅을 더럽히고 내기업을 역겨운 것으로 만들었으며
 
-🕊️ _업데이트 시각: 2025-08-28 12:53:18 KST_
+🕊️ _업데이트 시각: 2025-08-28 12:58:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
