@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 15:7**
-> 너희가 내 안에 거하고 내 말이 너희 안에 거하면 무엇이든지 원하는 대로 구하라 그리하면 이루리라
+📖 **마태복음 25:42**
+> 내가 주릴 때에 너희가 먹을 것을 주지 아니하였고 목마를 때에 마시게 하지 아니하였고
 
-🕊️ _업데이트 시각: 2025-08-28 18:58:40 KST_
+🕊️ _업데이트 시각: 2025-08-28 19:17:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
