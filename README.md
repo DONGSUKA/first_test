@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 5:19**
-> 아들의 권한 그러므로 예수께서 그들에게 이르시되 내가 진실로 진실로 너희에게 이르노니 아들이 아버지께서 하시는 일을 보지 않고는아무 것도 스스로 할 수 없나니 아버지께서 행하시는 그것을 아들도 그와 같이 행하느니라
+📖 **요한복음 13:36**
+> 베드로가 부인할 것을 이르시다(마 26:31-35; 막 14:27-31; 눅 22:31-34) 시몬 베드로가 이르되 주여 어디로 가시나이까 예수께서 대답하시되 내가 가는 곳에 네가 지금은 따라올 수 없으나 후에는 따라오리라
 
-🕊️ _업데이트 시각: 2025-08-29 04:44:18 KST_
+🕊️ _업데이트 시각: 2025-08-29 04:49:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
