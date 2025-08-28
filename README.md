@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스바냐 1:3**
-> 내가 사람과 짐승을 진멸하고 공중의 새와 바다의 고기와 거치게 하는 것과 악인들을 아울러 진멸할 것이라 내가 사람을 땅 위에서 멸절하리라 나 여호와의 말이니라
+📖 **이사야 63:15**
+> 자비와 사랑을 구하는 기도 주여 하늘에서 굽어 살피시며 주의 거룩하고 영화로운 처소에서 보옵소서 주의 열성과 주의 능하신 행동이이제 어디 있나이까 주께서 베푸시던 간곡한 자비와 사랑이 내게 그쳤나이다
 
-🕊️ _업데이트 시각: 2025-08-28 13:53:49 KST_
+🕊️ _업데이트 시각: 2025-08-28 13:59:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
