@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 3:13**
-> 그의 아들은 아하스요 그의 아들은 히스기야요 그의 아들은 므낫세요
+📖 **사도행전 1:1**
+> 성령으로 세례를 받으리라 데오빌로여 내가 먼저 쓴 글에는 무릇 예수께서 행하시며 가르치시기를 시작하심부터
 
-🕊️ _업데이트 시각: 2025-08-29 08:47:30 KST_
+🕊️ _업데이트 시각: 2025-08-29 08:53:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
