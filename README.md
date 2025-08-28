@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 11:7**
-> 이에 여호수아가 모든 군사와 함께 메롬 물 가로 가서 갑자기 습격할 때에
+📖 **출애굽기 22:16**
+> 도덕에 관한 법 사람이 약혼하지 아니한 처녀를 꾀어 동침하였으면 납폐금을 주고 아내로 삼을 것이요
 
-🕊️ _업데이트 시각: 2025-08-28 16:49:48 KST_
+🕊️ _업데이트 시각: 2025-08-28 16:55:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
