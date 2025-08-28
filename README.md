@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 31:25**
-> 이는 내가 그 피곤한 심령을 상쾌하게 하며 모든 연약한 심령을 만족하게 하였음이라 하시기로
+📖 **사무엘상 15:11**
+> 내가 사울을 왕으로 세운 것을 후회하노니 그가 돌이켜서 나를 따르지 아니하며 내 명령을 행하지 아니하였음이니라 하신지라 사무엘이 근심하여 온 밤을 여호와께 부르짖으니라
 
-🕊️ _업데이트 시각: 2025-08-28 18:41:38 KST_
+🕊️ _업데이트 시각: 2025-08-28 18:47:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
