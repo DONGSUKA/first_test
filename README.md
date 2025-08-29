@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 18:2**
-> 그러나 이스라엘 자손 중에 그 기업의 분배를 받지 못한 자가 아직도 일곱 지파라
+📖 **민수기 34:15**
+> 이 두 지파와 그 반 지파는 여리고 맞은편 요단 건너편 곧 해 돋는 쪽에서 그들의 기업을 받으리라
 
-🕊️ _업데이트 시각: 2025-08-30 07:29:21 KST_
+🕊️ _업데이트 시각: 2025-08-30 07:38:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
