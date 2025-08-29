@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 28:3**
-> 하나님이 내게 이르시되 너는 전쟁을 많이 한 사람이라 피를 많이 흘렸으니 내 이름을 위하여 성전을 건축하지 못하리라 하셨느니라
+📖 **창세기 13:10**
+> 이에 롯이 눈을 들어 요단 지역을 바라본즉 소알까지 온 땅에 물이 넉넉하니 여호와께서 소돔과 고모라를 멸하시기 전이었으므로 여호와의 동산 같고 애굽 땅과 같았더라
 
-🕊️ _업데이트 시각: 2025-08-30 08:45:29 KST_
+🕊️ _업데이트 시각: 2025-08-30 08:51:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
