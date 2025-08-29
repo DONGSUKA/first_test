@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 10:9**
-> 이는 내가 편지들로 너희를 놀라게 하려는 것 같이 생각하지 않게 함이라
+📖 **레위기 7:7**
+> 속죄제와 속건제는 규례가 같으니 그 제물은 속죄하는 제사장에게로 돌아갈 것이요
 
-🕊️ _업데이트 시각: 2025-08-30 02:48:59 KST_
+🕊️ _업데이트 시각: 2025-08-30 02:55:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
