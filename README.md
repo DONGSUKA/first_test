@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 27:7**
-> 다윗이 블레셋 사람들의 지방에 산 날 수는 일 년 사 개월이었더라
+📖 **시편 68:10**
+> 주의 회중을 그 가운데에 살게 하셨나이다 하나님이여 주께서 가난한 자를 위하여 주의 은택을 준비하셨나이다
 
-🕊️ _업데이트 시각: 2025-08-30 04:33:32 KST_
+🕊️ _업데이트 시각: 2025-08-30 04:40:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
