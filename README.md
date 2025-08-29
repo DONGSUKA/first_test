@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 13:10**
-> 이에 롯이 눈을 들어 요단 지역을 바라본즉 소알까지 온 땅에 물이 넉넉하니 여호와께서 소돔과 고모라를 멸하시기 전이었으므로 여호와의 동산 같고 애굽 땅과 같았더라
+📖 **예레미야 38:19**
+> 시드기야 왕이 예레미야에게 이르되 나는 갈대아인에게 항복한 유다인을 두려워하노라 염려하건대 갈대아인이 나를 그들의 손에 넘기면 그들이 나를 조롱할까 하노라 하는지라
 
-🕊️ _업데이트 시각: 2025-08-30 08:51:25 KST_
+🕊️ _업데이트 시각: 2025-08-30 08:57:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
