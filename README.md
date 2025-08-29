@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 31:19**
-> 주를 두려워하는 자를 위하여 쌓아 두신 은혜 곧 주께 피하는 자를 위하여 인생 앞에 베푸신 은혜가 어찌 그리 큰지요
+📖 **요한일서 5:16**
+> 누구든지 형제가 사망에 이르지 아니하는 죄 범하는 것을 보거든 구하라 그리하면 사망에 이르지 아니하는 범죄자들을 위하여 그에게생명을 주시리라 사망에 이르는 죄가 있으니 이에 관하여 나는 구하라 하지 않노라
 
-🕊️ _업데이트 시각: 2025-08-29 20:37:05 KST_
+🕊️ _업데이트 시각: 2025-08-29 20:42:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
