@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 24:27**
-> 네 일을 밖에서 다스리며 너를 위하여 밭에서 준비하고 그 후에 네 집을 세울지니라
+📖 **에스겔 30:24**
+> 내가 바벨론 왕의 팔을 견고하게 하고 내 칼을 그 손에 넘겨 주려니와 내가 바로의 팔을 꺾으리니 그가 바벨론 왕 앞에서 고통하기를 죽게 상한 자의 고통하듯 하리라
 
-🕊️ _업데이트 시각: 2025-08-30 15:53:20 KST_
+🕊️ _업데이트 시각: 2025-08-30 15:58:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
