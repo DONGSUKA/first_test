@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 1:9**
-> 사탄이 여호와께 대답하여 이르되 욥이 어찌 까닭 없이 하나님을 경외하리이까
+📖 **역대상 2:13**
+> 이새는 맏아들 엘리압과 둘째로 아비나답과 셋째로 시므아와
 
-🕊️ _업데이트 시각: 2025-08-30 16:50:25 KST_
+🕊️ _업데이트 시각: 2025-08-30 16:56:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
