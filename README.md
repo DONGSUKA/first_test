@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 4:11**
-> 또한 그들이 손으로 너를 받들어 네 발이 돌에 부딪치지 않게 하시리라 하였느니라
+📖 **시편 13:1**
+> 다윗의 시, 인도자를 따라 부르는 노래 여호와여 어느 때까지니이까 나를 영원히 잊으시나이까 주의 얼굴을 나에게서 어느 때까지 숨기시겠나이까
 
-🕊️ _업데이트 시각: 2025-08-30 22:44:45 KST_
+🕊️ _업데이트 시각: 2025-08-30 22:50:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
