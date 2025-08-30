@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 8:13**
-> 다윗이 소금 골짜기에서 에돔 사람 만 팔천 명을 쳐죽이고 돌아와서 명성을 떨치니라
+📖 **에스겔 21:10**
+> 그 칼이 날카로움은 죽임을 위함이요 빛남은 번개 같이 되기 위함이니 우리가 즐거워하겠느냐 내 아들의 규가 모든 나무를 업신여기는도다
 
-🕊️ _업데이트 시각: 2025-08-30 16:38:30 KST_
+🕊️ _업데이트 시각: 2025-08-30 16:44:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
