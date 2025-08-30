@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 20:6**
-> 그 날에 이 해변 주민이 말하기를 우리가 믿던 나라 곧 우리가 앗수르 왕에게서 벗어나기를 바라고 달려가서 도움을 구하던 나라가 이같이 되었은즉 우리가 어찌 능히 피하리요 하리라
+📖 **사무엘하 7:7**
+> 이스라엘 자손과 더불어 다니는 모든 곳에서 내가 내 백성 이스라엘을 먹이라고 명령한 이스라엘 어느 지파들 가운데 하나에게 내가 말하기를 너희가 어찌하여 나를 위하여 백향목 집을 건축하지 아니하였느냐고 말하였느냐
 
-🕊️ _업데이트 시각: 2025-08-31 03:39:20 KST_
+🕊️ _업데이트 시각: 2025-08-31 03:48:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
