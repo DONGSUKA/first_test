@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 7:42**
-> 또 그 그물들을 위하여 만든 바 매 그물에 두 줄씩으로 기둥 위의 공 같은 두 머리를 가리게 한 석류 사백 개와
+📖 **시편 144:1**
+> 다윗의 시 나의 반석이신 여호와를 찬송하리로다 그가 내 손을 가르쳐 싸우게 하시며 손가락을 가르쳐 전쟁하게 하시는도다
 
-🕊️ _업데이트 시각: 2025-08-30 20:40:05 KST_
+🕊️ _업데이트 시각: 2025-08-30 20:46:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
