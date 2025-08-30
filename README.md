@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 32:26**
-> 우리의 어린 아이들과 아내와 양 떼와 모든 가축은 이곳 길르앗 성읍들에 두고
+📖 **사무엘하 8:13**
+> 다윗이 소금 골짜기에서 에돔 사람 만 팔천 명을 쳐죽이고 돌아와서 명성을 떨치니라
 
-🕊️ _업데이트 시각: 2025-08-30 16:31:33 KST_
+🕊️ _업데이트 시각: 2025-08-30 16:38:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
