@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 2:13**
-> 이새는 맏아들 엘리압과 둘째로 아비나답과 셋째로 시므아와
+📖 **전도서 1:13**
+> 마음을 다하며 지혜를 써서 하늘 아래에서 행하는 모든 일을 연구하며 살핀즉 이는 괴로운 것이니 하나님이 인생들에게 주사 수고하게 하신 것이라
 
-🕊️ _업데이트 시각: 2025-08-30 16:56:03 KST_
+🕊️ _업데이트 시각: 2025-08-30 17:12:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
