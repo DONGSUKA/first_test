@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 6:26**
-> 죄를 위하여 제사 드리는 제사장이 그것을 먹되 곧 회막 뜰 거룩한 곳에서 먹을 것이며
+📖 **이사야 14:8**
+> 향나무와 레바논의 백향목도 너로 말미암아 기뻐하여 이르기를 네가 넘어져 있은즉 올라와서 우리를 베어 버릴 자 없다 하는도다
 
-🕊️ _업데이트 시각: 2025-08-30 19:29:18 KST_
+🕊️ _업데이트 시각: 2025-08-30 19:38:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
