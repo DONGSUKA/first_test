@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 9:25**
-> 솔로몬의 병거 메는 말의 외양간은 사천이요 마병은 만 이천 명이라 병거성에도 두고 예루살렘 왕에게도 두었으며
+📖 **창세기 31:40**
+> 내가 이와 같이 낮에는 더위와 밤에는 추위를 무릅쓰고 눈 붙일 겨를도 없이 지냈나이다
 
-🕊️ _업데이트 시각: 2025-08-30 13:19:53 KST_
+🕊️ _업데이트 시각: 2025-08-30 13:35:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
