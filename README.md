@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 20:6**
-> 그 날에 이 해변 주민이 말하기를 우리가 믿던 나라 곧 우리가 앗수르 왕에게서 벗어나기를 바라고 달려가서 도움을 구하던 나라가 이같이 되었은즉 우리가 어찌 능히 피하리요 하리라
+📖 **말라기 2:15**
+> 그에게는 영이 충만하였으나 오직 하나를 만들지 아니하셨느냐 어찌하여 하나만 만드셨느냐 이는 경건한 자손을 얻고자 하심이라 그러므로 네 심령을 삼가 지켜 어려서 맞이한 아내에게 거짓을 행하지 말지니라
 
-🕊️ _업데이트 시각: 2025-08-31 02:33:16 KST_
+🕊️ _업데이트 시각: 2025-08-31 02:39:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
