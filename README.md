@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 1:13**
-> 마음을 다하며 지혜를 써서 하늘 아래에서 행하는 모든 일을 연구하며 살핀즉 이는 괴로운 것이니 하나님이 인생들에게 주사 수고하게 하신 것이라
+📖 **열왕기하 6:23**
+> 왕이 위하여 음식을 많이 베풀고 그들이 먹고 마시매 놓아보내니 그들이 그들의 주인에게로 돌아가니라 이로부터 아람 군사의 부대가다시는 이스라엘 땅에 들어오지 못하니라
 
-🕊️ _업데이트 시각: 2025-08-30 17:12:40 KST_
+🕊️ _업데이트 시각: 2025-08-30 17:32:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
