@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 13:55**
-> 이는 그 목수의 아들이 아니냐 그 어머니는 마리아, 그 형제들은 야고보, 요셉, 시몬, 유다라 하지 않느냐
+📖 **사도행전 7:20**
+> 그 때에 모세가 났는데 하나님 보시기에 아름다운지라 그의 아버지의 집에서 석 달 동안 길리더니
 
-🕊️ _업데이트 시각: 2025-08-30 21:25:45 KST_
+🕊️ _업데이트 시각: 2025-08-30 21:55:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
