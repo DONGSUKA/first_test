@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 19:6**
-> 동시에 제사장은 백향목과 우슬초와 홍색 실을 가져다가 암송아지를 사르는 불 가운데에 던질 것이며
+📖 **욥기 28:7**
+> 그 길은 솔개도 알지 못하고 매의 눈도 보지 못하며
 
-🕊️ _업데이트 시각: 2025-08-30 13:55:55 KST_
+🕊️ _업데이트 시각: 2025-08-30 14:09:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
