@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:86**
-> 주의 모든 계명들은 신실하니이다 그들이 이유 없이 나를 핍박하오니 나를 도우소서
+📖 **고린도후서 5:13**
+> 우리가 만일 미쳤어도 하나님을 위한 것이요 정신이 온전하여도 너희를 위한 것이니
 
-🕊️ _업데이트 시각: 2025-09-01 08:32:14 KST_
+🕊️ _업데이트 시각: 2025-09-01 08:40:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
