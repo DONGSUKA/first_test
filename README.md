@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 4:1**
-> 순금 등잔대와 두 감람나무 내게 말하던 천사가 다시 와서 나를 깨우니 마치 자는 사람이 잠에서 깨어난 것 같더라
+📖 **열왕기상 8:32**
+> 주는 하늘에서 들으시고 행하시되 주의 종들을 심판하사 악한 자의 죄를 정하여 그 행위대로 그 머리에 돌리시고 공의로운 자를 의롭다하사 그의 의로운 바대로 갚으시옵소서
 
-🕊️ _업데이트 시각: 2025-09-01 04:20:01 KST_
+🕊️ _업데이트 시각: 2025-09-01 04:26:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
