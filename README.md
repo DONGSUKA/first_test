@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 11:33**
-> 깊도다 하나님의 지혜와 지식의 풍성함이여, 그의 판단은 헤아리지 못할 것이며 그의 길은 찾지 못할 것이로다
+📖 **창세기 42:21**
+> 그들이 서로 말하되 우리가 아우의 일로 말미암아 범죄하였도다 그가 우리에게 애걸할 때에 그 마음의 괴로움을 보고도 듣지 아니하였으므로 이 괴로움이 우리에게 임하도다
 
-🕊️ _업데이트 시각: 2025-08-31 16:42:50 KST_
+🕊️ _업데이트 시각: 2025-08-31 16:49:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
