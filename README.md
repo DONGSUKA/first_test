@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 12:5**
-> 내가 이런 사람을 위하여 자랑하겠으나 나를 위하여는 약한 것들 외에 자랑하지 아니하리라
+📖 **역대상 3:16**
+> 여호야김의 아들들은 그의 아들 여고냐, 그의 아들 시드기야요
 
-🕊️ _업데이트 시각: 2025-08-31 22:40:23 KST_
+🕊️ _업데이트 시각: 2025-08-31 22:46:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
