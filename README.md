@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 20:12**
-> 누구든지 그의 며느리와 동침하거든 둘 다 반드시 죽일지니 그들이 가증한 일을 행하였음이라 그들의 피가 자기들에게로 돌아가리라
+📖 **출애굽기 17:1**
+> 반석에서 물이 나오다(민 20:1-13) 이스라엘 자손의 온 회중이 여호와의 명령대로 신 광야에서 떠나 그 노정대로 행하여 르비딤에 장막을 쳤으나 백성이 마실 물이 없는지라
 
-🕊️ _업데이트 시각: 2025-09-01 00:40:05 KST_
+🕊️ _업데이트 시각: 2025-09-01 00:46:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
