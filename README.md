@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 16:13**
-> 그러나 진리의 성령이 오시면 그가 너희를 모든 진리 가운데로 인도하시리니 그가 스스로 말하지 않고 오직 들은 것을 말하며 장래 일을 너희에게 알리시리라
+📖 **예레미야 17:16**
+> 나는 목자의 직분에서 물러가지 아니하고 주를 따랐사오며 재앙의 날도 내가 원하지 아니하였음을 주께서 아시는 바라 내 입술에서 나온 것이 주의 목전에 있나이다
 
-🕊️ _업데이트 시각: 2025-08-31 20:40:23 KST_
+🕊️ _업데이트 시각: 2025-08-31 20:46:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
