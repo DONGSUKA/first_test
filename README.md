@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 11:19**
-> 성 문지기는 악굽과 달몬과 그 형제이니 모두 백칠십이 명이며
+📖 **시편 72:11**
+> 모든 왕이 그의 앞에 부복하며 모든 민족이 다 그를 섬기리로다
 
-🕊️ _업데이트 시각: 2025-08-31 12:56:24 KST_
+🕊️ _업데이트 시각: 2025-08-31 13:13:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
