@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 43:24**
-> 나 여호와 앞에 받들어다가 제사장은 그 위에 소금을 쳐서 나 여호와께 번제로 드릴 것이며
+📖 **로마서 11:33**
+> 깊도다 하나님의 지혜와 지식의 풍성함이여, 그의 판단은 헤아리지 못할 것이며 그의 길은 찾지 못할 것이로다
 
-🕊️ _업데이트 시각: 2025-08-31 16:36:39 KST_
+🕊️ _업데이트 시각: 2025-08-31 16:42:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
