@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 18:3**
-> 제사장이 백성에게서 받을 몫은 이러하니 곧 그 드리는 제물의 소나 양이나 그 앞다리와 두 볼과 위라 이것을 제사장에게 줄 것이요
+📖 **열왕기하 21:7**
+> 또 자기가 만든 아로새긴 아세라 목상을 성전에 세웠더라 옛적에 여호와께서 이 성전에 대하여 다윗과 그의 아들 솔로몬에게 이르시기를 내가 이스라엘의 모든 지파 중에서 택한 이 성전과 예루살렘에 내 이름을 영원히 둘지라
 
-🕊️ _업데이트 시각: 2025-08-31 15:37:59 KST_
+🕊️ _업데이트 시각: 2025-08-31 15:49:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
