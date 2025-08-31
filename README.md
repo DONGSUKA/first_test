@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 14:6**
-> 그가 문으로 들어올 때에 아히야가 그 발소리를 듣고 말하되 여로보암의 아내여 들어오라 네가 어찌하여 다른 사람인 체하느냐 내가 명령을 받아 흉한 일을 네게 전하리니
+📖 **사무엘하 16:4**
+> 왕이 시바에게 이르되 므비보셋에게 있는 것이 다 네 것이니라 하니라 시바가 이르되 내가 절하나이다 내 주 왕이여 내가 왕 앞에서 은혜를 입게 하옵소서 하니라
 
-🕊️ _업데이트 시각: 2025-08-31 10:12:24 KST_
+🕊️ _업데이트 시각: 2025-08-31 11:45:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
