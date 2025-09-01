@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 96:6**
-> 존귀와 위엄이 그의 앞에 있으며 능력과 아름다움이 그의 성소에 있도다
+📖 **창세기 37:3**
+> 요셉은 노년에 얻은 아들이므로 이스라엘이 여러 아들들보다 그를 더 사랑하므로 그를 위하여 채색옷을 지었더니
 
-🕊️ _업데이트 시각: 2025-09-02 04:27:03 KST_
+🕊️ _업데이트 시각: 2025-09-02 04:35:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
