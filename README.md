@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 8:16**
-> 백성이 이에 나가서 나뭇가지를 가져다가 혹은 지붕 위에, 혹은 뜰 안에, 혹은 하나님의 전 뜰에, 혹은 수문 광장에, 혹은 에브라임문 광장에 초막을 짓되
+📖 **민수기 7:70**
+> 속죄제물로 숫염소 한 마리이며
 
-🕊️ _업데이트 시각: 2025-09-02 00:44:13 KST_
+🕊️ _업데이트 시각: 2025-09-02 00:50:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
