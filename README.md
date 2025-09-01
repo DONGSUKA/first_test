@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 23:25**
-> 내가 너를 향하여 질투하리니 그들이 분내어 네 코와 귀를 깎아 버리고 남은 자를 칼로 엎드러뜨리며 네 자녀를 빼앗고 그 남은 자를 불에 사르며
+📖 **욥기 39:20**
+> 네가 그것으로 메뚜기처럼 뛰게 하였느냐 그 위엄스러운 콧소리가 두려우니라
 
-🕊️ _업데이트 시각: 2025-09-01 18:13:22 KST_
+🕊️ _업데이트 시각: 2025-09-01 18:34:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
