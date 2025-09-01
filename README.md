@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:70**
-> 속죄제물로 숫염소 한 마리이며
+📖 **열왕기하 21:16**
+> 므낫세가 유다에게 범죄하게 하여 여호와께서 보시기에 악을 행한 것 외에도 또 무죄한 자의 피를 심히 많이 흘려 예루살렘 이 끝에서저 끝까지 가득하게 하였더라
 
-🕊️ _업데이트 시각: 2025-09-02 00:50:19 KST_
+🕊️ _업데이트 시각: 2025-09-02 00:56:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
