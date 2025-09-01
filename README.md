@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 39:6**
-> 내가 들을 그것의 집으로, 소금 땅을 그것이 사는 처소로 삼았느니라
+📖 **역대상 2:42**
+> 갈렙의 자손 여라므엘의 아우 갈렙의 아들 곧 맏아들은 메사이니 십의 아버지요 그 아들은 마레사니 헤브론의 아버지이며
 
-🕊️ _업데이트 시각: 2025-09-01 18:56:39 KST_
+🕊️ _업데이트 시각: 2025-09-01 19:14:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
