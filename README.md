@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 45:10**
-> 딸이여 듣고 보고 귀를 기울일지어다 네 백성과 네 아버지의 집을 잊어버릴지어다
+📖 **요한복음 7:39**
+> 이는 그를 믿는 자들이 받을 성령을 가리켜 말씀하신 것이라 (예수께서 아직 영광을 받지 않으셨으므로 성령이 아직 그들에게 계시지아니하시더라)
 
-🕊️ _업데이트 시각: 2025-09-01 22:49:12 KST_
+🕊️ _업데이트 시각: 2025-09-01 22:55:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
