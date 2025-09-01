@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 31:18**
-> 그 모은 바 모든 가축과 모든 소유물 곧 그가 밧단아람에서 모은 가축을 이끌고 가나안 땅에 있는 그의 아버지 이삭에게로 가려 할새
+📖 **출애굽기 40:22**
+> 그는 또 회막 안 곧 성막 북쪽으로 휘장 밖에 상을 놓고
 
-🕊️ _업데이트 시각: 2025-09-02 07:13:46 KST_
+🕊️ _업데이트 시각: 2025-09-02 07:30:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
