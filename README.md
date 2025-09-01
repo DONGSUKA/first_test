@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 11:34**
-> 불의 세력을 멸하기도 하며 칼날을 피하기도 하며 연약한 가운데서 강하게 되기도 하며 전쟁에 용감하게 되어 이방 사람들의 진을 물리치기도 하며
+📖 **시편 45:10**
+> 딸이여 듣고 보고 귀를 기울일지어다 네 백성과 네 아버지의 집을 잊어버릴지어다
 
-🕊️ _업데이트 시각: 2025-09-01 22:39:58 KST_
+🕊️ _업데이트 시각: 2025-09-01 22:49:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
