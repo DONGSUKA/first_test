@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 16:24**
-> 불러 이르되 아버지 아브라함이여 나를 긍휼히 여기사 나사로를 보내어 그 손가락 끝에 물을 찍어 내 혀를 서늘하게 하소서 내가 이불꽃 가운데서 괴로워하나이다
+📖 **누가복음 1:46**
+> 마리아의 찬가 마리아가 이르되 내 영혼이 주를 찬양하며
 
-🕊️ _업데이트 시각: 2025-09-01 15:58:52 KST_
+🕊️ _업데이트 시각: 2025-09-01 16:18:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
