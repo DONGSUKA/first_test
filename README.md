@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 5:2**
-> 근신을 지키며 네 입술로 지식을 지키도록 하라
+📖 **역대상 22:7**
+> 다윗이 솔로몬에게 이르되 내 아들아 나는 내 하나님 여호와의 이름을 위하여 성전을 건축할 마음이 있었으나
 
-🕊️ _업데이트 시각: 2025-09-02 07:58:34 KST_
+🕊️ _업데이트 시각: 2025-09-02 08:14:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
