@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 1:11**
-> 바울이 사도가 된 내력 형제들아 내가 너희에게 알게 하노니 내가 전한 복음은 사람의 뜻을 따라 된 것이 아니니라
+📖 **누가복음 16:24**
+> 불러 이르되 아버지 아브라함이여 나를 긍휼히 여기사 나사로를 보내어 그 손가락 끝에 물을 찍어 내 혀를 서늘하게 하소서 내가 이불꽃 가운데서 괴로워하나이다
 
-🕊️ _업데이트 시각: 2025-09-01 15:47:56 KST_
+🕊️ _업데이트 시각: 2025-09-01 15:58:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
