@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:21**
-> 애굽에서 큰 일을 행하신 그의 구원자 하나님을 그들이 잊었나니
+📖 **요한일서 2:25**
+> 그가 우리에게 약속하신 것은 이것이니 곧 영원한 생명이니라
 
-🕊️ _업데이트 시각: 2025-09-01 21:39:18 KST_
+🕊️ _업데이트 시각: 2025-09-01 22:15:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
