@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 7:11**
-> 이 여인은 떠들며 완악하며 그의 발이 집에 머물지 아니하여
+📖 **이사야 26:13**
+> 여호와 우리 하나님이시여 주 외에 다른 주들이 우리를 관할하였사오나 우리는 주만 의지하고 주의 이름을 부르리이다
 
-🕊️ _업데이트 시각: 2025-09-01 13:17:39 KST_
+🕊️ _업데이트 시각: 2025-09-01 13:42:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
