@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 44:12**
-> 그가 나이 많은 자에게서부터 시작하여 나이 적은 자에게까지 조사하매 그 잔이 베냐민의 자루에서 발견된지라
+📖 **역대하 13:14**
+> 유다 사람이 뒤를 돌아보고 자기 앞 뒤의 적병으로 말미암아 여호와께 부르짖고 제사장들은 나팔을 부니라
 
-🕊️ _업데이트 시각: 2025-09-02 14:34:53 KST_
+🕊️ _업데이트 시각: 2025-09-02 14:44:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
