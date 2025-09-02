@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 11:9**
-> 여호와께서 모세에게 이르시기를 바로가 너희의 말을 듣지 아니하리라 그러므로 내가 애굽 땅에서 나의 기적을 더하리라 하셨고
+📖 **역대상 4:19**
+> 나함의 누이인 호디야의 아내의 아들들은 가미 사람 그일라의 아버지와 마아가 사람 에스드모아며
 
-🕊️ _업데이트 시각: 2025-09-02 20:39:53 KST_
+🕊️ _업데이트 시각: 2025-09-02 20:45:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
