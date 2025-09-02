@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 25:10**
-> 이것은 아브라함이 헷 족속에게서 산 밭이라 아브라함과 그의 아내 사라가 거기 장사되니라
+📖 **시편 98:1**
+> 시 새 노래로 여호와께 찬송하라 그는 기이한 일을 행하사 그의 오른손과 거룩한 팔로 자기를 위하여 구원을 베푸셨음이로다
 
-🕊️ _업데이트 시각: 2025-09-03 06:43:24 KST_
+🕊️ _업데이트 시각: 2025-09-03 06:49:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
