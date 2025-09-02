@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 12:16**
-> 하여간 어떤 이의 말이 내가 너희에게 짐을 지우지는 아니하였을지라도 교활한 자가 되어 너희를 속임수로 취하였다 하니
+📖 **요한복음 14:1**
+> 내가 곧 길이요 진리요 생명이니 너희는 마음에 근심하지 말라 하나님을 믿으니 또 나를 믿으라
 
-🕊️ _업데이트 시각: 2025-09-02 14:50:18 KST_
+🕊️ _업데이트 시각: 2025-09-02 14:56:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
