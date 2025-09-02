@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 12:26**
-> 죽은 자가 살아난다는 것을 말할진대 너희가 모세의 책 중 가시나무 떨기에 관한 글에 하나님께서 모세에게 이르시되 나는 아브라함의하나님이요 이삭의 하나님이요 야곱의 하나님이로라 하신 말씀을 읽어보지 못하였느냐
+📖 **역대상 21:22**
+> 다윗이 오르난에게 이르되 이 타작하는 곳을 내게 넘기라 너는 상당한 값으로 내게 넘기라 내가 여호와를 위하여 여기 한 제단을 쌓으리니 그리하면 전염병이 백성 중에서 그치리라 하니
 
-🕊️ _업데이트 시각: 2025-09-02 22:04:32 KST_
+🕊️ _업데이트 시각: 2025-09-02 22:35:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
