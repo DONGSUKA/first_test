@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 9:36**
-> 소리가 그치매 오직 예수만 보이더라 제자들이 잠잠하여 그 본 것을 무엇이든지 그 때에는 아무에게도 이르지 아니하니라
+📖 **창세기 25:10**
+> 이것은 아브라함이 헷 족속에게서 산 밭이라 아브라함과 그의 아내 사라가 거기 장사되니라
 
-🕊️ _업데이트 시각: 2025-09-03 06:36:13 KST_
+🕊️ _업데이트 시각: 2025-09-03 06:43:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
