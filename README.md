@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 11:17**
-> 이르되 우리가 너희를 향하여 피리를 불어도 너희가 춤추지 않고 우리가 슬피 울어도 너희가 가슴을 치지 아니하였다 함과 같도다
+📖 **사무엘하 19:9**
+> 이스라엘 모든 지파 백성들이 변론하여 이르되 왕이 우리를 원수의 손에서 구원하여 내셨고 또 우리를 블레셋 사람들의 손에서 구원하셨으나 이제 압살롬을 피하여 그 땅에서 나가셨고
 
-🕊️ _업데이트 시각: 2025-09-02 15:45:42 KST_
+🕊️ _업데이트 시각: 2025-09-02 15:56:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
