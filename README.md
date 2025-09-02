@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 11:4**
-> 이 언약은 내가 너희 조상들을 쇠풀무 애굽 땅에서 이끌어내던 날에 그들에게 명령한 것이라 곧 내가 이르기를 너희는 내 목소리를 순종하고 나의 모든 명령을 따라 행하라 그리하면 너희는 내 백성이 되겠고 나는 너희의 하나님이 되리라
+📖 **역대하 18:7**
+> 이스라엘 왕이 여호사밧에게 이르되 아직도 이믈라의 아들 미가야 한 사람이 있으니 그로 말미암아 여호와께 물을 수 있으나 그는 내게대하여 좋은 일로는 예언하지 아니하고 항상 나쁜 일로만 예언하기로 내가 그를 미워하나이다 하더라 여호사밧이 이르되 왕은 그런 말씀을 마소서 하니
 
-🕊️ _업데이트 시각: 2025-09-03 04:19:44 KST_
+🕊️ _업데이트 시각: 2025-09-03 04:25:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
