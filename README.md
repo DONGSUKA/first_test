@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **골로새서 2:10**
-> 너희도 그 안에서 충만하여졌으니 그는 모든 통치자와 권세의 머리시라
+📖 **여호수아 19:40**
+> 단 자손의 기업 일곱째로 단 자손의 지파를 위하여 그들의 가족대로 제비를 뽑았으니
 
-🕊️ _업데이트 시각: 2025-09-02 19:45:41 KST_
+🕊️ _업데이트 시각: 2025-09-02 19:51:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
