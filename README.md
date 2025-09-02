@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:26**
-> 네 시체가 공중의 모든 새와 땅의 짐승들의 밥이 될 것이나 그것들을 쫓아줄 자가 없을 것이며
+📖 **시편 107:8**
+> 여호와의 인자하심과 인생에게 행하신 기적으로 말미암아 그를 찬송할지로다
 
-🕊️ _업데이트 시각: 2025-09-02 13:46:50 KST_
+🕊️ _업데이트 시각: 2025-09-02 13:53:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
