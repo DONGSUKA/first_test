@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 18:29**
-> 내가 주를 의뢰하고 적군을 향해 달리며 내 하나님을 의지하고 담을 뛰어넘나이다
+📖 **역대하 17:9**
+> 그들이 여호와의 율법책을 가지고 유다에서 가르치되 그 모든 유다 성읍들로 두루 다니며 백성들을 가르쳤더라
 
-🕊️ _업데이트 시각: 2025-09-03 16:42:05 KST_
+🕊️ _업데이트 시각: 2025-09-03 16:48:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
