@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 6:5**
-> 예수께서 눈을 들어 큰 무리가 자기에게로 오는 것을 보시고 빌립에게 이르시되 우리가 어디서 떡을 사서 이 사람들을 먹이겠느냐 하시니
+📖 **에스겔 21:28**
+> 인자야 너는 주 여호와께서 암몬 족속과 그의 능욕에 대하여 이같이 말씀하셨다고 예언하라 너는 이르기를 칼이 뽑히도다 칼이 뽑히도다죽이며 멸절하며 번개 같이 되기 위하여 빛났도다
 
-🕊️ _업데이트 시각: 2025-09-04 06:29:56 KST_
+🕊️ _업데이트 시각: 2025-09-04 06:36:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
