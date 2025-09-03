@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 13:33**
-> 또 비유로 말씀하시되 천국은 마치 여자가 가루 서 말 속에 갖다 넣어 전부 부풀게 한 누룩과 같으니라
+📖 **레위기 26:39**
+> 너희 남은 자가 너희의 원수들의 땅에서 자기의 죄로 말미암아 쇠잔하며 그 조상의 죄로 말미암아 그 조상 같이 쇠잔하리라
 
-🕊️ _업데이트 시각: 2025-09-04 00:53:10 KST_
+🕊️ _업데이트 시각: 2025-09-04 00:58:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
