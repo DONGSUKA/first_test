@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 4:9**
-> 두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라
+📖 **역대상 8:12**
+> 엘바알의 아들들은 에벨과 미삼과 세멧이니 그는 오노와 롯과 그 주변 마을들을 세웠고
 
-🕊️ _업데이트 시각: 2025-09-03 12:43:44 KST_
+🕊️ _업데이트 시각: 2025-09-03 12:50:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
