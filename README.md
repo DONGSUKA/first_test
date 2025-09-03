@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 12:15**
-> 바로의 고관들도 그를 보고 바로 앞에서 칭찬하므로 그 여인을 바로의 궁으로 이끌어들인지라
+📖 **이사야 30:19**
+> 시온에 거주하며 예루살렘에 거주하는 백성아 너는 다시 통곡하지 아니할 것이라 그가 네 부르짖는 소리로 말미암아 네게 은혜를 베푸시되 그가 들으실 때에 네게 응답하시리라
 
-🕊️ _업데이트 시각: 2025-09-03 13:44:12 KST_
+🕊️ _업데이트 시각: 2025-09-03 13:50:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
