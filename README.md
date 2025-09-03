@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 10:3**
-> 유다인 모르드개가 아하수에로 왕의 다음이 되고 유다인 중에 크게 존경받고 그의 허다한 형제에게 사랑을 받고 그의 백성의 이익을 도모하며 그의 모든 종족을 안위하였더라
+📖 **여호수아 21:24**
+> 아얄론과 그 목초지와 가드 림몬과 그 목초지이니 네 성읍이요
 
-🕊️ _업데이트 시각: 2025-09-04 06:09:00 KST_
+🕊️ _업데이트 시각: 2025-09-04 06:24:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
