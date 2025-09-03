@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 12:29**
-> 곁에 서서 들은 무리는 천둥이 울었다고도 하며 또 어떤 이들은 천사가 그에게 말하였다고도 하니
+📖 **잠언 11:6**
+> 정직한 자의 공의는 자기를 건지려니와 사악한 자는 자기의 악에 잡히리라
 
-🕊️ _업데이트 시각: 2025-09-04 07:36:00 KST_
+🕊️ _업데이트 시각: 2025-09-04 07:42:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
