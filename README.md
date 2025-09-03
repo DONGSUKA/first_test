@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 107:40**
-> 여호와께서 고관들에게는 능욕을 쏟아 부으시고 길 없는 황야에서 유리하게 하시나
+📖 **신명기 24:1**
+> 이혼과 재혼 사람이 아내를 맞이하여 데려온 후에 그에게 수치되는 일이 있음을 발견하고 그를 기뻐하지 아니하면 이혼 증서를 써서 그의손에 주고 그를 자기 집에서 내보낼 것이요
 
-🕊️ _업데이트 시각: 2025-09-04 08:27:01 KST_
+🕊️ _업데이트 시각: 2025-09-04 08:34:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
