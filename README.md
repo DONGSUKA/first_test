@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 27:19**
-> 워단과 야완은 길쌈하는 실로 네 물품을 거래하였음이여 가공한 쇠와 계피와 대나무 제품이 네 상품 중에 있었도다
+📖 **전도서 4:9**
+> 두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라
 
-🕊️ _업데이트 시각: 2025-09-03 12:29:23 KST_
+🕊️ _업데이트 시각: 2025-09-03 12:43:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
