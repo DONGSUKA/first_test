@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 13:1**
-> 지혜로운 아들은 아비의 훈계를 들으나 거만한 자는 꾸지람을 즐겨 듣지 아니하느니라
+📖 **마가복음 7:8**
+> 너희가 하나님의 계명은 버리고 사람의 전통을 지키느니라
 
-🕊️ _업데이트 시각: 2025-09-04 00:31:09 KST_
+🕊️ _업데이트 시각: 2025-09-04 00:41:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
