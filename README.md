@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 11:6**
-> 정직한 자의 공의는 자기를 건지려니와 사악한 자는 자기의 악에 잡히리라
+📖 **이사야 14:27**
+> 만군의 여호와께서 경영하셨은즉 누가 능히 그것을 폐하며 그의 손을 펴셨은즉 누가 능히 그것을 돌이키랴
 
-🕊️ _업데이트 시각: 2025-09-04 07:42:00 KST_
+🕊️ _업데이트 시각: 2025-09-04 07:48:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
