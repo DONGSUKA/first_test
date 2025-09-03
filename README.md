@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 2:14**
-> 아담이 속은 것이 아니고 여자가 속아 죄에 빠졌음이라
+📖 **역대상 1:1**
+> 아담에서 아브라함까지(창 5:1-32; 10:1-32; 11:10-26) 아담, 셋, 에노스,
 
-🕊️ _업데이트 시각: 2025-09-04 08:40:17 KST_
+🕊️ _업데이트 시각: 2025-09-04 08:46:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
