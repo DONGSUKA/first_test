@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 4:19**
-> 아모리 사람의 왕 시혼과 바산 왕 옥의 나라 길르앗 땅에는 우리의 아들 게벨이니 그 땅에서는 그 한 사람만 지방 관장이 되었더라
+📖 **예레미야 46:15**
+> 너희 장사들이 쓰러짐은 어찌함이냐 그들이 서지 못함은 여호와께서 그들을 몰아내신 까닭이니라
 
-🕊️ _업데이트 시각: 2025-09-04 05:09:41 KST_
+🕊️ _업데이트 시각: 2025-09-04 05:28:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
