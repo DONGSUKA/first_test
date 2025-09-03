@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 10:26**
-> 엘람 자손 중에서는 맛다냐와 스가랴와 여히엘과 압디와 여레못과 엘리야요
+📖 **민수기 33:11**
+> 홍해 가를 떠나 신 광야에 진을 치고
 
-🕊️ _업데이트 시각: 2025-09-04 03:58:40 KST_
+🕊️ _업데이트 시각: 2025-09-04 04:13:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
