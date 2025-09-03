@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 10:26**
-> 게으른 자는 그 부리는 사람에게 마치 이에 식초 같고 눈에 연기 같으니라
+📖 **사무엘상 26:10**
+> 다윗이 또 이르되 여호와께서 살아 계심을 두고 맹세하노니 여호와께서 그를 치시리니 혹은 죽을 날이 이르거나 또는 전장에 나가서망하리라
 
-🕊️ _업데이트 시각: 2025-09-03 14:37:52 KST_
+🕊️ _업데이트 시각: 2025-09-03 14:43:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
