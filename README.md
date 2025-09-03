@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 28:13**
-> 매 어린 양에는 고운 가루 십분의 일에 기름 섞은 소제를 향기로운 번제로 여호와께 화제를 드릴 것이며
+📖 **시편 33:2**
+> 수금으로 여호와께 감사하고 열 줄 비파로 찬송할지어다
 
-🕊️ _업데이트 시각: 2025-09-04 03:12:27 KST_
+🕊️ _업데이트 시각: 2025-09-04 03:36:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
