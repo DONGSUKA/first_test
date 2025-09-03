@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 19:29**
-> 또 내 이름을 위하여 집이나 형제나 자매나 부모나 자식이나 전토를 버린 자마다 여러 배를 받고 또 영생을 상속하리라
+📖 **에스겔 28:13**
+> 네가 옛적에 하나님의 동산 에덴에 있어서 각종 보석 곧 홍보석과 황보석과 금강석과 황옥과 홍마노와 창옥과 청보석과 남보석과 홍옥과황금으로 단장하였음이여 네가 지음을 받던 날에 너를 위하여 소고와 비파가 준비되었도다
 
-🕊️ _업데이트 시각: 2025-09-03 23:17:58 KST_
+🕊️ _업데이트 시각: 2025-09-03 23:34:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
