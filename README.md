@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 33:2**
-> 수금으로 여호와께 감사하고 열 줄 비파로 찬송할지어다
+📖 **욥기 22:7**
+> 목마른 자에게 물을 마시게 하지 아니하며 주린 자에게 음식을 주지 아니하였구나
 
-🕊️ _업데이트 시각: 2025-09-04 03:36:49 KST_
+🕊️ _업데이트 시각: 2025-09-04 03:46:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
