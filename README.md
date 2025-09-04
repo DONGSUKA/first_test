@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 45:8**
-> 왕의 모든 옷은 몰약과 침향과 육계의 향기가 있으며 상아궁에서 나오는 현악은 왕을 즐겁게 하도다
+📖 **시편 71:20**
+> 우리에게 여러 가지 심한 고난을 보이신 주께서 우리를 다시 살리시며 땅 깊은 곳에서 다시 이끌어 올리시리이다
 
-🕊️ _업데이트 시각: 2025-09-04 20:48:49 KST_
+🕊️ _업데이트 시각: 2025-09-04 20:54:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
