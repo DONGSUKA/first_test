@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 2:9**
-> 그러나 그를 무죄한 자로 여기지 말지어다 너는 지혜 있는 사람이므로 그에게 행할 일을 알지니 그의 백발이 피 가운데 스올에 내려가게하라
+📖 **신명기 28:67**
+> 네 마음의 두려움과 눈이 보는 것으로 말미암아 아침에는 이르기를 아하 저녁이 되었으면 좋겠다 할 것이요 저녁에는 이르기를 아하 아침이 되었으면 좋겠다 하리라
 
-🕊️ _업데이트 시각: 2025-09-04 14:29:21 KST_
+🕊️ _업데이트 시각: 2025-09-04 14:38:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
