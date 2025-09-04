@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 18:3**
-> 히스기야가 그의 조상 다윗의 모든 행위와 같이 여호와께서 보시기에 정직하게 행하여
+📖 **사도행전 8:31**
+> 대답하되 지도해 주는 사람이 없으니 어찌 깨달을 수 있느냐 하고 빌립을 청하여 수레에 올라 같이 앉으라 하니라
 
-🕊️ _업데이트 시각: 2025-09-05 08:44:35 KST_
+🕊️ _업데이트 시각: 2025-09-05 08:50:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
