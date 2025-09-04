@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 21:14**
-> 맹인과 저는 자들이 성전에서 예수께 나아오매 고쳐주시니
+📖 **출애굽기 4:29**
+> 모세와 아론이 가서 이스라엘 자손의 모든 장로를 모으고
 
-🕊️ _업데이트 시각: 2025-09-05 01:58:01 KST_
+🕊️ _업데이트 시각: 2025-09-05 02:12:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
