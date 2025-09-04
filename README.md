@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 10:12**
-> 만물의 조성자 만군의 여호와 여호와께서 그의 권능으로 땅을 지으셨고 그의 지혜로 세계를 세우셨고 그의 명철로 하늘을 펴셨으며
+📖 **출애굽기 16:29**
+> 볼지어다 여호와가 너희에게 안식일을 줌으로 여섯째 날에는 이틀 양식을 너희에게 주는 것이니 너희는 각기 처소에 있고 일곱째 날에는 아무도 그의 처소에서 나오지 말지니라
 
-🕊️ _업데이트 시각: 2025-09-04 18:30:43 KST_
+🕊️ _업데이트 시각: 2025-09-04 18:40:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
