@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 3:7**
-> 만일 그의 예물로 드리는 것이 어린 양이면 그것을 여호와 앞으로 끌어다가
+📖 **마태복음 11:25**
+> 짐 진 자들아 내게로 오라(눅 10:21-22) 그 때에 예수께서 대답하여 이르시되 천지의 주재이신 아버지여 이것을 지혜롭고 슬기 있는자들에게는 숨기시고 어린 아이들에게는 나타내심을 감사하나이다
 
-🕊️ _업데이트 시각: 2025-09-04 20:28:57 KST_
+🕊️ _업데이트 시각: 2025-09-04 20:36:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
