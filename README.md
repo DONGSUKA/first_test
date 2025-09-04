@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 15:11**
-> 잃은 아들을 되찾은 아버지 비유 또 이르시되 어떤 사람에게 두 아들이 있는데
+📖 **신명기 31:8**
+> 그리하면 여호와 그가 네 앞에서 가시며 너와 함께 하사 너를 떠나지 아니하시며 버리지 아니하시리니 너는 두려워하지 말라 놀라지 말라
 
-🕊️ _업데이트 시각: 2025-09-04 23:31:59 KST_
+🕊️ _업데이트 시각: 2025-09-04 23:43:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
