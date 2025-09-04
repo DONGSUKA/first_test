@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 3:7**
-> 만일 그의 예물로 드리는 것이 어린 양이면 그것을 여호와 앞으로 끌어다가
+📖 **욥기 42:12**
+> 여호와께서 욥의 말년에 욥에게 처음보다 더 복을 주시니 그가 양 만 사천과 낙타 육천과 소 천 겨리와 암나귀 천을 두었고
 
-🕊️ _업데이트 시각: 2025-09-04 14:56:25 KST_
+🕊️ _업데이트 시각: 2025-09-04 15:17:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
