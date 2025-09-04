@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 31:14**
-> 하나님이 일어나실 때에 내가 어떻게 하겠느냐 하나님이 심판하실 때에 내가 무엇이라 대답하겠느냐
+📖 **민수기 1:25**
+> 갓 지파에서 계수된 자는 사만 오천육백오십 명이었더라
 
-🕊️ _업데이트 시각: 2025-09-05 06:52:33 KST_
+🕊️ _업데이트 시각: 2025-09-05 06:58:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
