@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 16:29**
-> 볼지어다 여호와가 너희에게 안식일을 줌으로 여섯째 날에는 이틀 양식을 너희에게 주는 것이니 너희는 각기 처소에 있고 일곱째 날에는 아무도 그의 처소에서 나오지 말지니라
+📖 **이사야 8:9**
+> 여호와께서 깨우치시다 너희 민족들아 함성을 질러 보아라 그러나 끝내 패망하리라 너희 먼 나라 백성들아 들을지니라 너희 허리를 동이라그러나 끝내 패망하리라 너희 허리에 띠를 띠라 그러나 끝내 패망하리라
 
-🕊️ _업데이트 시각: 2025-09-04 18:40:25 KST_
+🕊️ _업데이트 시각: 2025-09-04 18:46:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
