@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 4:29**
-> 모세와 아론이 가서 이스라엘 자손의 모든 장로를 모으고
+📖 **고린도전서 15:55**
+> 사망아 너의 승리가 어디 있느냐 사망아 네가 쏘는 것이 어디 있느냐
 
-🕊️ _업데이트 시각: 2025-09-05 02:12:38 KST_
+🕊️ _업데이트 시각: 2025-09-05 02:28:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
