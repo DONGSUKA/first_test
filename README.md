@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 23:16**
-> 여호와께서 발람에게 임하사 그의 입에 말씀을 주시며 이르시되 발락에게로 돌아가서 이렇게 말할지니라
+📖 **열왕기상 7:22**
+> 그 두 기둥 꼭대기에는 백합화 형상이 있더라 두 기둥의 공사가 끝나니라
 
-🕊️ _업데이트 시각: 2025-09-04 11:24:10 KST_
+🕊️ _업데이트 시각: 2025-09-04 12:05:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
