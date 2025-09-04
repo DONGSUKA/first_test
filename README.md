@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 40:13**
-> 누가 여호와의 영을 지도하였으며 그의 모사가 되어 그를 가르쳤으랴
+📖 **출애굽기 39:36**
+> 상과 그 모든 기구와 진설병과
 
-🕊️ _업데이트 시각: 2025-09-04 18:58:08 KST_
+🕊️ _업데이트 시각: 2025-09-04 19:15:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
