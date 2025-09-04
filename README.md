@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 8:3**
-> 대제사장마다 예물과 제사 드림을 위하여 세운 자니 그러므로 그도 무엇인가 드릴 것이 있어야 할지니라
+📖 **욥기 31:14**
+> 하나님이 일어나실 때에 내가 어떻게 하겠느냐 하나님이 심판하실 때에 내가 무엇이라 대답하겠느냐
 
-🕊️ _업데이트 시각: 2025-09-05 06:46:30 KST_
+🕊️ _업데이트 시각: 2025-09-05 06:52:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
