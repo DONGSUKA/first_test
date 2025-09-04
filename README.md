@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 21:2**
-> 여호사밧의 아들 여호람의 아우들 아사랴와 여히엘과 스가랴와 아사랴와 미가엘과 스바댜는 다 유다 왕 여호사밧의 아들들이라
+📖 **마태복음 28:15**
+> 군인들이 돈을 받고 가르친 대로 하였으니 이 말이 오늘날까지 유대인 가운데 두루 퍼지니라
 
-🕊️ _업데이트 시각: 2025-09-05 04:52:00 KST_
+🕊️ _업데이트 시각: 2025-09-05 04:58:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
