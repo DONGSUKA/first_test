@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 40:12**
-> 수많은 재앙이 나를 둘러싸고 나의 죄악이 나를 덮치므로 우러러볼 수도 없으며 죄가 나의 머리털보다 많으므로 내가 낙심하였음이니이다
+📖 **호세아 11:8**
+> 에브라임이여 내가 어찌 너를 놓겠느냐 이스라엘이여 내가 어찌 너를 버리겠느냐 내가 어찌 너를 아드마 같이 놓겠느냐 어찌 너를 스보임같이 두겠느냐 내 마음이 내 속에서 돌이키어 나의 긍휼이 온전히 불붙듯 하도다
 
-🕊️ _업데이트 시각: 2025-09-04 19:43:07 KST_
+🕊️ _업데이트 시각: 2025-09-04 19:49:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
