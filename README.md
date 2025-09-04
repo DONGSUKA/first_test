@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 71:20**
-> 우리에게 여러 가지 심한 고난을 보이신 주께서 우리를 다시 살리시며 땅 깊은 곳에서 다시 이끌어 올리시리이다
+📖 **누가복음 13:9**
+> 이후에 만일 열매가 열면 좋거니와 그렇지 않으면 찍어버리소서 하였다 하시니라
 
-🕊️ _업데이트 시각: 2025-09-04 20:54:51 KST_
+🕊️ _업데이트 시각: 2025-09-04 21:16:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
