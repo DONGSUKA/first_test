@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **골로새서 4:4**
-> 그리하면 내가 마땅히 할 말로써 이 비밀을 나타내리라
+📖 **사무엘하 13:39**
+> 다윗 왕의 마음이 압살롬을 향하여 간절하니 암논은 이미 죽었으므로 왕이 위로를 받았음이더라
 
-🕊️ _업데이트 시각: 2025-09-05 12:50:03 KST_
+🕊️ _업데이트 시각: 2025-09-05 12:55:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
