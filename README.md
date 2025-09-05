@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 7:10**
-> 임마누엘의 징조 여호와께서 또 아하스에게 말씀하여 이르시되
+📖 **베드로전서 1:5**
+> 너희는 말세에 나타내기로 예비하신 구원을 얻기 위하여 믿음으로 말미암아 하나님의 능력으로 보호하심을 받았느니라
 
-🕊️ _업데이트 시각: 2025-09-06 04:55:01 KST_
+🕊️ _업데이트 시각: 2025-09-06 05:09:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
