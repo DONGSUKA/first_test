@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 19:1**
-> 호렙 산의 엘리야 아합이 엘리야가 행한 모든 일과 그가 어떻게 모든 선지자를 칼로 죽였는지를 이세벨에게 말하니
+📖 **고린도전서 14:37**
+> 만일 누구든지 자기를 선지자나 혹은 신령한 자로 생각하거든 내가 너희에게 편지하는 이 글이 주의 명령인 줄 알라
 
-🕊️ _업데이트 시각: 2025-09-05 12:06:44 KST_
+🕊️ _업데이트 시각: 2025-09-05 12:36:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
