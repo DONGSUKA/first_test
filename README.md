@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 20:26**
-> 그들이 백성 앞에서 그의 말을 능히 책잡지 못하고 그의 대답을 놀랍게 여겨 침묵하니라
+📖 **예레미야 30:10**
+> 여호와의 말씀이니라 그러므로 나의 종 야곱아 너는 두려워하지 말라 이스라엘아 놀라지 말라 내가 너를 먼 곳으로부터 구원하고 네자손을 잡혀가 있는 땅에서 구원하리니 야곱이 돌아와서 태평과 안락을 누릴 것이며 두렵게 할 자가 없으리라
 
-🕊️ _업데이트 시각: 2025-09-06 04:29:45 KST_
+🕊️ _업데이트 시각: 2025-09-06 04:36:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
