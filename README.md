@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 18:27**
-> 모세가 그의 장인을 보내니 그가 자기 땅으로 가니라
+📖 **사도행전 18:26**
+> 그가 회당에서 담대히 말하기 시작하거늘 브리스길라와 아굴라가 듣고 데려다가 하나님의 도를 더 정확하게 풀어 이르더라
 
-🕊️ _업데이트 시각: 2025-09-05 15:58:51 KST_
+🕊️ _업데이트 시각: 2025-09-05 16:16:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
