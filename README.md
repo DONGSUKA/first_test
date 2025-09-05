@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 18:19**
-> 여호와여 나를 돌아보사 나와 더불어 다투는 그들의 목소리를 들어 보옵소서
+📖 **잠언 2:2**
+> 네 귀를 지혜에 기울이며 네 마음을 명철에 두며
 
-🕊️ _업데이트 시각: 2025-09-06 00:43:01 KST_
+🕊️ _업데이트 시각: 2025-09-06 00:49:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
