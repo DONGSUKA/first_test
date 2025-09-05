@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 7:47**
-> 바리새인들이 대답하되 너희도 미혹되었느냐
+📖 **시편 148:10**
+> 짐승과 모든 가축과 기는 것과 나는 새며
 
-🕊️ _업데이트 시각: 2025-09-05 08:56:32 KST_
+🕊️ _업데이트 시각: 2025-09-05 09:54:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
