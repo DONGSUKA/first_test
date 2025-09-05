@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 10:24**
-> 여호와여 나를 징계하옵시되 너그러이 하시고 진노로 하지 마옵소서 주께서 내가 없어지게 하실까 두려워하나이다
+📖 **요한복음 21:4**
+> 날이 새어갈 때에 예수께서 바닷가에 서셨으나 제자들이 예수이신 줄 알지 못하는지라
 
-🕊️ _업데이트 시각: 2025-09-05 20:43:13 KST_
+🕊️ _업데이트 시각: 2025-09-05 20:49:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
