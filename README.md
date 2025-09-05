@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디도서 1:1**
-> 인사 하나님의 종이요 예수 그리스도의 사도인 나 바울이 사도 된 것은 하나님이 택하신 자들의 믿음과 경건함에 속한 진리의 지식과
+📖 **이사야 44:27**
+> 깊음에 대하여는 이르기를 마르라 내가 네 강물들을 마르게 하리라 하며
 
-🕊️ _업데이트 시각: 2025-09-06 03:59:09 KST_
+🕊️ _업데이트 시각: 2025-09-06 04:13:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
