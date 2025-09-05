@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 37:34**
-> 자기 옷을 찢고 굵은 베로 허리를 묶고 오래도록 그의 아들을 위하여 애통하니
+📖 **예레미야 8:17**
+> 여호와의 말씀이니라 내가 술법으로도 제어할 수 없는 뱀과 독사를 너희 가운데 보내리니 그것들이 너희를 물리라 하시도다
 
-🕊️ _업데이트 시각: 2025-09-06 00:27:54 KST_
+🕊️ _업데이트 시각: 2025-09-06 00:36:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
