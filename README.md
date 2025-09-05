@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 4:6**
-> 이에 우리가 성을 건축하여 전부가 연결되고 높이가 절반에 이르렀으니 이는 백성이 마음 들여 일을 하였음이니라
+📖 **베드로후서 3:11**
+> 이 모든 것이 이렇게 풀어지리니 너희가 어떠한 사람이 되어야 마땅하냐 거룩한 행실과 경건함으로
 
-🕊️ _업데이트 시각: 2025-09-05 15:43:26 KST_
+🕊️ _업데이트 시각: 2025-09-05 15:53:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
