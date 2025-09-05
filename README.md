@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 46:11**
-> 처녀 딸 애굽이여 길르앗으로 올라가서 유향을 취하라 네가 치료를 많이 받아도 효력이 없어 낫지 못하리라
+📖 **느헤미야 4:6**
+> 이에 우리가 성을 건축하여 전부가 연결되고 높이가 절반에 이르렀으니 이는 백성이 마음 들여 일을 하였음이니라
 
-🕊️ _업데이트 시각: 2025-09-05 15:18:10 KST_
+🕊️ _업데이트 시각: 2025-09-05 15:43:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
