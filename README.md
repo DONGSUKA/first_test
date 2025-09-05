@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 1:19**
-> 이익을 탐하는 모든 자의 길은 다 이러하여 자기의 생명을 잃게 하느니라
+📖 **열왕기하 9:16**
+> 예후가 병거를 타고 이스르엘로 가니 요람 왕이 거기에 누워 있었음이라 유다의 왕 아하시야는 요람을 보러 내려왔더라
 
-🕊️ _업데이트 시각: 2025-09-05 19:55:35 KST_
+🕊️ _업데이트 시각: 2025-09-05 20:08:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
