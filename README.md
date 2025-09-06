@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 2:21**
-> 대저 정직한 자는 땅에 거하며 완전한 자는 땅에 남아 있으리라
+📖 **욥기 20:9**
+> 그를 본 눈이 다시 그를 보지 못할 것이요 그의 처소도 다시 그를 보지 못할 것이며
 
-🕊️ _업데이트 시각: 2025-09-07 00:44:02 KST_
+🕊️ _업데이트 시각: 2025-09-07 00:50:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
