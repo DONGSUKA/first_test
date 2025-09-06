@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 13:7**
-> 너는 이 땅을 아홉 지파와 므낫세 반 지파에게 나누어 기업이 되게 하라 하셨더라
+📖 **사도행전 14:13**
+> 시외 제우스 신당의 제사장이 소와 화환들을 가지고 대문 앞에 와서 무리와 함께 제사하고자 하니
 
-🕊️ _업데이트 시각: 2025-09-06 16:54:54 KST_
+🕊️ _업데이트 시각: 2025-09-06 17:10:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
