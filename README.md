@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 10:38**
-> 여호수아가 온 이스라엘과 더불어 돌아와서 드빌에 이르러 싸워
+📖 **요한복음 10:37**
+> 만일 내가 내 아버지의 일을 행하지 아니하거든 나를 믿지 말려니와
 
-🕊️ _업데이트 시각: 2025-09-07 02:54:47 KST_
+🕊️ _업데이트 시각: 2025-09-07 03:10:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
