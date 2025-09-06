@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 41:6**
-> 어찌 장사꾼들이 그것을 놓고 거래하겠으며 상인들이 그것을 나누어 가지겠느냐
+📖 **마가복음 6:20**
+> 헤롯이 요한을 의롭고 거룩한 사람으로 알고 두려워하여 보호하며 또 그의 말을 들을 때에 크게 번민을 하면서도 달갑게 들음이러라
 
-🕊️ _업데이트 시각: 2025-09-06 09:40:39 KST_
+🕊️ _업데이트 시각: 2025-09-06 11:08:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
