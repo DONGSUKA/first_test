@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 12:10**
-> 한쪽 손 마른 사람이 있는지라 사람들이 예수를 고발하려 하여 물어 이르되 안식일에 병 고치는 것이 옳으니이까
+📖 **예레미야 51:61**
+> 스라야에게 말하기를 너는 바벨론에 이르거든 삼가 이 모든 말씀을 읽고
 
-🕊️ _업데이트 시각: 2025-09-06 23:33:06 KST_
+🕊️ _업데이트 시각: 2025-09-06 23:39:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
