@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 39:8**
-> 나를 모든 죄에서 건지시며 우매한 자에게서 욕을 당하지 아니하게 하소서
+📖 **로마서 6:5**
+> 만일 우리가 그의 죽으심과 같은 모양으로 연합한 자가 되었으면 또한 그의 부활과 같은 모양으로 연합한 자도 되리라
 
-🕊️ _업데이트 시각: 2025-09-06 15:52:19 KST_
+🕊️ _업데이트 시각: 2025-09-06 15:57:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
