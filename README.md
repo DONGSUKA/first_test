@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 42:13**
-> 그들이 이르되 당신의 종 우리들은 열두 형제로서 가나안 땅 한 사람의 아들들이라 막내 아들은 오늘 아버지와 함께 있고 또 하나는 없어졌나이다
+📖 **창세기 5:10**
+> 게난을 낳은 후 팔백십오 년을 지내며 자녀들을 낳았으며
 
-🕊️ _업데이트 시각: 2025-09-06 19:11:12 KST_
+🕊️ _업데이트 시각: 2025-09-06 19:28:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
