@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 25:25**
-> 내가 살피건대 죽일 죄를 범한 일이 없더이다 그러나 그가 황제에게 상소한 고로 보내기로 결정하였나이다
+📖 **시편 39:8**
+> 나를 모든 죄에서 건지시며 우매한 자에게서 욕을 당하지 아니하게 하소서
 
-🕊️ _업데이트 시각: 2025-09-06 15:46:23 KST_
+🕊️ _업데이트 시각: 2025-09-06 15:52:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
