@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 16:20**
-> 아하스가 그의 조상들과 함께 자매 다윗 성에 그 열조와 함께 장사되고 그의 아들 히스기야가 대신하여 왕이 되니라
+📖 **이사야 47:13**
+> 네가 많은 계략으로 말미암아 피곤하게 되었도다 하늘을 살피는 자와 별을 보는 자와 초하룻날에 예고하는 자들에게 일어나 네게 임할그 일에서 너를 구원하게 하여 보라
 
-🕊️ _업데이트 시각: 2025-09-06 22:27:03 KST_
+🕊️ _업데이트 시각: 2025-09-06 22:34:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
