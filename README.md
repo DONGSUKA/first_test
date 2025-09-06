@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 4:9**
-> 이르되 내가 반드시 너와 함께 가리라 그러나 네가 이번에 가는 길에서는 영광을 얻지 못하리니 이는 여호와께서 시스라를 여인의 손에 파실 것임이니라 하고 드보라가 일어나 바락과 함께 게데스로 가니라
+📖 **이사야 33:20**
+> 우리 절기의 시온 성을 보라 네 눈이 안정된 처소인 예루살렘을 보리니 그것은 옮겨지지 아니할 장막이라 그 말뚝이 영영히 뽑히지 아니할 것이요 그 줄이 하나도 끊어지지 아니할 것이며
 
-🕊️ _업데이트 시각: 2025-09-07 07:39:56 KST_
+🕊️ _업데이트 시각: 2025-09-07 07:45:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
