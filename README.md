@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 16:20**
-> 그런데 나사로라 이름하는 한 거지가 헌데 투성이로 그의 대문 앞에 버려진 채
+📖 **시편 111:6**
+> 그가 그들에게 뭇 나라의 기업을 주사 그가 행하시는 일의 능력을 그들에게 알리셨도다
 
-🕊️ _업데이트 시각: 2025-09-07 20:25:49 KST_
+🕊️ _업데이트 시각: 2025-09-07 20:32:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
