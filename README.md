@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 32:13**
-> 야곱이 브니엘에서 씨름을 하다 야곱이 거기서 밤을 지내고 그 소유 중에서 형 에서를 위하여 예물을 택하니
+📖 **시편 40:1**
+> 다윗의 시, 인도자를 따라 부르는 노래 내가 여호와를 기다리고 기다렸더니 귀를 기울이사 나의 부르짖음을 들으셨도다
 
-🕊️ _업데이트 시각: 2025-09-07 20:50:55 KST_
+🕊️ _업데이트 시각: 2025-09-07 20:56:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
