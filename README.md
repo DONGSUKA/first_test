@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 9:16**
-> 또 오바댜이니 그는 스마야의 아들이요 갈랄의 손자요 여두둔의 증손이며 또 베레갸이니 그는 아사의 아들이요 엘가나의 손자라 느도바사람의 마을에 거주하였더라
+📖 **사무엘하 21:12**
+> 다윗이 가서 사울의 뼈와 그의 아들 요나단의 뼈를 길르앗 야베스 사람에게서 가져가니 이는 전에 블레셋 사람들이 사울을 길보아에서죽여 블레셋 사람들이 벧산 거리에 매단 것을 그들이 가만히 가져온 것이라
 
-🕊️ _업데이트 시각: 2025-09-08 00:52:24 KST_
+🕊️ _업데이트 시각: 2025-09-08 00:58:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
