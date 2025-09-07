@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 30:22**
-> 또 너희가 너희 조각한 우상에 입힌 은과 부어 만든 우상에 올린 금을 더럽게 하여 불결한 물건을 던짐 같이 던지며 이르기를 나가라 하리라
+📖 **히브리서 9:21**
+> 또한 이와 같이 피를 장막과 섬기는 일에 쓰는 모든 그릇에 뿌렸느니라
 
-🕊️ _업데이트 시각: 2025-09-08 07:41:45 KST_
+🕊️ _업데이트 시각: 2025-09-08 07:47:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
