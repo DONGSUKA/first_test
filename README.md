@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 13:31**
-> 왕이 곧 일어나서 자기의 옷을 찢고 땅에 드러눕고 그의 신하들도 다 옷을 찢고 모셔 선지라
+📖 **느헤미야 9:14**
+> 거룩한 안식일을 그들에게 알리시며 주의 종 모세를 통하여 계명과 율례와 율법을 그들에게 명령하시고
 
-🕊️ _업데이트 시각: 2025-09-07 20:07:28 KST_
+🕊️ _업데이트 시각: 2025-09-07 20:19:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
