@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:11**
-> 여호와께서 행하신 것과 그들에게 보이신 그의 기이한 일을 잊었도다
+📖 **여호수아 24:19**
+> 여호수아가 백성에게 이르되 너희가 여호와를 능히 섬기지 못할 것은 그는 거룩하신 하나님이시요 질투하시는 하나님이시니 너희의 잘못과 죄들을 사하지 아니하실 것임이라
 
-🕊️ _업데이트 시각: 2025-09-08 01:54:50 KST_
+🕊️ _업데이트 시각: 2025-09-08 02:04:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
