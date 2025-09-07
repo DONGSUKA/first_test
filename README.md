@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 2:16**
-> 이는 확실히 천사들을 붙들어 주려 하심이 아니요 오직 아브라함의 자손을 붙들어 주려 하심이라
+📖 **출애굽기 32:6**
+> 이튿날에 그들이 일찍이 일어나 번제를 드리며 화목제를 드리고 백성이 앉아서 먹고 마시며 일어나서 뛰놀더라
 
-🕊️ _업데이트 시각: 2025-09-08 08:40:11 KST_
+🕊️ _업데이트 시각: 2025-09-08 08:46:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
