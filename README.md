@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 6:4**
-> 내가 내게 말하는 천사에게 물어 이르되 내 주여 이것들이 무엇이니이까 하니
+📖 **레위기 13:3**
+> 제사장은 그 피부의 병을 진찰할지니 환부의 털이 희어졌고 환부가 피부보다 우묵하여졌으면 이는 나병의 환부라 제사장이 그를 진찰하여그를 부정하다 할 것이요
 
-🕊️ _업데이트 시각: 2025-09-07 23:47:47 KST_
+🕊️ _업데이트 시각: 2025-09-07 23:53:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
