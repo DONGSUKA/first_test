@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 36:4**
-> 성소의 모든 일을 하는 지혜로운 자들이 각기 하는 일을 중지하고 와서
+📖 **마태복음 10:2**
+> 열두 제자에게 명하여 이르시다(막 6:7-13; 눅 9:1-6) 열두 사도의 이름은 이러하니 베드로라 하는 시몬을 비롯하여 그의 형제 안드레와 세베대의 아들 야고보와 그의 형제 요한,
 
-🕊️ _업데이트 시각: 2025-09-07 13:32:28 KST_
+🕊️ _업데이트 시각: 2025-09-07 13:42:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
