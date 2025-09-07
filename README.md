@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 49:24**
-> 요셉의 활은 도리어 굳세며 그의 팔은 힘이 있으니 이는 야곱의 전능자 이스라엘의 반석인 목자의 손을 힘입음이라
+📖 **사무엘하 16:2**
+> 왕이 시바에게 이르되 네가 무슨 뜻으로 이것을 가져왔느냐 하니 시바가 이르되 나귀는 왕의 가족들이 타게 하고 떡과 과일은 청년들이먹게 하고 포도주는 들에서 피곤한 자들에게 마시게 하려 함이니이다
 
-🕊️ _업데이트 시각: 2025-09-07 18:15:15 KST_
+🕊️ _업데이트 시각: 2025-09-07 18:27:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
