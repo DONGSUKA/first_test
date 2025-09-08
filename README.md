@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 26:29**
-> 바울이 이르되 말이 적으나 많으나 당신뿐만 아니라 오늘 내 말을 듣는 모든 사람도 다 이렇게 결박된 것 외에는 나와 같이 되기를 하나님께 원하나이다 하니라
+📖 **히브리서 7:13**
+> 이것은 한 사람도 제단 일을 받들지 않는 다른 지파에 속한 자를 가리켜 말한 것이라
 
-🕊️ _업데이트 시각: 2025-09-09 00:55:53 KST_
+🕊️ _업데이트 시각: 2025-09-09 01:12:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
