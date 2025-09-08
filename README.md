@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 10:30**
-> 고넬료가 이르되 내가 나흘 전 이맘때까지 내 집에서 제 구 시 기도를 하는데 갑자기 한 사람이 빛난 옷을 입고 내 앞에 서서
+📖 **예레미야 32:31**
+> 이 성이 건설된 날부터 오늘까지 나의 노여움과 분을 일으키므로 내가 내 앞에서 그것을 옮기려 하노니
 
-🕊️ _업데이트 시각: 2025-09-08 22:54:46 KST_
+🕊️ _업데이트 시각: 2025-09-08 23:09:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
