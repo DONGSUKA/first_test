@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 1:24**
-> 나사렛 예수여 우리가 당신과 무슨 상관이 있나이까 우리를 멸하러 왔나이까 나는 당신이 누구인 줄 아노니 하나님의 거룩한 자니이다
+📖 **욥기 9:33**
+> 우리 사이에 손을 얹을 판결자도 없구나
 
-🕊️ _업데이트 시각: 2025-09-08 16:36:44 KST_
+🕊️ _업데이트 시각: 2025-09-08 16:43:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
