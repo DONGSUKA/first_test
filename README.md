@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 32:31**
-> 이 성이 건설된 날부터 오늘까지 나의 노여움과 분을 일으키므로 내가 내 앞에서 그것을 옮기려 하노니
+📖 **열왕기하 15:10**
+> 야베스의 아들 살룸이 그를 반역하여 백성 앞에서 쳐죽이고 대신하여 왕이 되니라
 
-🕊️ _업데이트 시각: 2025-09-08 23:09:22 KST_
+🕊️ _업데이트 시각: 2025-09-08 23:32:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
