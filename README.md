@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 13:27**
-> 또 그 때에 그가 천사들을 보내어 자기가 택하신 자들을 땅 끝으로부터 하늘 끝까지 사방에서 모으리라
+📖 **시편 37:32**
+> 악인이 의인을 엿보아 살해할 기회를 찾으나
 
-🕊️ _업데이트 시각: 2025-09-08 20:32:13 KST_
+🕊️ _업데이트 시각: 2025-09-08 20:40:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
