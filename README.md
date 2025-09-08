@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 18:4**
-> 그가 그들에게 이르되 미가가 이러이러하게 나를 대접하고 나를 고용하여 나를 자기의 제사장으로 삼았느니라 하니라
+📖 **레위기 21:5**
+> 제사장들은 머리털을 깎아 대머리 같게 하지 말며 자기의 수염 양쪽을 깎지 말며 살을 베지 말고
 
-🕊️ _업데이트 시각: 2025-09-08 23:58:37 KST_
+🕊️ _업데이트 시각: 2025-09-09 00:15:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
