@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:3**
-> 헤롯의 청지기 구사의 아내 요안나와 수산나와 다른 여러 여자가 함께 하여 자기들의 소유로 그들을 섬기더라
+📖 **창세기 27:4**
+> 내가 즐기는 별미를 만들어 내게로 가져와서 먹게 하여 내가 죽기 전에 내 마음껏 네게 축복하게 하라
 
-🕊️ _업데이트 시각: 2025-09-08 18:45:51 KST_
+🕊️ _업데이트 시각: 2025-09-08 18:51:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
