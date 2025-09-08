@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 21:21**
-> 요단 동쪽을 점령하다(신 2:26-3:11) 이스라엘이 아모리 왕 시혼에게 사신을 보내어 이르되
+📖 **역대하 11:15**
+> 여로보암이 여러 산당과 숫염소 우상과 자기가 만든 송아지 우상을 위하여 친히 제사장들을 세움이라
 
-🕊️ _업데이트 시각: 2025-09-08 14:49:17 KST_
+🕊️ _업데이트 시각: 2025-09-08 14:55:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
