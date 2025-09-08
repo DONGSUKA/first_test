@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 22:37**
-> 왕이 이미 죽으매 그의 시체를 메어 사마리아에 이르러 왕을 사마리아에 장사하니라
+📖 **창세기 29:18**
+> 야곱이 라헬을 더 사랑하므로 대답하되 내가 외삼촌의 작은 딸 라헬을 위하여 외삼촌에게 칠 년을 섬기리이다
 
-🕊️ _업데이트 시각: 2025-09-09 08:35:47 KST_
+🕊️ _업데이트 시각: 2025-09-09 08:42:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
