@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 18:31**
-> 너희와 너희의 권속이 어디서든지 이것을 먹을 수 있음은 이는 회막에서 일한 너희의 보수임이니라
+📖 **베드로전서 4:3**
+> 너희가 음란과 정욕과 술취함과 방탕과 향락과 무법한 우상 숭배를 하여 이방인의 뜻을 따라 행한 것은 지나간 때로 족하도다
 
-🕊️ _업데이트 시각: 2025-09-08 19:36:02 KST_
+🕊️ _업데이트 시각: 2025-09-08 19:46:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
