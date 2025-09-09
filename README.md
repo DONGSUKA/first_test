@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 17:9**
-> 너는 일어나 시돈에 속한 사르밧으로 가서 거기 머물라 내가 그 곳 과부에게 명령하여 네게 음식을 주게 하였느니라
+📖 **에스겔 33:30**
+> 선지자의 말과 백성 인자야 네 민족이 담 곁에서와 집 문에서 너에 대하여 말하며 각각 그 형제와 더불어 말하여 이르기를 자, 가서 여호와께로부터 무슨 말씀이 나오는가 들어 보자 하고
 
-🕊️ _업데이트 시각: 2025-09-10 04:46:21 KST_
+🕊️ _업데이트 시각: 2025-09-10 04:52:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
