@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 6:6**
-> 오늘 내가 네게 명하는 이 말씀을 너는 마음에 새기고
+📖 **요한복음 18:4**
+> 예수께서 그 당할 일을 다 아시고 나아가 이르시되 너희가 누구를 찾느냐
 
-🕊️ _업데이트 시각: 2025-09-10 06:26:50 KST_
+🕊️ _업데이트 시각: 2025-09-10 06:33:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
