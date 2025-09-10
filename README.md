@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 1:13**
-> 어느 때에 천사 중 누구에게 내가 네 원수로 네 발등상이 되게 하기까지 너는 내 우편에 앉아 있으라 하셨느냐
+📖 **야고보서 3:5**
+> 이와 같이 혀도 작은 지체로되 큰 것을 자랑하도다 보라 얼마나 작은 불이 얼마나 많은 나무를 태우는가
 
-🕊️ _업데이트 시각: 2025-09-11 07:29:00 KST_
+🕊️ _업데이트 시각: 2025-09-11 07:38:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
