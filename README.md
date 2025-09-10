@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 4:24**
-> 이스라엘 자손의 손이 가나안 왕 야빈을 점점 더 눌러서 마침내 가나안 왕 야빈을 진멸하였더라
+📖 **에스겔 20:34**
+> 능한 손과 편 팔로 분노를 쏟아 너희를 여러 나라에서 나오게 하며 너희의 흩어진 여러 지방에서 모아내고
 
-🕊️ _업데이트 시각: 2025-09-11 06:56:31 KST_
+🕊️ _업데이트 시각: 2025-09-11 07:10:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
