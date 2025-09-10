@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 11:43**
-> 너희는 기는 바 기어다니는 것 때문에 자기를 가증하게 되게 하지 말며 또한 그것 때문에 스스로 더럽혀 부정하게 되게 하지 말라
+📖 **열왕기상 10:8**
+> 복되도다 당신의 사람들이여 복되도다 당신의 이 신하들이여 항상 당신 앞에 서서 당신의 지혜를 들음이로다
 
-🕊️ _업데이트 시각: 2025-09-10 20:28:26 KST_
+🕊️ _업데이트 시각: 2025-09-10 20:36:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
