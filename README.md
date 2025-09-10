@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 14:24**
-> 비시디아 가운데로 지나서 밤빌리아에 이르러
+📖 **누가복음 3:29**
+> 그 위는 예수요 그 위는 엘리에서요 그 위는 요림이요 그 위는 맛닷이요 그 위는 레위요
 
-🕊️ _업데이트 시각: 2025-09-11 08:50:02 KST_
+🕊️ _업데이트 시각: 2025-09-11 08:55:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
