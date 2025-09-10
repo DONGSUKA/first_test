@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로전서 4:10**
-> 각각 은사를 받은 대로 하나님의 여러 가지 은혜를 맡은 선한 청지기 같이 서로 봉사하라
+📖 **사사기 19:19**
+> 우리에게는 나귀들에게 먹일 짚과 여물이 있고 나와 당신의 여종과 당신의 종인 우리들과 함께 한 청년에게 먹을 양식과 포도주가 있어무엇이든지 부족함이 없나이다 하는지라
 
-🕊️ _업데이트 시각: 2025-09-11 00:57:20 KST_
+🕊️ _업데이트 시각: 2025-09-11 01:16:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
