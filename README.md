@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 22:14**
-> 아히멜렉이 왕에게 대답하여 이르되 왕의 모든 신하 중에 다윗 같이 충실한 자가 누구인지요 그는 왕의 사위도 되고 왕의 호위대장도되고 왕실에서 존귀한 자가 아니니이까
+📖 **데살로니가후서 2:13**
+> 가르침을 받은 전통을 지키라 주께서 사랑하시는 형제들아 우리가 항상 너희에 관하여 마땅히 하나님께 감사할 것은 하나님이 처음부터 너희를 택하사 성령의 거룩하게 하심과 진리를 믿음으로 구원을 받게 하심이니
 
-🕊️ _업데이트 시각: 2025-09-12 05:08:02 KST_
+🕊️ _업데이트 시각: 2025-09-12 05:25:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
