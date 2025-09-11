@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 8:13**
-> 요아스의 아들 기드온이 헤레스 비탈 전장에서 돌아오다가
+📖 **시편 34:8**
+> 너희는 여호와의 선하심을 맛보아 알지어다 그에게 피하는 자는 복이 있도다
 
-🕊️ _업데이트 시각: 2025-09-11 19:10:27 KST_
+🕊️ _업데이트 시각: 2025-09-11 19:31:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
