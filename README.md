@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 13:2**
-> 사람은 입의 열매로 인하여 복록을 누리거니와 마음이 궤사한 자는 강포를 당하느니라
+📖 **레위기 22:24**
+> 너희는 고환이 상하였거나 치었거나 터졌거나 베임을 당한 것은 여호와께 드리지 말며 너희의 땅에서는 이런 일을 행하지도 말지며
 
-🕊️ _업데이트 시각: 2025-09-12 00:35:21 KST_
+🕊️ _업데이트 시각: 2025-09-12 00:42:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
