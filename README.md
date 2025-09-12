@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 2:1**
-> 룻이 보아스를 만나다 나오미의 남편 엘리멜렉의 친족으로 유력한 자가 있으니 그의 이름은 보아스더라
+📖 **민수기 1:38**
+> 단의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니
 
-🕊️ _업데이트 시각: 2025-09-12 13:47:55 KST_
+🕊️ _업데이트 시각: 2025-09-12 13:53:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
