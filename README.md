@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 17:15**
-> 여호수아가 그들에게 이르되 네가 큰 민족이 되므로 에브라임 산지가 네게 너무 좁을진대 브리스 족속과 르바임 족속의 땅 삼림에 올라가서 스스로 개척하라 하니라
+📖 **사무엘하 3:18**
+> 이제 그대로 하라 여호와께서 이미 다윗에 대하여 말씀하시기를 내가 내 종 다윗의 손으로 내 백성 이스라엘을 구원하여 블레셋 사람의손과 모든 대적의 손에서 벗어나게 하리라 하셨음이니라 하고
 
-🕊️ _업데이트 시각: 2025-09-12 17:55:52 KST_
+🕊️ _업데이트 시각: 2025-09-12 18:10:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
