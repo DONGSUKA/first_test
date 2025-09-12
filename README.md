@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 27:4**
-> 이르되 내가 무죄한 피를 팔고 죄를 범하였도다 하니 그들이 이르되 그것이 우리에게 무슨 상관이냐 네가 당하라 하거늘
+📖 **마가복음 1:13**
+> 광야에서 사십 일을 계시면서 사탄에게 시험을 받으시며 들짐승과 함께 계시니 천사들이 수종들더라
 
-🕊️ _업데이트 시각: 2025-09-13 07:53:05 KST_
+🕊️ _업데이트 시각: 2025-09-13 07:58:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
