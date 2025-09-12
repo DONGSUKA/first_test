@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 12:3**
-> 그 날에는 내가 예루살렘에게 모든 민족에게 무거운 돌이 되게 하리니 그것을 드는 모든 자는 크게 상할 것이라 천하 만국이 그것을 치려고 모이리라
+📖 **시편 140:2**
+> 그들이 마음속으로 악을 꾀하고 싸우기 위하여 매일 모이오며
 
-🕊️ _업데이트 시각: 2025-09-13 02:54:02 KST_
+🕊️ _업데이트 시각: 2025-09-13 02:59:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
