@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 12:9**
-> 인자야 이스라엘 족속 곧 그 반역하는 족속이 네게 묻기를 무엇을 하느냐 하지 아니하더냐
+📖 **사도행전 17:4**
+> 그 중의 어떤 사람 곧 경건한 헬라인의 큰 무리와 적지 않은 귀부인도 권함을 받고 바울과 실라를 따르나
 
-🕊️ _업데이트 시각: 2025-09-12 08:56:11 KST_
+🕊️ _업데이트 시각: 2025-09-12 09:50:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
