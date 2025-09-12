@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 11:15**
-> 만일 여자가 긴 머리가 있으면 자기에게 영광이 되나니 긴 머리는 가리는 것을 대신하여 주셨기 때문이니라
+📖 **욥기 19:28**
+> 너희가 만일 이르기를 우리가 그를 어떻게 칠까 하며 또 이르기를 일의 뿌리가 그에게 있다 할진대
 
-🕊️ _업데이트 시각: 2025-09-12 22:46:54 KST_
+🕊️ _업데이트 시각: 2025-09-12 22:52:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
