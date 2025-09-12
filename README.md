@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 31:7**
-> 그대들의 아버지가 나를 속여 품삯을 열 번이나 변경하였느니라 그러나 하나님이 그를 막으사 나를 해치지 못하게 하셨으며
+📖 **시편 119:9**
+> 청년이 무엇으로 그의 행실을 깨끗하게 하리이까 주의 말씀만 지킬 따름이니이다
 
-🕊️ _업데이트 시각: 2025-09-12 22:01:47 KST_
+🕊️ _업데이트 시각: 2025-09-12 22:29:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
