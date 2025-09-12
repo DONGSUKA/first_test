@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:4**
-> 그 중의 어떤 사람 곧 경건한 헬라인의 큰 무리와 적지 않은 귀부인도 권함을 받고 바울과 실라를 따르나
+📖 **디모데전서 3:4**
+> 자기 집을 잘 다스려 자녀들로 모든 공손함으로 복종하게 하는 자라야 할지며
 
-🕊️ _업데이트 시각: 2025-09-12 09:50:28 KST_
+🕊️ _업데이트 시각: 2025-09-12 11:10:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
