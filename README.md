@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 27:54**
-> 백부장과 및 함께 예수를 지키던 자들이 지진과 그 일어난 일들을 보고 심히 두려워하여 이르되 이는 진실로 하나님의 아들이었도다하더라
+📖 **시편 34:11**
+> 너희 자녀들아 와서 내 말을 들으라 내가 여호와를 경외하는 법을 너희에게 가르치리로다
 
-🕊️ _업데이트 시각: 2025-09-13 08:14:17 KST_
+🕊️ _업데이트 시각: 2025-09-13 08:25:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
