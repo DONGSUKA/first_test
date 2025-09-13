@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 30:25**
-> 고생의 날을 보내는 자를 위하여 내가 울지 아니하였는가 빈궁한 자를 위하여 내 마음에 근심하지 아니하였는가
+📖 **시편 102:25**
+> 주께서 옛적에 땅의 기초를 놓으셨사오며 하늘도 주의 손으로 지으신 바니이다
 
-🕊️ _업데이트 시각: 2025-09-13 18:33:23 KST_
+🕊️ _업데이트 시각: 2025-09-13 18:39:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
