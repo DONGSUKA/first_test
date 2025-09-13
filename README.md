@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:149**
-> 주의 인자하심을 따라 내 소리를 들으소서 여호와여 주의 규례들을 따라 나를 살리소서
+📖 **호세아 10:7**
+> 사마리아 왕은 물 위에 있는 거품 같이 멸망할 것이며
 
-🕊️ _업데이트 시각: 2025-09-13 15:35:13 KST_
+🕊️ _업데이트 시각: 2025-09-13 15:45:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
