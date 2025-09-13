@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 5:10**
-> 유다 지도자들은 경계표를 옮기는 자 같으니 내가 나의 진노를 그들에게 물 같이 부으리라
+📖 **마가복음 4:31**
+> 겨자씨 한 알과 같으니 땅에 심길 때에는 땅 위의 모든 씨보다 작은 것이로되
 
-🕊️ _업데이트 시각: 2025-09-14 08:31:32 KST_
+🕊️ _업데이트 시각: 2025-09-14 08:38:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
