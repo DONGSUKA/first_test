@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 81:11**
-> 내 백성이 내 소리를 듣지 아니하며 이스라엘이 나를 원하지 아니하였도다
+📖 **호세아 5:10**
+> 유다 지도자들은 경계표를 옮기는 자 같으니 내가 나의 진노를 그들에게 물 같이 부으리라
 
-🕊️ _업데이트 시각: 2025-09-14 08:24:29 KST_
+🕊️ _업데이트 시각: 2025-09-14 08:31:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
