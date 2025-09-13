@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 21:5**
-> 제사장들은 머리털을 깎아 대머리 같게 하지 말며 자기의 수염 양쪽을 깎지 말며 살을 베지 말고
+📖 **아가 4:6**
+> 날이 저물고 그림자가 사라지기 전에 내가 몰약 산과 유향의 작은 산으로 가리라
 
-🕊️ _업데이트 시각: 2025-09-14 03:56:27 KST_
+🕊️ _업데이트 시각: 2025-09-14 04:07:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
