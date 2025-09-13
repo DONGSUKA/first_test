@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 6:5**
-> 내가 너희를 부끄럽게 하려 하여 이 말을 하노니 너희 가운데 그 형제간의 일을 판단할 만한 지혜 있는 자가 이같이 하나도 없느냐
+📖 **이사야 45:20**
+> 구원을 베푸시는 분은 하나님 열방 중에서 피난한 자들아 너희는 모여 오라 함께 가까이 나아오라 나무 우상을 가지고 다니며 구원하지못하는 신에게 기도하는 자들은 무지한 자들이니라
 
-🕊️ _업데이트 시각: 2025-09-14 01:55:32 KST_
+🕊️ _업데이트 시각: 2025-09-14 02:06:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
