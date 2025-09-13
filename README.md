@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 13:4**
-> 또 가나안 족속의 모든 땅과 시돈 사람에게 속한 므아라와 아모리 족속의 경계 아벡까지와
+📖 **호세아 10:7**
+> 사마리아 왕은 물 위에 있는 거품 같이 멸망할 것이며
 
-🕊️ _업데이트 시각: 2025-09-13 12:31:28 KST_
+🕊️ _업데이트 시각: 2025-09-13 12:40:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
