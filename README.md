@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 18:14**
-> 이제 당신의 말씀이 가서 네 주에게 말하기를 엘리야가 여기 있다 하라 하시니 그리하면 그가 나를 죽이리이다
+📖 **출애굽기 8:2**
+> 네가 만일 보내기를 거절하면 내가 개구리로 너의 온 땅을 치리라
 
-🕊️ _업데이트 시각: 2025-09-14 00:31:30 KST_
+🕊️ _업데이트 시각: 2025-09-14 00:38:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
