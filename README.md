@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 5:12**
-> 하나님은 교활한 자의 계교를 꺾으사 그들의 손이 성공하지 못하게 하시며
+📖 **사도행전 2:30**
+> 그는 선지자라 하나님이 이미 맹세하사 그 자손 중에서 한 사람을 그 위에 앉게 하리라 하심을 알고
 
-🕊️ _업데이트 시각: 2025-09-13 18:45:05 KST_
+🕊️ _업데이트 시각: 2025-09-13 18:50:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
