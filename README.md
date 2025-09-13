@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 1:4**
-> 곧 광야와 이 레바논에서부터 큰 강 곧 유브라데 강까지 헷 족속의 온 땅과 또 해 지는 쪽 대해까지 너희의 영토가 되리라
+📖 **출애굽기 36:13**
+> 금 갈고리 쉰 개를 만들어 그 갈고리로 두 휘장을 연결하여 한 막을 이루었더라
 
-🕊️ _업데이트 시각: 2025-09-13 22:50:57 KST_
+🕊️ _업데이트 시각: 2025-09-13 22:56:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
