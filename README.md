@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 3:5**
-> 너희가 그것을 먹는 날에는 너희 눈이 밝아져 하나님과 같이 되어 선악을 알 줄 하나님이 아심이니라
+📖 **고린도전서 1:20**
+> 지혜 있는 자가 어디 있느냐 선비가 어디 있느냐 이 세대에 변론가가 어디 있느냐 하나님께서 이 세상의 지혜를 미련하게 하신 것이아니냐
 
-🕊️ _업데이트 시각: 2025-09-13 13:32:23 KST_
+🕊️ _업데이트 시각: 2025-09-13 13:41:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
