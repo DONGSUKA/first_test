@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 5:44**
-> 너희가 서로 영광을 취하고 유일하신 하나님께로부터 오는 영광은 구하지 아니하니 어찌 나를 믿을 수 있느냐
+📖 **요한계시록 3:4**
+> 그러나 사데에 그 옷을 더럽히지 아니한 자 몇 명이 네게 있어 흰 옷을 입고 나와 함께 다니리니 그들은 합당한 자인 연고라
 
-🕊️ _업데이트 시각: 2025-09-13 22:06:57 KST_
+🕊️ _업데이트 시각: 2025-09-13 22:26:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
