@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 43:30**
-> 요셉이 아우를 사랑하는 마음이 복받쳐 급히 울 곳을 찾아 안방으로 들어가서 울고
+📖 **예레미야애가 4:11**
+> 여호와께서 그의 분을 내시며 그의 맹렬한 진노를 쏟으심이여 시온에 불을 지르사 그 터를 사르셨도다
 
-🕊️ _업데이트 시각: 2025-09-13 16:36:09 KST_
+🕊️ _업데이트 시각: 2025-09-13 16:42:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
