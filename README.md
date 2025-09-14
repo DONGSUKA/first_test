@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 2:5**
-> 그들에게 우리가 한시도 복종하지 아니하였으니 이는 복음의 진리가 항상 너희 가운데 있게 하려 함이라
+📖 **요한계시록 9:19**
+> 이 말들의 힘은 입과 꼬리에 있으니 꼬리는 뱀 같고 또 꼬리에 머리가 있어 이것으로 해하더라
 
-🕊️ _업데이트 시각: 2025-09-15 05:11:28 KST_
+🕊️ _업데이트 시각: 2025-09-15 05:27:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
