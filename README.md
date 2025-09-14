@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 8:6**
-> 만군의 여호와가 이같이 말하노라 이 일이 그 날에 남은 백성의 눈에는 기이하려니와 내 눈에야 어찌 기이하겠느냐 만군의 여호와의 말이니라
+📖 **사무엘상 12:3**
+> 내가 여기 있나니 여호와 앞과 그의 기름 부음을 받은 자 앞에서 내게 대하여 증언하라 내가 누구의 소를 빼앗았느냐 누구의 나귀를 빼앗았느냐 누구를 속였느냐 누구를 압제하였느냐 내 눈을 흐리게 하는 뇌물을 누구의 손에서 받았느냐 그리하였으면 내가 그것을 너희에게 갚으리라 하니
 
-🕊️ _업데이트 시각: 2025-09-14 15:59:03 KST_
+🕊️ _업데이트 시각: 2025-09-14 16:14:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
