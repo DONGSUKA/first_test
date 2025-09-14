@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:33**
-> 이는 그들이 그의 뜻을 거역함으로 말미암아 모세가 그의 입술로 망령되이 말하였음이로다
+📖 **창세기 40:13**
+> 지금부터 사흘 안에 바로가 당신의 머리를 들고 당신의 전직을 회복시키리니 당신이 그 전에 술 맡은 자가 되었을 때에 하던 것 같이 바로의 잔을 그의 손에 드리게 되리이다
 
-🕊️ _업데이트 시각: 2025-09-14 22:50:13 KST_
+🕊️ _업데이트 시각: 2025-09-14 22:56:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
