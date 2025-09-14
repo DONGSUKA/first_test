@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 23:10**
-> 그가 나가서 손이 피곤하여 그의 손이 칼에 붙기까지 블레셋 사람을 치니라 그 날에 여호와께서 크게 이기게 하셨으므로 백성들은 돌아와 그의 뒤를 따라가며 노략할 뿐이었더라
+📖 **예레미야 5:6**
+> 그러므로 수풀에서 나오는 사자가 그들을 죽이며 사막의 이리가 그들을 멸하며 표범이 성읍들을 엿본즉 그리로 나오는 자마다 찢기리니이는 그들의 허물이 많고 반역이 심함이니이다
 
-🕊️ _업데이트 시각: 2025-09-14 23:56:37 KST_
+🕊️ _업데이트 시각: 2025-09-15 00:09:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
