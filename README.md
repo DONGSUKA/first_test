@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 28:6**
-> 그들이 금 실과 청색 자색 홍색 실과 가늘게 꼰 베 실로 정교하게 짜서 에봇을 짓되
+📖 **시편 89:41**
+> 길로 지나가는 자들에게 다 탈취를 당하며 그의 이웃에게 욕을 당하나이다
 
-🕊️ _업데이트 시각: 2025-09-15 02:59:22 KST_
+🕊️ _업데이트 시각: 2025-09-15 03:21:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
