@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 34:22**
-> 단 자손 지파에서는 지휘관 요글리의 아들 북기요
+📖 **시편 41:3**
+> 여호와께서 그를 병상에서 붙드시고 그가 누워 있을 때마다 그의 병을 고쳐 주시나이다
 
-🕊️ _업데이트 시각: 2025-09-15 01:55:46 KST_
+🕊️ _업데이트 시각: 2025-09-15 02:07:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
