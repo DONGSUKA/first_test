@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 10:9**
-> 그 후에 말씀하시기를 보시옵소서 내가 하나님의 뜻을 행하러 왔나이다 하셨으니 그 첫째 것을 폐하심은 둘째 것을 세우려 하심이라
+📖 **에스겔 44:4**
+> 여호와의 영광이 성전에 가득하다 그가 또 나를 데리고 북문을 통하여 성전 앞에 이르시기로 내가 보니 여호와의 영광이 여호와의 성전에가득한지라 내가 얼굴을 땅에 대고 엎드리니
 
-🕊️ _업데이트 시각: 2025-09-15 00:49:26 KST_
+🕊️ _업데이트 시각: 2025-09-15 00:55:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
