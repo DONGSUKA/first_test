@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 12:29**
-> 우리 하나님은 소멸하는 불이심이라
+📖 **욥기 32:16**
+> 당신들이 말 없이 가만히 서서 다시 대답하지 아니한즉 내가 어찌 더 기다리랴
 
-🕊️ _업데이트 시각: 2025-09-15 07:57:56 KST_
+🕊️ _업데이트 시각: 2025-09-15 08:12:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
