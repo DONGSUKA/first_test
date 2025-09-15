@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 4:13**
-> 보라 그가 구름 같이 올라오나니 그의 병거는 회오리바람 같고 그의 말들은 독수리보다 빠르도다 우리에게 화 있도다 우리는 멸망하도다 하리라
+📖 **역대하 32:3**
+> 그의 방백들과 용사들과 더불어 의논하고 성 밖의 모든 물 근원을 막고자 하매 그들이 돕더라
 
-🕊️ _업데이트 시각: 2025-09-16 04:35:46 KST_
+🕊️ _업데이트 시각: 2025-09-16 04:41:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
