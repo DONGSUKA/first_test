@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 15:8**
-> 악인의 제사는 여호와께서 미워하셔도 정직한 자의 기도는 그가 기뻐하시느니라
+📖 **역대상 8:10**
+> 여우스와 사갸와 미르마이니 이 아들들은 우두머리이며
 
-🕊️ _업데이트 시각: 2025-09-16 02:09:27 KST_
+🕊️ _업데이트 시각: 2025-09-16 02:27:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
