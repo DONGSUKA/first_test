@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 24:27**
-> 이에 모세와 모든 선지자의 글로 시작하여 모든 성경에 쓴 바 자기에 관한 것을 자세히 설명하시니라
+📖 **이사야 51:14**
+> 결박된 포로가 속히 놓일 것이니 죽지도 아니할 것이요 구덩이로 내려가지도 아니할 것이며 그의 양식이 부족하지도 아니하리라
 
-🕊️ _업데이트 시각: 2025-09-16 06:15:50 KST_
+🕊️ _업데이트 시각: 2025-09-16 06:27:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
