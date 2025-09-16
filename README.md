@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 1:19**
-> 주의 형제 야고보 외에 다른 사도들을 보지 못하였노라
+📖 **열왕기상 7:48**
+> 솔로몬이 또 여호와의 성전의 모든 기구를 만들었으니 곧 금 단과 진설병의 금 상과
 
-🕊️ _업데이트 시각: 2025-09-17 04:47:58 KST_
+🕊️ _업데이트 시각: 2025-09-17 04:54:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
