@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 31:23**
-> 사로잡힌 자를 돌아오게 할 때 만군의 여호와 이스라엘의 하나님께서 이와 같이 말씀하시니라 내가 그 사로잡힌 자를 돌아오게 할 때에 그들이 유다 땅과 그 성읍들에서 다시 이 말을 쓰리니 곧 의로운 처소여, 거룩한 산이여, 여호와께서 네게 복 주시기를 원하노라 할 것이며
+📖 **로마서 13:9**
+> 간음하지 말라, 살인하지 말라, 도둑질하지 말라, 탐내지 말라 한 것과 그 외에 다른 계명이 있을지라도 네 이웃을 네 자신과 같이 사랑하라 하신 그 말씀 가운데 다 들었느니라
 
-🕊️ _업데이트 시각: 2025-09-16 19:49:25 KST_
+🕊️ _업데이트 시각: 2025-09-16 19:55:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
