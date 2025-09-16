@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 39:7**
-> 에봇 어깨받이에 달아 이스라엘의 아들들을 기념하는 보석을 삼았으니 여호와께서 모세에게 명령하신 대로 하였더라
+📖 **요한복음 18:28**
+> 빌라도 앞에 서시다(마 27:1-2, 11-14; 막 15:1-5; 눅 23:1-5) 그들이 예수를 가야바에게서 관정으로 끌고 가니 새벽이라 그들은 더럽힘을 받지 아니하고 유월절 잔치를 먹고자 하여 관정에 들어가지 아니하더라
 
-🕊️ _업데이트 시각: 2025-09-16 16:41:46 KST_
+🕊️ _업데이트 시각: 2025-09-16 16:47:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
