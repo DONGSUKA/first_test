@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 2:22**
-> 또 베냐민 지파라 베냐민 자손의 지휘관은 기드오니의 아들 아비단이요
+📖 **사도행전 27:38**
+> 배부르게 먹고 밀을 바다에 버려 배를 가볍게 하였더니
 
-🕊️ _업데이트 시각: 2025-09-17 02:35:52 KST_
+🕊️ _업데이트 시각: 2025-09-17 02:42:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
