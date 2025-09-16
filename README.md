@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 21:25**
-> 주를 믿는 이방인에게는 우리가 우상의 제물과 피와 목매어 죽인 것과 음행을 피할 것을 결의하고 편지하였느니라 하니
+📖 **유다서 1:14**
+> 아담의 칠대 손 에녹이 이 사람들에 대하여도 예언하여 이르되 보라 주께서 그 수만의 거룩한 자와 함께 임하셨나니
 
-🕊️ _업데이트 시각: 2025-09-16 18:34:27 KST_
+🕊️ _업데이트 시각: 2025-09-16 18:44:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
