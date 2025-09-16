@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:4**
-> 만일 누가 가서 우리가 전파하지 아니한 다른 예수를 전파하거나 혹은 너희가 받지 아니한 다른 영을 받게 하거나 혹은 너희가 받지아니한 다른 복음을 받게 할 때에는 너희가 잘 용납하는구나
+📖 **예레미야 52:4**
+> 시드기야 제구년 열째 달 열째 날에 바벨론 왕 느부갓네살이 그의 모든 군대를 거느리고 예루살렘을 치러 올라와서 그 성에 대하여 진을 치고 주위에 토성을 쌓으매
 
-🕊️ _업데이트 시각: 2025-09-17 00:55:50 KST_
+🕊️ _업데이트 시각: 2025-09-17 01:12:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
