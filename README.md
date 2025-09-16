@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 16:25**
-> 네가 높은 대를 모든 길 어귀에 쌓고 네 아름다움을 가증하게 하여 모든 지나가는 자에게 다리를 벌려 심히 음행하고
+📖 **시편 146:1**
+> 할렐루야 내 영혼아 여호와를 찬양하라
 
-🕊️ _업데이트 시각: 2025-09-16 20:36:36 KST_
+🕊️ _업데이트 시각: 2025-09-16 20:43:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
