@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 146:1**
-> 할렐루야 내 영혼아 여호와를 찬양하라
+📖 **요한계시록 10:3**
+> 사자가 부르짖는 것 같이 큰 소리로 외치니 그가 외칠 때에 일곱 우레가 그 소리를 내어 말하더라
 
-🕊️ _업데이트 시각: 2025-09-16 20:43:21 KST_
+🕊️ _업데이트 시각: 2025-09-16 20:49:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
