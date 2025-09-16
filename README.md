@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 10:37**
-> 곧 요한이 그 세례를 반포한 후에 갈릴리에서 시작하여 온 유대에 두루 전파된 그것을 너희도 알거니와
+📖 **사사기 13:7**
+> 그가 내게 이르기를 보라 네가 임신하여 아들을 낳으리니 이제 포도주와 독주를 마시지 말며 어떤 부정한 것도 먹지 말라 이 아이는 태에서부터 그가 죽는 날까지 하나님께 바쳐진 나실인이 됨이라 하더이다 하니라
 
-🕊️ _업데이트 시각: 2025-09-16 17:54:03 KST_
+🕊️ _업데이트 시각: 2025-09-16 17:59:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
