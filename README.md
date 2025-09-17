@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 8:13**
-> 요아스의 아들 기드온이 헤레스 비탈 전장에서 돌아오다가
+📖 **에스라 8:34**
+> 모든 것을 다 세고 달아 보고 그 무게의 총량을 그 때에 기록하였느니라
 
-🕊️ _업데이트 시각: 2025-09-18 04:23:26 KST_
+🕊️ _업데이트 시각: 2025-09-18 04:29:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
