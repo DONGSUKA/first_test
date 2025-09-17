@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 3:21**
-> 이것을 내가 내 마음에 담아 두었더니 그것이 오히려 나의 소망이 되었사옴은
+📖 **아모스 7:1**
+> 첫째, 메뚜기 재앙 주 여호와께서 내게 보이신 것이 이러하니라 왕이 풀을 벤 후 풀이 다시 움돋기 시작할 때에 주께서 메뚜기를 지으시매
 
-🕊️ _업데이트 시각: 2025-09-18 01:38:22 KST_
+🕊️ _업데이트 시각: 2025-09-18 01:49:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
