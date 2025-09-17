@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 1:36**
-> 오직 여분네의 아들 갈렙은 온전히 여호와께 순종하였은즉 그는 그것을 볼 것이요 그가 밟은 땅을 내가 그와 그의 자손에게 주리라 하시고
+📖 **시편 25:13**
+> 그의 영혼은 평안히 살고 그의 자손은 땅을 상속하리로다
 
-🕊️ _업데이트 시각: 2025-09-18 08:45:26 KST_
+🕊️ _업데이트 시각: 2025-09-18 08:51:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
