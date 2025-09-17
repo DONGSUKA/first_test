@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 23:20**
-> 여호와의 진노가 내 마음의 뜻하는 바를 행하여 이루기까지는 그치지 아니하나니 너희가 끝날에 그것을 완전히 깨달으리라
+📖 **누가복음 1:42**
+> 큰 소리로 불러 이르되 여자 중에 네가 복이 있으며 네 태중의 아이도 복이 있도다
 
-🕊️ _업데이트 시각: 2025-09-17 14:13:46 KST_
+🕊️ _업데이트 시각: 2025-09-17 14:30:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
