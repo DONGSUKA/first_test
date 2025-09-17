@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 20:1**
-> 히스기야의 발병과 회복(대하 32:24-26; 사 38:1-8, 21-22) 그 때에 히스기야가 병들어 죽게 되매 아모스의 아들 선지자 이사야가 그에게 나아와서 그에게 이르되 여호와의 말씀이 너는 집을 정리하라 네가 죽고 살지 못하리라 하셨나이다
+📖 **스가랴 9:10**
+> 내가 에브라임의 병거와 예루살렘의 말을 끊겠고 전쟁하는 활도 끊으리니 그가 이방 사람에게 화평을 전할 것이요 그의 통치는 바다에서바다까지 이르고 유브라데 강에서 땅 끝까지 이르리라
 
-🕊️ _업데이트 시각: 2025-09-18 00:39:28 KST_
+🕊️ _업데이트 시각: 2025-09-18 00:45:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
