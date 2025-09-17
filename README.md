@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 25:13**
-> 그의 영혼은 평안히 살고 그의 자손은 땅을 상속하리로다
+📖 **출애굽기 26:35**
+> 그 휘장 바깥 북쪽에 상을 놓고 남쪽에 등잔대를 놓아 상과 마주하게 할지며
 
-🕊️ _업데이트 시각: 2025-09-18 08:51:27 KST_
+🕊️ _업데이트 시각: 2025-09-18 08:57:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
