@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **야고보서 5:2**
-> 너희 재물은 썩었고 너희 옷은 좀먹었으며
+📖 **레위기 14:13**
+> 그 어린 숫양은 거룩한 장소 곧 속죄제와 번제물 잡는 곳에서 잡을 것이며 속건제물은 속죄제물과 마찬가지로 제사장에게 돌릴지니 이는지극히 거룩한 것이니라
 
-🕊️ _업데이트 시각: 2025-09-17 23:55:32 KST_
+🕊️ _업데이트 시각: 2025-09-18 00:10:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
