@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 23:14**
-> 소빔 들로 인도하여 비스가 꼭대기에 이르러 일곱 제단을 쌓고 각 제단에 수송아지와 숫양을 드리니
+📖 **여호수아 13:21**
+> 평지 모든 성읍과 헤스본에서 다스리던 아모리 족속의 왕 시혼의 온 나라라 모세가 시혼을 그 땅에 거주하는 시혼의 군주들 곧 미디안의 귀족 에위와 레겜과 술과 훌과 레바와 함께 죽였으며
 
-🕊️ _업데이트 시각: 2025-09-17 17:41:15 KST_
+🕊️ _업데이트 시각: 2025-09-17 17:52:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
