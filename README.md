@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 23:19**
-> 네 토지에서 처음 거둔 열매의 가장 좋은 것을 가져다가 너의 하나님 여호와의 전에 드릴지니라 너는 염소 새끼를 그 어미의 젖으로삶지 말지니라
+📖 **요한계시록 19:13**
+> 또 그가 피 뿌린 옷을 입었는데 그 이름은 하나님의 말씀이라 칭하더라
 
-🕊️ _업데이트 시각: 2025-09-19 04:23:05 KST_
+🕊️ _업데이트 시각: 2025-09-19 04:29:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
