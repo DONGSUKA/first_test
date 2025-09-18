@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 7:21**
-> 그러므로 내가 한 법을 깨달았노니 곧 선을 행하기 원하는 나에게 악이 함께 있는 것이로다
+📖 **고린도후서 2:13**
+> 내가 내 형제 디도를 만나지 못하므로 내 심령이 편하지 못하여 그들을 작별하고 마게도냐로 갔노라
 
-🕊️ _업데이트 시각: 2025-09-18 17:35:28 KST_
+🕊️ _업데이트 시각: 2025-09-18 17:48:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
