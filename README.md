@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 27:10**
-> 그가 어찌 전능자를 기뻐하겠느냐 항상 하나님께 부르짖겠느냐
+📖 **열왕기하 23:23**
+> 요시야 왕 열여덟째 해에 예루살렘에서 여호와 앞에 이 유월절을 지켰더라
 
-🕊️ _업데이트 시각: 2025-09-18 16:42:36 KST_
+🕊️ _업데이트 시각: 2025-09-18 16:49:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
