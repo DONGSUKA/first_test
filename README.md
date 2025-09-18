@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 23:27**
-> 일곱째 달 열흘날은 속죄일이니 너희는 성회를 열고 스스로 괴롭게 하며 여호와께 화제를 드리고
+📖 **역대상 25:3**
+> 여두둔에게 이르러서는 그의 아들들 그달리야와 스리와 여사야와 시므이와 하사뱌와 맛디디야 여섯 사람이니 그의 아버지 여두둔의 지휘아래 수금을 잡아 신령한 노래를 하며 여호와께 감사하며 찬양하며
 
-🕊️ _업데이트 시각: 2025-09-18 13:55:15 KST_
+🕊️ _업데이트 시각: 2025-09-18 14:09:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
