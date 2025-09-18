@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 3:25**
-> 만일 집이 스스로 분쟁하면 그 집이 설 수 없고
+📖 **누가복음 1:18**
+> 사가랴가 천사에게 이르되 내가 이것을 어떻게 알리요 내가 늙고 아내도 나이가 많으니이다
 
-🕊️ _업데이트 시각: 2025-09-18 23:34:27 KST_
+🕊️ _업데이트 시각: 2025-09-18 23:44:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
