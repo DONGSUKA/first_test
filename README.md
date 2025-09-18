@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 23:20**
-> 타국인에게 네가 꾸어주면 이자를 받아도 되거니와 네 형제에게 꾸어주거든 이자를 받지 말라 그리하면 네 하나님 여호와께서 네가 들어가서 차지할 땅에서 네 손으로 하는 범사에 복을 내리시리라
+📖 **창세기 4:14**
+> 주께서 오늘 이 지면에서 나를 쫓아내시온즉 내가 주의 낯을 뵈옵지 못하리니 내가 땅에서 피하며 유리하는 자가 될지라 무릇 나를 만나는 자마다 나를 죽이겠나이다
 
-🕊️ _업데이트 시각: 2025-09-18 14:55:50 KST_
+🕊️ _업데이트 시각: 2025-09-18 15:15:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
