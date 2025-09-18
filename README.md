@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 26:35**
-> 그 휘장 바깥 북쪽에 상을 놓고 남쪽에 등잔대를 놓아 상과 마주하게 할지며
+📖 **창세기 6:10**
+> 세 아들을 낳았으니 셈과 함과 야벳이라
 
-🕊️ _업데이트 시각: 2025-09-18 08:57:05 KST_
+🕊️ _업데이트 시각: 2025-09-18 09:58:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
