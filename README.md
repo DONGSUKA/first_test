@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 34:2**
-> 지혜 있는 자들아 내 말을 들으며 지식 있는 자들아 내게 귀를 기울이라
+📖 **마가복음 16:12**
+> 두 제자에게 나타나시다(눅 24:13-35) 그 후에 그들 중 두 사람이 걸어서 시골로 갈 때에 예수께서 다른 모양으로 그들에게 나타나시니
 
-🕊️ _업데이트 시각: 2025-09-19 14:10:27 KST_
+🕊️ _업데이트 시각: 2025-09-19 14:29:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
