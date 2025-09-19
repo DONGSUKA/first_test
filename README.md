@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 5:13**
-> 그 때에 남은 귀인과 백성이 내려왔고 여호와께서 나를 위하여 용사를 치시려고 내려오셨도다
+📖 **마태복음 15:6**
+> 그 부모를 공경할 것이 없다 하여 너희의 전통으로 하나님의 말씀을 폐하는도다
 
-🕊️ _업데이트 시각: 2025-09-19 15:53:39 KST_
+🕊️ _업데이트 시각: 2025-09-19 15:59:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
