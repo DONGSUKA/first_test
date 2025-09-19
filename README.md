@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 77:18**
-> 회오리바람 중에 주의 우렛소리가 있으며 번개가 세계를 비추며 땅이 흔들리고 움직였나이다
+📖 **에스라 10:2**
+> 엘람 자손 중 여히엘의 아들 스가냐가 에스라에게 이르되 우리가 우리 하나님께 범죄하여 이 땅 이방 여자를 맞이하여 아내로 삼았으나이스라엘에게 아직도 소망이 있나니
 
-🕊️ _업데이트 시각: 2025-09-20 00:51:12 KST_
+🕊️ _업데이트 시각: 2025-09-20 00:57:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
