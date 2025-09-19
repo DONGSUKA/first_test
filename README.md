@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 143:8**
-> 아침에 나로 하여금 주의 인자한 말씀을 듣게 하소서 내가 주를 의뢰함이니이다 내가 다닐 길을 알게 하소서 내가 내 영혼을 주께 드림이니이다
+📖 **사무엘상 1:19**
+> 사무엘의 출생과 봉헌 그들이 아침에 일찍이 일어나 여호와 앞에 경배하고 돌아가 라마의 자기 집에 이르니라 엘가나가 그의 아내 한나와 동침하매 여호와께서 그를 생각하신지라
 
-🕊️ _업데이트 시각: 2025-09-20 05:32:00 KST_
+🕊️ _업데이트 시각: 2025-09-20 05:40:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
