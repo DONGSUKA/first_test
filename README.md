@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 102:12**
-> 여호와여 주는 영원히 계시고 주에 대한 기억은 대대에 이르리이다
+📖 **역대상 7:16**
+> 마길의 아내 마아가는 아들을 낳아 그의 이름을 베레스라 하였으며 그의 아우의 이름은 세레스이며 세레스의 아들들은 울람과 라겜이요
 
-🕊️ _업데이트 시각: 2025-09-20 00:12:57 KST_
+🕊️ _업데이트 시각: 2025-09-20 00:29:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
