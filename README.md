@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 16:2**
-> 아하스가 왕이 될 때에 나이가 이십 세라 예루살렘에서 십육 년간 다스렸으나 그의 조상 다윗과 같지 아니하여 그의 하나님 여호와께서보시기에 정직히 행하지 아니하고
+📖 **역대하 11:4**
+> 여호와께서 이같이 말씀하시기를 너희는 올라가지 말라 너희 형제와 싸우지 말고 각기 집으로 돌아가라 이 일이 내게로 말미암아 난 것이라 하셨다 하라 하신지라 그들이 여호와의 말씀을 듣고 돌아가고 여로보암을 치러 가던 길에서 되돌아왔더라
 
-🕊️ _업데이트 시각: 2025-09-19 12:55:52 KST_
+🕊️ _업데이트 시각: 2025-09-19 13:12:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
