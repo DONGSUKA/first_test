@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 3:6**
-> 배역한 이스라엘과 반역한 유다 요시야 왕 때에 여호와께서 또 내게 이르시되 너는 배역한 이스라엘이 행한 바를 보았느냐 그가 모든 높은 산에 오르며 모든 푸른 나무 아래로 가서 거기서 행음하였도다
+📖 **사무엘상 21:1**
+> 다윗이 사울을 피하여 도망하다 다윗이 놉에 가서 제사장 아히멜렉에게 이르니 아히멜렉이 떨며 다윗을 영접하여 그에게 이르되 어찌하여 네가 홀로 있고 함께 하는 자가 아무도 없느냐 하니
 
-🕊️ _업데이트 시각: 2025-09-19 22:24:08 KST_
+🕊️ _업데이트 시각: 2025-09-19 22:41:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
