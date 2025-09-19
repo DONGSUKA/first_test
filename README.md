@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 4:18**
-> 베냐민에는 엘라의 아들 시므이요
+📖 **느헤미야 10:7**
+> 므술람, 아비야, 미야민,
 
-🕊️ _업데이트 시각: 2025-09-20 01:14:56 KST_
+🕊️ _업데이트 시각: 2025-09-20 01:35:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
