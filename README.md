@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 9:20**
-> 오른쪽으로 움킬지라도 주리고 왼쪽으로 먹을지라도 배부르지 못하여 각각 자기 팔의 고기를 먹을 것이며
+📖 **출애굽기 20:2**
+> 나는 너를 애굽 땅, 종 되었던 집에서 인도하여 낸 네 하나님 여호와니라
 
-🕊️ _업데이트 시각: 2025-09-19 17:12:28 KST_
+🕊️ _업데이트 시각: 2025-09-19 17:35:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
