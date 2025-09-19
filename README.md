@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 7:20**
-> 그 외에도 네 하나님의 성전에 쓰일 것이 있어서 네가 드리고자 하거든 무엇이든지 궁중창고에서 내다가 드릴지니라
+📖 **시편 77:18**
+> 회오리바람 중에 주의 우렛소리가 있으며 번개가 세계를 비추며 땅이 흔들리고 움직였나이다
 
-🕊️ _업데이트 시각: 2025-09-20 00:45:27 KST_
+🕊️ _업데이트 시각: 2025-09-20 00:51:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
