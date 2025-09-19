@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 19:1**
-> 선견자 예후가 여호사밧을 규탄하다 유다 왕 여호사밧이 평안히 예루살렘에 돌아와서 그의 궁으로 들어가니라
+📖 **시편 69:27**
+> 그들의 죄악에 죄악을 더하사 주의 공의에 들어오지 못하게 하소서
 
-🕊️ _업데이트 시각: 2025-09-20 05:46:41 KST_
+🕊️ _업데이트 시각: 2025-09-20 05:52:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
