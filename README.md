@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 35:16**
-> 번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과
+📖 **잠언 4:8**
+> 그를 높이라 그리하면 그가 너를 높이 들리라 만일 그를 품으면 그가 너를 영화롭게 하리라
 
-🕊️ _업데이트 시각: 2025-09-20 08:23:38 KST_
+🕊️ _업데이트 시각: 2025-09-20 08:29:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
