@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 1:6**
-> 이는 그가 사랑하시는 자 안에서 우리에게 거저 주시는 바 그의 은혜의 영광을 찬송하게 하려는 것이라
+📖 **욥기 36:5**
+> 하나님은 능하시나 아무도 멸시하지 아니하시며 그의 지혜가 무궁하사
 
-🕊️ _업데이트 시각: 2025-09-19 20:30:10 KST_
+🕊️ _업데이트 시각: 2025-09-19 20:38:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
