@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 16:4**
-> 또 산당들과 작은 산 위와 모든 푸른 나무 아래에서 제사를 드리며 분향하였더라
+📖 **사무엘하 23:5**
+> 내 집이 하나님 앞에 이같지 아니하냐 하나님이 나와 더불어 영원한 언약을 세우사 만사에 구비하고 견고하게 하셨으니 나의 모든 구원과 나의 모든 소원을 어찌 이루지 아니하시랴
 
-🕊️ _업데이트 시각: 2025-09-21 04:18:41 KST_
+🕊️ _업데이트 시각: 2025-09-21 04:24:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
