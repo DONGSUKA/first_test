@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 32:31**
-> 진실로 그들의 반석이 우리의 반석과 같지 아니하니 우리의 원수들이 스스로 판단하도다
+📖 **마태복음 6:30**
+> 오늘 있다가 내일 아궁이에 던져지는 들풀도 하나님이 이렇게 입히시거든 하물며 너희일까보냐 믿음이 작은 자들아
 
-🕊️ _업데이트 시각: 2025-09-21 00:26:38 KST_
+🕊️ _업데이트 시각: 2025-09-21 00:33:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
