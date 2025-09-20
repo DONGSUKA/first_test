@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 13:36**
-> 그가 홀연히 와서 너희가 자는 것을 보지 않도록 하라
+📖 **시편 105:35**
+> 그들의 땅에 있는 모든 채소를 먹으며 그들의 밭에 있는 열매를 먹었도다
 
-🕊️ _업데이트 시각: 2025-09-20 19:52:49 KST_
+🕊️ _업데이트 시각: 2025-09-20 19:58:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
