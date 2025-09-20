@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 34:3**
-> 네가 그의 손에서 벗어나지 못하고 반드시 사로잡혀 그의 손에 넘겨져서 네 눈은 바벨론 왕의 눈을 볼 것이며 그의 입은 네 입을 마주대하여 말할 것이요 너는 바벨론으로 가리라
+📖 **느헤미야 5:13**
+> 내가 옷자락을 털며 이르기를 이 말대로 행하지 아니하는 자는 모두 하나님이 또한 이와 같이 그 집과 산업에서 털어 버리실지니 그는곧 이렇게 털려서 빈손이 될지로다 하매 회중이 다 아멘 하고 여호와를 찬송하고 백성들이 그 말한 대로 행하였느니라
 
-🕊️ _업데이트 시각: 2025-09-20 23:34:19 KST_
+🕊️ _업데이트 시각: 2025-09-20 23:41:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
