@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:63**
-> 그들의 청년은 불에 살라지고 그들의 처녀들은 혼인 노래를 들을 수 없었으며
+📖 **느헤미야 13:28**
+> 대제사장 엘리아십의 손자 요야다의 아들 하나가 호론 사람 산발랏의 사위가 되었으므로 내가 쫓아내어 나를 떠나게 하였느니라
 
-🕊️ _업데이트 시각: 2025-09-21 02:52:52 KST_
+🕊️ _업데이트 시각: 2025-09-21 02:58:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
