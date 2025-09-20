@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 15:21**
-> 그의 침상을 만지는 자는 다 그의 옷을 빨고 물로 몸을 씻을 것이요 저녁까지 부정할 것이며
+📖 **마가복음 9:21**
+> 예수께서 그 아버지에게 물으시되 언제부터 이렇게 되었느냐 하시니 이르되 어릴 때부터니이다
 
-🕊️ _업데이트 시각: 2025-09-21 05:56:19 KST_
+🕊️ _업데이트 시각: 2025-09-21 06:08:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
