@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 23:28**
-> 예수께서 돌이켜 그들을 향하여 이르시되 예루살렘의 딸들아 나를 위하여 울지 말고 너희와 너희 자녀를 위하여 울라
+📖 **예레미야 22:18**
+> 그러므로 여호와께서 유다의 왕 요시야의 아들 여호야김에게 대하여 이와 같이 말씀하시니라 무리가 그를 위하여 슬프다 내 형제여,슬프다 내 자매여 하며 통곡하지 아니할 것이며 그를 위하여 슬프다 주여 슬프다 그 영광이여 하며 통곡하지도 아니할 것이라
 
-🕊️ _업데이트 시각: 2025-09-22 08:07:36 KST_
+🕊️ _업데이트 시각: 2025-09-22 08:23:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
