@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 76:4**
-> 주는 약탈한 산에서 영화로우시며 존귀하시도다
+📖 **요한복음 1:13**
+> 이는 혈통으로나 육정으로나 사람의 뜻으로 나지 아니하고 오직 하나님께로부터 난 자들이니라
 
-🕊️ _업데이트 시각: 2025-09-21 23:25:37 KST_
+🕊️ _업데이트 시각: 2025-09-21 23:33:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
