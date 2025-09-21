@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 4:13**
-> 내가 처음에 육체의 약함으로 말미암아 너희에게 복음을 전한 것을 너희가 아는 바라
+📖 **시편 55:14**
+> 우리가 같이 재미있게 의논하며 무리와 함께 하여 하나님의 집 안에서 다녔도다
 
-🕊️ _업데이트 시각: 2025-09-21 21:55:24 KST_
+🕊️ _업데이트 시각: 2025-09-21 22:14:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
