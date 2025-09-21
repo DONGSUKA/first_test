@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 1:41**
-> 예수께서 불쌍히 여기사 손을 내밀어 그에게 대시며 이르시되 내가 원하노니 깨끗함을 받으라 하시니
+📖 **요한계시록 3:16**
+> 네가 이같이 미지근하여 뜨겁지도 아니하고 차지도 아니하니 내 입에서 너를 토하여 버리리라
 
-🕊️ _업데이트 시각: 2025-09-21 18:07:31 KST_
+🕊️ _업데이트 시각: 2025-09-21 18:24:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
