@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 21:13**
-> 내가 사마리아를 잰 줄과 아합의 집을 다림 보던 추를 예루살렘에 베풀고 또 사람이 그릇을 씻어 엎음 같이 예루살렘을 씻어 버릴지라
+📖 **느헤미야 2:8**
+> 또 왕의 삼림 감독 아삽에게 조서를 내리사 그가 성전에 속한 영문의 문과 성곽과 내가 들어갈 집을 위하여 들보로 쓸 재목을 내게 주게하옵소서 하매 내 하나님의 선한 손이 나를 도우시므로 왕이 허락하고
 
-🕊️ _업데이트 시각: 2025-09-21 18:31:36 KST_
+🕊️ _업데이트 시각: 2025-09-21 18:38:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
