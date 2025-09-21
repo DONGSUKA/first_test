@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 52:10**
-> 여호와께서 열방의 목전에서 그의 거룩한 팔을 나타내셨으므로 땅 끝까지도 모두 우리 하나님의 구원을 보았도다
+📖 **스바냐 2:15**
+> 이는 기쁜 성이라 염려 없이 거주하며 마음속에 이르기를 오직 나만 있고 나 외에는 다른 이가 없다 하더니 어찌 이와 같이 황폐하여 들짐승이 엎드릴 곳이 되었는고 지나가는 자마다 비웃으며 손을 흔들리로다
 
-🕊️ _업데이트 시각: 2025-09-22 03:14:27 KST_
+🕊️ _업데이트 시각: 2025-09-22 03:36:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
