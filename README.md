@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 15:16**
-> 네 자손은 사대 만에 이 땅으로 돌아오리니 이는 아모리 족속의 죄악이 아직 가득 차지 아니함이니라 하시더니
+📖 **신명기 13:9**
+> 너는 용서 없이 그를 죽이되 죽일 때에 네가 먼저 그에게 손을 대고 후에 뭇 백성이 손을 대라
 
-🕊️ _업데이트 시각: 2025-09-22 08:55:02 KST_
+🕊️ _업데이트 시각: 2025-09-22 09:45:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
