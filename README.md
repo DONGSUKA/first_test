@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 60:2**
-> 주께서 땅을 진동시키사 갈라지게 하셨사오니 그 틈을 기우소서 땅이 흔들림이니이다
+📖 **에스겔 39:26**
+> 그들이 그 땅에 평안히 거주하고 두렵게 할 자가 없게 될 때에 부끄러움을 품고 내게 범한 죄를 뉘우치리니
 
-🕊️ _업데이트 시각: 2025-09-23 06:23:36 KST_
+🕊️ _업데이트 시각: 2025-09-23 06:29:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
