@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 68:15**
-> 바산의 산은 하나님의 산임이여 바산의 산은 높은 산이로다
+📖 **민수기 6:27**
+> 그들은 이같이 내 이름으로 이스라엘 자손에게 축복할지니 내가 그들에게 복을 주리라
 
-🕊️ _업데이트 시각: 2025-09-23 01:52:28 KST_
+🕊️ _업데이트 시각: 2025-09-23 01:57:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
