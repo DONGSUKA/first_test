@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 6:45**
-> 선지자의 글에 그들이 다 하나님의 가르치심을 받으리라 기록되었은즉 아버지께 듣고 배운 사람마다 내게로 오느니라
+📖 **시편 111:5**
+> 여호와께서 자기를 경외하는 자들에게 양식을 주시며 그의 언약을 영원히 기억하시리로다
 
-🕊️ _업데이트 시각: 2025-09-22 22:01:08 KST_
+🕊️ _업데이트 시각: 2025-09-22 22:31:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
