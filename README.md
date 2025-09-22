@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 44:23**
-> 주께서 또 주의 종들에게 말씀하시되 너희 막내 아우가 너희와 함께 내려오지 아니하면 너희가 다시 내 얼굴을 보지 못하리라 하시기로
+📖 **사무엘하 15:17**
+> 왕이 나가매 모든 백성이 다 따라서 벧메르학에 이르러 멈추어 서니
 
-🕊️ _업데이트 시각: 2025-09-23 08:38:07 KST_
+🕊️ _업데이트 시각: 2025-09-23 08:43:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
