@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 15:47**
-> 아스돗과 그 촌락들과 그 마을들과 가사와 그 촌락들과 그 마을들이니 애굽 시내와 대해의 경계에까지 이르렀으며
+📖 **출애굽기 7:18**
+> 나일 강의 고기가 죽고 그 물에서는 악취가 나리니 애굽 사람들이 그 강 물 마시기를 싫어하리라 하라
 
-🕊️ _업데이트 시각: 2025-09-23 04:47:40 KST_
+🕊️ _업데이트 시각: 2025-09-23 04:53:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
