@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 14:10**
-> 청함을 받았을 때에 차라리 가서 끝자리에 앉으라 그러면 너를 청한 자가 와서 너더러 벗이여 올라 앉으라 하리니 그 때에야 함께 앉은 모든 사람 앞에서 영광이 있으리라
+📖 **열왕기상 20:25**
+> 또 왕의 잃어버린 군대와 같은 군대를 왕을 위하여 보충하고 말은 말대로, 병거는 병거대로 보충하고 우리가 평지에서 그들과 싸우면반드시 그들보다 강하리이다 왕이 그 말을 듣고 그리하니라
 
-🕊️ _업데이트 시각: 2025-09-23 07:55:09 KST_
+🕊️ _업데이트 시각: 2025-09-23 08:08:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
