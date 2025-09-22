@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 7:18**
-> 나일 강의 고기가 죽고 그 물에서는 악취가 나리니 애굽 사람들이 그 강 물 마시기를 싫어하리라 하라
+📖 **골로새서 4:1**
+> 상전들아 의와 공평을 종들에게 베풀지니 너희에게도 하늘에 상전이 계심을 알지어다
 
-🕊️ _업데이트 시각: 2025-09-23 04:53:44 KST_
+🕊️ _업데이트 시각: 2025-09-23 04:59:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
