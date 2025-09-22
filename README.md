@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 7:47**
-> 솔로몬이 그를 위하여 집을 지었느니라
+📖 **시편 120:5**
+> 메섹에 머물며 게달의 장막 중에 머무는 것이 내게 화로다
 
-🕊️ _업데이트 시각: 2025-09-22 17:16:46 KST_
+🕊️ _업데이트 시각: 2025-09-22 17:41:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
