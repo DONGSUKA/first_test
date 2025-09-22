@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 2:13**
-> 내가 내 형제 디도를 만나지 못하므로 내 심령이 편하지 못하여 그들을 작별하고 마게도냐로 갔노라
+📖 **요한복음 6:45**
+> 선지자의 글에 그들이 다 하나님의 가르치심을 받으리라 기록되었은즉 아버지께 듣고 배운 사람마다 내게로 오느니라
 
-🕊️ _업데이트 시각: 2025-09-22 21:21:30 KST_
+🕊️ _업데이트 시각: 2025-09-22 22:01:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
