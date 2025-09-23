@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 24:19**
-> 이와 같은 직무에 따라 여호와의 성전에 들어가서 그의 아버지 아론을 도왔으니 이는 이스라엘의 하나님 여호와께서 명하신 규례더라
+📖 **열왕기하 13:25**
+> 여호아하스의 아들 요아스가 하사엘의 아들 벤하닷의 손에서 성읍을 다시 빼앗으니 이 성읍들은 자기 부친 여호아하스가 전쟁 중에 빼앗겼던 것이라 요아스가 벤하닷을 세 번 쳐서 무찌르고 이스라엘 성읍들을 회복하였더라
 
-🕊️ _업데이트 시각: 2025-09-23 17:56:25 KST_
+🕊️ _업데이트 시각: 2025-09-23 18:13:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
