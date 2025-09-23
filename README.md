@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 45:14**
-> 자기 아우 베냐민의 목을 안고 우니 베냐민도 요셉의 목을 안고 우니라
+📖 **에스겔 21:10**
+> 그 칼이 날카로움은 죽임을 위함이요 빛남은 번개 같이 되기 위함이니 우리가 즐거워하겠느냐 내 아들의 규가 모든 나무를 업신여기는도다
 
-🕊️ _업데이트 시각: 2025-09-24 08:09:37 KST_
+🕊️ _업데이트 시각: 2025-09-24 08:23:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
