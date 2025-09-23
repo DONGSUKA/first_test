@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 9:23**
-> 이러므로 그 부모가 말하기를 그가 장성하였으니 그에게 물어 보소서 하였더라
+📖 **누가복음 13:5**
+> 너희에게 이르노니 아니라 너희도 만일 회개하지 아니하면 다 이와 같이 망하리라
 
-🕊️ _업데이트 시각: 2025-09-24 06:34:01 KST_
+🕊️ _업데이트 시각: 2025-09-24 06:39:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
