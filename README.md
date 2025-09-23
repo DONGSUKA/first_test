@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 7:32**
-> 또 너희는 그 화목제물의 오른쪽 뒷다리를 제사장에게 주어 거제를 삼을지니
+📖 **민수기 2:19**
+> 그의 군대로 계수된 자가 사만 오백 명이며
 
-🕊️ _업데이트 시각: 2025-09-24 08:43:01 KST_
+🕊️ _업데이트 시각: 2025-09-24 08:48:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
