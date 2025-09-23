@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 9:1**
-> 아비멜렉 여룹바알의 아들 아비멜렉이 세겜에 가서 그의 어머니의 형제에게 이르러 그들과 그의 외조부의 집의 온 가족에게 말하여 이르되
+📖 **잠언 18:9**
+> 자기의 일을 게을리하는 자는 패가하는 자의 형제니라
 
-🕊️ _업데이트 시각: 2025-09-23 08:55:31 KST_
+🕊️ _업데이트 시각: 2025-09-23 09:44:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
