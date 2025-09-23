@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 24:19**
-> 마시게 하기를 다하고 이르되 당신의 낙타를 위하여서도 물을 길어 그것들도 배불리 마시게 하리이다 하고
+📖 **시편 18:42**
+> 내가 그들을 바람 앞에 티끌 같이 부숴뜨리고 거리의 진흙 같이 쏟아 버렸나이다
 
-🕊️ _업데이트 시각: 2025-09-23 20:39:12 KST_
+🕊️ _업데이트 시각: 2025-09-23 20:44:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
