@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 18:23**
-> 네가 만일 이 일을 하고 하나님께서도 네게 허락하시면 네가 이 일을 감당하고 이 모든 백성도 자기 곳으로 평안히 가리라
+📖 **창세기 24:19**
+> 마시게 하기를 다하고 이르되 당신의 낙타를 위하여서도 물을 길어 그것들도 배불리 마시게 하리이다 하고
 
-🕊️ _업데이트 시각: 2025-09-23 20:31:29 KST_
+🕊️ _업데이트 시각: 2025-09-23 20:39:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
