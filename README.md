@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 18:24**
-> 예수께서 그를 보시고 이르시되 재물이 있는 자는 하나님의 나라에 들어가기가 얼마나 어려운지
+📖 **누가복음 17:8**
+> 도리어 그더러 내 먹을 것을 준비하고 띠를 띠고 내가 먹고 마시는 동안에 수종들고 너는 그 후에 먹고 마시라 하지 않겠느냐
 
-🕊️ _업데이트 시각: 2025-09-23 19:51:50 KST_
+🕊️ _업데이트 시각: 2025-09-23 19:57:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
