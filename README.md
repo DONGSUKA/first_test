@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 25:9**
-> 아마샤가 하나님의 사람에게 이르되 내가 백 달란트를 이스라엘 군대에게 주었으니 어찌할까 하나님의 사람이 말하되 여호와께서 능히 이보다 많은 것을 왕에게 주실 수 있나이다 하니라
+📖 **열왕기하 18:32**
+> 내가 장차 와서 너희를 한 지방으로 옮기리니 그 곳은 너희 본토와 같은 지방 곧 곡식과 포도주가 있는 지방이요 떡과 포도원이 있는지방이요 기름 나는 감람과 꿀이 있는 지방이라 너희가 살고 죽지 아니하리라 히스기야가 너희를 설득하여 이르기를 여호와께서 우리를 건지시리라 하여도 히스기야에게 듣지 말라
 
-🕊️ _업데이트 시각: 2025-09-24 14:52:29 KST_
+🕊️ _업데이트 시각: 2025-09-24 14:58:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
