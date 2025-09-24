@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 1:9**
-> 이에 오십부장과 그의 군사 오십 명을 엘리야에게로 보내매 그가 엘리야에게로 올라가 본즉 산 꼭대기에 앉아 있는지라 그가 엘리야에게이르되 하나님의 사람이여 왕의 말씀이 내려오라 하셨나이다
+📖 **출애굽기 34:28**
+> 모세가 여호와와 함께 사십 일 사십 야를 거기 있으면서 떡도 먹지 아니하였고 물도 마시지 아니하였으며 여호와께서는 언약의 말씀곧 십계명을 그 판들에 기록하셨더라
 
-🕊️ _업데이트 시각: 2025-09-25 08:40:15 KST_
+🕊️ _업데이트 시각: 2025-09-25 08:45:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
