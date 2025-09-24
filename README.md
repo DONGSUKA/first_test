@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 2:21**
-> 그러나 예수는 성전된 자기 육체를 가리켜 말씀하신 것이라
+📖 **역대상 6:61**
+> 그핫 자손의 남은 자에게는 절반 지파 즉 므낫세 반 지파 종족 중에서 제비 뽑아 열 성읍을 주었고
 
-🕊️ _업데이트 시각: 2025-09-25 05:55:52 KST_
+🕊️ _업데이트 시각: 2025-09-25 06:08:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
