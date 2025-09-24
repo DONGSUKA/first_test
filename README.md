@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 116:19**
-> 예루살렘아, 네 한가운데에서 곧 여호와의 성전 뜰에서 지키리로다 할렐루야
+📖 **역대상 26:9**
+> 또 므셀레먀의 아들과 형제 열여덟 명은 능력이 있는 자라
 
-🕊️ _업데이트 시각: 2025-09-25 01:21:04 KST_
+🕊️ _업데이트 시각: 2025-09-25 01:42:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
