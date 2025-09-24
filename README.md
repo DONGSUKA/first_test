@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 2:34**
-> 다윗은 하늘에 올라가지 못하였으나 친히 말하여 이르되 주께서 내 주에게 말씀하시기를
+📖 **민수기 26:28**
+> 요셉의 아들들의 종족들은 므낫세와 에브라임이요
 
-🕊️ _업데이트 시각: 2025-09-25 00:09:29 KST_
+🕊️ _업데이트 시각: 2025-09-25 00:29:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
