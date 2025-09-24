@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:14**
-> 낮에는 구름으로, 밤에는 불빛으로 인도하셨으며
+📖 **이사야 14:18**
+> 열방의 모든 왕들은 모두 각각 자기 집에서 영광 중에 자건마는
 
-🕊️ _업데이트 시각: 2025-09-25 08:27:13 KST_
+🕊️ _업데이트 시각: 2025-09-25 08:34:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
