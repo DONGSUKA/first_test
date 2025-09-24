@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 19:39**
-> 일찍이 예수께 밤에 찾아왔던 니고데모도 몰약과 침향 섞은 것을 백 리트라쯤 가지고 온지라
+📖 **시편 119:92**
+> 주의 법이 나의 즐거움이 되지 아니하였더면 내가 내 고난 중에 멸망하였으리이다
 
-🕊️ _업데이트 시각: 2025-09-25 04:42:54 KST_
+🕊️ _업데이트 시각: 2025-09-25 04:49:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
