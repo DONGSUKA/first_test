@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 8:17**
-> 마음에 서로 해하기를 도모하지 말며 거짓 맹세를 좋아하지 말라 이 모든 일은 내가 미워하는 것이니라 여호와의 말이니라
+📖 **역대상 7:9**
+> 그들은 다 그 집의 우두머리요 용감한 장사라 그 자손을 계보에 의해 계수하면 이만 이백 명이며
 
-🕊️ _업데이트 시각: 2025-09-25 05:38:42 KST_
+🕊️ _업데이트 시각: 2025-09-25 05:44:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
