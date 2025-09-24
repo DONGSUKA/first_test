@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 73:27**
-> 무릇 주를 멀리하는 자는 망하리니 음녀 같이 주를 떠난 자를 주께서 다 멸하셨나이다
+📖 **누가복음 13:16**
+> 그러면 열여덟 해 동안 사탄에게 매인 바 된 이 아브라함의 딸을 안식일에 이 매임에서 푸는 것이 합당하지 아니하냐
 
-🕊️ _업데이트 시각: 2025-09-24 12:05:55 KST_
+🕊️ _업데이트 시각: 2025-09-24 12:36:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
