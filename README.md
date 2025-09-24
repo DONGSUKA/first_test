@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 8:18**
-> 노아가 그 아들들과 그의 아내와 그 며느리들과 함께 나왔고
+📖 **욥기 35:8**
+> 그대의 악은 그대와 같은 사람에게나 있는 것이요 그대의 공의는 어떤 인생에게도 있느니라
 
-🕊️ _업데이트 시각: 2025-09-25 05:09:53 KST_
+🕊️ _업데이트 시각: 2025-09-25 05:30:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
