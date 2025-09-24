@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 3:9**
-> 깨끗한 양심에 믿음의 비밀을 가진 자라야 할지니
+📖 **마태복음 14:28**
+> 베드로가 대답하여 이르되 주여 만일 주님이시거든 나를 명하사 물 위로 오라 하소서 하니
 
-🕊️ _업데이트 시각: 2025-09-24 17:57:09 KST_
+🕊️ _업데이트 시각: 2025-09-24 18:14:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
