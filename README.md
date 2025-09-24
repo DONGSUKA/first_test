@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 24:20**
-> 이에 하나님의 영이 제사장 여호야다의 아들 스가랴를 감동시키시매 그가 백성 앞에 높이 서서 그들에게 이르되 하나님이 이같이 말씀하시기를 너희가 어찌하여 여호와의 명령을 거역하여 스스로 형통하지 못하게 하느냐 하셨나니 너희가 여호와를 버렸으므로 여호와께서도 너희를 버리셨느니라 하나
+📖 **에스더 3:13**
+> 이에 그 조서를 역졸에게 맡겨 왕의 각 지방에 보내니 열두째 달 곧 아달월 십삼일 하루 동안에 모든 유다인을 젊은이 늙은이 어린이 여인들을 막론하고 죽이고 도륙하고 진멸하고 또 그 재산을 탈취하라 하였고
 
-🕊️ _업데이트 시각: 2025-09-24 19:50:21 KST_
+🕊️ _업데이트 시각: 2025-09-24 19:56:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
