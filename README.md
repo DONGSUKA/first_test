@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 3:17**
-> 또는 아라바와 요단과 그 지역이요 긴네렛에서 아라바 바다 곧 염해와 비스가 산기슭에 이르기까지의 동쪽 지역이니라
+📖 **창세기 22:21**
+> 그의 맏아들은 우스요 우스의 형제는 부스와 아람의 아버지 그므엘과
 
-🕊️ _업데이트 시각: 2025-09-25 11:36:08 KST_
+🕊️ _업데이트 시각: 2025-09-25 12:22:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
