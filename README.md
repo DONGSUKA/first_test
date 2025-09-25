@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 4:9**
-> 야베스는 그의 형제보다 귀중한 자라 그의 어머니가 이름하여 이르되 야베스라 하였으니 이는 내가 수고로이 낳았다 함이었더라
+📖 **레위기 17:4**
+> 먼저 회막 문으로 끌고 가서 여호와의 성막 앞에서 여호와께 예물로 드리지 아니하는 자는 피 흘린 자로 여길 것이라 그가 피를 흘렸은즉자기 백성 중에서 끊어지리라
 
-🕊️ _업데이트 시각: 2025-09-25 23:53:51 KST_
+🕊️ _업데이트 시각: 2025-09-25 23:59:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
