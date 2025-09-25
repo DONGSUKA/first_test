@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:51**
-> 또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며
+📖 **시편 18:12**
+> 그 앞에 광채로 말미암아 빽빽한 구름이 지나며 우박과 숯불이 내리도다
 
-🕊️ _업데이트 시각: 2025-09-25 14:55:09 KST_
+🕊️ _업데이트 시각: 2025-09-25 15:14:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
