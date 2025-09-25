@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:3**
-> 뜻을 풀어 그리스도가 해를 받고 죽은 자 가운데서 다시 살아나야 할 것을 증언하고 이르되 내가 너희에게 전하는 이 예수가 곧 그리스도라 하니
+📖 **이사야 1:11**
+> 여호와께서 말씀하시되 너희의 무수한 제물이 내게 무엇이 유익하뇨 나는 숫양의 번제와 살진 짐승의 기름에 배불렀고 나는 수송아지나어린 양이나 숫염소의 피를 기뻐하지 아니하노라
 
-🕊️ _업데이트 시각: 2025-09-26 05:31:00 KST_
+🕊️ _업데이트 시각: 2025-09-26 05:39:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
