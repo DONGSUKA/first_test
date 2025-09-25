@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 9:23**
-> 모세와 아론이 회막에 들어갔다가 나와서 백성에게 축복하매 여호와의 영광이 온 백성에게 나타나며
+📖 **민수기 19:20**
+> 사람이 부정하고도 자신을 정결하게 하지 아니하면 여호와의 성소를 더럽힘이니 그러므로 회중 가운데에서 끊어질 것이니라 그는 정결하게 하는 물로 뿌림을 받지 아니하였은즉 부정하니라
 
-🕊️ _업데이트 시각: 2025-09-25 17:14:16 KST_
+🕊️ _업데이트 시각: 2025-09-25 17:37:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
