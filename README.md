@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 20:18**
-> 또 왕의 몸에서 날 아들 중에서 사로잡혀 바벨론 왕궁의 환관이 되리라 하셨나이다 하니
+📖 **느헤미야 8:14**
+> 율법에 기록된 바를 본즉 여호와께서 모세를 통하여 명령하시기를 이스라엘 자손은 일곱째 달 절기에 초막에서 거할지니라 하였고
 
-🕊️ _업데이트 시각: 2025-09-25 13:58:51 KST_
+🕊️ _업데이트 시각: 2025-09-25 14:16:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
