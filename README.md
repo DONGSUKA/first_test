@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:10**
-> 그들을 그 미워하는 자의 손에서 구원하시며 그 원수의 손에서 구원하셨고
+📖 **잠언 14:23**
+> 모든 수고에는 이익이 있어도 입술의 말은 궁핍을 이룰 뿐이니라
 
-🕊️ _업데이트 시각: 2025-09-25 18:31:33 KST_
+🕊️ _업데이트 시각: 2025-09-25 18:41:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
