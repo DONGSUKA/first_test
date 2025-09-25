@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 6:22**
-> 그것이 네가 다닐 때에 너를 인도하며 네가 잘 때에 너를 보호하며 네가 깰 때에 너와 더불어 말하리니
+📖 **에스겔 16:29**
+> 장사하는 땅 갈대아에까지 심히 행음하되 아직도 족한 줄을 알지 못하였느니라
 
-🕊️ _업데이트 시각: 2025-09-25 16:43:52 KST_
+🕊️ _업데이트 시각: 2025-09-25 16:49:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
