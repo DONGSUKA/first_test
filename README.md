@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 14:2**
-> 아사가 그의 하나님 여호와 보시기에 선과 정의를 행하여
+📖 **욥기 7:5**
+> 내 살에는 구더기와 흙 덩이가 의복처럼 입혀졌고 내 피부는 굳어졌다가 터지는구나
 
-🕊️ _업데이트 시각: 2025-09-25 22:01:18 KST_
+🕊️ _업데이트 시각: 2025-09-25 22:31:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
