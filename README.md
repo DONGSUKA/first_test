@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 22:14**
-> 만일 누가 부지중에 성물을 먹으면 그 성물에 그것의 오분의 일을 더하여 제사장에게 줄지니라
+📖 **고린도후서 4:14**
+> 주 예수를 다시 살리신 이가 예수와 함께 우리도 다시 살리사 너희와 함께 그 앞에 서게 하실 줄을 아노라
 
-🕊️ _업데이트 시각: 2025-09-27 00:51:21 KST_
+🕊️ _업데이트 시각: 2025-09-27 00:57:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
