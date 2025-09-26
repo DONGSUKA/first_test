@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 39:16**
-> 성읍의 이름도 하모나라 하리라 그들이 이같이 그 땅을 정결하게 하리라
+📖 **잠언 3:19**
+> 여호와께서는 지혜로 땅에 터를 놓으셨으며 명철로 하늘을 견고히 세우셨고
 
-🕊️ _업데이트 시각: 2025-09-27 07:28:58 KST_
+🕊️ _업데이트 시각: 2025-09-27 07:37:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
