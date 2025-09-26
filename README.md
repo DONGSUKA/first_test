@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 2:6**
-> 오직 네게 이것이 있으니 네가 니골라 당의 행위를 미워하는도다 나도 이것을 미워하노라
+📖 **열왕기하 18:1**
+> 유다 왕 히스기야(대하 29:1-2; 31:1) 이스라엘의 왕 엘라의 아들 호세아 제삼년에 유다 왕 아하스의 아들 히스기야가 왕이 되니
 
-🕊️ _업데이트 시각: 2025-09-27 05:18:28 KST_
+🕊️ _업데이트 시각: 2025-09-27 05:32:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
