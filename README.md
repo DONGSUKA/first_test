@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 16:27**
-> 그러므로 내가 내 손을 네 위에 펴서 네 일용할 양식을 감하고 너를 미워하는 블레셋 여자 곧 네 더러운 행실을 부끄러워하는 자에게 너를 넘겨 임의로 하게 하였거늘
+📖 **이사야 41:25**
+> 내가 한 사람을 일으켜 북방에서 오게 하며 내 이름을 부르는 자를 해 돋는 곳에서 오게 하였나니 그가 이르러 고관들을 석회 같이, 토기장이가 진흙을 밟음 같이 하리니
 
-🕊️ _업데이트 시각: 2025-09-27 05:53:50 KST_
+🕊️ _업데이트 시각: 2025-09-27 05:59:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
