@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 14:8**
-> 다윗이 블레셋을 이기다(삼하 5:17-25) 다윗이 기름 부음을 받아 온 이스라엘의 왕이 되었다 함을 블레셋 사람들이 듣고 모든 블레셋 사람들이 다윗을 찾으러 올라오매 다윗이 듣고 대항하러 나갔으나
+📖 **사무엘상 9:4**
+> 그가 에브라임 산지와 살리사 땅으로 두루 다녀 보았으나 찾지 못하고 사알림 땅으로 두루 다녀 보았으나 그 곳에는 없었고 베냐민 사람의 땅으로 두루 다녀 보았으나 찾지 못하니라
 
-🕊️ _업데이트 시각: 2025-09-27 06:33:49 KST_
+🕊️ _업데이트 시각: 2025-09-27 06:39:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
