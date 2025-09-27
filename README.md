@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 11:56**
-> 그들이 예수를 찾으며 성전에 서서 서로 말하되 너희 생각에는 어떠하냐 그가 명절에 오지 아니하겠느냐 하니
+📖 **잠언 6:6**
+> 게으른 자여 개미에게 가서 그가 하는 것을 보고 지혜를 얻으라
 
-🕊️ _업데이트 시각: 2025-09-28 01:41:55 KST_
+🕊️ _업데이트 시각: 2025-09-28 01:48:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
