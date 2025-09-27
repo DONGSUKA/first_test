@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 11:16**
-> 이 세대를 무엇으로 비유할까 비유하건대 아이들이 장터에 앉아 제 동무를 불러
+📖 **고린도후서 7:14**
+> 내가 그에게 너희를 위하여 자랑한 것이 있더라도 부끄럽지 아니하니 우리가 너희에게 이른 말이 다 참된 것 같이 디도 앞에서 우리가 자랑한 것도 참되게 되었도다
 
-🕊️ _업데이트 시각: 2025-09-27 17:53:40 KST_
+🕊️ _업데이트 시각: 2025-09-27 17:59:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
