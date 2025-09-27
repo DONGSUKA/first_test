@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 145:15**
-> 모든 사람의 눈이 주를 앙망하오니 주는 때를 따라 그들에게 먹을 것을 주시며
+📖 **민수기 34:8**
+> 호르 산에서 그어 하맛 어귀에 이르러 스닷에 이르고
 
-🕊️ _업데이트 시각: 2025-09-27 11:07:10 KST_
+🕊️ _업데이트 시각: 2025-09-27 11:59:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
