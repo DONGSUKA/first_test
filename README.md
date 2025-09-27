@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 4:32**
-> 그가 만일 어린 양을 속죄제물로 가져오려거든 흠 없는 암컷을 끌어다가
+📖 **잠언 30:32**
+> 만일 네가 미련하여 스스로 높은 체하였거나 혹 악한 일을 도모하였거든 네 손으로 입을 막으라
 
-🕊️ _업데이트 시각: 2025-09-27 14:49:15 KST_
+🕊️ _업데이트 시각: 2025-09-27 14:54:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
