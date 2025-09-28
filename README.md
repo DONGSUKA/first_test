@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 18:2**
-> 갈대 배를 물에 띄우고 그 사자를 수로로 보내며 이르기를 민첩한 사절들아 너희는 강들이 흘러 나누인 나라로 가되 장대하고 준수한 백성 곧 시초부터 두려움이 되며 강성하여 대적을 밟는 백성에게로 가라 하는도다
+📖 **사도행전 3:12**
+> 베드로가 이것을 보고 백성에게 말하되 이스라엘 사람들아 이 일을 왜 놀랍게 여기느냐 우리 개인의 권능과 경건으로 이 사람을 걷게한 것처럼 왜 우리를 주목하느냐
 
-🕊️ _업데이트 시각: 2025-09-28 23:29:57 KST_
+🕊️ _업데이트 시각: 2025-09-28 23:36:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
