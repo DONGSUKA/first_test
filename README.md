@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 15:7**
-> 아비얌과 여로보암 사이에도 전쟁이 있으니라 아비얌의 남은 사적과 그 행한 모든 일은 유다 왕 역대지략에 기록되지 아니하였느냐
+📖 **열왕기상 1:44**
+> 왕께서 제사장 사독과 선지자 나단과 여호야다의 아들 브나야와 그렛 사람과 블렛 사람을 솔로몬과 함께 보내셨는데 그들 무리가 왕의노새에 솔로몬을 태워다가
 
-🕊️ _업데이트 시각: 2025-09-29 00:49:11 KST_
+🕊️ _업데이트 시각: 2025-09-29 00:55:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
