@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 10:2**
-> 스라야, 아사랴, 예레미야,
+📖 **신명기 1:32**
+> 이 일에 너희가 너희의 하나님 여호와를 믿지 아니하였도다
 
-🕊️ _업데이트 시각: 2025-09-29 06:22:00 KST_
+🕊️ _업데이트 시각: 2025-09-29 06:27:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
