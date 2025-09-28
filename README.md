@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 15:23**
-> 그 편에 편지를 부쳐 이르되 사도와 장로 된 형제들은 안디옥과 수리아와 길리기아에 있는 이방인 형제들에게 문안하노라
+📖 **스가랴 8:20**
+> 만군의 여호와가 이와 같이 말하노라 다시 여러 백성과 많은 성읍의 주민이 올 것이라
 
-🕊️ _업데이트 시각: 2025-09-28 19:28:02 KST_
+🕊️ _업데이트 시각: 2025-09-28 19:37:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
