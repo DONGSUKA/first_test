@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:11**
-> 나와 그가 하룻밤에 꿈을 꾼즉 각기 뜻이 있는 꿈이라
+📖 **사사기 9:55**
+> 이스라엘 사람들이 아비멜렉이 죽은 것을 보고 각각 자기 처소로 떠나갔더라
 
-🕊️ _업데이트 시각: 2025-09-29 01:08:51 KST_
+🕊️ _업데이트 시각: 2025-09-29 01:29:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
