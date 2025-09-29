@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 23:53**
-> 이를 내려 세마포로 싸고 아직 사람을 장사한 일이 없는 바위에 판 무덤에 넣어 두니
+📖 **역대하 34:6**
+> 또 므낫세와 에브라임과 시므온과 납달리까지 사면 황폐한 성읍들에도 그렇게 행하여
 
-🕊️ _업데이트 시각: 2025-09-29 20:24:55 KST_
+🕊️ _업데이트 시각: 2025-09-29 20:31:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
