@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 14:6**
-> 그들이 분내어 여러 민족을 치되 치기를 마지아니하였고 노하여 열방을 억압하여도 그 억압을 막을 자 없었더니
+📖 **시편 40:8**
+> 나의 하나님이여 내가 주의 뜻 행하기를 즐기오니 주의 법이 나의 심중에 있나이다 하였나이다
 
-🕊️ _업데이트 시각: 2025-09-29 16:12:22 KST_
+🕊️ _업데이트 시각: 2025-09-29 16:29:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
