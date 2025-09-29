@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 11:20**
-> 공의로 판단하시며 사람의 마음을 감찰하시는 만군의 여호와여 나의 원통함을 주께 아뢰었사오니 그들에게 대한 주의 보복을 내가 보리이다 하였더니
+📖 **욥기 19:12**
+> 그 군대가 일제히 나아와서 길을 돋우고 나를 치며 내 장막을 둘러 진을 쳤구나
 
-🕊️ _업데이트 시각: 2025-09-29 08:57:09 KST_
+🕊️ _업데이트 시각: 2025-09-29 10:02:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
