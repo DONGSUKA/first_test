@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 39:7**
-> 그 후에 그의 주인의 아내가 요셉에게 눈짓하다가 동침하기를 청하니
+📖 **역대상 6:30**
+> 그의 아들은 시므아요 그의 아들은 학기야요 그의 아들은 아사야더라
 
-🕊️ _업데이트 시각: 2025-09-30 14:31:31 KST_
+🕊️ _업데이트 시각: 2025-09-30 14:41:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
