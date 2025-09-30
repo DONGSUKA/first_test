@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 6:21**
-> 너희가 그 때에 무슨 열매를 얻었느냐 이제는 너희가 그 일을 부끄러워하나니 이는 그 마지막이 사망임이라
+📖 **고린도전서 10:9**
+> 그들 가운데 어떤 사람들이 주를 시험하다가 뱀에게 멸망하였나니 우리는 그들과 같이 시험하지 말자
 
-🕊️ _업데이트 시각: 2025-09-30 20:14:01 KST_
+🕊️ _업데이트 시각: 2025-09-30 20:26:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
