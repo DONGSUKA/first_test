@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 20:38**
-> 다시 그 얼굴을 보지 못하리라 한 말로 말미암아 더욱 근심하고 배에까지 그를 전송하니라
+📖 **출애굽기 35:25**
+> 마음이 슬기로운 모든 여인은 손수 실을 빼고 그 뺀 청색 자색 홍색 실과 가는 베 실을 가져왔으며
 
-🕊️ _업데이트 시각: 2025-10-01 08:45:42 KST_
+🕊️ _업데이트 시각: 2025-10-01 08:51:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
