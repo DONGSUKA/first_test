@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 12:5**
-> 그가 다스리던 땅은 헤르몬 산과 살르가와 온 바산과 및 그술 사람과 마아가 사람의 경계까지의 길르앗 절반이니 헤스본 왕 시혼의 경계에 접한 곳이라
+📖 **시편 122:9**
+> 여호와 우리 하나님의 집을 위하여 내가 너를 위하여 복을 구하리로다
 
-🕊️ _업데이트 시각: 2025-09-30 23:42:20 KST_
+🕊️ _업데이트 시각: 2025-09-30 23:49:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
