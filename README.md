@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 8:12**
-> 곧 아람과 모압과 암몬 자손과 블레셋 사람과 아말렉에게서 얻은 것들과 소바 왕 르홉의 아들 하닷에셀에게서 노략한 것과 같이 드리니라
+📖 **여호수아 15:8**
+> 또 힌놈의 아들의 골짜기로 올라가서 여부스 곧 예루살렘 남쪽 어깨에 이르며 또 힌놈의 골짜기 앞 서쪽에 있는 산 꼭대기로 올라가나니 이곳은 르바임 골짜기 북쪽 끝이며
 
-🕊️ _업데이트 시각: 2025-09-30 08:55:30 KST_
+🕊️ _업데이트 시각: 2025-09-30 09:45:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
