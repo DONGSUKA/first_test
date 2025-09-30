@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 20:4**
-> 둘이 같이 달음질하더니 그 다른 제자가 베드로보다 더 빨리 달려가서 먼저 무덤에 이르러
+📖 **역대상 9:2**
+> 그들의 땅 안에 있는 성읍에 처음으로 거주한 이스라엘 사람들은 제사장들과 레위 사람들과 느디님 사람들이라
 
-🕊️ _업데이트 시각: 2025-09-30 14:53:38 KST_
+🕊️ _업데이트 시각: 2025-09-30 14:59:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
