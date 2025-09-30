@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 29:15**
-> 그들이 그들의 형제들을 모아 성결하게 하고 들어가서 왕이 여호와의 말씀대로 명령한 것을 따라 여호와의 전을 깨끗하게 할새
+📖 **역대하 29:24**
+> 제사장들이 잡아 그 피를 속죄제로 삼아 제단에 드려 온 이스라엘을 위하여 속죄하니 이는 왕이 명령하여 온 이스라엘을 위하여 번제와속죄제를 드리게 하였음이더라
 
-🕊️ _업데이트 시각: 2025-09-30 13:50:45 KST_
+🕊️ _업데이트 시각: 2025-09-30 13:56:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
