@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 5:25**
-> 진실로 진실로 너희에게 이르노니 죽은 자들이 하나님의 아들의 음성을 들을 때가 오나니 곧 이 때라 듣는 자는 살아나리라
+📖 **레위기 2:9**
+> 그 소제물 중에서 기념할 것을 가져다가 제단 위에서 불사를지니 이는 화제라 여호와께 향기로운 냄새니라
 
-🕊️ _업데이트 시각: 2025-10-02 01:16:58 KST_
+🕊️ _업데이트 시각: 2025-10-02 01:39:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
