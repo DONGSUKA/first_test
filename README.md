@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:21**
-> 교만하여 저주를 받으며 주의 계명들에서 떠나는 자들을 주께서 꾸짖으셨나이다
+📖 **요한복음 5:44**
+> 너희가 서로 영광을 취하고 유일하신 하나님께로부터 오는 영광은 구하지 아니하니 어찌 나를 믿을 수 있느냐
 
-🕊️ _업데이트 시각: 2025-10-01 20:31:24 KST_
+🕊️ _업데이트 시각: 2025-10-01 20:38:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
