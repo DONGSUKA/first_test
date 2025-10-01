@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 19:9**
-> 어떤 사람들은 마음이 굳어 순종하지 않고 무리 앞에서 이 도를 비방하거늘 바울이 그들을 떠나 제자들을 따로 세우고 두란노 서원에서날마다 강론하니라
+📖 **에베소서 5:2**
+> 그리스도께서 너희를 사랑하신 것 같이 너희도 사랑 가운데서 행하라 그는 우리를 위하여 자신을 버리사 향기로운 제물과 희생제물로 하나님께 드리셨느니라
 
-🕊️ _업데이트 시각: 2025-10-02 05:29:50 KST_
+🕊️ _업데이트 시각: 2025-10-02 05:40:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
