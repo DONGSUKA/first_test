@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 22:26**
-> 처녀에게는 아무것도 행하지 말 것은 처녀에게는 죽일 죄가 없음이라 이 일은 사람이 일어나 그 이웃을 쳐죽인 것과 같은 것이라
+📖 **열왕기하 14:20**
+> 그 시체를 말에 실어다가 예루살렘에서 그의 조상들과 함께 다윗 성에 장사하니라
 
-🕊️ _업데이트 시각: 2025-10-02 04:49:23 KST_
+🕊️ _업데이트 시각: 2025-10-02 04:54:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
