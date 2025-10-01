@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 29:23**
-> 넷째 날에는 수송아지 열 마리와 숫양 두 마리와 일 년 되고 흠 없는 숫양 열네 마리를 드릴 것이며
+📖 **신명기 28:52**
+> 그들이 전국에서 네 모든 성읍을 에워싸고 네가 의뢰하는 높고 견고한 성벽을 다 헐며 네 하나님 여호와께서 네게 주시는 땅의 모든 성읍에서 너를 에워싸리니
 
-🕊️ _업데이트 시각: 2025-10-02 00:39:11 KST_
+🕊️ _업데이트 시각: 2025-10-02 00:45:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
