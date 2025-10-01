@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 11:11**
-> 너희 중에 아버지 된 자로서 누가 아들이 생선을 달라 하는데 생선 대신에 뱀을 주며
+📖 **여호수아 24:23**
+> 여호수아가 이르되 그러면 이제 너희 중에 있는 이방 신들을 치워 버리고 너희의 마음을 이스라엘의 하나님 여호와께로 향하라 하니
 
-🕊️ _업데이트 시각: 2025-10-01 20:56:20 KST_
+🕊️ _업데이트 시각: 2025-10-01 21:23:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
