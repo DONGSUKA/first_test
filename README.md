@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 12:3**
-> 예수께서 이르시되 다윗이 자기와 그 함께 한 자들이 시장할 때에 한 일을 읽지 못하였느냐
+📖 **창세기 22:18**
+> 또 네 씨로 말미암아 천하 만민이 복을 받으리니 이는 네가 나의 말을 준행하였음이니라 하셨다 하니라
 
-🕊️ _업데이트 시각: 2025-10-02 23:56:21 KST_
+🕊️ _업데이트 시각: 2025-10-03 00:11:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
