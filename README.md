@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 26:12**
-> 이상은 다 문지기의 반장으로서 그 형제처럼 직임을 얻어 여호와의 성전에서 섬기는 자들이라
+📖 **골로새서 1:23**
+> 만일 너희가 믿음에 거하고 터 위에 굳게 서서 너희 들은 바 복음의 소망에서 흔들리지 아니하면 그리하리라 이 복음은 천하 만민에게전파된 바요 나 바울은 이 복음의 일꾼이 되었노라
 
-🕊️ _업데이트 시각: 2025-10-03 08:08:25 KST_
+🕊️ _업데이트 시각: 2025-10-03 08:23:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
