@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 46:4**
-> 한 시내가 있어 나뉘어 흘러 하나님의 성 곧 지존하신 이의 성소를 기쁘게 하도다
+📖 **창세기 39:15**
+> 그가 나의 소리 질러 부름을 듣고 그의 옷을 내게 버려두고 도망하여 나갔느니라 하고
 
-🕊️ _업데이트 시각: 2025-10-02 13:50:42 KST_
+🕊️ _업데이트 시각: 2025-10-02 13:56:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
