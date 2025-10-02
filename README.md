@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 3:28**
-> 네게 있거든 이웃에게 이르기를 갔다가 다시 오라 내일 주겠노라 하지 말며
+📖 **열왕기하 16:19**
+> 아하스가 행한 그 남은 사적은 유다 왕 역대지략에 기록되지 아니하였느냐
 
-🕊️ _업데이트 시각: 2025-10-02 20:51:11 KST_
+🕊️ _업데이트 시각: 2025-10-02 20:57:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
