@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 17:10**
-> 그들의 마음은 기름에 잠겼으며 그들의 입은 교만하게 말하나이다
+📖 **창세기 41:25**
+> 요셉이 바로에게 아뢰되 바로의 꿈은 하나라 하나님이 그가 하실 일을 바로에게 보이심이니이다
 
-🕊️ _업데이트 시각: 2025-10-03 03:40:18 KST_
+🕊️ _업데이트 시각: 2025-10-03 03:49:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
