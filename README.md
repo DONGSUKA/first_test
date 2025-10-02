@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌레몬서 1:7**
-> 형제여 성도들의 마음이 너로 말미암아 평안함을 얻었으니 내가 너의 사랑으로 많은 기쁨과 위로를 받았노라
+📖 **요한복음 10:21**
+> 어떤 사람은 말하되 이 말은 귀신 들린 자의 말이 아니라 귀신이 맹인의 눈을 뜨게 할 수 있느냐 하더라
 
-🕊️ _업데이트 시각: 2025-10-02 20:24:34 KST_
+🕊️ _업데이트 시각: 2025-10-02 20:31:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
