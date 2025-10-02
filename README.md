@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 8:37**
-> 그러나 이 모든 일에 우리를 사랑하시는 이로 말미암아 우리가 넉넉히 이기느니라
+📖 **요한복음 15:24**
+> 내가 아무도 못한 일을 그들 중에서 하지 아니하였더라면 그들에게 죄가 없었으려니와 지금은 그들이 나와 내 아버지를 보았고 또 미워하였도다
 
-🕊️ _업데이트 시각: 2025-10-02 13:20:44 KST_
+🕊️ _업데이트 시각: 2025-10-02 13:35:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
