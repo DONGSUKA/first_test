@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 1:31**
-> 밧세바가 얼굴을 땅에 대고 절하며 내 주 다윗 왕은 만세수를 하옵소서 하니라
+📖 **여호수아 1:3**
+> 내가 모세에게 말한 바와 같이 너희 발바닥으로 밟는 곳은 모두 내가 너희에게 주었노니
 
-🕊️ _업데이트 시각: 2025-10-03 16:14:59 KST_
+🕊️ _업데이트 시각: 2025-10-03 16:27:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
