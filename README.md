@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 29:22**
-> 라반이 그 곳 사람을 다 모아 잔치하고
+📖 **출애굽기 4:3**
+> 여호와께서 이르시되 그것을 땅에 던지라 하시매 곧 땅에 던지니 그것이 뱀이 된지라 모세가 뱀 앞에서 피하매
 
-🕊️ _업데이트 시각: 2025-10-04 05:45:30 KST_
+🕊️ _업데이트 시각: 2025-10-04 05:51:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
