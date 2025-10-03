@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 7:9**
-> 전에 율법을 깨닫지 못했을 때에는 내가 살았더니 계명이 이르매 죄는 살아나고 나는 죽었도다
+📖 **로마서 6:23**
+> 죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라
 
-🕊️ _업데이트 시각: 2025-10-03 19:47:06 KST_
+🕊️ _업데이트 시각: 2025-10-03 19:52:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
