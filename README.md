@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 33:20**
-> 그러나 너희가 이르기를 주의 길이 바르지 아니하다 하는도다 이스라엘 족속아 나는 너희가 각기 행한 대로 심판하리라 하시니라
+📖 **야고보서 5:12**
+> 내 형제들아 무엇보다도 맹세하지 말지니 하늘로나 땅으로나 아무 다른 것으로도 맹세하지 말고 오직 너희가 그렇다고 생각하는 것은그렇다 하고 아니라고 생각하는 것은 아니라 하여 정죄 받음을 면하라
 
-🕊️ _업데이트 시각: 2025-10-04 00:17:49 KST_
+🕊️ _업데이트 시각: 2025-10-04 00:31:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
