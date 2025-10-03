@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 5:12**
-> 그러므로 내가 에브라임에게는 좀 같으며 유다 족속에게는 썩이는 것 같도다
+📖 **로마서 16:4**
+> 그들은 내 목숨을 위하여 자기들의 목까지도 내놓았나니 나뿐 아니라 이방인의 모든 교회도 그들에게 감사하느니라
 
-🕊️ _업데이트 시각: 2025-10-04 07:41:06 KST_
+🕊️ _업데이트 시각: 2025-10-04 07:47:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
