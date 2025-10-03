@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 34:10**
-> 젊은 사자는 궁핍하여 주릴지라도 여호와를 찾는 자는 모든 좋은 것에 부족함이 없으리로다
+📖 **민수기 31:8**
+> 그 죽인 자 외에 미디안의 다섯 왕을 죽였으니 미디안의 왕들은 에위와 레겜과 수르와 후르와 레바이며 또 브올의 아들 발람을 칼로 죽였더라
 
-🕊️ _업데이트 시각: 2025-10-03 13:54:52 KST_
+🕊️ _업데이트 시각: 2025-10-03 14:08:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
