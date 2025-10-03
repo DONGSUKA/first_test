@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 21:27**
-> 아브라함이 양과 소를 가져다가 아비멜렉에게 주고 두 사람이 서로 언약을 세우니라
+📖 **요한일서 3:13**
+> 행함과 진실함으로 사랑하자 형제들아 세상이 너희를 미워하여도 이상히 여기지 말라
 
-🕊️ _업데이트 시각: 2025-10-04 02:24:14 KST_
+🕊️ _업데이트 시각: 2025-10-04 02:33:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
