@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 31:4**
-> 르무엘아 포도주를 마시는 것이 왕들에게 마땅하지 아니하고 왕들에게 마땅하지 아니하며 독주를 찾는 것이 주권자들에게 마땅하지 않도다
+📖 **사도행전 3:3**
+> 그가 베드로와 요한이 성전에 들어가려 함을 보고 구걸하거늘
 
-🕊️ _업데이트 시각: 2025-10-04 08:51:06 KST_
+🕊️ _업데이트 시각: 2025-10-04 08:57:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
