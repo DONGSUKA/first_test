@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 23:9**
-> 제사장 여호야다가 하나님의 전 안에 있는 다윗 왕의 창과 큰 방패와 작은 방패를 백부장들에게 주고
+📖 **아모스 4:3**
+> 너희가 성 무너진 데를 통하여 각기 앞으로 바로 나가서 하르몬에 던져지리라 여호와의 말씀이니라
 
-🕊️ _업데이트 시각: 2025-10-03 17:39:46 KST_
+🕊️ _업데이트 시각: 2025-10-03 17:50:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
