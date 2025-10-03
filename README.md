@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 3:3**
-> 여호와여 주는 나의 방패시요 나의 영광이시요 나의 머리를 드시는 자이시니이다
+📖 **아모스 7:6**
+> 주 여호와께서 이에 대하여 뜻을 돌이켜 주 여호와께서 이르시되 이것도 이루지 아니하리라 하시니라
 
-🕊️ _업데이트 시각: 2025-10-04 04:26:32 KST_
+🕊️ _업데이트 시각: 2025-10-04 04:33:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
