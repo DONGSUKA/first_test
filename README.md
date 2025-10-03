@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 6:23**
-> 죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라
+📖 **갈라디아서 6:17**
+> 이후로는 누구든지 나를 괴롭게 하지 말라 내가 내 몸에 예수의 흔적을 지니고 있노라
 
-🕊️ _업데이트 시각: 2025-10-03 19:52:58 KST_
+🕊️ _업데이트 시각: 2025-10-03 19:58:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
