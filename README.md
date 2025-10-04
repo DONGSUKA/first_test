@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 21:12**
-> 예수께서 이르시되 와서 조반을 먹으라 하시니 제자들이 주님이신 줄 아는 고로 당신이 누구냐 감히 묻는 자가 없더라
+📖 **역대상 29:6**
+> 이에 모든 가문의 지도자들과 이스라엘 모든 지파의 지도자들과 천부장과 백부장과 왕의 사무관이 다 즐거이 드리되
 
-🕊️ _업데이트 시각: 2025-10-04 12:56:23 KST_
+🕊️ _업데이트 시각: 2025-10-04 13:12:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
