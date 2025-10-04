@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 9:25**
-> 그러므로 너는 깨달아 알지니라 예루살렘을 중건하라는 영이 날 때부터 기름 부음을 받은 자 곧 왕이 일어나기까지 일곱 이레와 예순두이레가 지날 것이요 그 곤란한 동안에 성이 중건되어 광장과 거리가 세워질 것이며
+📖 **창세기 46:34**
+> 당신들은 이르기를 주의 종들은 어렸을 때부터 지금까지 목축하는 자들이온데 우리와 우리 선조가 다 그러하니이다 하소서 애굽 사람은다 목축을 가증히 여기나니 당신들이 고센 땅에 살게 되리이다
 
-🕊️ _업데이트 시각: 2025-10-05 01:43:05 KST_
+🕊️ _업데이트 시각: 2025-10-05 01:49:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
