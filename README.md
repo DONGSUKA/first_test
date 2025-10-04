@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 10:33**
-> 누구든지 사람 앞에서 나를 부인하면 나도 하늘에 계신 내 아버지 앞에서 그를 부인하리라
+📖 **시편 143:10**
+> 주는 나의 하나님이시니 나를 가르쳐 주의 뜻을 행하게 하소서 주의 영은 선하시니 나를 공평한 땅에 인도하소서
 
-🕊️ _업데이트 시각: 2025-10-05 03:57:17 KST_
+🕊️ _업데이트 시각: 2025-10-05 04:09:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
