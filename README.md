@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 10:16**
-> 주께서 이르시되 그 날 후로는 그들과 맺을 언약이 이것이라 하시고 내 법을 그들의 마음에 두고 그들의 생각에 기록하리라 하신 후에
+📖 **고린도후서 1:12**
+> 고린도 교회 방문을 연기하다 우리가 세상에서 특별히 너희에 대하여 하나님의 거룩함과 진실함으로 행하되 육체의 지혜로 하지 아니하고 하나님의 은혜로 행함은 우리 양심이 증언하는 바니 이것이 우리의 자랑이라
 
-🕊️ _업데이트 시각: 2025-10-04 20:49:59 KST_
+🕊️ _업데이트 시각: 2025-10-04 20:55:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
