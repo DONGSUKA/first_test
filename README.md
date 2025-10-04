@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 1:15**
-> 그들의 왕은 그 지도자들과 함께 사로잡혀 가리라 여호와께서 말씀하셨느니라
+📖 **사무엘상 2:12**
+> 엘리의 행실이 나쁜 아들들 엘리의 아들들은 행실이 나빠 여호와를 알지 못하더라
 
-🕊️ _업데이트 시각: 2025-10-04 22:34:44 KST_
+🕊️ _업데이트 시각: 2025-10-04 22:40:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
