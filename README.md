@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 4:33**
-> 또 모든 성읍 주위에 살던 주민들의 경계가 바알까지 다다랐으니 시므온 자손의 거주지가 이러하고 각기 계보가 있더라
+📖 **열왕기상 8:23**
+> 이르되 이스라엘의 하나님 여호와여 위로 하늘과 아래로 땅에 주와 같은 신이 없나이다 주께서는 온 마음으로 주의 앞에서 행하는 종들에게 언약을 지키시고 은혜를 베푸시나이다
 
-🕊️ _업데이트 시각: 2025-10-04 19:08:01 KST_
+🕊️ _업데이트 시각: 2025-10-04 19:27:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
