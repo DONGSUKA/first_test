@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 46:16**
-> 군주와 그의 기업 주 여호와께서 이같이 말씀하셨느니라 군주가 만일 한 아들에게 선물을 준즉 그의 기업이 되어 그 자손에게 속하나니이는 그 기업을 이어 받음이어니와
+📖 **열왕기하 13:23**
+> 여호와께서 아브라함과 이삭과 야곱과 더불어 세우신 언약 때문에 이스라엘에게 은혜를 베풀며 그들을 불쌍히 여기시며 돌보사 멸하기를 즐겨하지 아니하시고 이 때까지 자기 앞에서 쫓아내지 아니하셨더라
 
-🕊️ _업데이트 시각: 2025-10-04 16:25:11 KST_
+🕊️ _업데이트 시각: 2025-10-04 16:31:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
