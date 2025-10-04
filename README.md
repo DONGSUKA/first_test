@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 12:22**
-> 인자야 이스라엘 땅에서 이르기를 날이 더디고 모든 묵시가 사라지리라 하는 너희의 이 속담이 어찌 됨이냐
+📖 **역대상 27:1**
+> 모든 가문의 우두머리와 관원들 이스라엘 자손의 모든 가문의 우두머리와 천부장과 백부장과 왕을 섬기는 관원들이 그들의 숫자대로 반이나누이니 각 반열이 이만 사천 명씩이라 일 년 동안 달마다 들어가며 나왔으니
 
-🕊️ _업데이트 시각: 2025-10-04 22:46:55 KST_
+🕊️ _업데이트 시각: 2025-10-04 22:52:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
