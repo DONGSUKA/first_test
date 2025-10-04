@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 43:4**
-> 여호와의 영광이 동문을 통하여 성전으로 들어가고
+📖 **열왕기하 12:21**
+> 그를 쳐서 죽인 신복은 시므앗의 아들 요사갈과 소멜의 아들 여호사바드였더라 그는 다윗 성에 그의 조상들과 함께 장사되고 그의 아들 아마샤가 그를 대신하여 왕이 되니라
 
-🕊️ _업데이트 시각: 2025-10-05 07:52:46 KST_
+🕊️ _업데이트 시각: 2025-10-05 07:58:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
