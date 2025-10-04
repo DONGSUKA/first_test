@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 13:16**
-> 사마리아가 그들의 하나님을 배반하였으므로 형벌을 당하여 칼에 엎드러질 것이요 그 어린 아이는 부서뜨려지며 아이 밴 여인은 배가 갈라지리라
+📖 **창세기 14:4**
+> 이들이 십이 년 동안 그돌라오멜을 섬기다가 제십삼년에 배반한지라
 
-🕊️ _업데이트 시각: 2025-10-04 11:58:28 KST_
+🕊️ _업데이트 시각: 2025-10-04 12:21:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
