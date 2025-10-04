@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 34:12**
-> 그 경계가 또 요단으로 내려가서 염해에 이르나니 너희 땅의 사방 경계가 이러하니라
+📖 **욥기 14:4**
+> 누가 깨끗한 것을 더러운 것 가운데에서 낼 수 있으리이까 하나도 없나이다
 
-🕊️ _업데이트 시각: 2025-10-05 01:55:08 KST_
+🕊️ _업데이트 시각: 2025-10-05 02:06:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
