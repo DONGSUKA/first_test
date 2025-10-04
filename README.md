@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 6:20**
-> 훈계와 명령 내 아들아 네 아비의 명령을 지키며 네 어미의 법을 떠나지 말고
+📖 **창세기 31:14**
+> 라헬과 레아가 그에게 대답하여 이르되 우리가 우리 아버지 집에서 무슨 분깃이나 유산이 있으리요
 
-🕊️ _업데이트 시각: 2025-10-04 23:12:51 KST_
+🕊️ _업데이트 시각: 2025-10-04 23:27:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
