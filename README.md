@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 22:12**
-> 사울이 이르되 너 아히둡의 아들아 들으라 대답하되 내 주여 내가 여기 있나이다
+📖 **창세기 2:15**
+> 여호와 하나님이 그 사람을 이끌어 에덴 동산에 두어 그것을 경작하며 지키게 하시고
 
-🕊️ _업데이트 시각: 2025-10-04 19:54:50 KST_
+🕊️ _업데이트 시각: 2025-10-04 20:03:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
