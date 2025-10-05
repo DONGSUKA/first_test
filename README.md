@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 66:14**
-> 이는 내 입술이 낸 것이요 내 환난 때에 내 입이 말한 것이니이다
+📖 **시편 106:3**
+> 정의를 지키는 자들과 항상 공의를 행하는 자는 복이 있도다
 
-🕊️ _업데이트 시각: 2025-10-05 10:01:34 KST_
+🕊️ _업데이트 시각: 2025-10-05 11:40:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
