@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 29:6**
-> 그의 머리에 관을 씌우고 그 위에 거룩한 패를 더하고
+📖 **시편 73:13**
+> 내가 내 마음을 깨끗하게 하며 내 손을 씻어 무죄하다 한 것이 실로 헛되도다
 
-🕊️ _업데이트 시각: 2025-10-05 20:26:15 KST_
+🕊️ _업데이트 시각: 2025-10-05 20:33:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
