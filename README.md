@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:38**
-> 부하들이 이 말을 상관들에게 보고하니 그들이 로마 사람이라 하는 말을 듣고 두려워하여
+📖 **이사야 66:5**
+> 여호와의 말씀으로 말미암아 떠는 자들아 그의 말씀을 들을지어다 이르시되 너희 형제가 너희를 미워하며 내 이름으로 말미암아 너희를쫓아내며 이르기를 여호와께서는 영광을 나타내사 너희 기쁨을 우리에게 보이시기를 원하노라 하였으나 그들은 수치를 당하리라 하셨느니라
 
-🕊️ _업데이트 시각: 2025-10-06 00:24:39 KST_
+🕊️ _업데이트 시각: 2025-10-06 00:30:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
