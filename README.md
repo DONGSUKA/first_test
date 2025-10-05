@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 11:51**
-> 곧 아벨의 피로부터 제단과 성전 사이에서 죽임을 당한 사가랴의 피까지 하리라 내가 너희에게 이르노니 과연 이 세대가 담당하리라
+📖 **시편 69:2**
+> 나는 설 곳이 없는 깊은 수렁에 빠지며 깊은 물에 들어가니 큰 물이 내게 넘치나이다
 
-🕊️ _업데이트 시각: 2025-10-05 22:12:32 KST_
+🕊️ _업데이트 시각: 2025-10-05 22:28:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
