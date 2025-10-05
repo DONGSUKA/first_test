@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 1:10**
-> 올라가실 때에 제자들이 자세히 하늘을 쳐다보고 있는데 흰 옷 입은 두 사람이 그들 곁에 서서
+📖 **요한계시록 16:1**
+> 진노의 일곱 대접 또 내가 들으니 성전에서 큰 음성이 나서 일곱 천사에게 말하되 너희는 가서 하나님의 진노의 일곱 대접을 땅에 쏟으라 하더라
 
-🕊️ _업데이트 시각: 2025-10-06 06:28:16 KST_
+🕊️ _업데이트 시각: 2025-10-06 06:35:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
