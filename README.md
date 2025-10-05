@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 16:1**
-> 진노의 일곱 대접 또 내가 들으니 성전에서 큰 음성이 나서 일곱 천사에게 말하되 너희는 가서 하나님의 진노의 일곱 대접을 땅에 쏟으라 하더라
+📖 **시편 44:11**
+> 주께서 우리를 잡아먹힐 양처럼 그들에게 넘겨 주시고 여러 민족 중에 우리를 흩으셨나이다
 
-🕊️ _업데이트 시각: 2025-10-06 06:35:21 KST_
+🕊️ _업데이트 시각: 2025-10-06 06:40:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
