@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 16:6**
-> 아론은 자기를 위한 속죄제의 수송아지를 드리되 자기와 집안을 위하여 속죄하고
+📖 **사무엘상 6:10**
+> 그 사람들이 그같이 하여 젖 나는 소 둘을 끌어다가 수레를 메우고 송아지들은 집에 가두고
 
-🕊️ _업데이트 시각: 2025-10-06 00:55:32 KST_
+🕊️ _업데이트 시각: 2025-10-06 01:10:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
