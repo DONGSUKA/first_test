@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 13:4**
-> 그 날에 선지자들이 예언할 때에 그 환상을 각기 부끄러워할 것이며 사람을 속이려고 털옷도 입지 아니할 것이며
+📖 **시편 119:104**
+> 주의 법도들로 말미암아 내가 명철하게 되었으므로 모든 거짓 행위를 미워하나이다
 
-🕊️ _업데이트 시각: 2025-10-05 22:49:05 KST_
+🕊️ _업데이트 시각: 2025-10-05 22:55:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
