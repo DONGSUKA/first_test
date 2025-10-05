@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 26:18**
-> 이는 갓 자손의 종족들이니 계수된 자가 사만 오백 명이었더라
+📖 **사도행전 16:38**
+> 부하들이 이 말을 상관들에게 보고하니 그들이 로마 사람이라 하는 말을 듣고 두려워하여
 
-🕊️ _업데이트 시각: 2025-10-06 00:10:27 KST_
+🕊️ _업데이트 시각: 2025-10-06 00:24:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
