@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 7:40**
-> 이 말씀을 들은 무리 중에서 어떤 사람은 이 사람이 참으로 그 선지자라 하며
+📖 **욥기 21:21**
+> 그의 달 수가 다하면 자기 집에 대하여 무슨 관계가 있겠느냐
 
-🕊️ _업데이트 시각: 2025-10-06 16:55:04 KST_
+🕊️ _업데이트 시각: 2025-10-06 17:13:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
