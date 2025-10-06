@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 22:23**
-> 처녀인 여자가 남자와 약혼한 후에 어떤 남자가 그를 성읍 중에서 만나 동침하면
+📖 **마가복음 5:15**
+> 예수께 이르러 그 귀신 들렸던 자 곧 군대 귀신 지폈던 자가 옷을 입고 정신이 온전하여 앉은 것을 보고 두려워하더라
 
-🕊️ _업데이트 시각: 2025-10-06 13:57:49 KST_
+🕊️ _업데이트 시각: 2025-10-06 14:14:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
