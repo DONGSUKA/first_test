@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 39:42**
-> 여호와께서 모세에게 명령하신 대로 이스라엘 자손이 모든 역사를 마치매
+📖 **사사기 9:56**
+> 아비멜렉이 그의 형제 칠십 명을 죽여 자기 아버지에게 행한 악행을 하나님이 이같이 갚으셨고
 
-🕊️ _업데이트 시각: 2025-10-07 00:31:20 KST_
+🕊️ _업데이트 시각: 2025-10-07 00:41:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
