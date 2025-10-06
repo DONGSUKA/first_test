@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 41:3**
-> 이스마엘이 또 미스바에서 그다랴와 함께 있던 모든 유다 사람과 거기에 있는 갈대아 군사를 죽였더라
+📖 **시편 78:42**
+> 그들이 그의 권능의 손을 기억하지 아니하며 대적에게서 그들을 구원하신 날도 기억하지 아니하였도다
 
-🕊️ _업데이트 시각: 2025-10-06 22:44:14 KST_
+🕊️ _업데이트 시각: 2025-10-06 22:51:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
