@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 35:26**
-> 레아의 여종 실바의 아들들은 갓과 아셀이니 이들은 야곱의 아들들이요 밧단아람에서 그에게 낳은 자더라
+📖 **사도행전 8:33**
+> 그가 굴욕을 당했을 때 공정한 재판도 받지 못하였으니 누가 그의 세대를 말하리요 그의 생명이 땅에서 빼앗김이로다 하였거늘
 
-🕊️ _업데이트 시각: 2025-10-08 04:44:49 KST_
+🕊️ _업데이트 시각: 2025-10-08 04:50:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
