@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:41**
-> 바로가 또 요셉에게 이르되 내가 너를 애굽 온 땅의 총리가 되게 하노라 하고
+📖 **잠언 22:7**
+> 부자는 가난한 자를 주관하고 빚진 자는 채주의 종이 되느니라
 
-🕊️ _업데이트 시각: 2025-10-07 13:11:21 KST_
+🕊️ _업데이트 시각: 2025-10-07 13:32:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
