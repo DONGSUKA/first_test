@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 17:5**
-> 가난한 자를 조롱하는 자는 그를 지으신 주를 멸시하는 자요 사람의 재앙을 기뻐하는 자는 형벌을 면하지 못할 자니라
+📖 **레위기 25:4**
+> 일곱째 해에는 그 땅이 쉬어 안식하게 할지니 여호와께 대한 안식이라 너는 그 밭에 파종하거나 포도원을 가꾸지 말며
 
-🕊️ _업데이트 시각: 2025-10-07 19:57:37 KST_
+🕊️ _업데이트 시각: 2025-10-07 20:12:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
