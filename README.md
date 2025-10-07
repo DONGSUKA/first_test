@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 2:42**
-> 갈렙의 자손 여라므엘의 아우 갈렙의 아들 곧 맏아들은 메사이니 십의 아버지요 그 아들은 마레사니 헤브론의 아버지이며
+📖 **출애굽기 24:7**
+> 언약서를 가져다가 백성에게 낭독하여 듣게 하니 그들이 이르되 여호와의 모든 말씀을 우리가 준행하리이다
 
-🕊️ _업데이트 시각: 2025-10-07 17:55:55 KST_
+🕊️ _업데이트 시각: 2025-10-07 18:11:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
