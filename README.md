@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 21:7**
-> 므라리 자손들은 그 가족대로 르우벤 지파와 갓 지파와 스불론 지파 중에서 열두 성읍을 받았더라
+📖 **시편 118:25**
+> 여호와여 구하옵나니 이제 구원하소서 여호와여 우리가 구하옵나니 이제 형통하게 하소서
 
-🕊️ _업데이트 시각: 2025-10-08 03:14:05 KST_
+🕊️ _업데이트 시각: 2025-10-08 03:42:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
