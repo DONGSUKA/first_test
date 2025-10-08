@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 13:16**
-> 그들의 어린 아이들은 그들의 목전에서 메어침을 당하겠고 그들의 집은 노략을 당하겠고 그들의 아내는 욕을 당하리라
+📖 **출애굽기 35:16**
+> 번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과
 
-🕊️ _업데이트 시각: 2025-10-08 12:04:24 KST_
+🕊️ _업데이트 시각: 2025-10-08 12:34:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
