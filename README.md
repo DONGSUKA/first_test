@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 135:3**
-> 여호와를 찬송하라 여호와는 선하시며 그의 이름이 아름다우니 그의 이름을 찬양하라
+📖 **디모데전서 5:4**
+> 만일 어떤 과부에게 자녀나 손자들이 있거든 그들로 먼저 자기 집에서 효를 행하여 부모에게 보답하기를 배우게 하라 이것이 하나님앞에 받으실 만한 것이니라
 
-🕊️ _업데이트 시각: 2025-10-08 15:27:44 KST_
+🕊️ _업데이트 시각: 2025-10-08 15:47:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
