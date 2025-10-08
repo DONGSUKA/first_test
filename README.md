@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 5:1**
-> 애가 이스라엘 족속아 내가 너희에게 대하여 애가로 지은 이 말을 들으라
+📖 **사무엘상 2:24**
+> 내 아들들아 그리하지 말라 내게 들리는 소문이 좋지 아니하니라 너희가 여호와의 백성으로 범죄하게 하는도다
 
-🕊️ _업데이트 시각: 2025-10-09 04:21:37 KST_
+🕊️ _업데이트 시각: 2025-10-09 04:27:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
