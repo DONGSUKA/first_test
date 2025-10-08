@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 17:23**
-> 그들과 함께 말할 때에 마침 블레셋 사람의 싸움 돋우는 가드 사람 골리앗이라 하는 자가 그 전열에서 나와서 전과 같은 말을 하매 다윗이 들으니라
+📖 **출애굽기 2:23**
+> 여러 해 후에 애굽 왕은 죽었고 이스라엘 자손은 고된 노동으로 말미암아 탄식하며 부르짖으니 그 고된 노동으로 말미암아 부르짖는 소리가 하나님께 상달된지라
 
-🕊️ _업데이트 시각: 2025-10-09 04:35:31 KST_
+🕊️ _업데이트 시각: 2025-10-09 04:41:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
