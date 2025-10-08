@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 16:13**
-> 그의 화살들이 사방에서 날아와 사정 없이 나를 쏨으로 그는 내 콩팥들을 꿰뚫고 그는 내 쓸개가 땅에 흘러나오게 하시는구나
+📖 **열왕기하 24:11**
+> 그의 신복들이 에워쌀 때에 바벨론의 왕 느부갓네살도 그 성에 이르니
 
-🕊️ _업데이트 시각: 2025-10-08 20:08:46 KST_
+🕊️ _업데이트 시각: 2025-10-08 20:23:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
