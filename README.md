@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 8:22**
-> 그 날에 나는 내 백성이 거주하는 고센 땅을 구별하여 그 곳에는 파리가 없게 하리니 이로 말미암아 이 땅에서 내가 여호와인 줄을 네가 알게 될 것이라
+📖 **누가복음 10:15**
+> 가버나움아 네가 하늘에까지 높아지겠느냐 음부에까지 낮아지리라
 
-🕊️ _업데이트 시각: 2025-10-09 00:30:15 KST_
+🕊️ _업데이트 시각: 2025-10-09 00:42:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
