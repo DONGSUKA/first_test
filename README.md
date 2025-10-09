@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 14:24**
-> 새벽에 여호와께서 불과 구름 기둥 가운데서 애굽 군대를 보시고 애굽 군대를 어지럽게 하시며
+📖 **느헤미야 11:36**
+> 유다에 있던 레위 사람의 일부는 베냐민과 합하였느니라
 
-🕊️ _업데이트 시각: 2025-10-09 15:28:43 KST_
+🕊️ _업데이트 시각: 2025-10-09 15:49:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
