@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 33:36**
-> 에시온게벨을 떠나 신 광야 곧 가데스에 진을 치고
+📖 **민수기 26:22**
+> 이는 유다 종족들이니 계수된 자가 칠만 육천오백 명이었더라
 
-🕊️ _업데이트 시각: 2025-10-09 20:47:53 KST_
+🕊️ _업데이트 시각: 2025-10-09 20:53:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
