@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 4:12**
-> 청년들에게 명령하매 곧 그들을 죽이고 수족을 베어 헤브론 못 가에 매달고 이스보셋의 머리를 가져다가 헤브론에서 아브넬의 무덤에매장하였더라
+📖 **창세기 30:15**
+> 레아가 그에게 이르되 네가 내 남편을 빼앗은 것이 작은 일이냐 그런데 네가 내 아들의 합환채도 빼앗고자 하느냐 라헬이 이르되 그러면언니의 아들의 합환채 대신에 오늘 밤에 내 남편이 언니와 동침하리라 하니라
 
-🕊️ _업데이트 시각: 2025-10-10 05:13:11 KST_
+🕊️ _업데이트 시각: 2025-10-10 05:31:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
