@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 3:2**
-> 느부갓네살 왕이 사람을 보내어 총독과 수령과 행정관과 모사와 재무관과 재판관과 법률사와 각 지방 모든 관원을 느부갓네살 왕이 세운신상의 낙성식에 참석하게 하매
+📖 **열왕기하 17:34**
+> 그들이 오늘까지 이전 풍속대로 행하여 여호와를 경외하지 아니하며 또 여호와께서 이스라엘이라 이름을 주신 야곱의 자손에게 명령하신 율례와 법도와 율법과 계명을 준행하지 아니하는도다
 
-🕊️ _업데이트 시각: 2025-10-10 06:27:58 KST_
+🕊️ _업데이트 시각: 2025-10-10 06:35:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
