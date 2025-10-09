@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 27:11**
-> 여덟째 달 여덟째 지휘관은 세라 족속 후사 사람 십브개이니 그의 반에 이만 사천 명이요
+📖 **레위기 27:9**
+> 사람이 서원하는 예물로 여호와께 드리는 것이 가축이면 여호와께 드릴 때는 다 거룩하니
 
-🕊️ _업데이트 시각: 2025-10-09 19:39:30 KST_
+🕊️ _업데이트 시각: 2025-10-09 19:47:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
