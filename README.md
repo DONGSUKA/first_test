@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 11:36**
-> 유다에 있던 레위 사람의 일부는 베냐민과 합하였느니라
+📖 **로마서 6:1**
+> 그리스도와 함께 죽고 함께 산다 그런즉 우리가 무슨 말을 하리요 은혜를 더하게 하려고 죄에 거하겠느냐
 
-🕊️ _업데이트 시각: 2025-10-09 15:49:19 KST_
+🕊️ _업데이트 시각: 2025-10-09 15:57:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
