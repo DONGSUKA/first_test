@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 27:16**
-> 여호와, 모든 육체의 생명의 하나님이시여 원하건대 한 사람을 이 회중 위에 세워서
+📖 **출애굽기 11:9**
+> 여호와께서 모세에게 이르시기를 바로가 너희의 말을 듣지 아니하리라 그러므로 내가 애굽 땅에서 나의 기적을 더하리라 하셨고
 
-🕊️ _업데이트 시각: 2025-10-09 14:30:47 KST_
+🕊️ _업데이트 시각: 2025-10-09 14:41:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
