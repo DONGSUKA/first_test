@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 4:26**
-> 셋도 아들을 낳고 그의 이름을 에노스라 하였으며 그 때에 사람들이 비로소 여호와의 이름을 불렀더라
+📖 **예레미야 34:11**
+> 후에 그들의 뜻이 변하여 자유를 주었던 노비를 끌어다가 복종시켜 다시 노비로 삼았더라
 
-🕊️ _업데이트 시각: 2025-10-09 17:12:34 KST_
+🕊️ _업데이트 시각: 2025-10-09 17:37:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
