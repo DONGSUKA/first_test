@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:140**
-> 주의 말씀이 심히 순수하므로 주의 종이 이를 사랑하나이다
+📖 **사도행전 28:10**
+> 후한 예로 우리를 대접하고 떠날 때에 우리 쓸 것을 배에 실었더라
 
-🕊️ _업데이트 시각: 2025-10-10 22:55:22 KST_
+🕊️ _업데이트 시각: 2025-10-10 23:09:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
