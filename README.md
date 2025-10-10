@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 8:2**
-> 만일 누구든지 무엇을 아는 줄로 생각하면 아직도 마땅히 알 것을 알지 못하는 것이요
+📖 **민수기 1:24**
+> 갓의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니
 
-🕊️ _업데이트 시각: 2025-10-10 21:59:22 KST_
+🕊️ _업데이트 시각: 2025-10-10 22:27:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
