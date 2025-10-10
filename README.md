@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 16:3**
-> 땅에 있는 성도들은 존귀한 자들이니 나의 모든 즐거움이 그들에게 있도다
+📖 **고린도전서 4:4**
+> 내가 자책할 아무 것도 깨닫지 못하나 이로 말미암아 의롭다 함을 얻지 못하노라 다만 나를 심판하실 이는 주시니라
 
-🕊️ _업데이트 시각: 2025-10-11 07:43:57 KST_
+🕊️ _업데이트 시각: 2025-10-11 07:49:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
