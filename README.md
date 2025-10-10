@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 17:1**
-> 나의 기운이 쇠하였으며 나의 날이 다하였고 무덤이 나를 위하여 준비되었구나
+📖 **로마서 9:31**
+> 의의 법을 따라간 이스라엘은 율법에 이르지 못하였으니
 
-🕊️ _업데이트 시각: 2025-10-10 18:42:26 KST_
+🕊️ _업데이트 시각: 2025-10-10 18:48:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
