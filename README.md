@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 2:2**
-> 내가 웃음에 관하여 말하여 이르기를 그것은 미친 것이라 하였고 희락에 대하여 이르기를 이것이 무슨 소용이 있는가 하였노라
+📖 **에스더 4:10**
+> 에스더가 하닥에게 이르되 너는 모르드개에게 전하기를
 
-🕊️ _업데이트 시각: 2025-10-10 12:50:41 KST_
+🕊️ _업데이트 시각: 2025-10-10 12:56:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
