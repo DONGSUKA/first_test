@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 27:4**
-> 유다 산중에 성읍들을 건축하며 수풀 가운데에 견고한 진영들과 망대를 건축하고
+📖 **마가복음 11:16**
+> 아무나 물건을 가지고 성전 안으로 지나다님을 허락하지 아니하시고
 
-🕊️ _업데이트 시각: 2025-10-10 14:47:37 KST_
+🕊️ _업데이트 시각: 2025-10-10 14:53:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
