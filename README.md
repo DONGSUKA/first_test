@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 4:10**
-> 에스더가 하닥에게 이르되 너는 모르드개에게 전하기를
+📖 **창세기 11:26**
+> 데라는 칠십 세에 아브람과 나홀과 하란을 낳았더라
 
-🕊️ _업데이트 시각: 2025-10-10 12:56:14 KST_
+🕊️ _업데이트 시각: 2025-10-10 13:13:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
