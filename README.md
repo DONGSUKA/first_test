@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 13:5**
-> 나는 오직 주의 사랑을 의지하였사오니 나의 마음은 주의 구원을 기뻐하리이다
+📖 **사사기 8:7**
+> 기드온이 이르되 그러면 여호와께서 세바와 살문나를 내 손에 넘겨 주신 후에 내가 들가시와 찔레로 너희 살을 찢으리라 하고
 
-🕊️ _업데이트 시각: 2025-10-12 06:49:13 KST_
+🕊️ _업데이트 시각: 2025-10-12 06:54:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
