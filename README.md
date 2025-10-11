@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 26:3**
-> 사울이 광야 앞 하길라 산 길 가에 진 치니라 다윗이 광야에 있더니 사울이 자기를 따라 광야로 들어옴을 알고
+📖 **요한복음 5:45**
+> 내가 너희를 아버지께 고발할까 생각하지 말라 너희를 고발하는 이가 있으니 곧 너희가 바라는 자 모세니라
 
-🕊️ _업데이트 시각: 2025-10-12 04:17:23 KST_
+🕊️ _업데이트 시각: 2025-10-12 04:23:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
