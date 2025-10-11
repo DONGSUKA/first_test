@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 58:8**
-> 소멸하여 가는 달팽이 같게 하시며 만삭 되지 못하여 출생한 아이가 햇빛을 보지 못함 같게 하소서
+📖 **레위기 13:44**
+> 이는 나병 환자라 부정하니 제사장이 그를 확실히 부정하다고 할 것은 그 환부가 그 머리에 있음이니라
 
-🕊️ _업데이트 시각: 2025-10-11 13:49:12 KST_
+🕊️ _업데이트 시각: 2025-10-11 13:54:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
