@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 8:22**
-> 여호와께서 사무엘에게 이르시되 그들의 말을 들어 왕을 세우라 하시니 사무엘이 이스라엘 사람들에게 이르되 너희는 각기 성읍으로 돌아가라 하니라
+📖 **호세아 2:7**
+> 그가 그 사랑하는 자를 따라갈지라도 미치지 못하며 그들을 찾을지라도 만나지 못할 것이라 그제야 그가 이르기를 내가 본 남편에게로 돌아가리니 그 때의 내 형편이 지금보다 나았음이라 하리라
 
-🕊️ _업데이트 시각: 2025-10-11 23:23:13 KST_
+🕊️ _업데이트 시각: 2025-10-11 23:30:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
