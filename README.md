@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 36:9**
-> 그런즉 네가 어찌 내 주의 종 가운데 극히 작은 총독 한 사람인들 물리칠 수 있으랴 어찌 애굽을 믿고 병거와 기병을 얻으려 하느냐
+📖 **누가복음 24:30**
+> 그들과 함께 음식 잡수실 때에 떡을 가지사 축사하시고 떼어 그들에게 주시니
 
-🕊️ _업데이트 시각: 2025-10-11 12:53:32 KST_
+🕊️ _업데이트 시각: 2025-10-11 12:59:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
