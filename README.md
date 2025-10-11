@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 36:22**
-> 로단의 자녀는 호리와 헤맘과 로단의 누이 딤나요
+📖 **마태복음 22:46**
+> 한 마디도 능히 대답하는 자가 없고 그 날부터 감히 그에게 묻는 자도 없더라
 
-🕊️ _업데이트 시각: 2025-10-12 02:24:06 KST_
+🕊️ _업데이트 시각: 2025-10-12 02:31:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
