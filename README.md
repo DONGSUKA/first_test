@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 32:21**
-> 주께서 표적과 기사와 강한 손과 펴신 팔과 큰 두려움으로 주의 백성 이스라엘을 애굽 땅에서 인도하여 내시고
+📖 **에스겔 33:31**
+> 백성이 모이는 것 같이 네게 나아오며 내 백성처럼 네 앞에 앉아서 네 말을 들으나 그대로 행하지 아니하니 이는 그 입으로는 사랑을 나타내어도 마음으로는 이익을 따름이라
 
-🕊️ _업데이트 시각: 2025-10-12 07:07:30 KST_
+🕊️ _업데이트 시각: 2025-10-12 07:25:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
