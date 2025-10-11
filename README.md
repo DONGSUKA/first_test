@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 2:2**
-> 유대인의 왕으로 나신 이가 어디 계시냐 우리가 동방에서 그의 별을 보고 그에게 경배하러 왔노라 하니
+📖 **시편 119:33**
+> 여호와여 주의 율례들의 도를 내게 가르치소서 내가 끝까지 지키리이다
 
-🕊️ _업데이트 시각: 2025-10-11 11:59:22 KST_
+🕊️ _업데이트 시각: 2025-10-11 12:25:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
