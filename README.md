@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 27:13**
-> 이에 빌라도가 이르되 그들이 너를 쳐서 얼마나 많은 것으로 증언하는지 듣지 못하느냐 하되
+📖 **다니엘 6:24**
+> 왕이 말하여 다니엘을 참소한 사람들을 끌어오게 하고 그들을 그들의 처자들과 함께 사자 굴에 던져 넣게 하였더니 그들이 굴 바닥에 닿기도 전에 사자들이 곧 그들을 움켜서 그 뼈까지도 부서뜨렸더라
 
-🕊️ _업데이트 시각: 2025-10-12 03:55:09 KST_
+🕊️ _업데이트 시각: 2025-10-12 04:03:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
