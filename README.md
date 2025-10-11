@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데후서 2:8**
-> 내가 전한 복음대로 다윗의 씨로 죽은 자 가운데서 다시 살아나신 예수 그리스도를 기억하라
+📖 **민수기 29:35**
+> 여덟째 날에는 장엄한 대회로 모일 것이요 아무 일도 하지 말 것이며
 
-🕊️ _업데이트 시각: 2025-10-11 18:55:48 KST_
+🕊️ _업데이트 시각: 2025-10-11 19:09:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
