@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 6:7**
-> 너희가 피차 고발함으로 너희 가운데 이미 뚜렷한 허물이 있나니 차라리 불의를 당하는 것이 낫지 아니하며 차라리 속는 것이 낫지 아니하냐
+📖 **사무엘상 24:5**
+> 그리 한 후에 사울의 옷자락 벰으로 말미암아 다윗의 마음이 찔려
 
-🕊️ _업데이트 시각: 2025-10-11 20:04:42 KST_
+🕊️ _업데이트 시각: 2025-10-11 20:18:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
