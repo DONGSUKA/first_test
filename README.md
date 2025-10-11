@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 33:26**
-> 여수룬이여 하나님 같은 이가 없도다 그가 너를 도우시려고 하늘을 타고 궁창에서 위엄을 나타내시는도다
+📖 **잠언 11:3**
+> 정직한 자의 성실은 자기를 인도하거니와 사악한 자의 패역은 자기를 망하게 하느니라
 
-🕊️ _업데이트 시각: 2025-10-12 05:40:05 KST_
+🕊️ _업데이트 시각: 2025-10-12 05:46:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
