@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 14:30**
-> 이후에는 내가 너희와 말을 많이 하지 아니하리니 이 세상의 임금이 오겠음이라 그러나 그는 내게 관계할 것이 없으니
+📖 **이사야 40:31**
+> 오직 여호와를 앙망하는 자는 새 힘을 얻으리니 독수리가 날개치며 올라감 같을 것이요 달음박질하여도 곤비하지 아니하겠고 걸어가도피곤하지 아니하리로다
 
-🕊️ _업데이트 시각: 2025-10-11 09:39:34 KST_
+🕊️ _업데이트 시각: 2025-10-11 11:07:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
