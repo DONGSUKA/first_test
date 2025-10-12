@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 22:50**
-> 그 중의 한 사람이 대제사장의 종을 쳐 그 오른쪽 귀를 떨어뜨린지라
+📖 **열왕기하 11:18**
+> 온 백성이 바알의 신당으로 가서 그 신당을 허물고 그 제단들과 우상들을 철저히 깨뜨리고 그 제단 앞에서 바알의 제사장 맛단을 죽이니라 제사장이 관리들을 세워 여호와의 성전을 수직하게 하고
 
-🕊️ _업데이트 시각: 2025-10-13 06:59:56 KST_
+🕊️ _업데이트 시각: 2025-10-13 07:16:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
