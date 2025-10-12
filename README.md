@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 37:40**
-> 여호와께서 그들을 도와 건지시되 악인들에게서 건져 구원하심은 그를 의지한 까닭이로다
+📖 **민수기 2:16**
+> 르우벤 진영에 속하여 계수된 군인의 총계는 십오만 천사백오십 명이라 그들은 제이대로 행진할지니라
 
-🕊️ _업데이트 시각: 2025-10-12 13:49:07 KST_
+🕊️ _업데이트 시각: 2025-10-12 13:54:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
