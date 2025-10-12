@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 2:15**
-> 어린 사자들이 그를 향하여 부르짖으며 소리를 질러 그의 땅을 황폐하게 하였으며 그의 성읍들은 불타서 주민이 없게 되었으며
+📖 **욥기 31:21**
+> 만일 나를 도와 주는 자가 성문에 있음을 보고 내가 주먹을 들어 고아를 향해 휘둘렀다면
 
-🕊️ _업데이트 시각: 2025-10-13 06:08:17 KST_
+🕊️ _업데이트 시각: 2025-10-13 06:22:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
