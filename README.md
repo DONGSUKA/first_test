@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 5:17**
-> 사도들이 능욕을 받다 대제사장과 그와 함께 있는 사람 즉 사두개인의 당파가 다 마음에 시기가 가득하여 일어나서
+📖 **요한복음 2:3**
+> 포도주가 떨어진지라 예수의 어머니가 예수에게 이르되 저들에게 포도주가 없다 하니
 
-🕊️ _업데이트 시각: 2025-10-12 20:26:42 KST_
+🕊️ _업데이트 시각: 2025-10-12 20:34:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
