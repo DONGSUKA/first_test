@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 4:28**
-> 너희는 거기서 사람의 손으로 만든 바 보지도 못하며 듣지도 못하며 먹지도 못하며 냄새도 맡지 못하는 목석의 신들을 섬기리라
+📖 **시편 83:14**
+> 삼림을 사르는 불과 산에 붙는 불길 같이
 
-🕊️ _업데이트 시각: 2025-10-13 03:11:36 KST_
+🕊️ _업데이트 시각: 2025-10-13 03:34:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
