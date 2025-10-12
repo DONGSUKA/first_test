@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 26:19**
-> 주 여호와께서 이같이 말씀하셨느니라 내가 너를 주민이 없는 성읍과 같이 황폐한 성읍이 되게 하고 깊은 바다가 네 위에 오르게 하며큰 물이 너를 덮게 할 때에
+📖 **에스더 1:11**
+> 왕후 와스디를 청하여 왕후의 관을 정제하고 왕 앞으로 나아오게 하여 그의 아리따움을 뭇 백성과 지방관들에게 보이게 하라 하니 이는왕후의 용모가 보기에 좋음이라
 
-🕊️ _업데이트 시각: 2025-10-12 22:15:54 KST_
+🕊️ _업데이트 시각: 2025-10-12 22:30:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
