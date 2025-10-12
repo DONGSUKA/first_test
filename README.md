@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 26:12**
-> 나는 너희 중에 행하여 너희의 하나님이 되고 너희는 내 백성이 될 것이니라
+📖 **역대상 2:39**
+> 아사랴는 헬레스를 낳고 헬레스는 엘르아사를 낳고
 
-🕊️ _업데이트 시각: 2025-10-13 00:33:32 KST_
+🕊️ _업데이트 시각: 2025-10-13 00:39:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
