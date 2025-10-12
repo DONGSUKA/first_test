@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 9:42**
-> 아하스는 야라를 낳고 야라는 알레멧과 아스마?과 시므리를 낳고 시므리는 모사를 낳고
+📖 **민수기 23:29**
+> 발람이 발락에게 이르되 나를 위하여 여기 일곱 제단을 쌓고 거기 수송아지 일곱 마리와 숫양 일곱 마리를 준비하소서
 
-🕊️ _업데이트 시각: 2025-10-12 23:08:22 KST_
+🕊️ _업데이트 시각: 2025-10-12 23:25:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
