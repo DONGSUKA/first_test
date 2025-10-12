@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 10:19**
-> 말이 많으면 허물을 면하기 어려우나 그 입술을 제어하는 자는 지혜가 있느니라
+📖 **욥기 33:29**
+> 실로 하나님이 사람에게 이 모든 일을 재삼 행하심은
 
-🕊️ _업데이트 시각: 2025-10-12 14:27:14 KST_
+🕊️ _업데이트 시각: 2025-10-12 14:36:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
