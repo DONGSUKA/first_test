@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 10:19**
-> 그러므로 내가 이제 큰 제사를 바알에게 드리고자 하노니 바알의 모든 선지자와 모든 섬기는 자와 모든 제사장들을 한 사람도 빠뜨리지 말고 불러 내게로 나아오게 하라 모든 오지 아니하는 자는 살려 두지 아니하리라 하니 이는 예후가 바알 섬기는 자를 멸하려 하여 계책을 씀이라
+📖 **사무엘상 20:13**
+> 그러나 만일 내 아버지께서 너를 해치려 하는데도 내가 이 일을 네게 알려 주어 너를 보내어 평안히 가게 하지 아니하면 여호와께서나 요나단에게 벌을 내리시고 또 내리시기를 원하노라 여호와께서 내 아버지와 함께 하신 것 같이 너와 함께 하시기를 원하노니
 
-🕊️ _업데이트 시각: 2025-10-13 16:29:26 KST_
+🕊️ _업데이트 시각: 2025-10-13 16:39:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
