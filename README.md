@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 29:15**
-> 라반이 야곱에게 이르되 네가 비록 내 생질이나 어찌 그저 내 일을 하겠느냐 네 품삯을 어떻게 할지 내게 말하라
+📖 **레위기 8:21**
+> 물로 내장과 정강이들을 씻고 모세가 그 숫양의 전부를 제단 위에서 불사르니 이는 향기로운 냄새를 위하여 드리는 번제로 여호와께 드리는 화제라 여호와께서 모세에게 명령하심과 같았더라
 
-🕊️ _업데이트 시각: 2025-10-13 20:23:46 KST_
+🕊️ _업데이트 시각: 2025-10-13 20:30:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
