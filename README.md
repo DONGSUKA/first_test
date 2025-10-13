@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 2:3**
-> 포도주가 떨어진지라 예수의 어머니가 예수에게 이르되 저들에게 포도주가 없다 하니
+📖 **창세기 29:15**
+> 라반이 야곱에게 이르되 네가 비록 내 생질이나 어찌 그저 내 일을 하겠느냐 네 품삯을 어떻게 할지 내게 말하라
 
-🕊️ _업데이트 시각: 2025-10-13 20:07:44 KST_
+🕊️ _업데이트 시각: 2025-10-13 20:23:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
