@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 15:18**
-> 또 여호와께서 왕을 길로 보내시며 이르시기를 가서 죄인 아말렉 사람을 진멸하되 다 없어지기까지 치라 하셨거늘
+📖 **마가복음 11:16**
+> 아무나 물건을 가지고 성전 안으로 지나다님을 허락하지 아니하시고
 
-🕊️ _업데이트 시각: 2025-10-13 14:42:31 KST_
+🕊️ _업데이트 시각: 2025-10-13 14:49:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
