@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 2:3**
-> 이런 일을 행하는 자를 판단하고도 같은 일을 행하는 사람아, 네가 하나님의 심판을 피할 줄로 생각하느냐
+📖 **마태복음 3:3**
+> 그는 선지자 이사야를 통하여 말씀하신 자라 일렀으되 광야에 외치는 자의 소리가 있어 이르되 너희는 주의 길을 준비하라 그가 오실 길을 곧게 하라 하였느니라
 
-🕊️ _업데이트 시각: 2025-10-14 03:56:33 KST_
+🕊️ _업데이트 시각: 2025-10-14 04:09:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
