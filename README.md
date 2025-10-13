@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 6:27**
-> 왕이 곧 시위병 하나를 보내어 요한의 머리를 가져오라 명하니 그 사람이 나가 옥에서 요한을 목 베어
+📖 **예레미야 10:8**
+> 그들은 다 무지하고 어리석은 것이니 우상의 가르침은 나무뿐이라
 
-🕊️ _업데이트 시각: 2025-10-13 18:45:47 KST_
+🕊️ _업데이트 시각: 2025-10-13 18:51:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
