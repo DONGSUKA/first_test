@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 27:45**
-> 영혼이 떠나시다(막 15:33-41; 눅 23:44-49; 요 19:28-30) 제육시로부터 온 땅에 어둠이 임하여 제구시까지 계속되더니
+📖 **시편 65:3**
+> 죄악이 나를 이겼사오니 우리의 허물을 주께서 사하시리이다
 
-🕊️ _업데이트 시각: 2025-10-14 05:59:41 KST_
+🕊️ _업데이트 시각: 2025-10-14 06:16:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
