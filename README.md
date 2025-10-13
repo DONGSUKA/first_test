@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 3:3**
-> 그는 선지자 이사야를 통하여 말씀하신 자라 일렀으되 광야에 외치는 자의 소리가 있어 이르되 너희는 주의 길을 준비하라 그가 오실 길을 곧게 하라 하였느니라
+📖 **사무엘하 16:3**
+> 왕이 이르되 네 주인의 아들이 어디 있느냐 하니 시바가 왕께 아뢰되 예루살렘에 있는데 그가 말하기를 이스라엘 족속이 오늘 내 아버지의 나라를 내게 돌리리라 하나이다 하는지라
 
-🕊️ _업데이트 시각: 2025-10-14 04:09:26 KST_
+🕊️ _업데이트 시각: 2025-10-14 04:21:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
