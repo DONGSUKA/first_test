@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한일서 5:21**
-> 자녀들아 너희 자신을 지켜 우상에게서 멀리하라
+📖 **요한복음 2:3**
+> 포도주가 떨어진지라 예수의 어머니가 예수에게 이르되 저들에게 포도주가 없다 하니
 
-🕊️ _업데이트 시각: 2025-10-13 19:54:47 KST_
+🕊️ _업데이트 시각: 2025-10-13 20:07:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
