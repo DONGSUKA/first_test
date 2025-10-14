@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:28**
-> 우리가 그를 힘입어 살며 기동하며 존재하느니라 너희 시인 중 어떤 사람들의 말과 같이 우리가 그의 소생이라 하니
+📖 **시편 18:26**
+> 깨끗한 자에게는 주의 깨끗하심을 보이시며 사악한 자에게는 주의 거스르심을 보이시리니
 
-🕊️ _업데이트 시각: 2025-10-14 22:36:13 KST_
+🕊️ _업데이트 시각: 2025-10-14 22:49:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
