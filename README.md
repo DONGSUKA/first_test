@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 66:16**
-> 하나님을 두려워하는 너희들아 다 와서 들으라 하나님이 나의 영혼을 위하여 행하신 일을 내가 선포하리로다
+📖 **사도행전 5:19**
+> 주의 사자가 밤에 옥문을 열고 끌어내어 이르되
 
-🕊️ _업데이트 시각: 2025-10-15 06:50:34 KST_
+🕊️ _업데이트 시각: 2025-10-15 06:56:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
