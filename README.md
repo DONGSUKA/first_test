@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 74:18**
-> 여호와여 이것을 기억하소서 원수가 주를 비방하며 우매한 백성이 주의 이름을 능욕하였나이다
+📖 **출애굽기 33:15**
+> 모세가 여호와께 아뢰되 주께서 친히 가지 아니하시려거든 우리를 이 곳에서 올려 보내지 마옵소서
 
-🕊️ _업데이트 시각: 2025-10-14 22:55:12 KST_
+🕊️ _업데이트 시각: 2025-10-14 23:10:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
