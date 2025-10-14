@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 4:13**
-> 내가 처음에 육체의 약함으로 말미암아 너희에게 복음을 전한 것을 너희가 아는 바라
+📖 **잠언 13:19**
+> 소원을 성취하면 마음에 달아도 미련한 자는 악에서 떠나기를 싫어하느니라
 
-🕊️ _업데이트 시각: 2025-10-14 20:51:05 KST_
+🕊️ _업데이트 시각: 2025-10-14 20:56:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
