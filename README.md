@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **데살로니가후서 2:12**
-> 진리를 믿지 않고 불의를 좋아하는 모든 자들로 하여금 심판을 받게 하려 하심이라
+📖 **시편 17:9**
+> 내 앞에서 나를 압제하는 악인들과 나의 목숨을 노리는 원수들에게서 벗어나게 하소서
 
-🕊️ _업데이트 시각: 2025-10-14 19:51:21 KST_
+🕊️ _업데이트 시각: 2025-10-14 19:57:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
