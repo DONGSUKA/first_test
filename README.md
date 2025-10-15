@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 9:4**
-> 혹 마게도냐인들이 나와 함께 가서 너희가 준비하지 아니한 것을 보면 너희는 고사하고 우리가 이 믿던 것에 부끄러움을 당할까 두려워하노라
+📖 **사무엘상 23:2**
+> 이에 다윗이 여호와께 묻자와 이르되 내가 가서 이 블레셋 사람들을 치리이까 여호와께서 다윗에게 이르시되 가서 블레셋 사람들을 치고 그일라를 구원하라 하시니
 
-🕊️ _업데이트 시각: 2025-10-15 17:44:10 KST_
+🕊️ _업데이트 시각: 2025-10-15 17:55:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
