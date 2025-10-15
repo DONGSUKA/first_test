@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 6:39**
-> 제자들에게 명하사 그 모든 사람으로 떼를 지어 푸른 잔디 위에 앉게 하시니
+📖 **사도행전 20:20**
+> 유익한 것은 무엇이든지 공중 앞에서나 각 집에서나 거리낌이 없이 여러분에게 전하여 가르치고
 
-🕊️ _업데이트 시각: 2025-10-16 02:43:47 KST_
+🕊️ _업데이트 시각: 2025-10-16 02:50:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
