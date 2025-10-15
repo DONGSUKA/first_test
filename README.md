@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 12:1**
-> 유월절 여호와께서 애굽 땅에서 모세와 아론에게 일러 말씀하시되
+📖 **레위기 7:20**
+> 만일 몸이 부정한 자가 여호와께 속한 화목제물의 고기를 먹으면 그 사람은 자기 백성 중에서 끊어질 것이요
 
-🕊️ _업데이트 시각: 2025-10-16 03:58:47 KST_
+🕊️ _업데이트 시각: 2025-10-16 04:13:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
