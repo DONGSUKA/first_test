@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 3:12**
-> 어찌하여 무릎이 나를 받았던가 어찌하여 내가 젖을 빨았던가
+📖 **시편 66:14**
+> 이는 내 입술이 낸 것이요 내 환난 때에 내 입이 말한 것이니이다
 
-🕊️ _업데이트 시각: 2025-10-16 02:55:52 KST_
+🕊️ _업데이트 시각: 2025-10-16 03:16:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
