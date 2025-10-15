@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 6:1**
-> 이사야를 선지자로 부르시다 웃시야 왕이 죽던 해에 내가 본즉 주께서 높이 들린 보좌에 앉으셨는데 그의 옷자락은 성전에 가득하였고
+📖 **여호수아 8:28**
+> 이에 여호수아가 아이를 불살라 그것으로 영원한 무더기를 만들었더니 오늘까지 황폐하였으며
 
-🕊️ _업데이트 시각: 2025-10-16 08:44:20 KST_
+🕊️ _업데이트 시각: 2025-10-16 08:50:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
