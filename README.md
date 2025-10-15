@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데후서 2:18**
-> 진리에 관하여는 그들이 그릇되었도다 부활이 이미 지나갔다 함으로 어떤 사람들의 믿음을 무너뜨리느니라
+📖 **시편 101:6**
+> 내 눈이 이 땅의 충성된 자를 살펴 나와 함께 살게 하리니 완전한 길에 행하는 자가 나를 따르리로다
 
-🕊️ _업데이트 시각: 2025-10-16 00:45:30 KST_
+🕊️ _업데이트 시각: 2025-10-16 00:51:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
