@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 13:7**
-> 그러나 그가 정결한지를 제사장에게 보인 후에 병이 피부에 퍼지면 제사장에게 다시 보일 것이요
+📖 **요한복음 3:12**
+> 내가 땅의 일을 말하여도 너희가 믿지 아니하거든 하물며 하늘의 일을 말하면 어떻게 믿겠느냐
 
-🕊️ _업데이트 시각: 2025-10-15 14:53:41 KST_
+🕊️ _업데이트 시각: 2025-10-15 14:59:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
