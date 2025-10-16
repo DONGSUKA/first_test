@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 33:20**
-> 므낫세가 그의 열조와 함께 누우매 그의 궁에 장사되고 그의 아들 아몬이 대신하여 왕이 되니라
+📖 **레위기 21:15**
+> 그의 자손이 그의 백성 중에서 속되게 하지 말지니 나는 그를 거룩하게 하는 여호와임이니라
 
-🕊️ _업데이트 시각: 2025-10-17 07:06:47 KST_
+🕊️ _업데이트 시각: 2025-10-17 07:24:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
