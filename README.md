@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 3:66**
-> 주께서 진노로 그들을 뒤쫓으사 여호와의 하늘 아래에서 멸하소서
+📖 **이사야 5:19**
+> 그들이 이르기를 그는 자기의 일을 속속히 이루어 우리에게 보게 할 것이며 이스라엘의 거룩한 이는 자기의 계획을 속히 이루어 우리가알게 할 것이라 하는도다
 
-🕊️ _업데이트 시각: 2025-10-16 19:46:38 KST_
+🕊️ _업데이트 시각: 2025-10-16 19:52:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
