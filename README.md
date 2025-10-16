@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 4:21**
-> 예수께서 이르시되 여자여 내 말을 믿으라 이 산에서도 말고 예루살렘에서도 말고 너희가 아버지께 예배할 때가 이르리라
+📖 **여호수아 13:6**
+> 또 레바논에서부터 미스르봇마임까지 산지의 모든 주민 곧 모든 시돈 사람의 땅이라 내가 그들을 이스라엘 자손 앞에서 쫓아내리니 너는 내가 명령한 대로 그 땅을 이스라엘에게 분배하여 기업이 되게 하되
 
-🕊️ _업데이트 시각: 2025-10-17 02:30:17 KST_
+🕊️ _업데이트 시각: 2025-10-17 02:41:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
