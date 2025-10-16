@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 25:7**
-> 제사장 아론의 손자 엘르아살의 아들 비느하스가 보고 회중 가운데에서 일어나 손에 창을 들고
+📖 **신명기 1:44**
+> 그 산지에 거주하는 아모리 족속이 너희에게 마주 나와 벌 떼 같이 너희를 쫓아 세일 산에서 쳐서 호르마까지 이른지라
 
-🕊️ _업데이트 시각: 2025-10-16 15:46:18 KST_
+🕊️ _업데이트 시각: 2025-10-16 15:55:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
