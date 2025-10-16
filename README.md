@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 6:32**
-> 그 날에 기드온을 여룹바알이라 불렀으니 이는 그가 바알의 제단을 파괴하였으므로 바알이 그와 더불어 다툴 것이라 함이었더라
+📖 **예레미야 16:4**
+> 그들은 독한 병으로 죽어도 아무도 슬퍼하지 않을 것이며 묻어 주지 않아 지면의 분토와 같을 것이며 칼과 기근에 망하고 그 시체는 공중의 새와 땅의 짐승의 밥이 되리라
 
-🕊️ _업데이트 시각: 2025-10-16 13:50:05 KST_
+🕊️ _업데이트 시각: 2025-10-16 13:56:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
