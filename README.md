@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 3:18**
-> 그러나 하나님이 모든 선지자의 입을 통하여 자기의 그리스도께서 고난 받으실 일을 미리 알게 하신 것을 이와 같이 이루셨느니라
+📖 **호세아 2:14**
+> 백성을 향한 여호와의 사랑 그러므로 보라 내가 그를 타일러 거친 들로 데리고 가서 말로 위로하고
 
-🕊️ _업데이트 시각: 2025-10-16 16:54:54 KST_
+🕊️ _업데이트 시각: 2025-10-16 17:13:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
