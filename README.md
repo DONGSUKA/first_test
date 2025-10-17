@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 8:52**
-> 원하건대 주는 눈을 들어 종의 간구함과 주의 백성 이스라엘의 간구함을 보시고 주께 부르짖는 대로 들으시옵소서
+📖 **고린도전서 15:11**
+> 그러므로 나나 그들이나 이같이 전파하매 너희도 이같이 믿었느니라
 
-🕊️ _업데이트 시각: 2025-10-17 13:57:24 KST_
+🕊️ _업데이트 시각: 2025-10-17 14:13:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
