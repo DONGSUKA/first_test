@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 72:13**
-> 그는 가난한 자와 궁핍한 자를 불쌍히 여기며 궁핍한 자의 생명을 구원하며
+📖 **잠언 30:7**
+> 내가 두 가지 일을 주께 구하였사오니 내가 죽기 전에 내게 거절하지 마시옵소서
 
-🕊️ _업데이트 시각: 2025-10-17 17:19:28 KST_
+🕊️ _업데이트 시각: 2025-10-17 17:41:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
