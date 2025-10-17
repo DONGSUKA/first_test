@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 12:1**
-> 미리암이 벌을 받다 모세가 구스 여자를 취하였더니 그 구스 여자를 취하였으므로 미리암과 아론이 모세를 비방하니라
+📖 **신명기 6:6**
+> 오늘 내가 네게 명하는 이 말씀을 너는 마음에 새기고
 
-🕊️ _업데이트 시각: 2025-10-18 01:17:14 KST_
+🕊️ _업데이트 시각: 2025-10-18 01:39:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
