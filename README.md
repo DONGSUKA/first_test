@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 25:1**
-> 다윗의 시 여호와여 나의 영혼이 주를 우러러보나이다
+📖 **사무엘상 17:56**
+> 왕이 이르되 너는 이 청년이 누구의 아들인가 물어보라 하였더니
 
-🕊️ _업데이트 시각: 2025-10-18 00:45:39 KST_
+🕊️ _업데이트 시각: 2025-10-18 00:51:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
