@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 23:2**
-> 네가 만일 음식을 탐하는 자이거든 네 목에 칼을 둘 것이니라
+📖 **레위기 13:27**
+> 이레 만에 제사장이 그를 진찰할지니 만일 병이 크게 피부에 퍼졌으면 그가 그를 부정하다 할 것은 나병의 환부임이니라
 
-🕊️ _업데이트 시각: 2025-10-18 02:27:06 KST_
+🕊️ _업데이트 시각: 2025-10-18 02:37:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
