@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 6:20**
-> 값으로 산 것이 되었으니 그런즉 너희 몸으로 하나님께 영광을 돌리라
+📖 **잠언 29:4**
+> 왕은 정의로 나라를 견고하게 하나 뇌물을 억지로 내게 하는 자는 나라를 멸망시키느니라
 
-🕊️ _업데이트 시각: 2025-10-18 04:21:38 KST_
+🕊️ _업데이트 시각: 2025-10-18 04:27:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
