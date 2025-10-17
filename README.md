@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 4:15**
-> 너는 그에게 말하고 그의 입에 할 말을 주라 내가 네 입과 그의 입에 함께 있어서 너희들이 행할 일을 가르치리라
+📖 **시편 72:13**
+> 그는 가난한 자와 궁핍한 자를 불쌍히 여기며 궁핍한 자의 생명을 구원하며
 
-🕊️ _업데이트 시각: 2025-10-17 16:57:22 KST_
+🕊️ _업데이트 시각: 2025-10-17 17:19:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
