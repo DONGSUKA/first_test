@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 9:4**
-> 유다의 아들 베레스 자손 중에 우대이니 그는 암미훗의 아들이요 오므리의 손자요 이므리의 증손이요 바니의 현손이며
+📖 **욥기 19:28**
+> 너희가 만일 이르기를 우리가 그를 어떻게 칠까 하며 또 이르기를 일의 뿌리가 그에게 있다 할진대
 
-🕊️ _업데이트 시각: 2025-10-17 15:23:45 KST_
+🕊️ _업데이트 시각: 2025-10-17 15:45:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
