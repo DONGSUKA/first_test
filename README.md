@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 52:4**
-> 시드기야 제구년 열째 달 열째 날에 바벨론 왕 느부갓네살이 그의 모든 군대를 거느리고 예루살렘을 치러 올라와서 그 성에 대하여 진을 치고 주위에 토성을 쌓으매
+📖 **사무엘상 25:29**
+> 사람이 일어나서 내 주를 쫓아 내 주의 생명을 찾을지라도 내 주의 생명은 내 주의 하나님 여호와와 함께 생명 싸개 속에 싸였을 것이요 내 주의 원수들의 생명은 물매로 던지듯 여호와께서 그것을 던지시리이다
 
-🕊️ _업데이트 시각: 2025-10-17 19:44:08 KST_
+🕊️ _업데이트 시각: 2025-10-17 19:49:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
