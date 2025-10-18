@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 16:2**
-> 여호와께서 자기의 이름을 두시려고 택하신 곳에서 소와 양으로 네 하나님 여호와께 유월절 제사를 드리되
+📖 **누가복음 16:4**
+> 내가 할 일을 알았도다 이렇게 하면 직분을 빼앗긴 후에 사람들이 나를 자기 집으로 영접하리라 하고
 
-🕊️ _업데이트 시각: 2025-10-19 01:17:14 KST_
+🕊️ _업데이트 시각: 2025-10-19 01:34:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
