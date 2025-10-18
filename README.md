@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 11:23**
-> 하나님이 또 엘리아다의 아들 르손을 일으켜 솔로몬의 대적자가 되게 하시니 그는 그의 주인 소바 왕 하닷에셀에게서 도망한 자라
+📖 **사무엘상 15:8**
+> 아말렉 사람의 왕 아각을 사로잡고 칼날로 그의 모든 백성을 진멸하였으되
 
-🕊️ _업데이트 시각: 2025-10-19 05:37:24 KST_
+🕊️ _업데이트 시각: 2025-10-19 05:43:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
