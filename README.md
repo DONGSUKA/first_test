@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 52:9**
-> 너 예루살렘의 황폐한 곳들아 기쁜 소리를 내어 함께 노래할지어다 이는 여호와께서 그의 백성을 위로하셨고 예루살렘을 구속하셨음이라
+📖 **누가복음 24:51**
+> 축복하실 때에 그들을 떠나 [하늘로 올려지시니]
 
-🕊️ _업데이트 시각: 2025-10-19 02:09:22 KST_
+🕊️ _업데이트 시각: 2025-10-19 02:24:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
