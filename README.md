@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 55:8**
-> 내가 나의 피난처로 속히 가서 폭풍과 광풍을 피하리라 하였도다
+📖 **로마서 1:14**
+> 헬라인이나 야만인이나 지혜 있는 자나 어리석은 자에게 다 내가 빚진 자라
 
-🕊️ _업데이트 시각: 2025-10-19 07:26:13 KST_
+🕊️ _업데이트 시각: 2025-10-19 07:35:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
