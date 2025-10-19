@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 4:17**
-> 떡과 물이 부족하여 피차에 두려워 하여 떨며 그 죄악 중에서 쇠패하리라
+📖 **출애굽기 40:33**
+> 그는 또 성막과 제단 주위 뜰에 포장을 치고 뜰 문에 휘장을 다니라 모세가 이같이 역사를 마치니
 
-🕊️ _업데이트 시각: 2025-10-19 16:22:54 KST_
+🕊️ _업데이트 시각: 2025-10-19 16:28:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
