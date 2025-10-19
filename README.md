@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:28**
-> 우리가 그를 힘입어 살며 기동하며 존재하느니라 너희 시인 중 어떤 사람들의 말과 같이 우리가 그의 소생이라 하니
+📖 **예레미야 22:15**
+> 네가 백향목을 많이 사용하여 왕이 될 수 있겠느냐 네 아버지가 먹거나 마시지 아니하였으며 정의와 공의를 행하지 아니하였느냐 그때에 그가 형통하였었느니라
 
-🕊️ _업데이트 시각: 2025-10-19 17:17:46 KST_
+🕊️ _업데이트 시각: 2025-10-19 17:34:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
