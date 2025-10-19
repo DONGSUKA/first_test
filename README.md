@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 22:3**
-> 너는 말하라 주 여호와께서 이같이 말씀하셨느니라 자기 가운데에 피를 흘려 벌 받을 때가 이르게 하며 우상을 만들어 스스로 더럽히는성아
+📖 **요한복음 7:14**
+> 이미 명절의 중간이 되어 예수께서 성전에 올라가사 가르치시니
 
-🕊️ _업데이트 시각: 2025-10-19 13:20:38 KST_
+🕊️ _업데이트 시각: 2025-10-19 13:39:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
