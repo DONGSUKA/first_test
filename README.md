@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 13:19**
-> 아비야가 여로보암을 쫓아가서 그의 성읍들을 빼앗았으니 곧 벧엘과 그 동네들과 여사나와 그 동네들과 에브론과 그 동네들이라
+📖 **사도행전 26:27**
+> 아그립바 왕이여 선지자를 믿으시나이까 믿으시는 줄 아나이다
 
-🕊️ _업데이트 시각: 2025-10-20 07:29:10 KST_
+🕊️ _업데이트 시각: 2025-10-20 07:38:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
