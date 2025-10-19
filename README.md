@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 21:4**
-> 그가 생명을 구하매 주께서 그에게 주셨으니 곧 영원한 장수로소이다
+📖 **예레미야 32:36**
+> 영원한 언약 그러나 이스라엘의 하나님 여호와께서 너희가 말하는 바 칼과 기근과 전염병으로 말미암아 바벨론 왕의 손에 넘긴 바 되었다 하는 이 성에 대하여 이와 같이 말씀하시니라
 
-🕊️ _업데이트 시각: 2025-10-19 18:38:51 KST_
+🕊️ _업데이트 시각: 2025-10-19 18:44:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
