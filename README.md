@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:36**
-> 내 마음을 주의 증거들에게 향하게 하시고 탐욕으로 향하지 말게 하소서
+📖 **마가복음 3:29**
+> 누구든지 성령을 모독하는 자는 영원히 사하심을 얻지 못하고 영원한 죄가 되느니라 하시니
 
-🕊️ _업데이트 시각: 2025-10-20 00:24:31 KST_
+🕊️ _업데이트 시각: 2025-10-20 00:31:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
