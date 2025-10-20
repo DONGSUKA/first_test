@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 35:23**
-> 활 쏘는 자가 요시야 왕을 쏜지라 왕이 그의 신하들에게 이르되 내가 중상을 입었으니 나를 도와 나가게 하라
+📖 **마태복음 26:22**
+> 그들이 몹시 근심하여 각각 여짜오되 주여 나는 아니지요
 
-🕊️ _업데이트 시각: 2025-10-20 23:59:23 KST_
+🕊️ _업데이트 시각: 2025-10-21 00:19:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
