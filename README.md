@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 46:33**
-> 바로가 당신들을 불러서 너희의 직업이 무엇이냐 묻거든
+📖 **역대상 12:25**
+> 시므온 자손 중에서 싸움하는 큰 용사가 칠천백 명이요
 
-🕊️ _업데이트 시각: 2025-10-21 08:11:07 KST_
+🕊️ _업데이트 시각: 2025-10-21 08:25:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
