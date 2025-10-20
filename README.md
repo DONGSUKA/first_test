@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 20:8**
-> 나와서 땅의 사방 백성 곧 곡과 마곡을 미혹하고 모아 싸움을 붙이리니 그 수가 바다의 모래 같으리라
+📖 **레위기 6:10**
+> 제사장은 세마포 긴 옷을 입고 세마포 속바지로 하체를 가리고 제단 위에서 불태운 번제의 재를 가져다가 제단 곁에 두고
 
-🕊️ _업데이트 시각: 2025-10-21 07:08:29 KST_
+🕊️ _업데이트 시각: 2025-10-21 07:28:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
