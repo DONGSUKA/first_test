@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 28:24**
-> 부모의 물건을 도둑질하고서도 죄가 아니라 하는 자는 멸망 받게 하는 자의 동류니라
+📖 **시편 55:20**
+> 그는 손을 들어 자기와 화목한 자를 치고 그의 언약을 배반하였도다
 
-🕊️ _업데이트 시각: 2025-10-21 04:51:13 KST_
+🕊️ _업데이트 시각: 2025-10-21 04:56:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
