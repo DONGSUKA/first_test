@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 58:7**
-> 그들이 급히 흐르는 물 같이 사라지게 하시며 겨누는 화살이 꺾임 같게 하시며
+📖 **호세아 10:13**
+> 너희는 악을 밭 갈아 죄를 거두고 거짓 열매를 먹었나니 이는 네가 네 길과 네 용사의 많음을 의뢰하였음이라
 
-🕊️ _업데이트 시각: 2025-10-21 01:56:27 KST_
+🕊️ _업데이트 시각: 2025-10-21 02:10:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
