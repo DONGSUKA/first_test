@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 16:7**
-> 여호와의 말씀이 하나니의 아들 선지자 예후에게도 임하사 바아사와 그의 집을 꾸짖으심은 그가 여로보암의 집과 같이 여호와 보시기에모든 악을 행하며 그의 손의 행위로 여호와를 노엽게 하였음이며 또 그의 집을 쳤음이더라
+📖 **다니엘 8:25**
+> 그가 꾀를 베풀어 제 손으로 속임수를 행하고 마음에 스스로 큰 체하며 또 평화로운 때에 많은 무리를 멸하며 또 스스로 서서 만왕의 왕을 대적할 것이나 그가 사람의 손으로 말미암지 아니하고 깨지리라
 
-🕊️ _업데이트 시각: 2025-10-21 16:58:34 KST_
+🕊️ _업데이트 시각: 2025-10-21 17:22:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
