@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 4:1**
-> 유다의 자손 유다의 아들들은 베레스와 헤스론과 갈미와 훌과 소발이라
+📖 **디모데전서 3:13**
+> 집사의 직분을 잘한 자들은 아름다운 지위와 그리스도 예수 안에 있는 믿음에 큰 담력을 얻느니라
 
-🕊️ _업데이트 시각: 2025-10-22 06:11:36 KST_
+🕊️ _업데이트 시각: 2025-10-22 06:27:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
