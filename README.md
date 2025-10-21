@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 29:6**
-> 이에 모든 가문의 지도자들과 이스라엘 모든 지파의 지도자들과 천부장과 백부장과 왕의 사무관이 다 즐거이 드리되
+📖 **창세기 37:15**
+> 어떤 사람이 그를 만난즉 그가 들에서 방황하는지라 그 사람이 그에게 물어 이르되 네가 무엇을 찾느냐
 
-🕊️ _업데이트 시각: 2025-10-22 00:32:09 KST_
+🕊️ _업데이트 시각: 2025-10-22 00:43:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
