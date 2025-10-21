@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 21:30**
-> 그러나 칼을 그 칼집에 꽂을지어다 네가 지음을 받은 곳에서, 네가 출생한 땅에서 내가 너를 심판하리로다
+📖 **역대상 20:4**
+> 블레셋 사람들과 싸우다(삼하 21:15-22) 이 후에 블레셋 사람들과 게셀에서 전쟁할 때에 후사 사람 십브개가 키가 큰 자의 아들 중에 십배를 쳐죽이매 그들이 항복하였더라
 
-🕊️ _업데이트 시각: 2025-10-21 10:04:14 KST_
+🕊️ _업데이트 시각: 2025-10-21 11:40:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
