@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 12:36**
-> 다윗이 성령에 감동되어 친히 말하되 주께서 내 주께 이르시되 내가 네 원수를 네 발 아래에 둘 때까지 내 우편에 앉았으라 하셨도다하였느니라
+📖 **마가복음 12:3**
+> 그들이 종을 잡아 심히 때리고 거저 보내었거늘
 
-🕊️ _업데이트 시각: 2025-10-22 05:45:09 KST_
+🕊️ _업데이트 시각: 2025-10-22 05:50:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
