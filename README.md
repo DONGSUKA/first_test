@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 37:35**
-> 내가 악인의 큰 세력을 본즉 그 본래의 땅에 서 있는 나무 잎이 무성함과 같으나
+📖 **요한계시록 18:6**
+> 그가 준 그대로 그에게 주고 그의 행위대로 갑절을 갚아 주고 그가 섞은 잔에도 갑절이나 섞어 그에게 주라
 
-🕊️ _업데이트 시각: 2025-10-21 17:55:52 KST_
+🕊️ _업데이트 시각: 2025-10-21 18:14:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
