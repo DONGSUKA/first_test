@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **골로새서 1:29**
-> 이를 위하여 나도 내 속에서 능력으로 역사하시는 이의 역사를 따라 힘을 다하여 수고하노라
+📖 **창세기 1:29**
+> 하나님이 이르시되 내가 온 지면의 씨 맺는 모든 채소와 씨 가진 열매 맺는 모든 나무를 너희에게 주노니 너희의 먹을 거리가 되리라
 
-🕊️ _업데이트 시각: 2025-10-22 01:56:15 KST_
+🕊️ _업데이트 시각: 2025-10-22 02:11:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
