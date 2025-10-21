@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 16:17**
-> 예수께서 대답하여 이르시되 바요나 시몬아 네가 복이 있도다 이를 네게 알게 한 이는 혈육이 아니요 하늘에 계신 내 아버지시니라
+📖 **시편 40:8**
+> 나의 하나님이여 내가 주의 뜻 행하기를 즐기오니 주의 법이 나의 심중에 있나이다 하였나이다
 
-🕊️ _업데이트 시각: 2025-10-21 13:15:03 KST_
+🕊️ _업데이트 시각: 2025-10-21 13:34:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
