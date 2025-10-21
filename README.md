@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 8:4**
-> 예수께서 이르시되 삼가 아무에게도 이르지 말고 다만 가서 제사장에게 네 몸을 보이고 모세가 명한 예물을 드려 그들에게 입증하라 하시니라
+📖 **이사야 10:20**
+> 남은 자만 돌아오리라 그 날에 이스라엘의 남은 자와 야곱 족속의 피난한 자들이 다시는 자기를 친 자를 의지하지 아니하고 이스라엘의거룩하신 이 여호와를 진실하게 의지하리니
 
-🕊️ _업데이트 시각: 2025-10-21 20:40:07 KST_
+🕊️ _업데이트 시각: 2025-10-21 20:45:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
