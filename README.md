@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 14:5**
-> 왕이 그에게 이르되 무슨 일이냐 하니라 대답하되 나는 진정으로 과부니이다 남편은 죽고
+📖 **출애굽기 8:16**
+> 셋째 재앙 : 티끌이 이가 되다 여호와께서 모세에게 이르시되 아론에게 명령하기를 네 지팡이를 들어 땅의 티끌을 치라 하라 그것이 애굽 온 땅에서 이가 되리라
 
-🕊️ _업데이트 시각: 2025-10-22 22:04:02 KST_
+🕊️ _업데이트 시각: 2025-10-22 22:38:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
