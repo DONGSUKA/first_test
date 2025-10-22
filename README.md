@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 2:11**
-> 그의 군대로 계수된 자가 사만 육천오백 명이며
+📖 **에스겔 29:10**
+> 그러므로 내가 너와 네 강들을 쳐서 애굽 땅 믹돌에서부터 수에네 곧 구스 지경까지 황폐한 황무지 곧 사막이 되게 하리니
 
-🕊️ _업데이트 시각: 2025-10-23 04:28:16 KST_
+🕊️ _업데이트 시각: 2025-10-23 04:36:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
