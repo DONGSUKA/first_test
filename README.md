@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 27:9**
-> 그발의 노인들과 지혜자들이 네 가운데에서 배의 틈을 막는 자가 되었음이여 바다의 모든 배와 그 사공들은 네 가운데에서 무역하였도다
+📖 **잠언 14:24**
+> 지혜로운 자의 재물은 그의 면류관이요 미련한 자의 소유는 다만 미련한 것이니라
 
-🕊️ _업데이트 시각: 2025-10-23 05:41:20 KST_
+🕊️ _업데이트 시각: 2025-10-23 05:47:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
