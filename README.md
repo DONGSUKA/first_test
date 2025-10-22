@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 9:33**
-> 우리 사이에 손을 얹을 판결자도 없구나
+📖 **스가랴 11:4**
+> 두 목자 여호와 나의 하나님이 이르시되 너는 잡혀 죽을 양 떼를 먹이라
 
-🕊️ _업데이트 시각: 2025-10-23 05:53:25 KST_
+🕊️ _업데이트 시각: 2025-10-23 05:59:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
