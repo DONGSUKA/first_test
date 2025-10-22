@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 15:43**
-> 입다와 아스나와 느십과
+📖 **이사야 13:13**
+> 그러므로 나 만군의 여호와가 분하여 맹렬히 노하는 날에 하늘을 진동시키며 땅을 흔들어 그 자리에서 떠나게 하리니
 
-🕊️ _업데이트 시각: 2025-10-22 16:38:59 KST_
+🕊️ _업데이트 시각: 2025-10-22 16:45:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
