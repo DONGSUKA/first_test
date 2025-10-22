@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 10:3**
-> 우매한 자는 길을 갈 때에도 지혜가 부족하여 각 사람에게 자기가 우매함을 말하느니라
+📖 **민수기 8:9**
+> 레위인을 회막 앞에 나오게 하고 이스라엘 자손의 온 회중을 모으고
 
-🕊️ _업데이트 시각: 2025-10-22 22:58:46 KST_
+🕊️ _업데이트 시각: 2025-10-22 23:18:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
