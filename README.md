@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 16:9**
-> 이미 사람을 방 안에 매복시켰으므로 삼손에게 말하되 삼손이여 블레셋 사람들이 당신에게 들이닥쳤느니라 하니 삼손이 그 줄들을 끊기를불탄 삼실을 끊음 같이 하였고 그의 힘의 근원은 알아내지 못하니라
+📖 **예레미야 34:3**
+> 네가 그의 손에서 벗어나지 못하고 반드시 사로잡혀 그의 손에 넘겨져서 네 눈은 바벨론 왕의 눈을 볼 것이며 그의 입은 네 입을 마주대하여 말할 것이요 너는 바벨론으로 가리라
 
-🕊️ _업데이트 시각: 2025-10-23 02:19:56 KST_
+🕊️ _업데이트 시각: 2025-10-23 02:31:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
