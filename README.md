@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 17:10**
-> 그들의 마음은 기름에 잠겼으며 그들의 입은 교만하게 말하나이다
+📖 **출애굽기 28:39**
+> 너는 가는 베 실로 반포 속옷을 짜고 가는 베 실로 관을 만들고 띠를 수 놓아 만들지니라
 
-🕊️ _업데이트 시각: 2025-10-23 13:47:57 KST_
+🕊️ _업데이트 시각: 2025-10-23 13:53:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
