@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:120**
-> 내 육체가 주를 두려워함으로 떨며 내가 또 주의 심판을 두려워하나이다
+📖 **예레미야 8:20**
+> 추수할 때가 지나고 여름이 다하였으나 우리는 구원을 얻지 못한다 하는도다
 
-🕊️ _업데이트 시각: 2025-10-24 07:45:40 KST_
+🕊️ _업데이트 시각: 2025-10-24 07:51:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
