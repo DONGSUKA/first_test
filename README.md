@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 11:30**
-> 이를 실행하여 바나바와 사울의 손으로 장로들에게 보내니라
+📖 **디모데후서 1:13**
+> 너는 그리스도 예수 안에 있는 믿음과 사랑으로써 내게 들은 바 바른 말을 본받아 지키고
 
-🕊️ _업데이트 시각: 2025-10-23 19:58:23 KST_
+🕊️ _업데이트 시각: 2025-10-23 20:14:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
