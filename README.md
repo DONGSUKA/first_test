@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 6:12**
-> 믿음의 선한 싸움을 싸우라 영생을 취하라 이를 위하여 네가 부르심을 받았고 많은 증인 앞에서 선한 증언을 하였도다
+📖 **다니엘 7:13**
+> 내가 또 밤 환상 중에 보니 인자 같은 이가 하늘 구름을 타고 와서 옛적부터 항상 계신 이에게 나아가 그 앞으로 인도되매
 
-🕊️ _업데이트 시각: 2025-10-23 12:42:25 KST_
+🕊️ _업데이트 시각: 2025-10-23 12:53:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
