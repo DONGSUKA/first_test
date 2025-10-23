@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 104:9**
-> 주께서 물의 경계를 정하여 넘치지 못하게 하시며 다시 돌아와 땅을 덮지 못하게 하셨나이다
+📖 **로마서 13:3**
+> 다스리는 자들은 선한 일에 대하여 두려움이 되지 않고 악한 일에 대하여 되나니 네가 권세를 두려워하지 아니하려느냐 선을 행하라 그리하면 그에게 칭찬을 받으리라
 
-🕊️ _업데이트 시각: 2025-10-23 22:02:01 KST_
+🕊️ _업데이트 시각: 2025-10-23 22:35:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
