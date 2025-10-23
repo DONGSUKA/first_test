@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 33:26**
-> 여수룬이여 하나님 같은 이가 없도다 그가 너를 도우시려고 하늘을 타고 궁창에서 위엄을 나타내시는도다
+📖 **요한복음 7:50**
+> 그 중의 한 사람 곧 전에 예수께 왔던 니고데모가 그들에게 말하되
 
-🕊️ _업데이트 시각: 2025-10-24 05:09:33 KST_
+🕊️ _업데이트 시각: 2025-10-24 05:30:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
