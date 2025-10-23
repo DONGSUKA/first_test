@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 14:38**
-> 만일 누구든지 알지 못하면 그는 알지 못한 자니라
+📖 **마태복음 1:19**
+> 그의 남편 요셉은 의로운 사람이라 그를 드러내지 아니하고 가만히 끊고자 하여
 
-🕊️ _업데이트 시각: 2025-10-24 00:53:29 KST_
+🕊️ _업데이트 시각: 2025-10-24 00:59:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
