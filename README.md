@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 17:27**
-> 다윗이 마하나임에 이르렀을 때에 암몬 족속에게 속한 랍바 사람 나하스의 아들 소비와 로데발 사람 암미엘의 아들 마길과 로글림 길르앗 사람 바르실래가
+📖 **역대하 11:1**
+> 스마야가 여호와의 말씀을 전하다(왕상 12:21-24) 르호보암이 예루살렘에 이르러 유다와 베냐민 족속을 모으니 택한 용사가 십팔만 명이라 이스라엘과 싸워 나라를 회복하여 르호보암에게 돌리려 하더니
 
-🕊️ _업데이트 시각: 2025-10-24 04:49:14 KST_
+🕊️ _업데이트 시각: 2025-10-24 04:55:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
