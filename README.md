@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 32:13**
-> 주의 종 아브라함과 이삭과 이스라엘을 기억하소서 주께서 그들을 위하여 주를 가리켜 맹세하여 이르시기를 내가 너희의 자손을 하늘의 별처럼 많게 하고 내가 허락한 이 온 땅을 너희의 자손에게 주어 영원한 기업이 되게 하리라 하셨나이다
+📖 **이사야 42:16**
+> 내가 맹인들을 그들이 알지 못하는 길로 이끌며 그들이 알지 못하는 지름길로 인도하며 암흑이 그 앞에서 광명이 되게 하며 굽은 데를곧게 할 것이라 내가 이 일을 행하여 그들을 버리지 아니하리니
 
-🕊️ _업데이트 시각: 2025-10-23 16:37:23 KST_
+🕊️ _업데이트 시각: 2025-10-23 16:43:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
