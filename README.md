@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 4:2**
-> 이스라엘 자손에게 말하여 이르라 누구든지 여호와의 계명 중 하나라도 그릇 범하였으되
+📖 **역대하 17:3**
+> 여호와께서 여호사밧과 함께 하셨으니 이는 그가 그의 조상 다윗의 처음 길로 행하여 바알들에게 구하지 아니하고
 
-🕊️ _업데이트 시각: 2025-10-24 11:36:36 KST_
+🕊️ _업데이트 시각: 2025-10-24 12:22:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
