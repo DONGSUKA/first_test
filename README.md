@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 8:9**
-> 그 중 한 뿔에서 또 작은 뿔 하나가 나서 남쪽과 동쪽과 또 영화로운 땅을 향하여 심히 커지더니
+📖 **에스겔 19:6**
+> 젊은 사자가 되매 여러 사자 가운데에 왕래하며 먹이 물어뜯기를 배워 사람을 삼키며
 
-🕊️ _업데이트 시각: 2025-10-24 14:15:51 KST_
+🕊️ _업데이트 시각: 2025-10-24 14:32:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
