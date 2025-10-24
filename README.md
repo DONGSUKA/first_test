@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:10**
-> 바울이 그 환상을 보았을 때 우리가 곧 마게도냐로 떠나기를 힘쓰니 이는 하나님이 저 사람들에게 복음을 전하라고 우리를 부르신 줄로 인정함이러라
+📖 **신명기 15:2**
+> 면제의 규례는 이러하니라 그의 이웃에게 꾸어준 모든 채주는 그것을 면제하고 그의 이웃에게나 그 형제에게 독촉하지 말지니 이는 여호와를 위하여 면제를 선포하였음이라
 
-🕊️ _업데이트 시각: 2025-10-25 07:53:43 KST_
+🕊️ _업데이트 시각: 2025-10-25 07:59:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
