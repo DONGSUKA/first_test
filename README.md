@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 2:11**
-> 이는 하나님께서 외모로 사람을 취하지 아니하심이라
+📖 **에스겔 18:27**
+> 만일 악인이 그 행한 악을 떠나 정의와 공의를 행하면 그 영혼을 보전하리라
 
-🕊️ _업데이트 시각: 2025-10-25 04:43:04 KST_
+🕊️ _업데이트 시각: 2025-10-25 04:49:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
