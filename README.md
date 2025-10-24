@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 15:29**
-> 아버지께 대답하여 이르되 내가 여러 해 아버지를 섬겨 명을 어김이 없거늘 내게는 염소 새끼라도 주어 나와 내 벗으로 즐기게 하신일이 없더니
+📖 **사무엘상 3:6**
+> 여호와께서 다시 사무엘을 부르시는지라 사무엘이 일어나 엘리에게로 가서 이르되 당신이 나를 부르셨기로 내가 여기 있나이다 하니 그가 대답하되 내 아들아 내가 부르지 아니하였으니 다시 누우라 하니라
 
-🕊️ _업데이트 시각: 2025-10-25 05:10:41 KST_
+🕊️ _업데이트 시각: 2025-10-25 05:31:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
