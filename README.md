@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 1:1**
-> 인사 우리 구주 하나님과 우리의 소망이신 그리스도 예수의 명령을 따라 그리스도 예수의 사도 된 바울은
+📖 **사무엘상 25:36**
+> 아비가일이 나발에게로 돌아오니 그가 왕의 잔치와 같은 잔치를 그의 집에 배설하고 크게 취하여 마음에 기뻐하므로 아비가일이 밝는아침까지는 아무 말도 하지 아니하다가
 
-🕊️ _업데이트 시각: 2025-10-24 13:20:12 KST_
+🕊️ _업데이트 시각: 2025-10-24 13:37:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
