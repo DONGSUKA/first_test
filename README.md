@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 7:15**
-> 이제 이 곳에서 하는 기도에 내가 눈을 들고 귀를 기울이리니
+📖 **출애굽기 8:9**
+> 모세가 바로에게 이르되 내가 왕과 왕의 신하와 왕의 백성을 위하여 이 개구리를 왕과 왕궁에서 끊어 나일 강에만 있도록 언제 간구하는것이 좋을는지 내게 분부하소서
 
-🕊️ _업데이트 시각: 2025-10-24 15:59:34 KST_
+🕊️ _업데이트 시각: 2025-10-24 16:17:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
