@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 12:23**
-> 솔로몬의 아들 유다 왕 르호보암과 유다와 베냐민 온 족속과 또 그 남은 백성에게 말하여 이르기를
+📖 **레위기 19:28**
+> 죽은 자 때문에 너희의 살에 문신을 하지 말며 무늬를 놓지 말라 나는 여호와이니라
 
-🕊️ _업데이트 시각: 2025-10-24 17:57:50 KST_
+🕊️ _업데이트 시각: 2025-10-24 18:16:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
