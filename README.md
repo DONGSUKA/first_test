@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 33:14**
-> 태양이 결실하게 하는 선물과 태음이 자라게 하는 선물과
+📖 **민수기 29:24**
+> 그 소제와 전제는 수송아지와 숫양과 어린 양의 수효를 따라 규례대로 할 것이며
 
-🕊️ _업데이트 시각: 2025-10-24 16:44:30 KST_
+🕊️ _업데이트 시각: 2025-10-24 16:50:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
