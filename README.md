@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 31:10**
-> 현숙한 아내 누가 현숙한 여인을 찾아 얻겠느냐 그의 값은 진주보다 더 하니라
+📖 **로마서 2:11**
+> 이는 하나님께서 외모로 사람을 취하지 아니하심이라
 
-🕊️ _업데이트 시각: 2025-10-25 04:37:27 KST_
+🕊️ _업데이트 시각: 2025-10-25 04:43:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
