@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 2:3**
-> 그 소제물의 남은 것은 아론과 그의 자손에게 돌릴지니 이는 여호와의 화제물 중에 지극히 거룩한 것이니라
+📖 **시편 80:2**
+> 에브라임과 베냐민과 므낫세 앞에서 주의 능력을 나타내사 우리를 구원하러 오소서
 
-🕊️ _업데이트 시각: 2025-10-24 22:01:53 KST_
+🕊️ _업데이트 시각: 2025-10-24 22:34:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
