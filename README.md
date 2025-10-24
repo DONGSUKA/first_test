@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 4:6**
-> 레갑과 그의 형제 바아나가 밀을 가지러 온 체하고 집 가운데로 들어가서 그의 배를 찌르고 도망하였더라
+📖 **여호수아 4:21**
+> 이스라엘 자손들에게 말하여 이르되 후일에 너희의 자손들이 그들의 아버지에게 묻기를 이 돌들은 무슨 뜻이니이까 하거든
 
-🕊️ _업데이트 시각: 2025-10-24 20:27:36 KST_
+🕊️ _업데이트 시각: 2025-10-24 20:36:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
