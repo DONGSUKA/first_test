@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 5:17**
-> 예수께서 그들에게 이르시되 내 아버지께서 이제까지 일하시니 나도 일한다 하시매
+📖 **창세기 42:22**
+> 르우벤이 그들에게 대답하여 이르되 내가 너희에게 그 아이에 대하여 죄를 짓지 말라고 하지 아니하였더냐 그래도 너희가 듣지 아니하였느니라 그러므로 그의 핏값을 치르게 되었도다 하니
 
-🕊️ _업데이트 시각: 2025-10-25 20:47:41 KST_
+🕊️ _업데이트 시각: 2025-10-25 20:53:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
