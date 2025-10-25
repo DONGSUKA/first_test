@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 3:11**
-> 더러운 귀신들도 어느 때든지 예수를 보면 그 앞에 엎드려 부르짖어 이르되 당신은 하나님의 아들이니이다 하니
+📖 **여호수아 13:9**
+> 곧 아르논 골짜기 가에 있는 아로엘에서부터 골짜기 가운데에 있는 성읍과 디본까지 이르는 메드바 온 평지와
 
-🕊️ _업데이트 시각: 2025-10-25 23:44:32 KST_
+🕊️ _업데이트 시각: 2025-10-25 23:50:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
