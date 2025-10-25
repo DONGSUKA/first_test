@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 1:4**
-> 어리석은 자를 슬기롭게 하며 젊은 자에게 지식과 근신함을 주기 위한 것이니
+📖 **역대상 4:12**
+> 에스돈은 베드라바와 바세아와 이르나하스의 아버지 드힌나를 낳았으니 이는 다 레가 사람이며
 
-🕊️ _업데이트 시각: 2025-10-25 13:50:51 KST_
+🕊️ _업데이트 시각: 2025-10-25 13:56:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
