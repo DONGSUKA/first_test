@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 13:8**
-> 이 마술사 엘루마는 (이 이름을 번역하면 마술사라) 그들을 대적하여 총독으로 믿지 못하게 힘쓰니
+📖 **사도행전 12:17**
+> 베드로가 그들에게 손짓하여 조용하게 하고 주께서 자기를 이끌어 옥에서 나오게 하던 일을 말하고 또 야고보와 형제들에게 이 말을전하라 하고 떠나 다른 곳으로 가니라
 
-🕊️ _업데이트 시각: 2025-10-25 18:11:53 KST_
+🕊️ _업데이트 시각: 2025-10-25 18:26:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
