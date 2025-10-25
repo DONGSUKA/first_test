@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 131:3**
-> 이스라엘아 지금부터 영원까지 여호와를 바랄지어다
+📖 **요나 3:5**
+> 니느웨 사람들이 하나님을 믿고 금식을 선포하고 높고 낮은 자를 막론하고 굵은 베 옷을 입은지라
 
-🕊️ _업데이트 시각: 2025-10-26 06:12:07 KST_
+🕊️ _업데이트 시각: 2025-10-26 06:25:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
