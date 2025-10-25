@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 11:4**
-> 예수께서 들으시고 이르시되 이 병은 죽을 병이 아니라 하나님의 영광을 위함이요 하나님의 아들이 이로 말미암아 영광을 받게 하려 함이라 하시더라
+📖 **골로새서 1:4**
+> 이는 그리스도 예수 안에 너희의 믿음과 모든 성도에 대한 사랑을 들었음이요
 
-🕊️ _업데이트 시각: 2025-10-25 20:59:12 KST_
+🕊️ _업데이트 시각: 2025-10-25 21:32:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
