@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 4:22**
-> 내 백성은 나를 알지 못하는 어리석은 자요 지각이 없는 미련한 자식이라 악을 행하기에는 지각이 있으나 선을 행하기에는 무지하도다
+📖 **욥기 11:20**
+> 그러나 악한 자들은 눈이 어두워서 도망할 곳을 찾지 못하리니 그들의 희망은 숨을 거두는 것이니라
 
-🕊️ _업데이트 시각: 2025-10-25 20:27:58 KST_
+🕊️ _업데이트 시각: 2025-10-25 20:35:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
