@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 13:36**
-> 다윗은 당시에 하나님의 뜻을 따라 섬기다가 잠들어 그 조상들과 함께 묻혀 썩음을 당하였으되
+📖 **이사야 46:11**
+> 내가 동쪽에서 사나운 날짐승을 부르며 먼 나라에서 나의 뜻을 이룰 사람을 부를 것이라 내가 말하였은즉 반드시 이룰 것이요 계획하였은즉 반드시 시행하리라
 
-🕊️ _업데이트 시각: 2025-10-25 20:10:37 KST_
+🕊️ _업데이트 시각: 2025-10-25 20:22:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
