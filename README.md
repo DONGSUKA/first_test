@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 6:19**
-> 혈육 있는 모든 생물을 너는 각기 암수 한 쌍씩 방주로 이끌어들여 너와 함께 생명을 보존하게 하되
+📖 **마가복음 3:11**
+> 더러운 귀신들도 어느 때든지 예수를 보면 그 앞에 엎드려 부르짖어 이르되 당신은 하나님의 아들이니이다 하니
 
-🕊️ _업데이트 시각: 2025-10-25 23:38:25 KST_
+🕊️ _업데이트 시각: 2025-10-25 23:44:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
