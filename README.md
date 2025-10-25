@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 9:20**
-> 부녀들이여 여호와의 말씀을 들으라 너희 귀에 그 입의 말씀을 받으라 너희 딸들에게 애곡하게 하고 각기 이웃에게 슬픈 노래를 가르치라
+📖 **데살로니가전서 2:13**
+> 이러므로 우리가 하나님께 끊임없이 감사함은 너희가 우리에게 들은 바 하나님의 말씀을 받을 때에 사람의 말로 받지 아니하고하나님의 말씀으로 받음이니 진실로 그러하도다 이 말씀이 또한 너희 믿는 자 가운데에서 역사하느니라
 
-🕊️ _업데이트 시각: 2025-10-25 17:32:18 KST_
+🕊️ _업데이트 시각: 2025-10-25 17:43:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
