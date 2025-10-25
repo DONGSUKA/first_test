@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 16:1**
-> 고라와 다단과 아비람의 반역 레위의 증손 고핫의 손자 이스할의 아들 고라와 르우벤 자손 엘리압의 아들 다단과 아비람과 벨렛의 아들온이 당을 짓고
+📖 **예레미야 21:13**
+> 여호와의 말씀이니라 골짜기와 평원 바위의 주민아 보라 너희가 말하기를 누가 내려와서 우리를 치리요 누가 우리의 거처에 들어오리요 하거니와 나는 네 대적이라
 
-🕊️ _업데이트 시각: 2025-10-26 06:38:46 KST_
+🕊️ _업데이트 시각: 2025-10-26 06:44:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
