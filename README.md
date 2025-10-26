@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 8:18**
-> 우리 하나님의 선한 손의 도우심을 입고 그들이 이스라엘의 손자 레위의 아들 말리의 자손 중에서 한 명철한 사람을 데려오고 또 세레뱌와 그의 아들들과 형제 십팔 명과
+📖 **창세기 40:21**
+> 바로의 술 맡은 관원장은 전직을 회복하매 그가 잔을 바로의 손에 받들어 드렸고
 
-🕊️ _업데이트 시각: 2025-10-27 03:48:45 KST_
+🕊️ _업데이트 시각: 2025-10-27 03:54:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
