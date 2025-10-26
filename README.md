@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 2:18**
-> 그것을 가지고 성읍에 들어가서 시어머니에게 그 주운 것을 보이고 그가 배불리 먹고 남긴 것을 내어 시어머니에게 드리매
+📖 **잠언 22:23**
+> 대저 여호와께서 신원하여 주시고 또 그를 노략하는 자의 생명을 빼앗으시리라
 
-🕊️ _업데이트 시각: 2025-10-27 05:14:38 KST_
+🕊️ _업데이트 시각: 2025-10-27 05:31:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
