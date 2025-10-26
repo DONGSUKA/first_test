@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 14:25**
-> 밤 사경에 예수께서 바다 위로 걸어서 제자들에게 오시니
+📖 **창세기 7:12**
+> 사십 주야를 비가 땅에 쏟아졌더라
 
-🕊️ _업데이트 시각: 2025-10-27 01:36:06 KST_
+🕊️ _업데이트 시각: 2025-10-27 01:46:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
