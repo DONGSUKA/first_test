@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 6:2**
-> 누구든지 여호와께 신실하지 못하여 범죄하되 곧 이웃이 맡긴 물건이나 전당물을 속이거나 도둑질하거나 착취하고도 사실을 부인하거나
+📖 **신명기 23:14**
+> 이는 네 하나님 여호와께서 너를 구원하시고 적군을 네게 넘기시려고 네 진영 중에 행하심이라 그러므로 네 진영을 거룩히 하라 그리하면 네게서 불결한 것을 보시지 않으므로 너를 떠나지 아니하시리라
 
-🕊️ _업데이트 시각: 2025-10-26 14:30:54 KST_
+🕊️ _업데이트 시각: 2025-10-26 14:40:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
