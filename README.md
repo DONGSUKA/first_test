@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 33:21**
-> 여호와께서 또 이르시기를 보라 내 곁에 한 장소가 있으니 너는 그 반석 위에 서라
+📖 **사도행전 7:32**
+> 나는 네 조상의 하나님 즉 아브라함과 이삭과 야곱의 하나님이라 하신대 모세가 무서워 감히 바라보지 못하더라
 
-🕊️ _업데이트 시각: 2025-10-26 13:52:09 KST_
+🕊️ _업데이트 시각: 2025-10-26 13:57:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
