@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 25:19**
-> 한 그룹은 이 끝에, 또 한 그룹은 저 끝에 곧 속죄소 두 끝에 속죄소와 한 덩이로 연결할지며
+📖 **출애굽기 38:3**
+> 제단의 모든 기구 곧 통과 부삽과 대야와 고기 갈고리와 불 옮기는 그릇을 다 놋으로 만들고
 
-🕊️ _업데이트 시각: 2025-10-26 19:31:21 KST_
+🕊️ _업데이트 시각: 2025-10-26 19:40:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
