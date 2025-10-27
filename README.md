@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한일서 3:18**
-> 자녀들아 우리가 말과 혀로만 사랑하지 말고 행함과 진실함으로 하자
+📖 **신명기 27:15**
+> 장색의 손으로 조각하였거나 부어 만든 우상은 여호와께 가증하니 그것을 만들어 은밀히 세우는 자는 저주를 받을 것이라 할 것이요 모든 백성은 응답하여 말하되 아멘 할지니라
 
-🕊️ _업데이트 시각: 2025-10-28 02:53:38 KST_
+🕊️ _업데이트 시각: 2025-10-28 02:59:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
