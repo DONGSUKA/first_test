@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 5:32**
-> 우리는 이 일에 증인이요 하나님이 자기에게 순종하는 사람들에게 주신 성령도 그러하니라 하더라
+📖 **요한복음 1:28**
+> 이 일은 요한이 세례 베풀던 곳 요단 강 건너편 베다니에서 일어난 일이니라
 
-🕊️ _업데이트 시각: 2025-10-27 22:51:28 KST_
+🕊️ _업데이트 시각: 2025-10-27 22:57:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
