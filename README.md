@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 34:17**
-> 또 여호와의 전에서 발견한 돈을 쏟아서 감독자들과 일꾼들에게 주었나이다 하고
+📖 **누가복음 24:47**
+> 또 그의 이름으로 죄 사함을 받게 하는 회개가 예루살렘에서 시작하여 모든 족속에게 전파될 것이 기록되었으니
 
-🕊️ _업데이트 시각: 2025-10-27 23:14:25 KST_
+🕊️ _업데이트 시각: 2025-10-27 23:33:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
