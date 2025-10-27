@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 19:19**
-> 빌라도가 패를 써서 십자가 위에 붙이니 나사렛 예수 유대인의 왕이라 기록되었더라
+📖 **이사야 51:6**
+> 너희는 하늘로 눈을 들며 그 아래의 땅을 살피라 하늘이 연기 같이 사라지고 땅이 옷 같이 해어지며 거기에 사는 자들이 하루살이 같이죽으려니와 나의 구원은 영원히 있고 나의 공의는 폐하여지지 아니하리라
 
-🕊️ _업데이트 시각: 2025-10-28 04:49:04 KST_
+🕊️ _업데이트 시각: 2025-10-28 04:54:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
