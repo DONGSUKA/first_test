@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로전서 1:18**
-> 너희가 알거니와 너희 조상이 물려 준 헛된 행실에서 대속함을 받은 것은 은이나 금 같이 없어질 것으로 된 것이 아니요
+📖 **열왕기상 7:22**
+> 그 두 기둥 꼭대기에는 백합화 형상이 있더라 두 기둥의 공사가 끝나니라
 
-🕊️ _업데이트 시각: 2025-10-28 05:51:14 KST_
+🕊️ _업데이트 시각: 2025-10-28 05:57:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
