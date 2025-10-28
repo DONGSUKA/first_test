@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 61:7**
-> 그가 영원히 하나님 앞에서 거주하리니 인자와 진리를 예비하사 그를 보호하소서
+📖 **마태복음 27:53**
+> 예수의 부활 후에 그들이 무덤에서 나와서 거룩한 성에 들어가 많은 사람에게 보이니라
 
-🕊️ _업데이트 시각: 2025-10-28 23:11:18 KST_
+🕊️ _업데이트 시각: 2025-10-28 23:34:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
