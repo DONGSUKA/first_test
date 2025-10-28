@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 34:14**
-> 좋은 꼴을 먹이고 그 우리를 이스라엘 높은 산에 두리니 그것들이 그 곳에 있는 좋은 우리에 누워 있으며 이스라엘 산에서 살진 꼴을 먹으리라
+📖 **로마서 11:24**
+> 네가 원 돌감람나무에서 찍힘을 받고 본성을 거슬러 좋은 감람나무에 접붙임을 받았으니 원 가지인 이 사람들이야 얼마나 더 자기 감람나무에 접붙이심을 받으랴
 
-🕊️ _업데이트 시각: 2025-10-29 01:46:47 KST_
+🕊️ _업데이트 시각: 2025-10-29 01:57:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
