@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 10:16**
-> 주께서 이르시되 그 날 후로는 그들과 맺을 언약이 이것이라 하시고 내 법을 그들의 마음에 두고 그들의 생각에 기록하리라 하신 후에
+📖 **예레미야애가 1:4**
+> 시온의 도로들이 슬퍼함이여 절기를 지키려 나아가는 사람이 없음이로다 모든 성문들이 적막하며 제사장들이 탄식하며 처녀들이 근심하며 시온도 곤고를 받았도다
 
-🕊️ _업데이트 시각: 2025-10-29 06:13:57 KST_
+🕊️ _업데이트 시각: 2025-10-29 06:28:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
