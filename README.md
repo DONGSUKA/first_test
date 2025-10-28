@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 29:2**
-> 본즉 들에 우물이 있고 그 곁에 양 세 떼가 누워 있으니 이는 목자들이 그 우물에서 양 떼에게 물을 먹임이라 큰 돌로 우물 아귀를 덮었다가
+📖 **예레미야 8:11**
+> 그들이 딸 내 백성의 상처를 가볍게 여기면서 말하기를 평강하다, 평강하다 하나 평강이 없도다
 
-🕊️ _업데이트 시각: 2025-10-28 17:43:01 KST_
+🕊️ _업데이트 시각: 2025-10-28 17:55:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
