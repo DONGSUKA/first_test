@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 63:18**
-> 주의 거룩한 백성이 땅을 차지한 지 오래지 아니하여서 우리의 원수가 주의 성소를 유린하였사오니
+📖 **시편 98:1**
+> 시 새 노래로 여호와께 찬송하라 그는 기이한 일을 행하사 그의 오른손과 거룩한 팔로 자기를 위하여 구원을 베푸셨음이로다
 
-🕊️ _업데이트 시각: 2025-10-28 23:48:16 KST_
+🕊️ _업데이트 시각: 2025-10-28 23:55:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
