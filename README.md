@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 19:33**
-> 예수께 이르러서는 이미 죽으신 것을 보고 다리를 꺾지 아니하고
+📖 **잠언 15:8**
+> 악인의 제사는 여호와께서 미워하셔도 정직한 자의 기도는 그가 기뻐하시느니라
 
-🕊️ _업데이트 시각: 2025-10-28 16:45:26 KST_
+🕊️ _업데이트 시각: 2025-10-28 16:51:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
