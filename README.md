@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 9:25**
-> 이기기를 다투는 자마다 모든 일에 절제하나니 그들은 썩을 승리자의 관을 얻고자 하되 우리는 썩지 아니할 것을 얻고자 하노라
+📖 **시편 119:74**
+> 주를 경외하는 자들이 나를 보고 기뻐하는 것은 내가 주의 말씀을 바라는 까닭이니이다
 
-🕊️ _업데이트 시각: 2025-10-28 11:43:29 KST_
+🕊️ _업데이트 시각: 2025-10-28 12:31:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
