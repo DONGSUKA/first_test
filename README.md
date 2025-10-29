@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 11:1**
-> 스마야가 여호와의 말씀을 전하다(왕상 12:21-24) 르호보암이 예루살렘에 이르러 유다와 베냐민 족속을 모으니 택한 용사가 십팔만 명이라 이스라엘과 싸워 나라를 회복하여 르호보암에게 돌리려 하더니
+📖 **누가복음 8:10**
+> 이르시되 하나님 나라의 비밀을 아는 것이 너희에게는 허락되었으나 다른 사람에게는 비유로 하나니 이는 그들로 보아도 보지 못하고들어도 깨닫지 못하게 하려 함이라
 
-🕊️ _업데이트 시각: 2025-10-29 17:24:44 KST_
+🕊️ _업데이트 시각: 2025-10-29 17:45:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
