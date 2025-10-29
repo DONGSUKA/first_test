@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **데살로니가전서 1:7**
-> 그러므로 너희가 마게도냐와 아가야에 있는 모든 믿는 자의 본이 되었느니라
+📖 **에스겔 22:23**
+> 선지자 제사장 고관들의 죄 여호와의 말씀이 내게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2025-10-30 04:49:06 KST_
+🕊️ _업데이트 시각: 2025-10-30 04:54:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
