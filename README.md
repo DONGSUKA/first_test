@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 36:17**
-> 내가 와서 너희를 너희 본토와 같이 곡식과 포도주와 떡과 포도원이 있는 땅에 옮기기까지 하리라
+📖 **창세기 2:8**
+> 여호와 하나님이 동방의 에덴에 동산을 창설하시고 그 지으신 사람을 거기 두시니라
 
-🕊️ _업데이트 시각: 2025-10-30 08:26:36 KST_
+🕊️ _업데이트 시각: 2025-10-30 08:36:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
