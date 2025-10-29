@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:1**
-> 아삽의 마스길 내 백성이여, 내 율법을 들으며 내 입의 말에 귀를 기울일지어다
+📖 **에스겔 32:17**
+> 죽은 자들의 세계 열두째 해 어느 달 열다섯째 날에 여호와의 말씀이 내게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2025-10-30 05:10:18 KST_
+🕊️ _업데이트 시각: 2025-10-30 05:32:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
