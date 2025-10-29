@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 25:1**
-> 솔로몬의 잠언 이것도 솔로몬의 잠언이요 유다 왕 히스기야의 신하들이 편집한 것이니라
+📖 **요한복음 10:11**
+> 나는 선한 목자라 선한 목자는 양들을 위하여 목숨을 버리거니와
 
-🕊️ _업데이트 시각: 2025-10-29 22:38:09 KST_
+🕊️ _업데이트 시각: 2025-10-29 22:51:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
