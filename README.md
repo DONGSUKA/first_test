@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 5:33**
-> 그들이 예수께 말하되 요한의 제자는 자주 금식하며 기도하고 바리새인의 제자들도 또한 그리하되 당신의 제자들은 먹고 마시나이다
+📖 **역대하 11:1**
+> 스마야가 여호와의 말씀을 전하다(왕상 12:21-24) 르호보암이 예루살렘에 이르러 유다와 베냐민 족속을 모으니 택한 용사가 십팔만 명이라 이스라엘과 싸워 나라를 회복하여 르호보암에게 돌리려 하더니
 
-🕊️ _업데이트 시각: 2025-10-29 16:58:56 KST_
+🕊️ _업데이트 시각: 2025-10-29 17:24:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
