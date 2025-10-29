@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 37:20**
-> 등잔대 줄기에는 살구꽃 형상의 잔 넷과 꽃받침과 꽃이 있고
+📖 **누가복음 2:49**
+> 예수께서 이르시되 어찌하여 나를 찾으셨나이까 내가 내 아버지 집에 있어야 될 줄을 알지 못하셨나이까 하시니
 
-🕊️ _업데이트 시각: 2025-10-29 20:25:30 KST_
+🕊️ _업데이트 시각: 2025-10-29 20:33:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
