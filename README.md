@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 1:20**
-> 시편에 기록하였으되 그의 거처를 황폐하게 하시며 거기 거하는 자가 없게 하소서 하였고 또 일렀으되 그의 직분을 타인이 취하게 하소서 하였도다
+📖 **민수기 35:8**
+> 너희가 이스라엘 자손의 소유에서 레위인에게 너희가 성읍을 줄 때에 많이 받은 자에게서는 많이 떼어서 주고 적게 받은 자에게서는 적게떼어 줄 것이라 각기 받은 기업을 따라서 그 성읍들을 레위인에게 줄지니라
 
-🕊️ _업데이트 시각: 2025-10-29 20:48:17 KST_
+🕊️ _업데이트 시각: 2025-10-29 20:54:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
