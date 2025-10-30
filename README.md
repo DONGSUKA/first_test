@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 5:44**
-> 나는 너희에게 이르노니 너희 원수를 사랑하며 너희를 박해하는 자를 위하여 기도하라
+📖 **예레미야 41:14**
+> 이에 미스바에서 이스마엘이 사로잡은 그 모든 백성이 돌이켜 가레아의 아들 요하난에게로 돌아가니
 
-🕊️ _업데이트 시각: 2025-10-30 13:39:30 KST_
+🕊️ _업데이트 시각: 2025-10-30 13:48:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
