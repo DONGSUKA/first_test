@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 49:15**
-> 그러나 하나님은 나를 영접하시리니 이러므로 내 영혼을 스올의 권세에서 건져내시리로다 (셀라)
+📖 **출애굽기 16:20**
+> 그들이 모세에게 순종하지 아니하고 더러는 아침까지 두었더니 벌레가 생기고 냄새가 난지라 모세가 그들에게 노하니라
 
-🕊️ _업데이트 시각: 2025-10-31 02:00:25 KST_
+🕊️ _업데이트 시각: 2025-10-31 02:20:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
