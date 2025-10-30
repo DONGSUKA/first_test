@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 18:3**
-> 그 도시에 한 과부가 있어 자주 그에게 가서 내 원수에 대한 나의 원한을 풀어 주소서 하되
+📖 **예레미야 37:5**
+> 바로의 군대가 애굽에서 나오매 예루살렘을 에워쌌던 갈대아인이 그 소문을 듣고 예루살렘에서 떠났더라
 
-🕊️ _업데이트 시각: 2025-10-30 15:44:05 KST_
+🕊️ _업데이트 시각: 2025-10-30 15:54:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
