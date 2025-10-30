@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 20:15**
-> 내 것을 가지고 내 뜻대로 할 것이 아니냐 내가 선하므로 네가 악하게 보느냐
+📖 **로마서 8:25**
+> 만일 우리가 보지 못하는 것을 바라면 참음으로 기다릴지니라
 
-🕊️ _업데이트 시각: 2025-10-31 02:36:05 KST_
+🕊️ _업데이트 시각: 2025-10-31 02:45:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
