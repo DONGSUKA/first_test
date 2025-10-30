@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 51:60**
-> 예레미야가 바벨론에 닥칠 모든 재난 곧 바벨론에 대하여 기록한 이 모든 말씀을 한 책에 기록하고
+📖 **레위기 25:1**
+> 안식년 여호와께서 시내 산에서 모세에게 말씀하여 이르시되
 
-🕊️ _업데이트 시각: 2025-10-30 16:42:38 KST_
+🕊️ _업데이트 시각: 2025-10-30 16:49:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
