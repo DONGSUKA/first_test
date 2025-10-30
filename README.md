@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 14:23**
-> 각 교회에서 장로들을 택하여 금식 기도 하며 그들이 믿는 주께 그들을 위탁하고
+📖 **고린도전서 14:7**
+> 혹 피리나 거문고와 같이 생명 없는 것이 소리를 낼 때에 그 음의 분별을 나타내지 아니하면 피리 부는 것인지 거문고 타는 것인지어찌 알게 되리요
 
-🕊️ _업데이트 시각: 2025-10-30 22:54:59 KST_
+🕊️ _업데이트 시각: 2025-10-30 23:09:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
