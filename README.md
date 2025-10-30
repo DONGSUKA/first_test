@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **데살로니가전서 4:12**
-> 이는 외인에 대하여 단정히 행하고 또한 아무 궁핍함이 없게 하려 함이라
+📖 **시편 54:5**
+> 주께서는 내 원수에게 악으로 갚으시리니 주의 성실하심으로 그들을 멸하소서
 
-🕊️ _업데이트 시각: 2025-10-31 07:59:22 KST_
+🕊️ _업데이트 시각: 2025-10-31 08:16:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
