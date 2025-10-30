@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 47:6**
-> 그가 내게 이르시되 인자야 네가 이것을 보았느냐 하시고 나를 인도하여 강 가로 돌아가게 하시기로
+📖 **이사야 56:11**
+> 이 개들은 탐욕이 심하여 족한 줄을 알지 못하는 자들이요 그들은 몰지각한 목자들이라 다 제 길로 돌아가며 사람마다 자기 이익만 추구하며
 
-🕊️ _업데이트 시각: 2025-10-30 18:50:31 KST_
+🕊️ _업데이트 시각: 2025-10-30 18:56:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
