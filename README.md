@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 148:13**
-> 여호와의 이름을 찬양할지어다 그의 이름이 홀로 높으시며 그의 영광이 땅과 하늘 위에 뛰어나심이로다
+📖 **고린도전서 4:21**
+> 너희가 무엇을 원하느냐 내가 매를 가지고 너희에게 나아가랴 사랑과 온유한 마음으로 나아가랴
 
-🕊️ _업데이트 시각: 2025-10-31 16:27:20 KST_
+🕊️ _업데이트 시각: 2025-10-31 16:36:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
