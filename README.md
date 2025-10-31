@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **학개 2:5**
-> 너희가 애굽에서 나올 때에 내가 너희와 언약한 말과 나의 영이 계속하여 너희 가운데에 머물러 있나니 너희는 두려워하지 말지어다
+📖 **사사기 9:25**
+> 세겜 사람들이 산들의 꼭대기에 사람을 매복시켜 아비멜렉을 엿보게 하고 그 길로 지나는 모든 자를 다 강탈하게 하니 어떤 사람이 그것을 아비멜렉에게 알리니라
 
-🕊️ _업데이트 시각: 2025-10-31 17:57:20 KST_
+🕊️ _업데이트 시각: 2025-10-31 18:15:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
