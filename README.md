@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 8:18**
-> 나를 따르라(눅 9:57-62) 예수께서 무리가 자기를 에워싸는 것을 보시고 건너편으로 가기를 명하시니라
+📖 **신명기 28:48**
+> 네가 주리고 목마르고 헐벗고 모든 것이 부족한 중에서 여호와께서 보내사 너를 치게 하실 적군을 섬기게 될 것이니 그가 철 멍에를 네목에 메워 마침내 너를 멸할 것이라
 
-🕊️ _업데이트 시각: 2025-10-31 23:09:39 KST_
+🕊️ _업데이트 시각: 2025-10-31 23:32:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
