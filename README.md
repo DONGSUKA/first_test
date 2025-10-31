@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:17**
-> 땅이 갈라져 다단을 삼키며 아비람의 당을 덮었고
+📖 **민수기 3:1**
+> 아론의 아들들 여호와께서 시내 산에서 모세와 말씀하실 때에 아론과 모세가 낳은 자는 이러하니라
 
-🕊️ _업데이트 시각: 2025-11-01 03:47:29 KST_
+🕊️ _업데이트 시각: 2025-11-01 03:56:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
