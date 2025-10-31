@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 4:12**
-> 누구든지 네 연소함을 업신여기지 못하게 하고 오직 말과 행실과 사랑과 믿음과 정절에 있어서 믿는 자에게 본이 되어
+📖 **잠언 25:28**
+> 자기의 마음을 제어하지 아니하는 자는 성읍이 무너지고 성벽이 없는 것과 같으니라
 
-🕊️ _업데이트 시각: 2025-11-01 02:47:25 KST_
+🕊️ _업데이트 시각: 2025-11-01 02:53:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
