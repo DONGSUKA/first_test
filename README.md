@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 9:4**
-> 땅에 엎드러져 들으매 소리가 있어 이르시되 사울아 사울아 네가 어찌하여 나를 박해하느냐 하시거늘
+📖 **시편 40:1**
+> 다윗의 시, 인도자를 따라 부르는 노래 내가 여호와를 기다리고 기다렸더니 귀를 기울이사 나의 부르짖음을 들으셨도다
 
-🕊️ _업데이트 시각: 2025-10-31 12:53:42 KST_
+🕊️ _업데이트 시각: 2025-10-31 13:01:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
