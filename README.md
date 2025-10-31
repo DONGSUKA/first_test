@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 4:21**
-> 너희가 무엇을 원하느냐 내가 매를 가지고 너희에게 나아가랴 사랑과 온유한 마음으로 나아가랴
+📖 **요한복음 17:4**
+> 아버지께서 내게 하라고 주신 일을 내가 이루어 아버지를 이 세상에서 영화롭게 하였사오니
 
-🕊️ _업데이트 시각: 2025-10-31 16:36:01 KST_
+🕊️ _업데이트 시각: 2025-10-31 16:43:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
