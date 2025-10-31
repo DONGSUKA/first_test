@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 5:29**
-> 그들의 부르짖음은 암사자 같을 것이요 그들의 소리지름은 어린 사자들과 같을 것이라 그들이 부르짖으며 먹이를 움켜 가져가 버려도 건질 자가 없으리로다
+📖 **사무엘상 26:20**
+> 그런즉 청하건대 여호와 앞에서 먼 이 곳에서 이제 나의 피가 땅에 흐르지 말게 하옵소서 이는 산에서 메추라기를 사냥하는 자와 같이이스라엘 왕이 한 벼룩을 수색하러 나오셨음이니이다
 
-🕊️ _업데이트 시각: 2025-11-01 02:15:17 KST_
+🕊️ _업데이트 시각: 2025-11-01 02:31:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
