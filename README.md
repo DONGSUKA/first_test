@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 8:7**
-> 이스라엘이 아닌 헷 족속과 아모리 족속과 브리스 족속과 히위 족속과 여부스 족속의 남아 있는 자
+📖 **여호수아 1:3**
+> 내가 모세에게 말한 바와 같이 너희 발바닥으로 밟는 곳은 모두 내가 너희에게 주었노니
 
-🕊️ _업데이트 시각: 2025-10-31 18:43:32 KST_
+🕊️ _업데이트 시각: 2025-10-31 18:50:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
