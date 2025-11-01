@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 50:16**
-> 요셉에게 말을 전하여 이르되 당신의 아버지가 돌아가시기 전에 명령하여 이르시기를
+📖 **예레미야 5:25**
+> 너희 허물이 이러한 일들을 물리쳤고 너희 죄가 너희로부터 좋은 것을 막았느니라
 
-🕊️ _업데이트 시각: 2025-11-02 08:11:07 KST_
+🕊️ _업데이트 시각: 2025-11-02 08:26:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
