@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 6:3**
-> 너는 구제할 때에 오른손이 하는 것을 왼손이 모르게 하여
+📖 **예레미야애가 3:29**
+> 그대의 입을 땅의 티끌에 댈지어다 혹시 소망이 있을지로다
 
-🕊️ _업데이트 시각: 2025-11-01 21:17:35 KST_
+🕊️ _업데이트 시각: 2025-11-01 21:54:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
