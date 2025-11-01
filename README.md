@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 31:29**
-> 너를 해할 만한 능력이 내 손에 있으나 너희 아버지의 하나님이 어제 밤에 내게 말씀하시기를 너는 삼가 야곱에게 선악간에 말하지 말라하셨느니라
+📖 **레위기 3:12**
+> 만일 그의 예물이 염소면 그것을 여호와 앞으로 끌어다가
 
-🕊️ _업데이트 시각: 2025-11-01 14:51:13 KST_
+🕊️ _업데이트 시각: 2025-11-01 14:57:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
