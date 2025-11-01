@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 12:10**
-> 내가 여러 선지자에게 말하였고 이상을 많이 보였으며 선지자들을 통하여 비유를 베풀었노라
+📖 **사도행전 20:20**
+> 유익한 것은 무엇이든지 공중 앞에서나 각 집에서나 거리낌이 없이 여러분에게 전하여 가르치고
 
-🕊️ _업데이트 시각: 2025-11-02 03:57:38 KST_
+🕊️ _업데이트 시각: 2025-11-02 04:09:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
