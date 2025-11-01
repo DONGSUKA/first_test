@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 19:2**
-> 하나니의 아들 선견자 예후가 나가서 여호사밧 왕을 맞아 이르되 왕이 악한 자를 돕고 여호와를 미워하는 자들을 사랑하는 것이 옳으니이까 그러므로 여호와께로부터 진노하심이 왕에게 임하리이다
+📖 **마태복음 10:2**
+> 열두 제자에게 명하여 이르시다(막 6:7-13; 눅 9:1-6) 열두 사도의 이름은 이러하니 베드로라 하는 시몬을 비롯하여 그의 형제 안드레와 세베대의 아들 야고보와 그의 형제 요한,
 
-🕊️ _업데이트 시각: 2025-11-01 18:35:49 KST_
+🕊️ _업데이트 시각: 2025-11-01 18:42:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
