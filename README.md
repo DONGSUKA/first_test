@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 54:10**
-> 산들이 떠나며 언덕들은 옮겨질지라도 나의 자비는 네게서 떠나지 아니하며 나의 화평의 언약은 흔들리지 아니하리라 너를 긍휼히 여기시는 여호와께서 말씀하셨느니라
+📖 **마태복음 4:23**
+> 가르치시며 전파하시며 고치시다(눅 6:17-19) 예수께서 온 갈릴리에 두루 다니사 그들의 회당에서 가르치시며 천국 복음을 전파하시며백성 중의 모든 병과 모든 약한 것을 고치시니
 
-🕊️ _업데이트 시각: 2025-11-02 02:30:44 KST_
+🕊️ _업데이트 시각: 2025-11-02 02:37:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
