@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 5:2**
-> 어떤 사람은 말하기를 우리와 우리 자녀가 많으니 양식을 얻어 먹고 살아야 하겠다 하고
+📖 **예레미야애가 4:7**
+> 전에는 존귀한 자들의 몸이 눈보다 깨끗하고 젖보다 희며 산호들보다 붉어 그들의 윤택함이 갈아서 빛낸 청옥 같더니
 
-🕊️ _업데이트 시각: 2025-11-02 05:36:44 KST_
+🕊️ _업데이트 시각: 2025-11-02 05:42:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
