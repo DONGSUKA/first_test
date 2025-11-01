@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 23:22**
-> 어떤 사람이 내게 말하기를 그는 심히 지혜롭게 행동한다 하나니 너희는 가서 더 자세히 살펴서 그가 어디에 숨었으며 누가 거기서 그를 보았는지 알아보고
+📖 **민수기 4:14**
+> 봉사하는 데에 쓰는 모든 기구 곧 불 옮기는 그릇들과 고기 갈고리들과 부삽들과 대야들과 제단의 모든 기구를 두고 해달의 가죽 덮개를그 위에 덮고 그 채를 꿸 것이며
 
-🕊️ _업데이트 시각: 2025-11-02 03:46:00 KST_
+🕊️ _업데이트 시각: 2025-11-02 03:52:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
