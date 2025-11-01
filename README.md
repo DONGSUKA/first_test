@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 40:26**
-> 또 그리로 올라가는 일곱 층계가 있고 그 안에 현관이 있으며 또 이쪽 저쪽 문 벽 위에 종려나무를 새겼으며
+📖 **신명기 22:9**
+> 네 포도원에 두 종자를 섞어 뿌리지 말라 그리하면 네가 뿌린 씨의 열매와 포도원의 소산을 다 빼앗길까 하노라
 
-🕊️ _업데이트 시각: 2025-11-01 16:37:55 KST_
+🕊️ _업데이트 시각: 2025-11-01 16:43:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
