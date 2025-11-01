@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 23:36**
-> 오홀라와 오홀리바가 받은 재판 여호와께서 또 내게 이르시되 인자야 네가 오홀라와 오홀리바를 심판하려느냐 그러면 그 가증한 일을 그들에게 말하라
+📖 **역대하 19:2**
+> 하나니의 아들 선견자 예후가 나가서 여호사밧 왕을 맞아 이르되 왕이 악한 자를 돕고 여호와를 미워하는 자들을 사랑하는 것이 옳으니이까 그러므로 여호와께로부터 진노하심이 왕에게 임하리이다
 
-🕊️ _업데이트 시각: 2025-11-01 18:27:54 KST_
+🕊️ _업데이트 시각: 2025-11-01 18:35:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
