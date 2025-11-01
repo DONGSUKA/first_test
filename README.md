@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 6:14**
-> 여호와께서 그를 향하여 이르시되 너는 가서 이 너의 힘으로 이스라엘을 미디안의 손에서 구원하라 내가 너를 보낸 것이 아니냐 하시니라
+📖 **이사야 54:5**
+> 이는 너를 지으신 이가 네 남편이시라 그의 이름은 만군의 여호와이시며 네 구속자는 이스라엘의 거룩한 이시라 그는 온 땅의 하나님이라일컬음을 받으실 것이라
 
-🕊️ _업데이트 시각: 2025-11-01 17:11:40 KST_
+🕊️ _업데이트 시각: 2025-11-01 17:33:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
