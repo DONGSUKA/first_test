@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 4:49**
-> 요단 이쪽 곧 그 동쪽 온 아라바니 비스가 기슭 아래 아라바의 바다까지이니라
+📖 **호세아 5:8**
+> 유다와 이스라엘 사이의 전쟁 너희가 기브아에서 뿔나팔을 불며 라마에서 나팔을 불며 벧아웬에서 외치기를 베냐민아 네 뒤를 쫓는다 할지어다
 
-🕊️ _업데이트 시각: 2025-11-01 16:25:06 KST_
+🕊️ _업데이트 시각: 2025-11-01 16:31:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
