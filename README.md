@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 28:17**
-> 또 그 달 열다섯째 날부터는 명절이니 이레 동안 무교병을 먹을 것이며
+📖 **출애굽기 8:23**
+> 내가 내 백성과 네 백성 사이를 구별하리니 내일 이 표징이 있으리라 하셨다 하라 하시고
 
-🕊️ _업데이트 시각: 2025-11-03 00:52:38 KST_
+🕊️ _업데이트 시각: 2025-11-03 00:58:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
