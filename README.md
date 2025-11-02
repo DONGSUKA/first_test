@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 4:21**
-> 너희가 무엇을 원하느냐 내가 매를 가지고 너희에게 나아가랴 사랑과 온유한 마음으로 나아가랴
+📖 **사무엘하 10:11**
+> 이르되 만일 아람 사람이 나보다 강하면 네가 나를 돕고 만일 암몬 자손이 너보다 강하면 내가 가서 너를 도우리라
 
-🕊️ _업데이트 시각: 2025-11-02 22:53:56 KST_
+🕊️ _업데이트 시각: 2025-11-02 22:59:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
