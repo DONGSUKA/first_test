@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한이서 1:8**
-> 너희는 스스로 삼가 우리가 일한 것을 잃지 말고 오직 온전한 상을 받으라
+📖 **느헤미야 2:16**
+> 방백들은 내가 어디 갔었으며 무엇을 하였는지 알지 못하였고 나도 그 일을 유다 사람들에게나 제사장들에게나 귀족들에게나 방백들에게나 그 외에 일하는 자들에게 알리지 아니하다가
 
-🕊️ _업데이트 시각: 2025-11-03 02:41:20 KST_
+🕊️ _업데이트 시각: 2025-11-03 02:47:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
