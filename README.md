@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 8:31**
-> 귀신들이 예수께 간구하여 이르되 만일 우리를 쫓아 내시려면 돼지 떼에 들여 보내 주소서 하니
+📖 **창세기 24:1**
+> 이삭이 리브가를 아내로 삼다 아브라함이 나이가 많아 늙었고 여호와께서 그에게 범사에 복을 주셨더라
 
-🕊️ _업데이트 시각: 2025-11-03 03:09:23 KST_
+🕊️ _업데이트 시각: 2025-11-03 03:21:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
