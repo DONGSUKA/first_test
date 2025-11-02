@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 29:18**
-> 야곱이 라헬을 더 사랑하므로 대답하되 내가 외삼촌의 작은 딸 라헬을 위하여 외삼촌에게 칠 년을 섬기리이다
+📖 **누가복음 20:28**
+> 물어 이르되 선생님이여 모세가 우리에게 써 주기를 만일 어떤 사람의 형이 아내를 두고 자식이 없이 죽으면 그 동생이 그 아내를 취하여 형을 위하여 상속자를 세울지니라 하였나이다
 
-🕊️ _업데이트 시각: 2025-11-03 04:47:23 KST_
+🕊️ _업데이트 시각: 2025-11-03 04:53:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
