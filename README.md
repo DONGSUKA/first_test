@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 20:10**
-> 먼저 온 자들이 와서 더 받을 줄 알았더니 그들도 한 데나리온씩 받은지라
+📖 **마태복음 21:8**
+> 무리의 대다수는 그들의 겉옷을 길에 펴고 다른 이들은 나뭇가지를 베어 길에 펴고
 
-🕊️ _업데이트 시각: 2025-11-02 20:59:08 KST_
+🕊️ _업데이트 시각: 2025-11-02 21:32:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
