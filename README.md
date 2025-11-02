@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 27:58**
-> 빌라도에게 가서 예수의 시체를 달라 하니 이에 빌라도가 내주라 명령하거늘
+📖 **사사기 9:53**
+> 한 여인이 맷돌 위짝을 아비멜렉의 머리 위에 내려 던져 그의 두개골을 깨뜨리니
 
-🕊️ _업데이트 시각: 2025-11-03 00:25:32 KST_
+🕊️ _업데이트 시각: 2025-11-03 00:32:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
