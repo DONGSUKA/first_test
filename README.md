@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:152**
-> 내가 전부터 주의 증거들을 알고 있었으므로 주께서 영원히 세우신 것인 줄을 알았나이다
+📖 **시편 122:1**
+> 다윗의 시 곧 성전에 올라가는 노래 사람이 내게 말하기를 여호와의 집에 올라가자 할 때에 내가 기뻐하였도다
 
-🕊️ _업데이트 시각: 2025-11-02 18:50:34 KST_
+🕊️ _업데이트 시각: 2025-11-02 18:56:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
