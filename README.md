@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 9:14**
-> 내가 구름으로 땅을 덮을 때에 무지개가 구름 속에 나타나면
+📖 **민수기 26:59**
+> 아므람의 처의 이름은 요게벳이니 레위의 딸이요 애굽에서 레위에게서 난 자라 그가 아므람에게서 아론과 모세와 그의 누이 미리암을 낳았고
 
-🕊️ _업데이트 시각: 2025-11-03 01:45:47 KST_
+🕊️ _업데이트 시각: 2025-11-03 01:52:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
