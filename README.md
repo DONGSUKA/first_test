@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 3:53**
-> 그들이 내 생명을 끊으려고 나를 구덩이에 넣고 그 위에 돌을 던짐이여
+📖 **디도서 1:7**
+> 감독은 하나님의 청지기로서 책망할 것이 없고 제 고집대로 하지 아니하며 급히 분내지 아니하며 술을 즐기지 아니하며 구타하지 아니하며더러운 이득을 탐하지 아니하며
 
-🕊️ _업데이트 시각: 2025-11-02 12:59:03 KST_
+🕊️ _업데이트 시각: 2025-11-02 13:21:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
