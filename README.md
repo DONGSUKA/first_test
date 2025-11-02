@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 10:11**
-> 이르되 만일 아람 사람이 나보다 강하면 네가 나를 돕고 만일 암몬 자손이 너보다 강하면 내가 가서 너를 도우리라
+📖 **열왕기상 8:59**
+> 여호와 앞에서 내가 간구한 이 말씀이 주야로 우리 하나님 여호와께 가까이 있게 하시옵고 또 주의 종의 일과 주의 백성 이스라엘의 일을 날마다 필요한 대로 돌아보사
 
-🕊️ _업데이트 시각: 2025-11-02 22:59:43 KST_
+🕊️ _업데이트 시각: 2025-11-02 23:15:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
