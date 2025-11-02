@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 14:42**
-> 여호와께서 너희 중에 계시지 아니하니 올라가지 말라 너희의 대적 앞에서 패할까 하노라
+📖 **사무엘상 16:4**
+> 사무엘이 여호와의 말씀대로 행하여 베들레헴에 이르매 성읍 장로들이 떨며 그를 영접하여 이르되 평강을 위하여 오시나이까
 
-🕊️ _업데이트 시각: 2025-11-02 23:29:55 KST_
+🕊️ _업데이트 시각: 2025-11-02 23:38:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
