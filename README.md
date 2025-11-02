@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 3:30**
-> 그 날에 모압이 이스라엘 수하에 굴복하매 그 땅이 팔십 년 동안 평온하였더라
+📖 **창세기 24:54**
+> 이에 그들 곧 종과 동행자들이 먹고 마시고 유숙하고 아침에 일어나서 그가 이르되 나를 보내어 내 주인에게로 돌아가게 하소서
 
-🕊️ _업데이트 시각: 2025-11-02 11:52:38 KST_
+🕊️ _업데이트 시각: 2025-11-02 12:37:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
