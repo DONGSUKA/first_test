@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 7:6**
-> 너는 여호와 네 하나님의 성민이라 네 하나님 여호와께서 지상 만민 중에서 너를 자기 기업의 백성으로 택하셨나니
+📖 **마태복음 27:58**
+> 빌라도에게 가서 예수의 시체를 달라 하니 이에 빌라도가 내주라 명령하거늘
 
-🕊️ _업데이트 시각: 2025-11-03 00:09:04 KST_
+🕊️ _업데이트 시각: 2025-11-03 00:25:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
