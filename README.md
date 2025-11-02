@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 33:10**
-> 여호와께서 나라들의 계획을 폐하시며 민족들의 사상을 무효하게 하시도다
+📖 **출애굽기 20:26**
+> 너는 층계로 내 제단에 오르지 말라 네 하체가 그 위에서 드러날까 함이니라
 
-🕊️ _업데이트 시각: 2025-11-02 13:59:53 KST_
+🕊️ _업데이트 시각: 2025-11-02 14:18:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
