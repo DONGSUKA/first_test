@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 9:53**
-> 한 여인이 맷돌 위짝을 아비멜렉의 머리 위에 내려 던져 그의 두개골을 깨뜨리니
+📖 **고린도전서 16:7**
+> 이제는 지나는 길에 너희 보기를 원하지 아니하노니 이는 만일 주께서 허락하시면 얼마 동안 너희와 함께 머물기를 바람이라
 
-🕊️ _업데이트 시각: 2025-11-03 00:32:52 KST_
+🕊️ _업데이트 시각: 2025-11-03 00:40:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
