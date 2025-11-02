@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아가 8:9**
-> 그가 성벽이라면 우리는 은 망대를 그 위에 세울 것이요 그가 문이라면 우리는 백향목 판자로 두르리라
+📖 **욥기 15:15**
+> 하나님은 거룩한 자들을 믿지 아니하시나니 하늘이라도 그가 보시기에 부정하거든
 
-🕊️ _업데이트 시각: 2025-11-02 16:58:04 KST_
+🕊️ _업데이트 시각: 2025-11-02 17:17:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
