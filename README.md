@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 22:27**
-> 깨끗한 자에게는 주의 깨끗하심을 보이시며 사악한 자에게는 주의 거스르심을 보이시리이다
+📖 **이사야 36:19**
+> 하맛과 아르밧의 신들이 어디 있느냐 스발와임의 신들이 어디 있느냐 그들이 사마리아를 내 손에서 건졌느냐
 
-🕊️ _업데이트 시각: 2025-11-04 02:08:36 KST_
+🕊️ _업데이트 시각: 2025-11-04 02:28:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
