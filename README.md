@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **유다서 1:14**
-> 아담의 칠대 손 에녹이 이 사람들에 대하여도 예언하여 이르되 보라 주께서 그 수만의 거룩한 자와 함께 임하셨나니
+📖 **욥기 1:16**
+> 그가 아직 말하는 동안에 또 한 사람이 와서 아뢰되 하나님의 불이 하늘에서 떨어져서 양과 종들을 살라 버렸나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다
 
-🕊️ _업데이트 시각: 2025-11-03 23:53:01 KST_
+🕊️ _업데이트 시각: 2025-11-03 23:58:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
