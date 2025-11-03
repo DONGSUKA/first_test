@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 1:14**
-> 내가 랍바 성에 불을 놓아 그 궁궐들을 사르되 전쟁의 날에 외침과 회오리바람의 날에 폭풍으로 할 것이며
+📖 **욥기 17:9**
+> 그러므로 의인은 그 길을 꾸준히 가고 손이 깨끗한 자는 점점 힘을 얻느니라
 
-🕊️ _업데이트 시각: 2025-11-03 20:39:32 KST_
+🕊️ _업데이트 시각: 2025-11-03 20:45:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
