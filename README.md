@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 145:4**
-> 대대로 주께서 행하시는 일을 크게 찬양하며 주의 능한 일을 선포하리로다
+📖 **창세기 42:24**
+> 요셉이 그들을 떠나가서 울고 다시 돌아와서 그들과 말하다가 그들 중에서 시므온을 끌어내어 그들의 눈 앞에서 결박하고
 
-🕊️ _업데이트 시각: 2025-11-03 16:31:17 KST_
+🕊️ _업데이트 시각: 2025-11-03 16:41:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
