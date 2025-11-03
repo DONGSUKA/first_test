@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 40:6**
-> 그 때에 여호와께서 폭풍우 가운데에서 욥에게 일러 말씀하시되
+📖 **느헤미야 12:6**
+> 스마야와 요야립과 여다야와
 
-🕊️ _업데이트 시각: 2025-11-04 00:58:16 KST_
+🕊️ _업데이트 시각: 2025-11-04 01:19:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
