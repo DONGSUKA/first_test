@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 10:18**
-> 이방 여자와 결혼한 남자들 제사장의 무리 중에 이방 여인을 아내로 맞이한 자는 예수아 자손 중 요사닥의 아들과 그의 형제 마아세야와엘리에셀과 야립과 그달랴라
+📖 **욥기 40:6**
+> 그 때에 여호와께서 폭풍우 가운데에서 욥에게 일러 말씀하시되
 
-🕊️ _업데이트 시각: 2025-11-04 00:52:17 KST_
+🕊️ _업데이트 시각: 2025-11-04 00:58:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
