@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 11:10**
-> 그들이 내 말 듣기를 거절한 자기들의 선조의 죄악으로 돌아가서 다른 신들을 따라 섬겼은즉 이스라엘 집과 유다 집이 내가 그들의 조상들과 맺은 언약을 깨뜨렸도다
+📖 **창세기 19:34**
+> 이튿날 큰 딸이 작은 딸에게 이르되 어제 밤에는 내가 우리 아버지와 동침하였으니 오늘 밤에도 우리가 아버지에게 술을 마시게 하고 네가 들어가 동침하고 우리가 아버지로 말미암아 후손을 이어가자 하고
 
-🕊️ _업데이트 시각: 2025-11-04 04:13:50 KST_
+🕊️ _업데이트 시각: 2025-11-04 04:25:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
