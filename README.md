@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 16:4**
-> 내가 할 일을 알았도다 이렇게 하면 직분을 빼앗긴 후에 사람들이 나를 자기 집으로 영접하리라 하고
+📖 **예레미야 22:27**
+> 그들이 그들의 마음에 돌아오기를 사모하는 땅에 돌아오지 못하리라
 
-🕊️ _업데이트 시각: 2025-11-04 07:10:34 KST_
+🕊️ _업데이트 시각: 2025-11-04 07:31:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
