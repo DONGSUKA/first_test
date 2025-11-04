@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:73**
-> 주의 손이 나를 만들고 세우셨사오니 내가 깨달아 주의 계명들을 배우게 하소서
+📖 **마태복음 10:27**
+> 내가 너희에게 어두운 데서 이르는 것을 광명한 데서 말하며 너희가 귓속말로 듣는 것을 집 위에서 전파하라
 
-🕊️ _업데이트 시각: 2025-11-05 04:07:31 KST_
+🕊️ _업데이트 시각: 2025-11-05 04:23:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
