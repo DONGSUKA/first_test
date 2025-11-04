@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 22:23**
-> 처녀인 여자가 남자와 약혼한 후에 어떤 남자가 그를 성읍 중에서 만나 동침하면
+📖 **시편 89:41**
+> 길로 지나가는 자들에게 다 탈취를 당하며 그의 이웃에게 욕을 당하나이다
 
-🕊️ _업데이트 시각: 2025-11-04 22:55:16 KST_
+🕊️ _업데이트 시각: 2025-11-04 23:09:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
