@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로전서 2:5**
-> 너희도 산 돌 같이 신령한 집으로 세워지고 예수 그리스도로 말미암아 하나님이 기쁘게 받으실 신령한 제사를 드릴 거룩한 제사장이될지니라
+📖 **시편 68:25**
+> 소고 치는 처녀들 중에서 노래 부르는 자들은 앞서고 악기를 연주하는 자들은 뒤따르나이다
 
-🕊️ _업데이트 시각: 2025-11-04 08:55:07 KST_
+🕊️ _업데이트 시각: 2025-11-04 09:44:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
