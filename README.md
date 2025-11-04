@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 9:13**
-> 그러나 내가 너희에게 이르노니 엘리야가 왔으되 기록된 바와 같이 사람들이 함부로 대우하였느니라 하시니라
+📖 **요나 1:8**
+> 무리가 그에게 이르되 청하건대 이 재앙이 누구 때문에 우리에게 임하였는가 말하라 네 생업이 무엇이며 네가 어디서 왔으며 네 나라가 어디며 어느 민족에 속하였느냐 하니
 
-🕊️ _업데이트 시각: 2025-11-04 22:18:21 KST_
+🕊️ _업데이트 시각: 2025-11-04 22:46:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
