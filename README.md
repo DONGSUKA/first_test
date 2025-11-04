@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 17:21**
-> 여호와께서 이와 같이 말씀하시되 너희는 스스로 삼가서 안식일에 짐을 지고 예루살렘 문으로 들어오지 말며
+📖 **창세기 22:10**
+> 손을 내밀어 칼을 잡고 그 아들을 잡으려 하니
 
-🕊️ _업데이트 시각: 2025-11-05 00:52:55 KST_
+🕊️ _업데이트 시각: 2025-11-05 00:59:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
