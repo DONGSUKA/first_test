@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 9:41**
-> 예수께서 이르시되 너희가 맹인이 되었더라면 죄가 없으려니와 본다고 하니 너희 죄가 그대로 있느니라
+📖 **민수기 12:12**
+> 그가 살이 반이나 썩어 모태로부터 죽어서 나온 자 같이 되지 않게 하소서
 
-🕊️ _업데이트 시각: 2025-11-05 01:55:25 KST_
+🕊️ _업데이트 시각: 2025-11-05 02:08:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
