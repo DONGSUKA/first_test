@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 2:10**
-> 너희는 바위 틈에 들어가며 진토에 숨어 여호와의 위엄과 그 광대하심의 영광을 피하라
+📖 **역대하 34:22**
+> 이에 힐기야와 왕이 보낸 사람들이 여선지자 훌다에게로 나아가니 그는 하스라의 손자 독핫의 아들로서 예복을 관리하는 살룸의 아내라예루살렘 둘째 구역에 살았더라 그들이 그에게 이 뜻을 전하매
 
-🕊️ _업데이트 시각: 2025-11-05 08:39:51 KST_
+🕊️ _업데이트 시각: 2025-11-05 08:45:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
