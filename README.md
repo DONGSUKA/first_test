@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 26:14**
-> 웃시야가 그의 온 군대를 위하여 방패와 창과 투구와 갑옷과 활과 물매 돌을 준비하고
+📖 **에베소서 4:15**
+> 오직 사랑 안에서 참된 것을 하여 범사에 그에게까지 자랄지라 그는 머리니 곧 그리스도라
 
-🕊️ _업데이트 시각: 2025-11-05 08:17:24 KST_
+🕊️ _업데이트 시각: 2025-11-05 08:30:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
