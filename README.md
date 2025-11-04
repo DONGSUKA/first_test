@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 3:5**
-> 예루살렘에서 그가 낳은 아들들은 이러하니 시므아와 소밥과 나단과 솔로몬 네 사람은 다 암미엘의 딸 밧수아의 소생이요
+📖 **역대상 19:19**
+> 하닷에셀의 부하들이 자기가 이스라엘 앞에서 패하였음을 보고 다윗과 더불어 화친하여 섬기고 그 후로는 아람 사람이 암몬 자손 돕기를원하지 아니하였더라
 
-🕊️ _업데이트 시각: 2025-11-04 13:55:16 KST_
+🕊️ _업데이트 시각: 2025-11-04 14:10:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
