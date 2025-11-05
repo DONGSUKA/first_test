@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 4:20**
-> 책을 덮어 그 맡은 자에게 주시고 앉으시니 회당에 있는 자들이 다 주목하여 보더라
+📖 **누가복음 6:13**
+> 밝으매 그 제자들을 부르사 그 중에서 열둘을 택하여 사도라 칭하셨으니
 
-🕊️ _업데이트 시각: 2025-11-05 15:45:28 KST_
+🕊️ _업데이트 시각: 2025-11-05 15:56:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
