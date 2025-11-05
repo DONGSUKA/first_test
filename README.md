@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 6:13**
-> 할례를 받은 그들이라도 스스로 율법은 지키지 아니하고 너희에게 할례를 받게 하려 하는 것은 그들이 너희의 육체로 자랑하려 함이라
+📖 **민수기 33:35**
+> 아브로나를 떠나 에시온게벨에 진을 치고
 
-🕊️ _업데이트 시각: 2025-11-06 04:57:21 KST_
+🕊️ _업데이트 시각: 2025-11-06 05:16:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
