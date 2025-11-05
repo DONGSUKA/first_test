@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 9:57**
-> 또 세겜 사람들의 모든 악행을 하나님이 그들의 머리에 갚으셨으니 여룹바알의 아들 요담의 저주가 그들에게 응하니라
+📖 **사도행전 17:16**
+> 바울이 아덴에서 전도하다 바울이 아덴에서 그들을 기다리다가 그 성에 우상이 가득한 것을 보고 마음에 격분하여
 
-🕊️ _업데이트 시각: 2025-11-05 12:57:24 KST_
+🕊️ _업데이트 시각: 2025-11-05 13:17:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
