@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 4:18**
-> 베레스의 계보는 이러하니라 베레스는 헤스론을 낳고
+📖 **여호수아 18:27**
+> 레겜과 이르브엘과 다랄라와
 
-🕊️ _업데이트 시각: 2025-11-05 13:48:24 KST_
+🕊️ _업데이트 시각: 2025-11-05 13:55:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
