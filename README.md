@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:15**
-> 그러므로 사탄의 일꾼들도 자기를 의의 일꾼으로 가장하는 것이 또한 대단한 일이 아니니라 그들의 마지막은 그 행위대로 되리라
+📖 **마태복음 10:35**
+> 내가 온 것은 사람이 그 아버지와, 딸이 어머니와, 며느리가 시어머니와 불화하게 하려 함이니
 
-🕊️ _업데이트 시각: 2025-11-06 05:34:41 KST_
+🕊️ _업데이트 시각: 2025-11-06 05:45:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
