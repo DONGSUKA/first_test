@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 23:31**
-> 내가 네 경계를 홍해에서부터 블레셋 바다까지, 광야에서부터 강까지 정하고 그 땅의 주민을 네 손에 넘기리니 네가 그들을 네 앞에서 쫓아낼지라
+📖 **역대하 36:22**
+> 고레스의 귀국 명령(스 1:1-4) 바사의 고레스 왕 원년에 여호와께서 예레미야의 입으로 하신 말씀을 이루시려고 여호와께서 바사의 고레스 왕의 마음을 감동시키시매 그가 온 나라에 공포도 하고 조서도 내려 이르되
 
-🕊️ _업데이트 시각: 2025-11-06 06:29:42 KST_
+🕊️ _업데이트 시각: 2025-11-06 06:37:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
