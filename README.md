@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 9:4**
-> 그 원수 앞에 사로잡혀 갈지라도 내가 거기에서 칼을 명령하여 죽이게 할 것이라 내가 그들에게 주목하여 화를 내리고 복을 내리지 아니하리라 하시니라
+📖 **사무엘하 6:2**
+> 다윗이 일어나 자기와 함께 있는 모든 사람과 더불어 바알레유다로 가서 거기서 하나님의 궤를 메어 오려 하니 그 궤는 그룹들 사이에좌정하신 만군의 여호와의 이름으로 불리는 것이라
 
-🕊️ _업데이트 시각: 2025-11-07 06:13:38 KST_
+🕊️ _업데이트 시각: 2025-11-07 06:28:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
