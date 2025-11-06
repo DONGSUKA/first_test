@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 29:17**
-> 너희가 또 그들 중에 있는 가증한 것과 목석과 은금의 우상을 보았느니라)
+📖 **요한복음 3:20**
+> 악을 행하는 자마다 빛을 미워하여 빛으로 오지 아니하나니 이는 그 행위가 드러날까 함이요
 
-🕊️ _업데이트 시각: 2025-11-07 03:58:01 KST_
+🕊️ _업데이트 시각: 2025-11-07 04:13:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
