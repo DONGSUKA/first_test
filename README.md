@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌립보서 1:9**
-> 내가 기도하노라 너희 사랑을 지식과 모든 총명으로 점점 더 풍성하게 하사
+📖 **누가복음 17:17**
+> 예수께서 대답하여 이르시되 열 사람이 다 깨끗함을 받지 아니하였느냐 그 아홉은 어디 있느냐
 
-🕊️ _업데이트 시각: 2025-11-06 18:57:16 KST_
+🕊️ _업데이트 시각: 2025-11-06 19:16:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
