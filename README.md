@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 20:31**
-> 너희가 또 너희 아들을 화제로 삼아 불 가운데로 지나게 하며 오늘까지 너희 자신을 우상들로 말미암아 더럽히느냐 이스라엘 족속아 너희가 내게 묻기를 내가 용납하겠느냐 주 여호와의 말씀이니라 내가 나의 삶을 두고 맹세하노니 너희가 내게 묻기를 내가 용납하지 아니하리라
+📖 **느헤미야 8:4**
+> 그 때에 학사 에스라가 특별히 지은 나무 강단에 서고 그의 곁 오른쪽에 선 자는 맛디댜와 스마와 아나야와 우리야와 힐기야와 마아세야요 그의 왼쪽에 선 자는 브다야와 미사엘과 말기야와 하숨과 하스밧다나와 스가랴와 므술람이라
 
-🕊️ _업데이트 시각: 2025-11-06 14:55:28 KST_
+🕊️ _업데이트 시각: 2025-11-06 15:16:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
