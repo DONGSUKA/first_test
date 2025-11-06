@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 37:20**
-> 너는 그 글 쓴 막대기들을 무리의 눈 앞에서 손에 잡고
+📖 **민수기 9:23**
+> 곧 그들이 여호와의 명령을 따라 진을 치며 여호와의 명령을 따라 행진하고 또 모세를 통하여 이르신 여호와의 명령을 따라 여호와의 직임을 지켰더라
 
-🕊️ _업데이트 시각: 2025-11-07 08:47:49 KST_
+🕊️ _업데이트 시각: 2025-11-07 08:53:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
