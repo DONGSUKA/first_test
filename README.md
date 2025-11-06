@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 4:2**
-> 모든 겸손과 온유로 하고 오래 참음으로 사랑 가운데서 서로 용납하고
+📖 **시편 86:6**
+> 여호와여 나의 기도에 귀를 기울이시고 내가 간구하는 소리를 들으소서
 
-🕊️ _업데이트 시각: 2025-11-06 22:36:18 KST_
+🕊️ _업데이트 시각: 2025-11-06 22:50:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
