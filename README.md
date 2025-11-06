@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 15:7**
-> 그 후에 야고보에게 보이셨으며 그 후에 모든 사도에게와
+📖 **에스겔 37:20**
+> 너는 그 글 쓴 막대기들을 무리의 눈 앞에서 손에 잡고
 
-🕊️ _업데이트 시각: 2025-11-07 08:42:04 KST_
+🕊️ _업데이트 시각: 2025-11-07 08:47:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
