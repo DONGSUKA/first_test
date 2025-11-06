@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 9:5**
-> 어지러이 싸우는 군인들의 신과 피 묻은 겉옷이 불에 섶 같이 살라지리니
+📖 **출애굽기 26:5**
+> 휘장 끝폭 가에 고 쉰 개를 달며 다른 휘장 끝폭 가에도 고 쉰 개를 달고 그 고들을 서로 마주 보게 하고
 
-🕊️ _업데이트 시각: 2025-11-06 13:54:39 KST_
+🕊️ _업데이트 시각: 2025-11-06 14:10:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
