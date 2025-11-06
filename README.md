@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 9:23**
-> 곧 그들이 여호와의 명령을 따라 진을 치며 여호와의 명령을 따라 행진하고 또 모세를 통하여 이르신 여호와의 명령을 따라 여호와의 직임을 지켰더라
+📖 **느헤미야 7:73**
+> 백성 앞에서 율법책을 읽다 이와 같이 제사장들과 레위 사람들과 문지기들과 노래하는 자들과 백성 몇 명과 느디님 사람들과 온 이스라엘 자손이 다 자기들의 성읍에 거주하였느니라
 
-🕊️ _업데이트 시각: 2025-11-07 08:53:44 KST_
+🕊️ _업데이트 시각: 2025-11-07 08:59:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
