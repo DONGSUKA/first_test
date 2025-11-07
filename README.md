@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 16:19**
-> 하늘로 올려지시다(눅 24:50-53; 행 1:9-11) 주 예수께서 말씀을 마치신 후에 하늘로 올려지사 하나님 우편에 앉으시니라
+📖 **마태복음 22:12**
+> 이르되 친구여 어찌하여 예복을 입지 않고 여기 들어왔느냐 하니 그가 아무 말도 못하거늘
 
-🕊️ _업데이트 시각: 2025-11-08 01:34:28 KST_
+🕊️ _업데이트 시각: 2025-11-08 01:47:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
