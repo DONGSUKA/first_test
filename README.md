@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 42:18**
-> 그 장대로 남쪽을 측량하니 오백 척이요
+📖 **마태복음 21:29**
+> 대답하여 이르되 아버지 가겠나이다 하더니 가지 아니하고
 
-🕊️ _업데이트 시각: 2025-11-07 16:55:45 KST_
+🕊️ _업데이트 시각: 2025-11-07 17:15:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
