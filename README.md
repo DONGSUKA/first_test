@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 23:21**
-> 그 땅의 모든 백성이 즐거워하고 성중이 평온하더라 아달랴를 무리가 칼로 죽였었더라
+📖 **역대하 17:9**
+> 그들이 여호와의 율법책을 가지고 유다에서 가르치되 그 모든 유다 성읍들로 두루 다니며 백성들을 가르쳤더라
 
-🕊️ _업데이트 시각: 2025-11-08 08:13:26 KST_
+🕊️ _업데이트 시각: 2025-11-08 08:27:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
