@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 15:30**
-> 이는 여로보암이 범죄하고 또 이스라엘에게 범하게 한 죄로 말미암음이며 또 그가 이스라엘의 하나님 여호와를 노엽게 한 일 때문이었더라
+📖 **시편 38:9**
+> 주여 나의 모든 소원이 주 앞에 있사오며 나의 탄식이 주 앞에 감추이지 아니하나이다
 
-🕊️ _업데이트 시각: 2025-11-08 03:51:04 KST_
+🕊️ _업데이트 시각: 2025-11-08 03:56:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
