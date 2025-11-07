@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 21:25**
-> 너 극악하여 중상을 당할 이스라엘 왕아 네 날이 이르렀나니 곧 죄악의 마지막 때이니라
+📖 **히브리서 9:21**
+> 또한 이와 같이 피를 장막과 섬기는 일에 쓰는 모든 그릇에 뿌렸느니라
 
-🕊️ _업데이트 시각: 2025-11-07 20:27:09 KST_
+🕊️ _업데이트 시각: 2025-11-07 20:36:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
