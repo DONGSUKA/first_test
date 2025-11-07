@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 8:2**
-> 한 나병환자가 나아와 절하며 이르되 주여 원하시면 저를 깨끗하게 하실 수 있나이다 하거늘
+📖 **열왕기상 10:6**
+> 왕께 말하되 내가 내 나라에서 당신의 행위와 당신의 지혜에 대하여 들은 소문이 사실이로다
 
-🕊️ _업데이트 시각: 2025-11-07 22:00:07 KST_
+🕊️ _업데이트 시각: 2025-11-07 22:28:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
