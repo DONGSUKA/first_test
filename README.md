@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **학개 1:7**
-> 만군의 여호와가 말하노니 너희는 자기의 행위를 살필지니라
+📖 **레위기 19:37**
+> 너희는 내 모든 규례와 내 모든 법도를 지켜 행하라 나는 여호와이니라
 
-🕊️ _업데이트 시각: 2025-11-09 08:33:39 KST_
+🕊️ _업데이트 시각: 2025-11-09 08:40:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
