@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 38:10**
-> 내 심장이 뛰고 내 기력이 쇠하여 내 눈의 빛도 나를 떠났나이다
+📖 **예레미야 25:23**
+> 드단과 데마와 부스와 살쩍을 깎은 모든 자와
 
-🕊️ _업데이트 시각: 2025-11-08 12:25:05 KST_
+🕊️ _업데이트 시각: 2025-11-08 12:46:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
