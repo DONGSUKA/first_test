@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 10:17**
-> 내가 내 목숨을 버리는 것은 그것을 내가 다시 얻기 위함이니 이로 말미암아 아버지께서 나를 사랑하시느니라
+📖 **사무엘하 14:5**
+> 왕이 그에게 이르되 무슨 일이냐 하니라 대답하되 나는 진정으로 과부니이다 남편은 죽고
 
-🕊️ _업데이트 시각: 2025-11-08 19:15:39 KST_
+🕊️ _업데이트 시각: 2025-11-08 19:32:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
