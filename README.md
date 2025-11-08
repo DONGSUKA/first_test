@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 24:24**
-> 그들은 잠깐 동안 높아졌다가 천대를 받을 것이며 잘려 모아진 곡식 이삭처럼 되리라
+📖 **사무엘하 17:5**
+> 압살롬이 이르되 아렉 사람 후새도 부르라 우리가 이제 그의 말도 듣자 하니라
 
-🕊️ _업데이트 시각: 2025-11-08 16:57:27 KST_
+🕊️ _업데이트 시각: 2025-11-08 17:17:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
