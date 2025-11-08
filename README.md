@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 3:1**
-> 베드로와 요한이 못 걷게 된 이를 고치다 제 구 시 기도 시간에 베드로와 요한이 성전에 올라갈새
+📖 **빌립보서 2:20**
+> 이는 뜻을 같이하여 너희 사정을 진실히 생각할 자가 이밖에 내게 없음이라
 
-🕊️ _업데이트 시각: 2025-11-09 03:11:45 KST_
+🕊️ _업데이트 시각: 2025-11-09 03:36:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
