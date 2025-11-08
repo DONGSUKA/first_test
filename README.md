@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 8:15**
-> 너희는 육체를 따라 판단하나 나는 아무도 판단하지 아니하노라
+📖 **사도행전 22:12**
+> 율법에 따라 경건한 사람으로 거기 사는 모든 유대인들에게 칭찬을 듣는 아나니아라 하는 이가
 
-🕊️ _업데이트 시각: 2025-11-09 01:58:48 KST_
+🕊️ _업데이트 시각: 2025-11-09 02:13:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
