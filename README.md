@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 5:5**
-> 죄에 대한 값 여호와께서 모세에게 말씀하여 이르시되
+📖 **스가랴 4:2**
+> 그가 내게 묻되 네가 무엇을 보느냐 내가 대답하되 내가 보니 순금 등잔대가 있는데 그 위에는 기름 그릇이 있고 또 그 기름 그릇 위에 일곱 등잔이 있으며 그 기름 그릇 위에 있는 등잔을 위해서 일곱 관이 있고
 
-🕊️ _업데이트 시각: 2025-11-09 02:36:01 KST_
+🕊️ _업데이트 시각: 2025-11-09 02:42:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
