@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 93:1**
-> 여호와께서 다스리시니 스스로 권위를 입으셨도다 여호와께서 능력의 옷을 입으시며 띠를 띠셨으므로 세계도 견고히 서서 흔들리지 아니하는도다
+📖 **예레미야 44:7**
+> 만군의 하나님 이스라엘의 하나님 여호와께서 이와 같이 말씀하셨느니라 너희가 어찌하여 큰 악을 행하여 자기 영혼을 해하며 유다 가운데에서 너희의 남자와 여자와 아이와 젖 먹는 자를 멸절하여 남은 자가 없게 하려느냐
 
-🕊️ _업데이트 시각: 2025-11-08 15:42:52 KST_
+🕊️ _업데이트 시각: 2025-11-08 15:52:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
