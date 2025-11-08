@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 19:6**
-> 본즉 머리맡에 숯불에 구운 떡과 한 병 물이 있더라 이에 먹고 마시고 다시 누웠더니
+📖 **시편 53:6**
+> 시온에서 이스라엘을 구원하여 줄 자 누구인가 하나님이 자기 백성의 포로된 것을 돌이키실 때에 야곱이 즐거워하며 이스라엘이 기뻐하리로다
 
-🕊️ _업데이트 시각: 2025-11-09 06:47:41 KST_
+🕊️ _업데이트 시각: 2025-11-09 06:53:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
