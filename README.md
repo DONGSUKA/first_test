@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 15:20**
-> 이에 일어나서 아버지께로 돌아가니라 아직도 거리가 먼데 아버지가 그를 보고 측은히 여겨 달려가 목을 안고 입을 맞추니
+📖 **역대상 8:6**
+> 에훗의 아들들은 이러하니라 그들은 게바 주민의 우두머리로서, 사로잡혀 마나핫으로 갔으니
 
-🕊️ _업데이트 시각: 2025-11-08 12:54:54 KST_
+🕊️ _업데이트 시각: 2025-11-08 13:10:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
