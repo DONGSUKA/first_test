@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 22:12**
-> 율법에 따라 경건한 사람으로 거기 사는 모든 유대인들에게 칭찬을 듣는 아나니아라 하는 이가
+📖 **열왕기하 18:26**
+> 힐기야의 아들 엘리야김과 셉나와 요아가 랍사게에게 이르되 우리가 알아듣겠사오니 청하건대 아람 말로 당신의 종들에게 말씀하시고성 위에 있는 백성이 듣는 데서 유다 말로 우리에게 말씀하지 마옵소서
 
-🕊️ _업데이트 시각: 2025-11-09 02:13:16 KST_
+🕊️ _업데이트 시각: 2025-11-09 02:27:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
