@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 17:11**
-> 사울과 온 이스라엘이 블레셋 사람의 이 말을 듣고 놀라 크게 두려워하니라
+📖 **히브리서 10:12**
+> 오직 그리스도는 죄를 위하여 한 영원한 제사를 드리시고 하나님 우편에 앉으사
 
-🕊️ _업데이트 시각: 2025-11-09 06:35:58 KST_
+🕊️ _업데이트 시각: 2025-11-09 06:41:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
