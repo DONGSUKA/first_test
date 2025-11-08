@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 17:24**
-> 지혜는 명철한 자 앞에 있거늘 미련한 자는 눈을 땅 끝에 두느니라
+📖 **열왕기상 18:14**
+> 이제 당신의 말씀이 가서 네 주에게 말하기를 엘리야가 여기 있다 하라 하시니 그리하면 그가 나를 죽이리이다
 
-🕊️ _업데이트 시각: 2025-11-08 13:55:41 KST_
+🕊️ _업데이트 시각: 2025-11-08 14:09:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
