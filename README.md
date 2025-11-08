@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 6:10**
-> 그 사람들이 그같이 하여 젖 나는 소 둘을 끌어다가 수레를 메우고 송아지들은 집에 가두고
+📖 **역대상 25:22**
+> 열다섯째는 여레못이니 그의 아들들과 형제들과 십이 명이요
 
-🕊️ _업데이트 시각: 2025-11-08 19:48:02 KST_
+🕊️ _업데이트 시각: 2025-11-08 19:53:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
