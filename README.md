@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 10:12**
-> 오직 그리스도는 죄를 위하여 한 영원한 제사를 드리시고 하나님 우편에 앉으사
+📖 **열왕기상 19:6**
+> 본즉 머리맡에 숯불에 구운 떡과 한 병 물이 있더라 이에 먹고 마시고 다시 누웠더니
 
-🕊️ _업데이트 시각: 2025-11-09 06:41:46 KST_
+🕊️ _업데이트 시각: 2025-11-09 06:47:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
