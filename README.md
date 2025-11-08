@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 4:19**
-> 여호와께서 미디안에서 모세에게 이르시되 애굽으로 돌아가라 네 목숨을 노리던 자가 다 죽었느니라
+📖 **민수기 35:18**
+> 만일 사람을 죽일 만한 나무 연장을 손에 들고 사람을 쳐죽이면 그는 살인한 자니 그 살인자는 반드시 죽일 것이니라
 
-🕊️ _업데이트 시각: 2025-11-09 07:39:43 KST_
+🕊️ _업데이트 시각: 2025-11-09 07:45:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
