@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 12:3**
-> 스가냐와 르훔과 므레못과
+📖 **시편 106:31**
+> 이 일이 그의 의로 인정되었으니 대대로 영원까지로다
 
-🕊️ _업데이트 시각: 2025-11-09 14:31:11 KST_
+🕊️ _업데이트 시각: 2025-11-09 14:41:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
