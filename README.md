@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 28:2**
-> 이스라엘 왕들의 길로 행하여 바알들의 우상을 부어 만들고
+📖 **에스라 7:5**
+> 아비수아의 십삼대 손이요 비느하스의 십사대 손이요 엘르아살의 십오대 손이요 대제사장 아론의 십육대 손이라
 
-🕊️ _업데이트 시각: 2025-11-09 16:35:16 KST_
+🕊️ _업데이트 시각: 2025-11-09 16:41:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
