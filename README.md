@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 25:11**
-> 그 후에 남은 처녀들이 와서 이르되 주여 주여 우리에게 열어 주소서
+📖 **빌립보서 3:21**
+> 그는 만물을 자기에게 복종하게 하실 수 있는 자의 역사로 우리의 낮은 몸을 자기 영광의 몸의 형체와 같이 변하게 하시리라
 
-🕊️ _업데이트 시각: 2025-11-09 20:34:57 KST_
+🕊️ _업데이트 시각: 2025-11-09 20:41:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
