@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 28:27**
-> 또 금 고리 둘을 만들어 에봇 앞 두 어깨받이 아래 매는 자리 가까운 쪽 곧 정교하게 짠 띠 위쪽에 달고
+📖 **요한복음 9:9**
+> 어떤 사람은 그 사람이라 하며 어떤 사람은 아니라 그와 비슷하다 하거늘 자기 말은 내가 그라 하니
 
-🕊️ _업데이트 시각: 2025-11-09 10:16:57 KST_
+🕊️ _업데이트 시각: 2025-11-09 11:50:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
