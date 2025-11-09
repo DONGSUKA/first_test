@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 4:16**
-> 이스라엘은 완강한 암소처럼 완강하니 이제 여호와께서 어린 양을 넓은 들에서 먹임 같이 그들을 먹이시겠느냐
+📖 **예레미야 48:43**
+> 여호와의 말씀이니라 모압 주민아 두려움과 함정과 올무가 네게 닥치나니
 
-🕊️ _업데이트 시각: 2025-11-10 08:25:08 KST_
+🕊️ _업데이트 시각: 2025-11-10 08:31:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
