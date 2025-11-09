@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 11:20**
-> 회개하지 아니하는 도시들(눅 10:13-15) 예수께서 권능을 가장 많이 행하신 고을들이 회개하지 아니하므로 그 때에 책망하시되
+📖 **역대상 11:37**
+> 갈멜 사람 헤스로와 에스배의 아들 나아래와
 
-🕊️ _업데이트 시각: 2025-11-09 18:27:32 KST_
+🕊️ _업데이트 시각: 2025-11-09 18:35:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
