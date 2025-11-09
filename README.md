@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 38:8**
-> 내가 피곤하고 심히 상하였으매 마음이 불안하여 신음하나이다
+📖 **사사기 20:20**
+> 이스라엘 사람이 나가 베냐민과 싸우려고 전열을 갖추고 기브아에서 그들과 싸우고자 하매
 
-🕊️ _업데이트 시각: 2025-11-10 00:47:46 KST_
+🕊️ _업데이트 시각: 2025-11-10 00:53:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
