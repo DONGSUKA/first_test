@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 1:41**
-> 예수께서 불쌍히 여기사 손을 내밀어 그에게 대시며 이르시되 내가 원하노니 깨끗함을 받으라 하시니
+📖 **에스더 9:11**
+> 그 날에 도성 수산에서 도륙한 자의 수효를 왕께 아뢰니
 
-🕊️ _업데이트 시각: 2025-11-10 07:27:46 KST_
+🕊️ _업데이트 시각: 2025-11-10 07:37:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
