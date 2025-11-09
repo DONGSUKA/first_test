@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 35:25**
-> 마음이 슬기로운 모든 여인은 손수 실을 빼고 그 뺀 청색 자색 홍색 실과 가는 베 실을 가져왔으며
+📖 **에베소서 6:15**
+> 평안의 복음이 준비한 것으로 신을 신고
 
-🕊️ _업데이트 시각: 2025-11-09 23:58:35 KST_
+🕊️ _업데이트 시각: 2025-11-10 00:14:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
