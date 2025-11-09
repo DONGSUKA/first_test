@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 26:6**
-> 헤스론에게서 난 헤스론 종족과 갈미에게서 난 갈미 종족이니
+📖 **열왕기하 21:7**
+> 또 자기가 만든 아로새긴 아세라 목상을 성전에 세웠더라 옛적에 여호와께서 이 성전에 대하여 다윗과 그의 아들 솔로몬에게 이르시기를 내가 이스라엘의 모든 지파 중에서 택한 이 성전과 예루살렘에 내 이름을 영원히 둘지라
 
-🕊️ _업데이트 시각: 2025-11-09 17:57:47 KST_
+🕊️ _업데이트 시각: 2025-11-09 18:13:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
