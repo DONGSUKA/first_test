@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 18:24**
-> 이에 모세가 자기 장인의 말을 듣고 그 모든 말대로 하여
+📖 **마태복음 25:11**
+> 그 후에 남은 처녀들이 와서 이르되 주여 주여 우리에게 열어 주소서
 
-🕊️ _업데이트 시각: 2025-11-09 20:27:20 KST_
+🕊️ _업데이트 시각: 2025-11-09 20:34:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
