@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 4:40**
-> 이에 제자들에게 이르시되 어찌하여 이렇게 무서워하느냐 너희가 어찌 믿음이 없느냐 하시니
+📖 **출애굽기 13:16**
+> 이것이 네 손의 기호와 네 미간의 표가 되리라 이는 여호와께서 그 손의 권능으로 우리를 애굽에서 인도하여 내셨음이니라 할지니라
 
-🕊️ _업데이트 시각: 2025-11-09 20:58:49 KST_
+🕊️ _업데이트 시각: 2025-11-09 21:32:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
