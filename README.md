@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 45:28**
-> 이스라엘이 이르되 족하도다 내 아들 요셉이 지금까지 살아 있으니 내가 죽기 전에 가서 그를 보리라 하니라
+📖 **호세아 4:16**
+> 이스라엘은 완강한 암소처럼 완강하니 이제 여호와께서 어린 양을 넓은 들에서 먹임 같이 그들을 먹이시겠느냐
 
-🕊️ _업데이트 시각: 2025-11-10 08:08:51 KST_
+🕊️ _업데이트 시각: 2025-11-10 08:25:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
