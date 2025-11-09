@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 13:16**
-> 이것이 네 손의 기호와 네 미간의 표가 되리라 이는 여호와께서 그 손의 권능으로 우리를 애굽에서 인도하여 내셨음이니라 할지니라
+📖 **신명기 32:2**
+> 내 교훈은 비처럼 내리고 내 말은 이슬처럼 맺히나니 연한 풀 위의 가는 비 같고 채소 위의 단비 같도다
 
-🕊️ _업데이트 시각: 2025-11-09 21:32:14 KST_
+🕊️ _업데이트 시각: 2025-11-09 22:01:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
