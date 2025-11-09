@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 9:27**
-> 그가 장차 많은 사람들과 더불어 한 이레 동안의 언약을 굳게 맺고 그가 그 이레의 절반에 제사와 예물을 금지할 것이며 또 포악하여 가증한 것이 날개를 의지하여 설 것이며 또 이미 정한 종말까지 진노가 황폐하게 하는 자에게 쏟아지리라 하였느니라 하니라
+📖 **이사야 49:7**
+> 이스라엘의 구속자 이스라엘의 거룩한 이이신 여호와께서 사람에게 멸시를 당하는 자, 백성에게 미움을 받는 자, 관원들에게 종이 된 자에게 이같이 이르시되 왕들이 보고 일어서며 고관들이 경배하리니 이는 이스라엘의 거룩하신 이 신실하신 여호와 그가 너를 택하였음이니라
 
-🕊️ _업데이트 시각: 2025-11-09 19:16:39 KST_
+🕊️ _업데이트 시각: 2025-11-09 19:33:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
