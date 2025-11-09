@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 33:26**
-> 너희가 칼을 믿어 가증한 일을 행하며 각기 이웃의 아내를 더럽히니 그 땅이 너희의 기업이 될까보냐 하고
+📖 **이사야 29:20**
+> 이는 강포한 자가 소멸되었으며 오만한 자가 그쳤으며 죄악의 기회를 엿보던 자가 다 끊어졌음이라
 
-🕊️ _업데이트 시각: 2025-11-09 22:26:16 KST_
+🕊️ _업데이트 시각: 2025-11-09 22:38:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
