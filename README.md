@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 84:12**
-> 만군의 여호와여 주께 의지하는 자는 복이 있나이다
+📖 **마가복음 1:41**
+> 예수께서 불쌍히 여기사 손을 내밀어 그에게 대시며 이르시되 내가 원하노니 깨끗함을 받으라 하시니
 
-🕊️ _업데이트 시각: 2025-11-10 07:07:43 KST_
+🕊️ _업데이트 시각: 2025-11-10 07:27:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
