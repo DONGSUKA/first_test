@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 1:26**
-> 유다의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니
+📖 **시편 147:13**
+> 그가 네 문빗장을 견고히 하시고 네 가운데에 있는 너의 자녀들에게 복을 주셨으며
 
-🕊️ _업데이트 시각: 2025-11-10 08:47:52 KST_
+🕊️ _업데이트 시각: 2025-11-10 08:52:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
