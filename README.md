@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 22:23**
-> 나귀가 여호와의 사자가 칼을 빼어 손에 들고 길에 선 것을 보고 길에서 벗어나 밭으로 들어간지라 발람이 나귀를 길로 돌이키려고 채찍질하니
+📖 **예레미야 46:25**
+> 만군의 여호와 이스라엘의 하나님께서 말씀하시니라 보라 내가 노의 아몬과 바로와 애굽과 애굽 신들과 왕들 곧 바로와 및 그를 의지하는 자들을 벌할 것이라
 
-🕊️ _업데이트 시각: 2025-11-10 04:25:39 KST_
+🕊️ _업데이트 시각: 2025-11-10 04:32:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
