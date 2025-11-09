@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 27:33**
-> 네 물품을 바다로 실어 낼 때에 네가 여러 백성을 풍족하게 하였음이여 네 재물과 무역품이 많으므로 세상 왕들을 풍부하게 하였었도다
+📖 **사도행전 9:18**
+> 즉시 사울의 눈에서 비늘 같은 것이 벗어져 다시 보게 된지라 일어나 세례를 받고
 
-🕊️ _업데이트 시각: 2025-11-09 23:46:46 KST_
+🕊️ _업데이트 시각: 2025-11-09 23:52:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
