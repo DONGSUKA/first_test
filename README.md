@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:31**
-> 이 일이 그의 의로 인정되었으니 대대로 영원까지로다
+📖 **시편 67:4**
+> 온 백성은 기쁘고 즐겁게 노래할지니 주는 민족들을 공평히 심판하시며 땅 위의 나라들을 다스리실 것임이니이다 (셀라)
 
-🕊️ _업데이트 시각: 2025-11-09 14:41:00 KST_
+🕊️ _업데이트 시각: 2025-11-09 14:46:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
