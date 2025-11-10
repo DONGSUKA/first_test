@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 15:28**
-> 그는 황폐한 성읍, 사람이 살지 아니하는 집, 돌무더기가 될 곳에 거주하였음이니라
+📖 **갈라디아서 2:15**
+> 우리는 본래 유대인이요 이방 죄인이 아니로되
 
-🕊️ _업데이트 시각: 2025-11-11 05:37:25 KST_
+🕊️ _업데이트 시각: 2025-11-11 05:48:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
