@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 8:7**
-> 네 하나님 여호와께서 너를 아름다운 땅에 이르게 하시나니 그 곳은 골짜기든지 산지든지 시내와 분천과 샘이 흐르고
+📖 **여호수아 21:16**
+> 아인과 그 목초지와 윳다와 그 목초지와 벧 세메스와 그 목초지이니 이 두 지파에서 아홉 성읍을 냈고
 
-🕊️ _업데이트 시각: 2025-11-10 23:34:24 KST_
+🕊️ _업데이트 시각: 2025-11-10 23:47:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
