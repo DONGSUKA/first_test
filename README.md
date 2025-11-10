@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 12:6**
-> 악인의 말은 사람을 엿보아 피를 흘리자 하는 것이거니와 정직한 자의 입은 사람을 구원하느니라
+📖 **신명기 8:7**
+> 네 하나님 여호와께서 너를 아름다운 땅에 이르게 하시나니 그 곳은 골짜기든지 산지든지 시내와 분천과 샘이 흐르고
 
-🕊️ _업데이트 시각: 2025-11-10 23:13:27 KST_
+🕊️ _업데이트 시각: 2025-11-10 23:34:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
