@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 2:15**
-> 우리는 본래 유대인이요 이방 죄인이 아니로되
+📖 **사무엘하 8:8**
+> 또 다윗 왕이 하닷에셀의 고을 베다와 베로대에서 매우 많은 놋을 빼앗으니라
 
-🕊️ _업데이트 시각: 2025-11-11 05:48:59 KST_
+🕊️ _업데이트 시각: 2025-11-11 05:55:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
