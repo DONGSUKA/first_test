@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 51:21**
-> 네가 말과 기마병을 분쇄하며 네가 병거와 병거대를 부수며
+📖 **사도행전 20:9**
+> 유두고라 하는 청년이 창에 걸터 앉아 있다가 깊이 졸더니 바울이 강론하기를 더 오래 하매 졸음을 이기지 못하여 삼 층에서 떨어지거늘 일으켜보니 죽었는지라
 
-🕊️ _업데이트 시각: 2025-11-10 22:36:46 KST_
+🕊️ _업데이트 시각: 2025-11-10 22:50:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
