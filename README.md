@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 33:27**
-> 영원하신 하나님이 네 처소가 되시니 그의 영원하신 팔이 네 아래에 있도다 그가 네 앞에서 대적을 쫓으시며 멸하라 하시도다
+📖 **사무엘하 13:17**
+> 그가 부리는 종을 불러 이르되 이 계집을 내게서 이제 내보내고 곧 문빗장을 지르라 하니
 
-🕊️ _업데이트 시각: 2025-11-11 15:18:14 KST_
+🕊️ _업데이트 시각: 2025-11-11 15:47:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
