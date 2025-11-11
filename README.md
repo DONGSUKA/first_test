@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 27:2**
-> 아시아 해변 각처로 가려 하는 아드라뭇데노 배에 우리가 올라 항해할새 마게도냐의 데살로니가 사람 아리스다고도 함께 하니라
+📖 **누가복음 14:25**
+> 제자가 되는 길(마 5:13; 막 9:50) 수많은 무리가 함께 갈새 예수께서 돌이키사 이르시되
 
-🕊️ _업데이트 시각: 2025-11-12 01:45:36 KST_
+🕊️ _업데이트 시각: 2025-11-12 01:56:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
