@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:22**
-> 여호와께서 폐병과 열병과 염증과 학질과 한재와 풍재와 썩는 재앙으로 너를 치시리니 이 재앙들이 너를 따라서 너를 진멸하게 할 것이라
+📖 **마태복음 27:15**
+> 명절이 되면 총독이 무리의 청원대로 죄수 한 사람을 놓아 주는 전례가 있더니
 
-🕊️ _업데이트 시각: 2025-11-11 19:55:55 KST_
+🕊️ _업데이트 시각: 2025-11-11 20:10:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
