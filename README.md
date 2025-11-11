@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 29:13**
-> 우리 하나님이여 이제 우리가 주께 감사하오며 주의 영화로운 이름을 찬양하나이다
+📖 **민수기 24:15**
+> 예언하여 이르기를 브올의 아들 발람이 말하며 눈을 감았던 자가 말하며
 
-🕊️ _업데이트 시각: 2025-11-12 06:43:52 KST_
+🕊️ _업데이트 시각: 2025-11-12 06:49:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
