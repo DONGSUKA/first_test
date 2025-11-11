@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 26:8**
-> 그가 들에 있는 너의 딸들을 칼로 죽이고 너를 치려고 사다리를 세우며 토성을 쌓으며 방패를 갖출 것이며
+📖 **사도행전 11:7**
+> 또 들으니 소리 있어 내게 이르되 베드로야 일어나 잡아 먹으라 하거늘
 
-🕊️ _업데이트 시각: 2025-11-12 00:59:35 KST_
+🕊️ _업데이트 시각: 2025-11-12 01:25:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
