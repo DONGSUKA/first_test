@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 6:9**
-> 그 무장한 자들은 나팔 부는 제사장들 앞에서 행진하며 후군은 궤 뒤를 따르고 제사장들은 나팔을 불며 행진하더라
+📖 **요한계시록 8:6**
+> 나팔 소리 일곱 나팔을 가진 일곱 천사가 나팔 불기를 준비하더라
 
-🕊️ _업데이트 시각: 2025-11-11 22:02:33 KST_
+🕊️ _업데이트 시각: 2025-11-11 22:36:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
