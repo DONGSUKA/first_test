@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 11:7**
-> 또 들으니 소리 있어 내게 이르되 베드로야 일어나 잡아 먹으라 하거늘
+📖 **사도행전 27:2**
+> 아시아 해변 각처로 가려 하는 아드라뭇데노 배에 우리가 올라 항해할새 마게도냐의 데살로니가 사람 아리스다고도 함께 하니라
 
-🕊️ _업데이트 시각: 2025-11-12 01:25:46 KST_
+🕊️ _업데이트 시각: 2025-11-12 01:45:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
