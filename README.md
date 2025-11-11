@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 8:6**
-> 나팔 소리 일곱 나팔을 가진 일곱 천사가 나팔 불기를 준비하더라
+📖 **창세기 16:9**
+> 여호와의 사자가 그에게 이르되 네 여주인에게로 돌아가서 그 수하에 복종하라
 
-🕊️ _업데이트 시각: 2025-11-11 22:36:10 KST_
+🕊️ _업데이트 시각: 2025-11-11 22:49:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
