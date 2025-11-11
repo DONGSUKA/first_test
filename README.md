@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:3**
-> 바울이 그를 데리고 떠나고자 할새 그 지역에 있는 유대인으로 말미암아 그를 데려다가 할례를 행하니 이는 그 사람들이 그의 아버지는헬라인인 줄 다 앎이러라
+📖 **다니엘 3:27**
+> 총독과 지사와 행정관과 왕의 모사들이 모여 이 사람들을 본즉 불이 능히 그들의 몸을 해하지 못하였고 머리털도 그을리지 아니하였고 겉옷 빛도 변하지 아니하였고 불 탄 냄새도 없었더라
 
-🕊️ _업데이트 시각: 2025-11-12 06:09:13 KST_
+🕊️ _업데이트 시각: 2025-11-12 06:26:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
