@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **야고보서 5:10**
-> 형제들아 주의 이름으로 말한 선지자들을 고난과 오래 참음의 본으로 삼으라
+📖 **신명기 10:8**
+> 그 때에 여호와께서 레위 지파를 구별하여 여호와의 언약 궤를 메게 하며 여호와 앞에 서서 그를 섬기며 또 여호와의 이름으로 축복하게하셨으니 그 일은 오늘까지 이르느니라
 
-🕊️ _업데이트 시각: 2025-11-11 17:45:15 KST_
+🕊️ _업데이트 시각: 2025-11-11 17:56:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
