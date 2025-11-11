@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 17:13**
-> 열방이 충돌하기를 많은 물이 몰려옴과 같이 하나 주께서 그들을 꾸짖으시리니 그들이 멀리 도망함이 산에서 겨가 바람 앞에 흩어짐 같겠고 폭풍 앞에 떠도는 티끌 같을 것이라
+📖 **열왕기상 16:26**
+> 느밧의 아들 여로보암의 모든 길로 행하며 그가 이스라엘에게 죄를 범하게 한 그 죄 중에 행하여 그들의 헛된 것들로 이스라엘의 하나님 여호와를 노하시게 하였더라
 
-🕊️ _업데이트 시각: 2025-11-11 14:13:15 KST_
+🕊️ _업데이트 시각: 2025-11-11 14:32:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
