@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 13:18**
-> 지혜가 여기 있으니 총명한 자는 그 짐승의 수를 세어 보라 그것은 사람의 수니 그의 수는 육백육십육이니라
+📖 **미가 7:15**
+> 이르시되 네가 애굽 땅에서 나오던 날과 같이 내가 그들에게 이적을 보이리라 하셨느니라
 
-🕊️ _업데이트 시각: 2025-11-12 18:46:57 KST_
+🕊️ _업데이트 시각: 2025-11-12 18:52:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
