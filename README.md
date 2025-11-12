@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 38:5**
-> 그가 또 다시 아들을 낳고 그의 이름을 셀라라 하니라 그가 셀라를 낳을 때에 유다는 거십에 있었더라
+📖 **갈라디아서 5:10**
+> 나는 너희가 아무 다른 마음을 품지 아니할 줄을 주 안에서 확신하노라 그러나 너희를 요동하게 하는 자는 누구든지 심판을 받으리라
 
-🕊️ _업데이트 시각: 2025-11-12 12:29:40 KST_
+🕊️ _업데이트 시각: 2025-11-12 12:55:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
