@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아가 4:8**
-> 내 신부야 너는 레바논에서부터 나와 함께 하고 레바논에서부터 나와 함께 가자 아마나와 스닐과 헤르몬 꼭대기에서 사자 굴과 표범 산에서내려오너라
+📖 **사무엘상 9:13**
+> 당신들이 성읍으로 들어가면 그가 먹으러 산당에 올라가기 전에 곧 만나리이다 그가 오기 전에는 백성이 먹지 아니하나니 이는 그가 제물을 축사한 후에야 청함을 받은 자가 먹음이니이다 그러므로 지금 올라가소서 곧 그를 만나리이다 하는지라
 
-🕊️ _업데이트 시각: 2025-11-12 20:50:27 KST_
+🕊️ _업데이트 시각: 2025-11-12 20:56:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
