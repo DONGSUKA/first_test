@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 22:21**
-> 주 예수의 은혜가 모든 자들에게 있을지어다 아멘
+📖 **마태복음 12:10**
+> 한쪽 손 마른 사람이 있는지라 사람들이 예수를 고발하려 하여 물어 이르되 안식일에 병 고치는 것이 옳으니이까
 
-🕊️ _업데이트 시각: 2025-11-13 06:43:21 KST_
+🕊️ _업데이트 시각: 2025-11-13 06:49:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
