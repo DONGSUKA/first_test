@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 2:6**
-> 나를 위하여 수목을 기르는 삼림에 물을 주기 위하여 못들을 팠으며
+📖 **이사야 34:3**
+> 그 살륙 당한 자는 내던진 바 되며 그 사체의 악취가 솟아오르고 그 피에 산들이 녹을 것이며
 
-🕊️ _업데이트 시각: 2025-11-13 00:37:35 KST_
+🕊️ _업데이트 시각: 2025-11-13 00:49:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
