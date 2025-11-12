@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 12:59**
-> 네게 이르노니 한 푼이라도 남김이 없이 갚지 아니하고서는 결코 거기서 나오지 못하리라 하시니라
+📖 **예레미야 33:21**
+> 내 종 다윗에게 세운 나의 언약도 깨뜨려 그에게 그의 자리에 앉아 다스릴 아들이 없게 할 수 있겠으며 내가 나를 섬기는 레위인 제사장에게 세운 언약도 파할 수 있으리라
 
-🕊️ _업데이트 시각: 2025-11-12 23:57:33 KST_
+🕊️ _업데이트 시각: 2025-11-13 00:16:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
