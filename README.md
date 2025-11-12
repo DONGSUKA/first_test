@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 9:27**
-> 왕이 예루살렘에서 은을 돌 같이 흔하게 하고 백향목을 평지의 뽕나무 같이 많게 하였더라
+📖 **아모스 4:5**
+> 누룩 넣은 것을 불살라 수은제로 드리며 낙헌제를 소리내어 선포하려무나 이스라엘 자손들아 이것이 너희가 기뻐하는 바니라 주 여호와의말씀이니라
 
-🕊️ _업데이트 시각: 2025-11-13 01:57:44 KST_
+🕊️ _업데이트 시각: 2025-11-13 02:14:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
