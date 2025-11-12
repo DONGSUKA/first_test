@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 7:45**
-> 너는 내게 입맞추지 아니하였으되 그는 내가 들어올 때로부터 내 발에 입맞추기를 그치지 아니하였으며
+📖 **고린도전서 7:32**
+> 너희가 염려 없기를 원하노라 장가 가지 않은 자는 주의 일을 염려하여 어찌하여야 주를 기쁘시게 할까 하되
 
-🕊️ _업데이트 시각: 2025-11-12 20:15:29 KST_
+🕊️ _업데이트 시각: 2025-11-12 20:28:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
