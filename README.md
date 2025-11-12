@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 19:24**
-> 여호와께서 하늘 곧 여호와께로부터 유황과 불을 소돔과 고모라에 비같이 내리사
+📖 **요한복음 12:39**
+> 그들이 능히 믿지 못한 것은 이 때문이니 곧 이사야가 다시 일렀으되
 
-🕊️ _업데이트 시각: 2025-11-13 02:33:30 KST_
+🕊️ _업데이트 시각: 2025-11-13 02:42:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
