@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 32:51**
-> 이는 너희가 신 광야 가데스의 므리바 물 가에서 이스라엘 자손 중 내게 범죄하여 내 거룩함을 이스라엘 자손 중에서 나타내지 아니한까닭이라
+📖 **마태복음 22:1**
+> 혼인 잔치 비유(눅 14:15-24) 예수께서 다시 비유로 대답하여 이르시되
 
-🕊️ _업데이트 시각: 2025-11-13 13:58:20 KST_
+🕊️ _업데이트 시각: 2025-11-13 14:16:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
