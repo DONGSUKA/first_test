@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 25:15**
-> 오직 온전하고 공정한 저울추를 두며 온전하고 공정한 되를 둘 것이라 그리하면 네 하나님 여호와께서 네게 주시는 땅에서 네 날이 길리라
+📖 **마가복음 1:45**
+> 그러나 그 사람이 나가서 이 일을 많이 전파하여 널리 퍼지게 하니 그러므로 예수께서 다시는 드러나게 동네에 들어가지 못하시고 오직바깥 한적한 곳에 계셨으나 사방에서 사람들이 그에게로 나아오더라
 
-🕊️ _업데이트 시각: 2025-11-13 20:55:29 KST_
+🕊️ _업데이트 시각: 2025-11-13 21:20:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
