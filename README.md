@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 16:20**
-> 나의 친구는 나를 조롱하고 내 눈은 하나님을 향하여 눈물을 흘리니
+📖 **고린도후서 11:8**
+> 내가 너희를 섬기기 위하여 다른 여러 교회에서 비용을 받은 것은 탈취한 것이라
 
-🕊️ _업데이트 시각: 2025-11-13 14:35:16 KST_
+🕊️ _업데이트 시각: 2025-11-13 14:46:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
