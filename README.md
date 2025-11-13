@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 22:1**
-> 혼인 잔치 비유(눅 14:15-24) 예수께서 다시 비유로 대답하여 이르시되
+📖 **욥기 16:20**
+> 나의 친구는 나를 조롱하고 내 눈은 하나님을 향하여 눈물을 흘리니
 
-🕊️ _업데이트 시각: 2025-11-13 14:16:54 KST_
+🕊️ _업데이트 시각: 2025-11-13 14:35:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
