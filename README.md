@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 2:24**
-> 사람이 먹고 마시며 수고하는 것보다 그의 마음을 더 기쁘게 하는 것은 없나니 내가 이것도 본즉 하나님의 손에서 나오는 것이로다
+📖 **신명기 4:4**
+> 오직 너희의 하나님 여호와께 붙어 떠나지 않은 너희는 오늘까지 다 생존하였느니라
 
-🕊️ _업데이트 시각: 2025-11-13 15:26:31 KST_
+🕊️ _업데이트 시각: 2025-11-13 15:49:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
