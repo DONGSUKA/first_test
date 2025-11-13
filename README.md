@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 148:5**
-> 그것들이 여호와의 이름을 찬양함은 그가 명령하시므로 지음을 받았음이로다
+📖 **아가 6:11**
+> 골짜기의 푸른 초목을 보려고 포도나무가 순이 났는가 석류나무가 꽃이 피었는가 알려고 내가 호도 동산으로 내려갔을 때에
 
-🕊️ _업데이트 시각: 2025-11-13 17:45:38 KST_
+🕊️ _업데이트 시각: 2025-11-13 17:57:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
