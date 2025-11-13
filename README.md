@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 14:13**
-> 너희가 내 이름으로 무엇을 구하든지 내가 행하리니 이는 아버지로 하여금 아들로 말미암아 영광을 받으시게 하려 함이라
+📖 **고린도전서 9:17**
+> 내가 내 자의로 이것을 행하면 상을 얻으려니와 내가 자의로 아니한다 할지라도 나는 사명을 받았노라
 
-🕊️ _업데이트 시각: 2025-11-13 14:52:31 KST_
+🕊️ _업데이트 시각: 2025-11-13 14:58:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
