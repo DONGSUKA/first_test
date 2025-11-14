@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 6:15**
-> 레위인은 여호와의 궤와 그 궤와 함께 있는 금 보물 담긴 상자를 내려다가 큰 돌 위에 두매 그 날에 벧세메스 사람들이 여호와께 번제와 다른 제사를 드리니라
+📖 **신명기 12:16**
+> 오직 그 피는 먹지 말고 물 같이 땅에 쏟을 것이며
 
-🕊️ _업데이트 시각: 2025-11-14 20:54:53 KST_
+🕊️ _업데이트 시각: 2025-11-14 21:18:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
