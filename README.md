@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 3:5**
-> 제사장을 돕는 레위 사람 여호와께서 또 모세에게 말씀하여 이르시되
+📖 **요한계시록 5:4**
+> 그 두루마리를 펴거나 보거나 하기에 합당한 자가 보이지 아니하기로 내가 크게 울었더니
 
-🕊️ _업데이트 시각: 2025-11-14 11:22:53 KST_
+🕊️ _업데이트 시각: 2025-11-14 12:30:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
