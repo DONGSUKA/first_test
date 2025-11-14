@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 8:28**
-> 제자들이 여짜와 이르되 세례 요한이라 하고 더러는 엘리야, 더러는 선지자 중의 하나라 하나이다
+📖 **아모스 2:13**
+> 보라 곡식 단을 가득히 실은 수레가 흙을 누름 같이 내가 너희를 누르리니
 
-🕊️ _업데이트 시각: 2025-11-14 22:46:42 KST_
+🕊️ _업데이트 시각: 2025-11-14 22:52:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
