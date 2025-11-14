@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 6:29**
-> 서로 물어 이르되 이것이 누구의 소행인가 하고 그들이 캐어 물은 후에 이르되 요아스의 아들 기드온이 이를 행하였도다 하고
+📖 **이사야 30:15**
+> 주 여호와 이스라엘의 거룩하신 이가 이같이 말씀하시되 너희가 돌이켜 조용히 있어야 구원을 얻을 것이요 잠잠하고 신뢰하여야 힘을 얻을 것이거늘 너희가 원하지 아니하고
 
-🕊️ _업데이트 시각: 2025-11-14 13:16:49 KST_
+🕊️ _업데이트 시각: 2025-11-14 13:37:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
