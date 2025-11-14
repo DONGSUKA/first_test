@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 24:4**
-> 내 고향 내 족속에게로 가서 내 아들 이삭을 위하여 아내를 택하라
+📖 **에스겔 37:20**
+> 너는 그 글 쓴 막대기들을 무리의 눈 앞에서 손에 잡고
 
-🕊️ _업데이트 시각: 2025-11-15 02:58:46 KST_
+🕊️ _업데이트 시각: 2025-11-15 03:25:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
