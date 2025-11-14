@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 37:20**
-> 너는 그 글 쓴 막대기들을 무리의 눈 앞에서 손에 잡고
+📖 **시편 109:13**
+> 그의 자손이 끊어지게 하시며 후대에 그들의 이름이 지워지게 하소서
 
-🕊️ _업데이트 시각: 2025-11-15 03:25:13 KST_
+🕊️ _업데이트 시각: 2025-11-15 03:46:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
