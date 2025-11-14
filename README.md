@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 38:28**
-> 천칠백칠십오 세겔로 기둥 갈고리를 만들고 기둥 머리를 싸고 기둥 가름대를 만들었으며
+📖 **신명기 18:7**
+> 여호와 앞에 선 그의 모든 형제 레위인과 같이 그의 하나님 여호와의 이름으로 섬길 수 있나니
 
-🕊️ _업데이트 시각: 2025-11-14 17:54:34 KST_
+🕊️ _업데이트 시각: 2025-11-14 18:10:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
