@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 94:2**
-> 세계를 심판하시는 주여 일어나사 교만한 자들에게 마땅한 벌을 주소서
+📖 **창세기 42:35**
+> 각기 자루를 쏟고 본즉 각 사람의 돈뭉치가 그 자루 속에 있는지라 그들과 그들의 아버지가 돈뭉치를 보고 다 두려워하더니
 
-🕊️ _업데이트 시각: 2025-11-15 08:51:22 KST_
+🕊️ _업데이트 시각: 2025-11-15 08:56:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
