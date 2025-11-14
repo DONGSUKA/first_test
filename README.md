@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 6:5**
-> 천사가 대답하여 이르되 이는 하늘의 네 바람인데 온 세상의 주 앞에 서 있다가 나가는 것이라 하더라
+📖 **히브리서 4:4**
+> 제칠일에 관하여는 어딘가에 이렇게 일렀으되 하나님은 제칠일에 그의 모든 일을 쉬셨다 하였으며
 
-🕊️ _업데이트 시각: 2025-11-15 04:37:13 KST_
+🕊️ _업데이트 시각: 2025-11-15 04:42:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
