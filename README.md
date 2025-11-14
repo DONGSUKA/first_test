@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 40:14**
-> 너는 또 그 아들들을 데려다가 그들에게 겉옷을 입히고
+📖 **예레미야애가 3:11**
+> 나의 길들로 치우치게 하시며 내 몸을 찢으시며 나를 적막하게 하셨도다
 
-🕊️ _업데이트 시각: 2025-11-15 05:56:13 KST_
+🕊️ _업데이트 시각: 2025-11-15 06:10:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
