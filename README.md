@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 21:3**
-> 출가하지 아니한 처녀인 그의 자매로 말미암아서는 몸을 더럽힐 수 있느니라
+📖 **에스라 6:1**
+> 고레스의 조서와 다리오 왕의 명령 이에 다리오 왕이 조서를 내려 문서창고 곧 바벨론의 보물을 쌓아둔 보물전각에서 조사하게 하여
 
-🕊️ _업데이트 시각: 2025-11-15 13:16:55 KST_
+🕊️ _업데이트 시각: 2025-11-15 13:35:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
