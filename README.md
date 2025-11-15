@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 4:26**
-> 자라나는 씨 비유(마 13:31-32; 눅 13:18-19) 또 이르시되 하나님의 나라는 사람이 씨를 땅에 뿌림과 같으니
+📖 **민수기 29:21**
+> 그 소제와 전제는 수송아지와 숫양과 어린 양의 수효를 따라서 규례대로 할 것이며
 
-🕊️ _업데이트 시각: 2025-11-16 02:23:39 KST_
+🕊️ _업데이트 시각: 2025-11-16 02:31:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
