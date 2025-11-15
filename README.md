@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 15:1**
-> 유다 왕 아비얌(대하 13:1-14:1) 느밧의 아들 여로보암 왕 열여덟째 해에 아비얌이 유다 왕이 되고
+📖 **갈라디아서 4:4**
+> 때가 차매 하나님이 그 아들을 보내사 여자에게서 나게 하시고 율법 아래에 나게 하신 것은
 
-🕊️ _업데이트 시각: 2025-11-15 14:55:12 KST_
+🕊️ _업데이트 시각: 2025-11-15 15:13:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
