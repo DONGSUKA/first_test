@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 19:25**
-> 내가 알기에는 나의 대속자가 살아 계시니 마침내 그가 땅 위에 서실 것이라
+📖 **마태복음 19:28**
+> 예수께서 이르시되 내가 진실로 너희에게 이르노니 세상이 새롭게 되어 인자가 자기 영광의 보좌에 앉을 때에 나를 따르는 너희도 열두 보좌에 앉아 이스라엘 열두 지파를 심판하리라
 
-🕊️ _업데이트 시각: 2025-11-16 08:36:30 KST_
+🕊️ _업데이트 시각: 2025-11-16 08:43:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
