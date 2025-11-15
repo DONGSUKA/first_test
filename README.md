@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 33:31**
-> 모세롯을 떠나 브네야아간에 진을 치고
+📖 **사무엘하 20:5**
+> 아마사가 유다 사람을 모으러 가더니 왕이 정한 기일에 지체된지라
 
-🕊️ _업데이트 시각: 2025-11-15 16:49:41 KST_
+🕊️ _업데이트 시각: 2025-11-15 16:55:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
