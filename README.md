@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 24:14**
-> 이 천국 복음이 모든 민족에게 증언되기 위하여 온 세상에 전파되리니 그제야 끝이 오리라
+📖 **시편 41:9**
+> 내가 신뢰하여 내 떡을 나눠 먹던 나의 가까운 친구도 나를 대적하여 그의 발꿈치를 들었나이다
 
-🕊️ _업데이트 시각: 2025-11-15 16:25:10 KST_
+🕊️ _업데이트 시각: 2025-11-15 16:31:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
