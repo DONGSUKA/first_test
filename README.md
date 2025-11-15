@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 27:2**
-> 그들이 회막 문에서 모세와 제사장 엘르아살과 지휘관들과 온 회중 앞에 서서 이르되
+📖 **마태복음 14:11**
+> 그 머리를 소반에 얹어서 그 소녀에게 주니 그가 자기 어머니에게로 가져가니라
 
-🕊️ _업데이트 시각: 2025-11-15 22:41:56 KST_
+🕊️ _업데이트 시각: 2025-11-15 22:47:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
