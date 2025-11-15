@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 11:23**
-> 이는 왕의 명령대로 노래하는 자들에게 날마다 할 일을 정해 주었기 때문이며
+📖 **출애굽기 11:1**
+> 처음 난 것의 죽음을 경고하다 여호와께서 모세에게 이르시기를 내가 이제 한 가지 재앙을 바로와 애굽에 내린 후에야 그가 너희를 여기서 내보내리라 그가 너희를 내보낼 때에는 여기서 반드시 다 쫓아내리니
 
-🕊️ _업데이트 시각: 2025-11-16 00:37:37 KST_
+🕊️ _업데이트 시각: 2025-11-16 00:43:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
