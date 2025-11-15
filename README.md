@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 10:5**
-> 너희가 그것을 크게 불 때에는 동쪽 진영들이 행진할 것이며
+📖 **예레미야 52:16**
+> 가난한 백성은 남겨 두어 포도원을 관리하는 자와 농부가 되게 하였더라
 
-🕊️ _업데이트 시각: 2025-11-16 07:41:18 KST_
+🕊️ _업데이트 시각: 2025-11-16 07:47:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
