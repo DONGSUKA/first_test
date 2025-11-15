@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 50:6**
-> 나를 때리는 자들에게 내 등을 맡기며 나의 수염을 뽑는 자들에게 나의 뺨을 맡기며 모욕과 침 뱉음을 당하여도 내 얼굴을 가리지 아니하였느니라
+📖 **요엘 2:10**
+> 그 앞에서 땅이 진동하며 하늘이 떨며 해와 달이 캄캄하며 별들이 빛을 거두도다
 
-🕊️ _업데이트 시각: 2025-11-15 11:39:43 KST_
+🕊️ _업데이트 시각: 2025-11-15 12:29:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
