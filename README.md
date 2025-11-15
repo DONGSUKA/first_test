@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 10:13**
-> 그러한데 주께서 이것들을 마음에 품으셨나이다 이 뜻이 주께 있는 줄을 내가 아나이다
+📖 **창세기 19:31**
+> 큰 딸이 작은 딸에게 이르되 우리 아버지는 늙으셨고 온 세상의 도리를 따라 우리의 배필 될 사람이 이 땅에는 없으니
 
-🕊️ _업데이트 시각: 2025-11-15 18:29:22 KST_
+🕊️ _업데이트 시각: 2025-11-15 18:37:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
