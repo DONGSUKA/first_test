@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 6:4**
-> 이같이 화답하는 자의 소리로 말미암아 문지방의 터가 요동하며 성전에 연기가 충만한지라
+📖 **사도행전 17:24**
+> 우주와 그 가운데 있는 만물을 지으신 하나님께서는 천지의 주재시니 손으로 지은 전에 계시지 아니하시고
 
-🕊️ _업데이트 시각: 2025-11-16 22:33:58 KST_
+🕊️ _업데이트 시각: 2025-11-16 22:41:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
