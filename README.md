@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 11:34**
-> 불의 세력을 멸하기도 하며 칼날을 피하기도 하며 연약한 가운데서 강하게 되기도 하며 전쟁에 용감하게 되어 이방 사람들의 진을 물리치기도 하며
+📖 **에스겔 10:12**
+> 그 온 몸과 등과 손과 날개와 바퀴 곧 네 그룹의 바퀴의 둘레에 다 눈이 가득하더라
 
-🕊️ _업데이트 시각: 2025-11-16 16:53:14 KST_
+🕊️ _업데이트 시각: 2025-11-16 16:58:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
