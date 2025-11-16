@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 6:2**
-> 이에 내가 보니 흰 말이 있는데 그 탄 자가 활을 가졌고 면류관을 받고 나아가서 이기고 또 이기려고 하더라
+📖 **아가 4:4**
+> 네 목은 무기를 두려고 건축한 다윗의 망대 곧 방패 천 개, 용사의 모든 방패가 달린 망대 같고
 
-🕊️ _업데이트 시각: 2025-11-16 22:53:33 KST_
+🕊️ _업데이트 시각: 2025-11-16 22:59:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
