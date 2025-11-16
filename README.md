@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 9:16**
-> 그가 내 이름을 위하여 얼마나 고난을 받아야 할 것을 내가 그에게 보이리라 하시니
+📖 **이사야 40:27**
+> 야곱아 어찌하여 네가 말하며 이스라엘아 네가 이르기를 내 길은 여호와께 숨겨졌으며 내 송사는 내 하나님에게서 벗어난다 하느냐
 
-🕊️ _업데이트 시각: 2025-11-17 04:41:48 KST_
+🕊️ _업데이트 시각: 2025-11-17 04:47:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
