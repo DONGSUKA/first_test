@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 92:13**
-> 이는 여호와의 집에 심겼음이여 우리 하나님의 뜰 안에서 번성하리로다
+📖 **갈라디아서 5:13**
+> 형제들아 너희가 자유를 위하여 부르심을 입었으나 그러나 그 자유로 육체의 기회를 삼지 말고 오직 사랑으로 서로 종 노릇 하라
 
-🕊️ _업데이트 시각: 2025-11-17 01:51:50 KST_
+🕊️ _업데이트 시각: 2025-11-17 01:57:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
