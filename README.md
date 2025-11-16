@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 50:5**
-> 주 여호와께서 나의 귀를 여셨으므로 내가 거역하지도 아니하며 뒤로 물러가지도 아니하며
+📖 **시편 119:61**
+> 악인들의 줄이 내게 두루 얽혔을지라도 나는 주의 법을 잊지 아니하였나이다
 
-🕊️ _업데이트 시각: 2025-11-17 05:55:08 KST_
+🕊️ _업데이트 시각: 2025-11-17 06:07:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
