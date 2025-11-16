@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 23:15**
-> 이에 무리가 그에게 길을 열어 주고 그가 왕궁 말문 어귀에 이를 때에 거기서 죽였더라
+📖 **창세기 6:17**
+> 내가 홍수를 땅에 일으켜 무릇 생명의 기운이 있는 모든 육체를 천하에서 멸절하리니 땅에 있는 것들이 다 죽으리라
 
-🕊️ _업데이트 시각: 2025-11-17 01:09:34 KST_
+🕊️ _업데이트 시각: 2025-11-17 01:33:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
