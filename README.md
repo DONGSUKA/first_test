@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 9:11**
-> 하나님의 성전을 맡은 자 아사랴이니 그는 힐기야의 아들이요 므술람의 손자요 사독의 증손이요 므라욧의 현손이요 아히둡의 오대손이며
+📖 **이사야 33:14**
+> 시온의 죄인들이 두려워하며 경건하지 아니한 자들이 떨며 이르기를 우리 중에 누가 삼키는 불과 함께 거하겠으며 우리 중에 누가 영영히 타는 것과 함께 거하리요 하도다
 
-🕊️ _업데이트 시각: 2025-11-16 19:59:10 KST_
+🕊️ _업데이트 시각: 2025-11-16 20:14:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
