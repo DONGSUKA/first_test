@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 3:43**
-> 진노로 자신을 가리시고 우리를 추격하시며 죽이시고 긍휼을 베풀지 아니하셨나이다
+📖 **요한계시록 6:2**
+> 이에 내가 보니 흰 말이 있는데 그 탄 자가 활을 가졌고 면류관을 받고 나아가서 이기고 또 이기려고 하더라
 
-🕊️ _업데이트 시각: 2025-11-16 22:47:43 KST_
+🕊️ _업데이트 시각: 2025-11-16 22:53:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
