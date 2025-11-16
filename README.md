@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 3:14**
-> 그러므로 내가 엘리의 집에 대하여 맹세하기를 엘리 집의 죄악은 제물로나 예물로나 영원히 속죄함을 받지 못하리라 하였노라 하셨더라
+📖 **이사야 3:16**
+> 시온의 딸들에게 말씀하시다 여호와께서 또 말씀하시되 시온의 딸들이 교만하여 늘인 목, 정을 통하는 눈으로 다니며 아기작거려 걸으며발로는 쟁쟁한 소리를 낸다 하시도다
 
-🕊️ _업데이트 시각: 2025-11-16 23:57:01 KST_
+🕊️ _업데이트 시각: 2025-11-17 00:12:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
