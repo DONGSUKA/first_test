@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 8:7**
-> 그룹들이 그 궤 처소 위에서 날개를 펴서 궤와 그 채를 덮었는데
+📖 **여호수아 15:38**
+> 딜르안과 미스베와 욕드엘과
 
-🕊️ _업데이트 시각: 2025-11-16 15:13:38 KST_
+🕊️ _업데이트 시각: 2025-11-16 15:42:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
