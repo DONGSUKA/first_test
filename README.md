@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 19:28**
-> 예루살렘을 향하여 가시다(마 21:1-11; 막 11:1-11; 요 12:12-19) 예수께서 이 말씀을 하시고 예루살렘을 향하여 앞서서 가시더라
+📖 **갈라디아서 4:13**
+> 내가 처음에 육체의 약함으로 말미암아 너희에게 복음을 전한 것을 너희가 아는 바라
 
-🕊️ _업데이트 시각: 2025-11-16 13:57:47 KST_
+🕊️ _업데이트 시각: 2025-11-16 14:14:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
