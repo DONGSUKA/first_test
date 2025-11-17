@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 24:14**
-> 그 저주한 사람을 진영 밖으로 끌어내어 그것을 들은 모든 사람이 그들의 손을 그의 머리에 얹게 하고 온 회중이 돌로 그를 칠지니라
+📖 **출애굽기 37:12**
+> 그 주위에 손바닥 넓이만한 턱을 만들고 그 턱 주위에 금으로 테를 만들었고
 
-🕊️ _업데이트 시각: 2025-11-17 16:59:51 KST_
+🕊️ _업데이트 시각: 2025-11-17 17:29:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
