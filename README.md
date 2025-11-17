@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 6:43**
-> 못된 열매 맺는 좋은 나무가 없고 또 좋은 열매 맺는 못된 나무가 없느니라
+📖 **시편 71:20**
+> 우리에게 여러 가지 심한 고난을 보이신 주께서 우리를 다시 살리시며 땅 깊은 곳에서 다시 이끌어 올리시리이다
 
-🕊️ _업데이트 시각: 2025-11-17 23:13:43 KST_
+🕊️ _업데이트 시각: 2025-11-17 23:34:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
