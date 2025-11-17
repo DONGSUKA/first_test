@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 17:16**
-> 그 블레셋 사람이 사십 일을 조석으로 나와서 몸을 나타내었더라
+📖 **사무엘상 3:13**
+> 내가 그의 집을 영원토록 심판하겠다고 그에게 말한 것은 그가 아는 죄악 때문이니 이는 그가 자기의 아들들이 저주를 자청하되 금하지아니하였음이니라
 
-🕊️ _업데이트 시각: 2025-11-18 04:49:50 KST_
+🕊️ _업데이트 시각: 2025-11-18 04:55:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
