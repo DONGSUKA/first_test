@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:32**
-> 이러함에도 그들은 여전히 범죄하여 그의 기이한 일들을 믿지 아니하였으므로
+📖 **마태복음 26:32**
+> 그러나 내가 살아난 후에 너희보다 먼저 갈릴리로 가리라
 
-🕊️ _업데이트 시각: 2025-11-17 21:24:10 KST_
+🕊️ _업데이트 시각: 2025-11-17 22:05:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
