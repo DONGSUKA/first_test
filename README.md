@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 2:42**
-> 그 발가락이 얼마는 쇠요 얼마는 진흙인즉 그 나라가 얼마는 든든하고 얼마는 부서질 만할 것이며
+📖 **하박국 2:8**
+> 네가 여러 나라를 노략하였으므로 그 모든 민족의 남은 자가 너를 노략하리니 이는 네가 사람의 피를 흘렸음이요 또 땅과 성읍과 그 안의모든 주민에게 강포를 행하였음이니라
 
-🕊️ _업데이트 시각: 2025-11-17 15:21:31 KST_
+🕊️ _업데이트 시각: 2025-11-17 15:48:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
