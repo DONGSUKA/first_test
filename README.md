@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 5:29**
-> 레위가 예수를 위하여 자기 집에서 큰 잔치를 하니 세리와 다른 사람이 많이 함께 앉아 있는지라
+📖 **사무엘상 12:8**
+> 야곱이 애굽에 들어간 후 너희 조상들이 여호와께 부르짖으매 여호와께서 모세와 아론을 보내사 그 두 사람으로 너희 조상들을 애굽에서 인도해 내어 이 곳에 살게 하셨으나
 
-🕊️ _업데이트 시각: 2025-11-18 07:34:43 KST_
+🕊️ _업데이트 시각: 2025-11-18 07:44:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
