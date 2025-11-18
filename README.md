@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 1:10**
-> 환관장이 다니엘에게 이르되 내가 내 주 왕을 두려워하노라 그가 너희 먹을 것과 너희 마실 것을 지정하셨거늘 너희의 얼굴이 초췌하여같은 또래의 소년들만 못한 것을 그가 보게 할 것이 무엇이냐 그렇게 되면 너희 때문에 내 머리가 왕 앞에서 위태롭게 되리라 하니라
+📖 **사사기 13:8**
+> 마노아가 여호와께 기도하여 이르되 주여 구하옵나니 주께서 보내셨던 하나님의 사람을 우리에게 다시 오게 하사 우리가 그 낳을 아이에게 어떻게 행할지를 우리에게 가르치게 하소서 하니
 
-🕊️ _업데이트 시각: 2025-11-18 22:06:21 KST_
+🕊️ _업데이트 시각: 2025-11-18 22:39:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
