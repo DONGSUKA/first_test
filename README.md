@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 1:25**
-> 그 머리 위에 있는 궁창 위에서부터 음성이 나더라 그 생물이 설 때에 그 날개를 내렸더라
+📖 **히브리서 9:21**
+> 또한 이와 같이 피를 장막과 섬기는 일에 쓰는 모든 그릇에 뿌렸느니라
 
-🕊️ _업데이트 시각: 2025-11-18 23:55:53 KST_
+🕊️ _업데이트 시각: 2025-11-19 00:12:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
