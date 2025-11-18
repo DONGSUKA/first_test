@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 9:9**
-> 이 장막은 현재까지의 비유니 이에 따라 드리는 예물과 제사는 섬기는 자를 그 양심상 온전하게 할 수 없나니
+📖 **시편 83:13**
+> 나의 하나님이여 그들이 굴러가는 검불 같게 하시며 바람에 날리는 지푸라기 같게 하소서
 
-🕊️ _업데이트 시각: 2025-11-18 13:16:39 KST_
+🕊️ _업데이트 시각: 2025-11-18 13:38:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
