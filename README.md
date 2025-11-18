@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 2:44**
-> 믿는 사람이 다 함께 있어 모든 물건을 서로 통용하고
+📖 **민수기 6:9**
+> 누가 갑자기 그 곁에서 죽어서 스스로 구별한 자의 머리를 더럽히면 그의 몸을 정결하게 하는 날에 머리를 밀 것이니 곧 일곱째 날에 밀것이며
 
-🕊️ _업데이트 시각: 2025-11-18 14:55:20 KST_
+🕊️ _업데이트 시각: 2025-11-18 15:15:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
