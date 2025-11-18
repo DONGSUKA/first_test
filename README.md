@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 108:3**
-> 여호와여 내가 만민 중에서 주께 감사하고 뭇 나라 중에서 주를 찬양하오리니
+📖 **다니엘 2:19**
+> 이에 이 은밀한 것이 밤에 환상으로 다니엘에게 나타나 보이매 다니엘이 하늘에 계신 하나님을 찬송하니라
 
-🕊️ _업데이트 시각: 2025-11-18 20:38:33 KST_
+🕊️ _업데이트 시각: 2025-11-18 20:44:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
