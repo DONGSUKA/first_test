@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 2:7**
-> 여호와 하나님이 땅의 흙으로 사람을 지으시고 생기를 그 코에 불어넣으시니 사람이 생령이 되니라
+📖 **여호수아 3:14**
+> 백성이 요단을 건너려고 자기들의 장막을 떠날 때에 제사장들은 언약궤를 메고 백성 앞에서 나아가니라
 
-🕊️ _업데이트 시각: 2025-11-19 11:47:34 KST_
+🕊️ _업데이트 시각: 2025-11-19 12:36:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
