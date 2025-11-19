@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 53:4**
-> 그는 실로 우리의 질고를 지고 우리의 슬픔을 당하였거늘 우리는 생각하기를 그는 징벌을 받아 하나님께 맞으며 고난을 당한다 하였노라
+📖 **호세아 5:13**
+> 에브라임이 자기의 병을 깨달으며 유다가 자기의 상처를 깨달았고 에브라임은 앗수르로 가서 야렙 왕에게 사람을 보내었으나 그가 능히너희를 고치지 못하겠고 너희 상처를 낫게 하지 못하리라
 
-🕊️ _업데이트 시각: 2025-11-20 07:10:41 KST_
+🕊️ _업데이트 시각: 2025-11-20 07:31:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
