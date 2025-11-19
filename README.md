@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 98:8**
-> 여호와 앞에서 큰 물은 박수할지어다 산악이 함께 즐겁게 노래할지어다
+📖 **이사야 43:6**
+> 내가 북쪽에게 이르기를 내놓으라 남쪽에게 이르기를 가두어 두지 말라 내 아들들을 먼 곳에서 이끌며 내 딸들을 땅 끝에서 오게 하며
 
-🕊️ _업데이트 시각: 2025-11-20 06:44:18 KST_
+🕊️ _업데이트 시각: 2025-11-20 06:50:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
