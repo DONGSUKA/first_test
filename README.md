@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 1:17**
-> 엘리가 대답하여 이르되 평안히 가라 이스라엘의 하나님이 네가 기도하여 구한 것을 허락하시기를 원하노라 하니
+📖 **베드로전서 2:14**
+> 혹은 그가 악행하는 자를 징벌하고 선행하는 자를 포상하기 위하여 보낸 총독에게 하라
 
-🕊️ _업데이트 시각: 2025-11-19 20:49:01 KST_
+🕊️ _업데이트 시각: 2025-11-19 20:55:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
