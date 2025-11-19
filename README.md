@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로전서 2:14**
-> 혹은 그가 악행하는 자를 징벌하고 선행하는 자를 포상하기 위하여 보낸 총독에게 하라
+📖 **열왕기상 18:23**
+> 그런즉 송아지 둘을 우리에게 가져오게 하고 그들은 송아지 한 마리를 택하여 각을 떠서 나무 위에 놓고 불은 붙이지 말며 나도 송아지 한 마리를 잡아 나무 위에 놓고 불은 붙이지 않고
 
-🕊️ _업데이트 시각: 2025-11-19 20:55:12 KST_
+🕊️ _업데이트 시각: 2025-11-19 21:18:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
