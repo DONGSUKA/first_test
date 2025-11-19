@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 11:36**
-> 이는 만물이 주에게서 나오고 주로 말미암고 주에게로 돌아감이라 그에게 영광이 세세에 있을지어다 아멘
+📖 **사무엘상 1:17**
+> 엘리가 대답하여 이르되 평안히 가라 이스라엘의 하나님이 네가 기도하여 구한 것을 허락하시기를 원하노라 하니
 
-🕊️ _업데이트 시각: 2025-11-19 20:43:03 KST_
+🕊️ _업데이트 시각: 2025-11-19 20:49:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
