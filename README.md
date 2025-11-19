@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 21:39**
-> 헤스본과 그 목초지와 야셀과 그 목초지이니 모두 네 성읍이라
+📖 **에스더 9:10**
+> 곧 함므다다의 손자요 유다인의 대적 하만의 열 아들을 죽였으나 그들의 재산에는 손을 대지 아니하였더라
 
-🕊️ _업데이트 시각: 2025-11-20 00:13:39 KST_
+🕊️ _업데이트 시각: 2025-11-20 00:31:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
