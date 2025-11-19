@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 7:22**
-> 사실은 내가 너희 조상들을 애굽 땅에서 인도하여 낸 날에 번제나 희생에 대하여 말하지 아니하며 명령하지 아니하고
+📖 **출애굽기 38:24**
+> 성소 건축 비용으로 들인 금은 성소의 세겔로 스물아홉 달란트와 칠백삼십 세겔이며
 
-🕊️ _업데이트 시각: 2025-11-20 04:49:06 KST_
+🕊️ _업데이트 시각: 2025-11-20 04:55:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
