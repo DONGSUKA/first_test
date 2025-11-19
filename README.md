@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 36:38**
-> 사울이 죽고 악볼의 아들 바알하난이 그를 대신하여 왕이 되었고
+📖 **예레미야 17:22**
+> 안식일에 너희 집에서 짐을 내지 말며 어떤 일이라도 하지 말고 내가 너희 조상들에게 명령함 같이 안식일을 거룩히 할지어다
 
-🕊️ _업데이트 시각: 2025-11-19 08:57:19 KST_
+🕊️ _업데이트 시각: 2025-11-19 10:07:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
