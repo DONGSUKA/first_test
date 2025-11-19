@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 38:24**
-> 성소 건축 비용으로 들인 금은 성소의 세겔로 스물아홉 달란트와 칠백삼십 세겔이며
+📖 **시편 116:7**
+> 내 영혼아 네 평안함으로 돌아갈지어다 여호와께서 너를 후대하심이로다
 
-🕊️ _업데이트 시각: 2025-11-20 04:55:13 KST_
+🕊️ _업데이트 시각: 2025-11-20 05:09:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
