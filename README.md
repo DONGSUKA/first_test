@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 27:19**
-> 만일 밭을 성별하여 드린 자가 그것을 무르려면 네가 값을 정한 돈에 그 오분의 일을 더할지니 그리하면 그것이 자기 소유가 될 것이요
+📖 **스바냐 3:4**
+> 그의 선지자들은 경솔하고 간사한 사람들이요 그의 제사장들은 성소를 더럽히고 율법을 범하였도다
 
-🕊️ _업데이트 시각: 2025-11-19 23:35:31 KST_
+🕊️ _업데이트 시각: 2025-11-19 23:48:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
