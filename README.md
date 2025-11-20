@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 3:3**
-> 다섯째는 스바댜라 아비달의 소생이요 여섯째는 이드르암이라 다윗의 아내 에글라의 소생이니
+📖 **요한계시록 21:24**
+> 만국이 그 빛 가운데로 다니고 땅의 왕들이 자기 영광을 가지고 그리로 들어가리라
 
-🕊️ _업데이트 시각: 2025-11-21 08:44:52 KST_
+🕊️ _업데이트 시각: 2025-11-21 08:50:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
