@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:11**
-> 베뢰아에 있는 사람들은 데살로니가에 있는 사람들보다 더 너그러워서 간절한 마음으로 말씀을 받고 이것이 그러한가 하여 날마다 성경을 상고하므로
+📖 **마태복음 25:29**
+> 무릇 있는 자는 받아 풍족하게 되고 없는 자는 그 있는 것까지 빼앗기리라
 
-🕊️ _업데이트 시각: 2025-11-21 05:50:53 KST_
+🕊️ _업데이트 시각: 2025-11-21 05:56:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
