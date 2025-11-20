@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 7:16**
-> 그들의 열매로 그들을 알지니 가시나무에서 포도를, 또는 엉겅퀴에서 무화과를 따겠느냐
+📖 **학개 2:7**
+> 또한 모든 나라를 진동시킬 것이며 모든 나라의 보배가 이르리니 내가 이 성전에 영광이 충만하게 하리라 만군의 여호와의 말이니라
 
-🕊️ _업데이트 시각: 2025-11-20 19:54:09 KST_
+🕊️ _업데이트 시각: 2025-11-20 20:08:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
