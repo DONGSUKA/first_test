@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:63**
-> 그들의 청년은 불에 살라지고 그들의 처녀들은 혼인 노래를 들을 수 없었으며
+📖 **이사야 45:15**
+> 구원자 이스라엘의 하나님이여 진실로 주는 스스로 숨어 계시는 하나님이시니이다
 
-🕊️ _업데이트 시각: 2025-11-20 23:55:50 KST_
+🕊️ _업데이트 시각: 2025-11-21 00:11:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
