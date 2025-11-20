@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 9:1**
-> 사도의 권리 내가 자유인이 아니냐 사도가 아니냐 예수 우리 주를 보지 못하였느냐 주 안에서 행한 나의 일이 너희가 아니냐
+📖 **고린도전서 3:12**
+> 만일 누구든지 금이나 은이나 보석이나 나무나 풀이나 짚으로 이 터 위에 세우면
 
-🕊️ _업데이트 시각: 2025-11-21 02:52:23 KST_
+🕊️ _업데이트 시각: 2025-11-21 02:58:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
