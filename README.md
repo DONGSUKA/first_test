@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 2:11**
-> 우리가 듣자 곧 마음이 녹았고 너희로 말미암아 사람이 정신을 잃었나니 너희의 하나님 여호와는 위로는 하늘에서도 아래로는 땅에서도하나님이시니라
+📖 **욥기 4:10**
+> 사자의 우는 소리와 젊은 사자의 소리가 그치고 어린 사자의 이가 부러지며
 
-🕊️ _업데이트 시각: 2025-11-20 14:50:32 KST_
+🕊️ _업데이트 시각: 2025-11-20 14:56:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
