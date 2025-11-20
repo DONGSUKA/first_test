@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 33:16**
-> 그는 높은 곳에 거하리니 견고한 바위가 그의 요새가 되며 그의 양식은 공급되고 그의 물은 끊어지지 아니하리라
+📖 **창세기 31:10**
+> 그 양 떼가 새끼 밸 때에 내가 꿈에 눈을 들어 보니 양 떼를 탄 숫양은 다 얼룩무늬 있는 것과 점 있는 것과 아롱진 것이었더라
 
-🕊️ _업데이트 시각: 2025-11-20 17:44:03 KST_
+🕊️ _업데이트 시각: 2025-11-20 17:55:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
