@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 31:10**
-> 그 양 떼가 새끼 밸 때에 내가 꿈에 눈을 들어 보니 양 떼를 탄 숫양은 다 얼룩무늬 있는 것과 점 있는 것과 아롱진 것이었더라
+📖 **이사야 20:1**
+> 벗은 선지자의 예표 앗수르의 사르곤 왕이 다르단을 아스돗으로 보내매 그가 와서 아스돗을 쳐서 취하던 해니라
 
-🕊️ _업데이트 시각: 2025-11-20 17:55:53 KST_
+🕊️ _업데이트 시각: 2025-11-20 18:12:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
