@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **학개 2:2**
-> 너는 스알디엘의 아들 유다 총독 스룹바벨과 여호사닥의 아들 대제사장 여호수아와 남은 백성에게 말하여 이르라
+📖 **요한복음 6:21**
+> 이에 기뻐서 배로 영접하니 배는 곧 그들이 가려던 땅에 이르렀더라
 
-🕊️ _업데이트 시각: 2025-11-21 07:58:51 KST_
+🕊️ _업데이트 시각: 2025-11-21 08:16:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
