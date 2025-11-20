@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 8:5**
-> 어리석은 자들아 너희는 명철할지니라 미련한 자들아 너희는 마음이 밝을지니라
+📖 **시편 35:17**
+> 주여 어느 때까지 관망하시려 하나이까 내 영혼을 저 멸망자에게서 구원하시며 내 유일한 것을 사자들에게서 건지소서
 
-🕊️ _업데이트 시각: 2025-11-20 14:33:57 KST_
+🕊️ _업데이트 시각: 2025-11-20 14:44:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
