@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 2:34**
-> 시므온이 그들에게 축복하고 그의 어머니 마리아에게 말하여 이르되 보라 이는 이스라엘 중 많은 사람을 패하거나 흥하게 하며 비방을받는 표적이 되기 위하여 세움을 받았고
+📖 **민수기 18:19**
+> 이스라엘 자손이 여호와께 거제로 드리는 모든 성물은 내가 영구한 몫의 음식으로 너와 네 자녀에게 주노니 이는 여호와 앞에 너와 네후손에게 영원한 소금 언약이니라
 
-🕊️ _업데이트 시각: 2025-11-21 06:35:14 KST_
+🕊️ _업데이트 시각: 2025-11-21 06:41:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
