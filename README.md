@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **학개 2:7**
-> 또한 모든 나라를 진동시킬 것이며 모든 나라의 보배가 이르리니 내가 이 성전에 영광이 충만하게 하리라 만군의 여호와의 말이니라
+📖 **예레미야 42:20**
+> 너희가 나를 너희 하나님 여호와께 보내며 이르기를 우리를 위하여 우리 하나님 여호와께 기도하고 우리 하나님 여호와께서 말씀하신대로 우리에게 전하라 우리가 그대로 행하리라 하여 너희 마음을 속였느니라
 
-🕊️ _업데이트 시각: 2025-11-20 20:08:31 KST_
+🕊️ _업데이트 시각: 2025-11-20 20:25:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
