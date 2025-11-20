@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 3:12**
-> 만일 누구든지 금이나 은이나 보석이나 나무나 풀이나 짚으로 이 터 위에 세우면
+📖 **다니엘 8:21**
+> 털이 많은 숫염소는 곧 헬라 왕이요 그의 두 눈 사이에 있는 큰 뿔은 곧 그 첫째 왕이요
 
-🕊️ _업데이트 시각: 2025-11-21 02:58:24 KST_
+🕊️ _업데이트 시각: 2025-11-21 03:25:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
