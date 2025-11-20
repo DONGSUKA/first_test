@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 16:5**
-> 이 때에 아람의 왕 르신과 이스라엘의 왕 르말랴의 아들 베가가 예루살렘에 올라와서 싸우려 하여 아하스를 에워쌌으나 능히 이기지 못하니라
+📖 **창세기 3:17**
+> 아담에게 이르시되 네가 네 아내의 말을 듣고 내가 네게 먹지 말라 한 나무의 열매를 먹었은즉 땅은 너로 말미암아 저주를 받고 너는 네평생에 수고하여야 그 소산을 먹으리라
 
-🕊️ _업데이트 시각: 2025-11-20 20:47:31 KST_
+🕊️ _업데이트 시각: 2025-11-20 20:53:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
