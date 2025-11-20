@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 7:35**
-> 그의 아우 헬렘의 아들들은 소바와 임나와 셀레스와 아말이요
+📖 **누가복음 16:31**
+> 이르되 모세와 선지자들에게 듣지 아니하면 비록 죽은 자 가운데서 살아나는 자가 있을지라도 권함을 받지 아니하리라 하였다 하시니라
 
-🕊️ _업데이트 시각: 2025-11-21 00:45:31 KST_
+🕊️ _업데이트 시각: 2025-11-21 00:52:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
