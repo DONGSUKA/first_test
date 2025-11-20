@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 6:5**
-> 그들이 이르되 이 다니엘은 그 하나님의 율법에서 근거를 찾지 못하면 그를 고발할 수 없으리라 하고
+📖 **히브리서 2:13**
+> 또 다시 내가 그를 의지하리라 하시고 또 다시 볼지어다 나와 및 하나님께서 내게 주신 자녀라 하셨으니
 
-🕊️ _업데이트 시각: 2025-11-20 13:51:31 KST_
+🕊️ _업데이트 시각: 2025-11-20 13:57:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
