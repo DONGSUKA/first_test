@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 45:17**
-> 내가 왕의 이름을 만세에 기억하게 하리니 그러므로 만민이 왕을 영원히 찬송하리로다
+📖 **레위기 19:9**
+> 너희가 너희의 땅에서 곡식을 거둘 때에 너는 밭 모퉁이까지 다 거두지 말고 네 떨어진 이삭도 줍지 말며
 
-🕊️ _업데이트 시각: 2025-11-21 19:53:35 KST_
+🕊️ _업데이트 시각: 2025-11-21 19:59:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
