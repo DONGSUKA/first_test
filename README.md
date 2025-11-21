@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 11:19**
-> 공의를 굳게 지키는 자는 생명에 이르고 악을 따르는 자는 사망에 이르느니라
+📖 **아모스 7:4**
+> 둘째, 불 주 여호와께서 또 내게 보이신 것이 이러하니라 주 여호와께서 명령하여 불로 징벌하게 하시니 불이 큰 바다를 삼키고 육지까지먹으려 하는지라
 
-🕊️ _업데이트 시각: 2025-11-21 20:27:49 KST_
+🕊️ _업데이트 시각: 2025-11-21 20:35:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
