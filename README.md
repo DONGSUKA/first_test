@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디도서 1:5**
-> 그레데에서 해야 할 디도의 사역 내가 너를 그레데에 남겨 둔 이유는 남은 일을 정리하고 내가 명한 대로 각 성에 장로들을 세우게 하려함이니
+📖 **사도행전 7:16**
+> 세겜으로 옮겨져 아브라함이 세겜 하몰의 자손에게서 은으로 값 주고 산 무덤에 장사되니라
 
-🕊️ _업데이트 시각: 2025-11-21 08:56:44 KST_
+🕊️ _업데이트 시각: 2025-11-21 10:00:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
