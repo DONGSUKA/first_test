@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **미가 7:3**
-> 두 손으로 악을 부지런히 행하는도다 그 지도자와 재판관은 뇌물을 구하며 권세자는 자기 마음의 욕심을 말하며 그들이 서로 결합하니
+📖 **갈라디아서 3:26**
+> 너희가 다 믿음으로 말미암아 그리스도 예수 안에서 하나님의 아들이 되었으니
 
-🕊️ _업데이트 시각: 2025-11-22 00:35:57 KST_
+🕊️ _업데이트 시각: 2025-11-22 00:41:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
