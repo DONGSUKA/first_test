@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 22:15**
-> 그 임자가 그것과 함께 있었으면 배상하지 아니할지니라 만일 세 낸 것이면 세로 족하니라
+📖 **열왕기하 9:33**
+> 이르되 그를 내려던지라 하니 내려던지매 그의 피가 담과 말에게 튀더라 예후가 그의 시체를 밟으니라
 
-🕊️ _업데이트 시각: 2025-11-21 18:49:55 KST_
+🕊️ _업데이트 시각: 2025-11-21 18:56:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
