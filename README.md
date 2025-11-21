@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 9:28**
-> 집에 들어가시매 제자들이 조용히 묻자오되 우리는 어찌하여 능히 그 귀신을 쫓아내지 못하였나이까
+📖 **역대상 7:9**
+> 그들은 다 그 집의 우두머리요 용감한 장사라 그 자손을 계보에 의해 계수하면 이만 이백 명이며
 
-🕊️ _업데이트 시각: 2025-11-22 04:57:46 KST_
+🕊️ _업데이트 시각: 2025-11-22 05:17:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
