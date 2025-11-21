@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 7:4**
-> 둘째, 불 주 여호와께서 또 내게 보이신 것이 이러하니라 주 여호와께서 명령하여 불로 징벌하게 하시니 불이 큰 바다를 삼키고 육지까지먹으려 하는지라
+📖 **사사기 13:23**
+> 그의 아내가 그에게 이르되 여호와께서 우리를 죽이려 하셨더라면 우리 손에서 번제와 소제를 받지 아니하셨을 것이요 이 모든 일을 보이지 아니하셨을 것이며 이제 이런 말씀도 우리에게 이르지 아니하셨으리이다 하였더라
 
-🕊️ _업데이트 시각: 2025-11-21 20:35:57 KST_
+🕊️ _업데이트 시각: 2025-11-21 20:42:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
