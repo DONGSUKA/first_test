@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 2:22**
-> 너희도 성령 안에서 하나님이 거하실 처소가 되기 위하여 그리스도 예수 안에서 함께 지어져 가느니라
+📖 **창세기 45:18**
+> 너희 아버지와 너희 가족을 이끌고 내게로 오라 내가 너희에게 애굽의 좋은 땅을 주리니 너희가 나라의 기름진 것을 먹으리라
 
-🕊️ _업데이트 시각: 2025-11-22 03:53:11 KST_
+🕊️ _업데이트 시각: 2025-11-22 03:58:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
