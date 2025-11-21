@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 40:4**
-> 그 사람이 내게 이르되 인자야 내가 네게 보이는 그것을 눈으로 보고 귀로 들으며 네 마음으로 생각할지어다 내가 이것을 네게 보이려고이리로 데리고 왔나니 너는 본 것을 다 이스라엘 족속에게 전할지어다 하더라
+📖 **사도행전 13:34**
+> 또 하나님께서 죽은 자 가운데서 그를 일으키사 다시 썩음을 당하지 않게 하실 것을 가르쳐 이르시되 내가 다윗의 거룩하고 미쁜 은사를 너희에게 주리라 하셨으며
 
-🕊️ _업데이트 시각: 2025-11-21 14:32:38 KST_
+🕊️ _업데이트 시각: 2025-11-21 14:44:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
