@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 12:5**
-> 오직 너희의 하나님 여호와께서 자기의 이름을 두시려고 너희 모든 지파 중에서 택하신 곳인 그 계실 곳으로 찾아 나아가서
+📖 **에베소서 2:22**
+> 너희도 성령 안에서 하나님이 거하실 처소가 되기 위하여 그리스도 예수 안에서 함께 지어져 가느니라
 
-🕊️ _업데이트 시각: 2025-11-22 03:42:37 KST_
+🕊️ _업데이트 시각: 2025-11-22 03:53:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
