@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 73:18**
-> 주께서 참으로 그들을 미끄러운 곳에 두시며 파멸에 던지시니
+📖 **에스겔 36:8**
+> 그러나 너희 이스라엘 산들아 너희는 가지를 내고 내 백성 이스라엘을 위하여 열매를 맺으리니 그들이 올 때가 가까이 이르렀음이라
 
-🕊️ _업데이트 시각: 2025-11-22 07:42:09 KST_
+🕊️ _업데이트 시각: 2025-11-22 07:48:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
