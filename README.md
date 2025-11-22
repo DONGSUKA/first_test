@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:17**
-> 땅이 갈라져 다단을 삼키며 아비람의 당을 덮었고
+📖 **요한일서 2:25**
+> 그가 우리에게 약속하신 것은 이것이니 곧 영원한 생명이니라
 
-🕊️ _업데이트 시각: 2025-11-22 12:28:02 KST_
+🕊️ _업데이트 시각: 2025-11-22 12:49:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
