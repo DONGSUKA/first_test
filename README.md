@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 43:27**
-> 요셉이 그들의 안부를 물으며 이르되 너희 아버지 너희가 말하던 그 노인이 안녕하시냐 아직도 생존해 계시느냐
+📖 **에스겔 47:3**
+> 그 사람이 손에 줄을 잡고 동쪽으로 나아가며 천 척을 측량한 후에 내게 그 물을 건너게 하시니 물이 발목에 오르더니
 
-🕊️ _업데이트 시각: 2025-11-23 03:22:56 KST_
+🕊️ _업데이트 시각: 2025-11-23 03:42:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
