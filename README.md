@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 4:16**
-> 제사장 아론의 아들 엘르아살이 맡을 것은 등유와 태우는 향과 항상 드리는 소제물과 관유이며 또 장막 전체와 그 중에 있는 모든 것과성소와 그 모든 기구니라
+📖 **에스겔 16:37**
+> 내가 너의 즐거워하는 정든 자와 사랑하던 모든 자와 미워하던 모든 자를 모으되 사방에서 모아 너를 대적하게 할 것이요 또 네 벗은 몸을 그 앞에 드러내 그들이 그것을 다 보게 할 것이며
 
-🕊️ _업데이트 시각: 2025-11-22 20:49:07 KST_
+🕊️ _업데이트 시각: 2025-11-22 20:54:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
