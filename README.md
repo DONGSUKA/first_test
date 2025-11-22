@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 11:44**
-> 화 있을진저 너희여 너희는 평토장한 무덤 같아서 그 위를 밟는 사람이 알지 못하느니라
+📖 **잠언 7:26**
+> 대저 그가 많은 사람을 상하여 엎드러지게 하였나니 그에게 죽은 자가 허다하니라
 
-🕊️ _업데이트 시각: 2025-11-22 16:34:57 KST_
+🕊️ _업데이트 시각: 2025-11-22 16:40:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
