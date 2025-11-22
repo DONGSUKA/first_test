@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 30:31**
-> 여호와의 목소리에 앗수르가 낙담할 것이며 주께서는 막대기로 치실 것이라
+📖 **창세기 43:27**
+> 요셉이 그들의 안부를 물으며 이르되 너희 아버지 너희가 말하던 그 노인이 안녕하시냐 아직도 생존해 계시느냐
 
-🕊️ _업데이트 시각: 2025-11-23 02:58:41 KST_
+🕊️ _업데이트 시각: 2025-11-23 03:22:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
