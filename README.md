@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 108:9**
-> 모압은 내 목욕통이라 에돔에는 내 신발을 벗어 던질지며 블레셋 위에서 내가 외치리라 하셨도다
+📖 **잠언 7:13**
+> 그 여인이 그를 붙잡고 그에게 입맞추며 부끄러움을 모르는 얼굴로 그에게 말하되
 
-🕊️ _업데이트 시각: 2025-11-23 07:32:47 KST_
+🕊️ _업데이트 시각: 2025-11-23 07:42:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
