@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 5:10**
-> 각 사람이 구별한 물건은 그의 것이 되나니 누구든지 제사장에게 주는 것은 그의 것이 되느니라
+📖 **욥기 33:27**
+> 그가 사람 앞에서 노래하여 이르기를 내가 범죄하여 옳은 것을 그르쳤으나 내게 무익하였구나
 
-🕊️ _업데이트 시각: 2025-11-22 22:50:37 KST_
+🕊️ _업데이트 시각: 2025-11-22 22:51:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
