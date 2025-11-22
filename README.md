@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 47:3**
-> 그 사람이 손에 줄을 잡고 동쪽으로 나아가며 천 척을 측량한 후에 내게 그 물을 건너게 하시니 물이 발목에 오르더니
+📖 **마가복음 7:32**
+> 사람들이 귀 먹고 말 더듬는 자를 데리고 예수께 나아와 안수하여 주시기를 간구하거늘
 
-🕊️ _업데이트 시각: 2025-11-23 03:42:55 KST_
+🕊️ _업데이트 시각: 2025-11-23 03:52:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
