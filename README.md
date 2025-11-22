@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 48:18**
-> 디본에 사는 딸아 네 영화에서 내려와 메마른 데 앉으라 모압을 파멸하는 자가 올라와서 너를 쳐서 네 요새를 깨뜨렸음이로다
+📖 **예레미야 18:21**
+> 그러하온즉 그들의 자녀를 기근에 내어 주시며 그들을 칼의 세력에 넘기시며 그들의 아내들은 자녀를 잃고 과부가 되며 그 장정은 죽음을 당하며 그 청년은 전장에서 칼을 맞게 하시며
 
-🕊️ _업데이트 시각: 2025-11-22 20:11:02 KST_
+🕊️ _업데이트 시각: 2025-11-22 20:22:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
