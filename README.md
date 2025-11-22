@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 17:8**
-> 답부아 땅은 므낫세에게 속하였으되 므낫세 경계에 있는 답부아는 에브라임 자손에게 속하였으며
+📖 **누가복음 1:14**
+> 너도 기뻐하고 즐거워할 것이요 많은 사람도 그의 태어남을 기뻐하리니
 
-🕊️ _업데이트 시각: 2025-11-22 22:57:32 KST_
+🕊️ _업데이트 시각: 2025-11-22 23:12:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
