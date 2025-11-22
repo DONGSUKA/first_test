@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 32:13**
-> 여호와께서 그가 땅의 높은 곳을 타고 다니게 하시며 밭의 소산을 먹게 하시며 반석에서 꿀을, 굳은 반석에서 기름을 빨게 하시며
+📖 **예레미야 32:36**
+> 영원한 언약 그러나 이스라엘의 하나님 여호와께서 너희가 말하는 바 칼과 기근과 전염병으로 말미암아 바벨론 왕의 손에 넘긴 바 되었다 하는 이 성에 대하여 이와 같이 말씀하시니라
 
-🕊️ _업데이트 시각: 2025-11-22 18:43:08 KST_
+🕊️ _업데이트 시각: 2025-11-22 18:49:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
