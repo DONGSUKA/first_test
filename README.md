@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 5:20**
-> 율법이 들어온 것은 범죄를 더하게 하려 함이라 그러나 죄가 더한 곳에 은혜가 더욱 넘쳤나니
+📖 **사도행전 24:20**
+> 그렇지 않으면 이 사람들이 내가 공회 앞에 섰을 때에 무슨 옳지 않은 것을 보았는가 말하라 하소서
 
-🕊️ _업데이트 시각: 2025-11-22 19:46:14 KST_
+🕊️ _업데이트 시각: 2025-11-22 19:52:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
