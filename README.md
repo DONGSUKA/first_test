@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 66:4**
-> 온 땅이 주께 경배하고 주를 노래하며 주의 이름을 노래하리이다 할지어다 (셀라)
+📖 **누가복음 11:44**
+> 화 있을진저 너희여 너희는 평토장한 무덤 같아서 그 위를 밟는 사람이 알지 못하느니라
 
-🕊️ _업데이트 시각: 2025-11-22 16:27:39 KST_
+🕊️ _업데이트 시각: 2025-11-22 16:34:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
