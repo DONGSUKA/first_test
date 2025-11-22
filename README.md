@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 7:32**
-> 사람들이 귀 먹고 말 더듬는 자를 데리고 예수께 나아와 안수하여 주시기를 간구하거늘
+📖 **시편 127:4**
+> 젊은 자의 자식은 장사의 수중의 화살 같으니
 
-🕊️ _업데이트 시각: 2025-11-23 03:52:31 KST_
+🕊️ _업데이트 시각: 2025-11-23 03:58:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
