@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 6:12**
-> 여호와께서 사람들을 멀리 옮기셔서 이 땅 가운데에 황폐한 곳이 많을 때까지니라
+📖 **창세기 46:26**
+> 야곱과 함께 애굽에 들어간 자는 야곱의 며느리들 외에 육십육 명이니 이는 다 야곱의 몸에서 태어난 자이며
 
-🕊️ _업데이트 시각: 2025-11-23 19:33:44 KST_
+🕊️ _업데이트 시각: 2025-11-23 19:43:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
