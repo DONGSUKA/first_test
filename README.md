@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:33**
-> 귀신들이 그 사람에게서 나와 돼지에게로 들어가니 그 떼가 비탈로 내리달아 호수에 들어가 몰사하거늘
+📖 **사도행전 25:11**
+> 만일 내가 불의를 행하여 무슨 죽을 죄를 지었으면 죽기를 사양하지 아니할 것이나 만일 이 사람들이 나를 고발하는 것이 다 사실이아니면 아무도 나를 그들에게 내줄 수 없나이다 내가 가이사께 상소하노라 한대
 
-🕊️ _업데이트 시각: 2025-11-23 18:40:48 KST_
+🕊️ _업데이트 시각: 2025-11-23 18:46:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
