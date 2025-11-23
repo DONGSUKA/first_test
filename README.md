@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 11:22**
-> 이스라엘 자손의 땅에는 아낙 사람들이 하나도 남지 아니하였고 가사와 가드와 아스돗에만 남았더라
+📖 **열왕기상 15:26**
+> 그가 여호와 보시기에 악을 행하되 그의 아버지의 길로 행하며 그가 이스라엘에게 범하게 한 그 죄 중에 행한지라
 
-🕊️ _업데이트 시각: 2025-11-23 20:49:08 KST_
+🕊️ _업데이트 시각: 2025-11-23 20:54:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
