@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 24:26**
-> 므라리의 아들들은 마흘리와 무시요 야아시야의 아들들은 브노이니
+📖 **요한복음 15:17**
+> 내가 이것을 너희에게 명함은 너희로 서로 사랑하게 하려 함이라
 
-🕊️ _업데이트 시각: 2025-11-24 04:54:57 KST_
+🕊️ _업데이트 시각: 2025-11-24 05:09:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
