@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:1**
-> 여자들이 예수의 활동을 돕다 그 후에 예수께서 각 성과 마을에 두루 다니시며 하나님의 나라를 선포하시며 그 복음을 전하실새 열두 제자가 함께 하였고
+📖 **고린도후서 12:14**
+> 보라 내가 이제 세 번째 너희에게 가기를 준비하였으나 너희에게 폐를 끼치지 아니하리라 내가 구하는 것은 너희의 재물이 아니요오직 너희니라 어린 아이가 부모를 위하여 재물을 저축하는 것이 아니요 부모가 어린 아이를 위하여 하느니라
 
-🕊️ _업데이트 시각: 2025-11-23 14:54:47 KST_
+🕊️ _업데이트 시각: 2025-11-23 15:13:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
