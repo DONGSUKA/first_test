@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 16:11**
-> 아사가 죽다(왕상 15:23-24) 아사의 처음부터 끝까지의 행적은 유다와 이스라엘 열왕기에 기록되니라
+📖 **신명기 7:21**
+> 너는 그들을 두려워하지 말라 너희의 하나님 여호와 곧 크고 두려운 하나님이 너희 중에 계심이니라
 
-🕊️ _업데이트 시각: 2025-11-24 08:49:11 KST_
+🕊️ _업데이트 시각: 2025-11-24 08:55:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
