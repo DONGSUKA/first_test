@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 1:16**
-> 어부들을 부르시다(마 4:18-22; 눅 5:1-11) 갈릴리 해변으로 지나가시다가 시몬과 그 형제 안드레가 바다에 그물 던지는 것을 보시니그들은 어부라
+📖 **이사야 6:12**
+> 여호와께서 사람들을 멀리 옮기셔서 이 땅 가운데에 황폐한 곳이 많을 때까지니라
 
-🕊️ _업데이트 시각: 2025-11-23 19:16:17 KST_
+🕊️ _업데이트 시각: 2025-11-23 19:33:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
