@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 3:5**
-> 예루살렘에서 그가 낳은 아들들은 이러하니 시므아와 소밥과 나단과 솔로몬 네 사람은 다 암미엘의 딸 밧수아의 소생이요
+📖 **사무엘하 15:17**
+> 왕이 나가매 모든 백성이 다 따라서 벧메르학에 이르러 멈추어 서니
 
-🕊️ _업데이트 시각: 2025-11-23 13:47:08 KST_
+🕊️ _업데이트 시각: 2025-11-23 13:57:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
