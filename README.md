@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 35:6**
-> 그대가 범죄한들 하나님께 무슨 영향이 있겠으며 그대의 악행이 가득한들 하나님께 무슨 상관이 있겠으며
+📖 **민수기 29:21**
+> 그 소제와 전제는 수송아지와 숫양과 어린 양의 수효를 따라서 규례대로 할 것이며
 
-🕊️ _업데이트 시각: 2025-11-23 09:54:07 KST_
+🕊️ _업데이트 시각: 2025-11-23 11:49:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
