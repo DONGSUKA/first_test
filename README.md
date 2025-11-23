@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 14:14**
-> 이 땅 거주민에게 전하리이다 주 여호와께서 이 백성 중에 계심을 그들도 들었으니 곧 주 여호와께서 대면하여 보이시며 주의 구름이그들 위에 섰으며 주께서 낮에는 구름 기둥 가운데에서, 밤에는 불 기둥 가운데에서 그들 앞에 행하시는 것이니이다
+📖 **예레미야 34:5**
+> 평안히 죽을 것이며 사람이 너보다 먼저 있은 네 조상들 곧 선왕들에게 분향하던 것 같이 네게 분향하며 너를 위하여 애통하기를 슬프다 주여 하리니 이는 내가 말하였음이라 여호와의 말씀이니라 하시니라
 
-🕊️ _업데이트 시각: 2025-11-24 01:33:55 KST_
+🕊️ _업데이트 시각: 2025-11-24 01:45:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
