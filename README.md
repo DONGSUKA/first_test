@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 27:9**
-> 다윗이 그 땅을 쳐서 남녀를 살려두지 아니하고 양과 소와 나귀와 낙타와 의복을 빼앗아 가지고 돌아와 아기스에게 이르매
+📖 **이사야 53:12**
+> 그러므로 내가 그에게 존귀한 자와 함께 몫을 받게 하며 강한 자와 함께 탈취한 것을 나누게 하리니 이는 그가 자기 영혼을 버려 사망에이르게 하며 범죄자 중 하나로 헤아림을 받았음이니라 그러나 그가 많은 사람의 죄를 담당하며 범죄자를 위하여 기도하였느니라
 
-🕊️ _업데이트 시각: 2025-11-24 01:58:07 KST_
+🕊️ _업데이트 시각: 2025-11-24 02:12:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
