@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 12:18**
-> 이에 무리가 예수를 맞음은 이 표적 행하심을 들었음이러라
+📖 **역대상 24:26**
+> 므라리의 아들들은 마흘리와 무시요 야아시야의 아들들은 브노이니
 
-🕊️ _업데이트 시각: 2025-11-24 04:49:06 KST_
+🕊️ _업데이트 시각: 2025-11-24 04:54:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
