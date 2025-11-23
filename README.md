@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 37:5**
-> 바로의 군대가 애굽에서 나오매 예루살렘을 에워쌌던 갈대아인이 그 소문을 듣고 예루살렘에서 떠났더라
+📖 **시편 103:13**
+> 아버지가 자식을 긍휼히 여김 같이 여호와께서는 자기를 경외하는 자를 긍휼히 여기시나니
 
-🕊️ _업데이트 시각: 2025-11-24 06:52:34 KST_
+🕊️ _업데이트 시각: 2025-11-24 06:58:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
