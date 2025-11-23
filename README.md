@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 4:4**
-> 그러나 어떤 사람이든지 다투지도 말며 책망하지도 말라 네 백성들이 제사장과 다투는 자처럼 되었음이니라
+📖 **시편 107:22**
+> 감사제를 드리며 노래하여 그가 행하신 일을 선포할지로다
 
-🕊️ _업데이트 시각: 2025-11-23 22:13:34 KST_
+🕊️ _업데이트 시각: 2025-11-23 22:31:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
