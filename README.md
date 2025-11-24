@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 13:17**
-> 너희들은 내 말을 분명히 들으라 내가 너희 귀에 알려 줄 것이 있느니라
+📖 **창세기 18:23**
+> 아브라함이 가까이 나아가 이르되 주께서 의인을 악인과 함께 멸하려 하시나이까
 
-🕊️ _업데이트 시각: 2025-11-24 12:44:49 KST_
+🕊️ _업데이트 시각: 2025-11-24 13:20:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
