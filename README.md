@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 23:8**
-> 그들의 삼 대 후 자손은 여호와의 총회에 들어올 수 있느니라
+📖 **아가 2:9**
+> 내 사랑하는 자는 노루와도 같고 어린 사슴과도 같아서 우리 벽 뒤에 서서 창으로 들여다보며 창살 틈으로 엿보는구나
 
-🕊️ _업데이트 시각: 2025-11-24 19:42:10 KST_
+🕊️ _업데이트 시각: 2025-11-24 19:53:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
