@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 10:1**
-> 형제들아 내 마음에 원하는 바와 하나님께 구하는 바는 이스라엘을 위함이니 곧 그들로 구원을 받게 함이라
+📖 **열왕기하 13:3**
+> 여호와께서 이스라엘에게 노하사 늘 아람 왕 하사엘의 손과 그의 아들 벤하닷의 손에 넘기셨더니
 
-🕊️ _업데이트 시각: 2025-11-25 05:16:02 KST_
+🕊️ _업데이트 시각: 2025-11-25 05:33:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
