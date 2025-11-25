@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 88:8**
-> 주께서 내가 아는 자를 내게서 멀리 떠나게 하시고 나를 그들에게 가증한 것이 되게 하셨사오니 나는 갇혀서 나갈 수 없게 되었나이다
+📖 **여호수아 6:14**
+> 그 둘째 날에도 그 성을 한 번 돌고 진영으로 돌아오니라 엿새 동안을 이같이 행하니라
 
-🕊️ _업데이트 시각: 2025-11-26 06:15:42 KST_
+🕊️ _업데이트 시각: 2025-11-26 06:30:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
