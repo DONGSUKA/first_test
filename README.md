@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 15:9**
-> 디몬 물에는 피가 가득함이로다 그럴지라도 내가 디몬에 재앙을 더 내리되 모압에 도피한 자와 그 땅에 남은 자에게 사자를 보내리라
+📖 **레위기 26:6**
+> 내가 그 땅에 평화를 줄 것인즉 너희가 누울 때 너희를 두렵게 할 자가 없을 것이며 내가 사나운 짐승을 그 땅에서 제할 것이요 칼이 너희의 땅에 두루 행하지 아니할 것이며
 
-🕊️ _업데이트 시각: 2025-11-25 14:57:12 KST_
+🕊️ _업데이트 시각: 2025-11-25 15:22:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
