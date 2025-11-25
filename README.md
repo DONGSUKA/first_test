@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 30:23**
-> 애굽 사람을 뭇 나라 가운데로 흩으며 뭇 백성 가운데로 헤칠지라
+📖 **신명기 27:21**
+> 짐승과 교합하는 모든 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라
 
-🕊️ _업데이트 시각: 2025-11-26 05:52:34 KST_
+🕊️ _업데이트 시각: 2025-11-26 05:58:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
