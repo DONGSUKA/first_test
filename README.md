@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 23:18**
-> 천부장에게로 데리고 가서 이르되 죄수 바울이 나를 불러 이 청년이 당신께 할 말이 있다 하여 데리고 가기를 청하더이다 하매
+📖 **이사야 10:29**
+> 산을 넘어 게바에서 유숙하매 라마는 떨고 사울의 기브아는 도망하도다
 
-🕊️ _업데이트 시각: 2025-11-26 06:58:19 KST_
+🕊️ _업데이트 시각: 2025-11-26 07:16:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
