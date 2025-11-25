@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 10:29**
-> 산을 넘어 게바에서 유숙하매 라마는 떨고 사울의 기브아는 도망하도다
+📖 **여호수아 2:16**
+> 라합이 그들에게 이르되 두렵건대 뒤쫓는 사람들이 너희와 마주칠까 하노니 너희는 산으로 가서 거기서 사흘 동안 숨어 있다가 뒤쫓는자들이 돌아간 후에 너희의 길을 갈지니라
 
-🕊️ _업데이트 시각: 2025-11-26 07:16:14 KST_
+🕊️ _업데이트 시각: 2025-11-26 07:34:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
