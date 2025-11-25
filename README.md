@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 4:24**
-> 구부러진 말을 네 입에서 버리며 비뚤어진 말을 네 입술에서 멀리 하라
+📖 **마태복음 19:29**
+> 또 내 이름을 위하여 집이나 형제나 자매나 부모나 자식이나 전토를 버린 자마다 여러 배를 받고 또 영생을 상속하리라
 
-🕊️ _업데이트 시각: 2025-11-26 04:55:14 KST_
+🕊️ _업데이트 시각: 2025-11-26 05:10:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
