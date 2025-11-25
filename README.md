@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 35:13**
-> 너희가 나를 대적하여 입으로 자랑하며 나를 대적하여 여러 가지로 말한 것을 내가 들었노라
+📖 **역대상 22:16**
+> 금과 은과 놋과 철이 무수하니 너는 일어나 일하라 여호와께서 너와 함께 계실지로다 하니라
 
-🕊️ _업데이트 시각: 2025-11-26 00:55:17 KST_
+🕊️ _업데이트 시각: 2025-11-26 01:12:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
