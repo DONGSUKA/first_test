@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 17:12**
-> 그러나 므낫세 자손이 그 성읍들의 주민을 쫓아내지 못하매 가나안 족속이 결심하고 그 땅에 거주하였더니
+📖 **창세기 24:45**
+> 내가 마음속으로 말하기를 마치기도 전에 리브가가 물동이를 어깨에 메고 나와서 우물로 내려와 긷기로 내가 그에게 이르기를 청하건대내게 마시게 하라 한즉
 
-🕊️ _업데이트 시각: 2025-11-25 18:55:56 KST_
+🕊️ _업데이트 시각: 2025-11-25 19:13:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
