@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 22:16**
-> 금과 은과 놋과 철이 무수하니 너는 일어나 일하라 여호와께서 너와 함께 계실지로다 하니라
+📖 **역대하 11:15**
+> 여로보암이 여러 산당과 숫염소 우상과 자기가 만든 송아지 우상을 위하여 친히 제사장들을 세움이라
 
-🕊️ _업데이트 시각: 2025-11-26 01:12:56 KST_
+🕊️ _업데이트 시각: 2025-11-26 01:43:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
