@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 13:21**
-> 그 속에 뿌리가 없어 잠시 견디다가 말씀으로 말미암아 환난이나 박해가 일어날 때에는 곧 넘어지는 자요
+📖 **디모데후서 4:5**
+> 그러나 너는 모든 일에 신중하여 고난을 받으며 전도자의 일을 하며 네 직무를 다하라
 
-🕊️ _업데이트 시각: 2025-11-26 16:47:08 KST_
+🕊️ _업데이트 시각: 2025-11-26 16:53:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
