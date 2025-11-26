@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 14:5**
-> 내가 이스라엘에게 이슬과 같으리니 그가 백합화 같이 피겠고 레바논 백향목 같이 뿌리가 박힐 것이라
+📖 **예레미야애가 3:11**
+> 나의 길들로 치우치게 하시며 내 몸을 찢으시며 나를 적막하게 하셨도다
 
-🕊️ _업데이트 시각: 2025-11-26 20:44:30 KST_
+🕊️ _업데이트 시각: 2025-11-26 20:50:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
