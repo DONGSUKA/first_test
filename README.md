@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 7:22**
-> 피와 기름은 먹지 말라 여호와께서 모세에게 말씀하여 이르시되
+📖 **요한계시록 7:2**
+> 또 보매 다른 천사가 살아 계신 하나님의 인을 가지고 해 돋는 데로부터 올라와서 땅과 바다를 해롭게 할 권세를 받은 네 천사를 향하여 큰 소리로 외쳐
 
-🕊️ _업데이트 시각: 2025-11-27 03:41:04 KST_
+🕊️ _업데이트 시각: 2025-11-27 03:51:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
