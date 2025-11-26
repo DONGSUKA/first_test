@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 18:15**
-> 스루야의 아들 요압은 군대사령관이 되고 아힐룻의 아들 여호사밧은 행정장관이 되고
+📖 **창세기 14:20**
+> 너희 대적을 네 손에 붙이신 지극히 높으신 하나님을 찬송할지로다 하매 아브람이 그 얻은 것에서 십분의 일을 멜기세덱에게 주었더라
 
-🕊️ _업데이트 시각: 2025-11-27 00:31:03 KST_
+🕊️ _업데이트 시각: 2025-11-27 00:43:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
