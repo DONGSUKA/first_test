@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요엘 1:9**
-> 소제와 전제가 여호와의 성전에서 끊어졌고 여호와께 수종드는 제사장은 슬퍼하도다
+📖 **누가복음 19:35**
+> 그것을 예수께로 끌고 와서 자기들의 겉옷을 나귀 새끼 위에 걸쳐 놓고 예수를 태우니
 
-🕊️ _업데이트 시각: 2025-11-27 05:46:19 KST_
+🕊️ _업데이트 시각: 2025-11-27 05:52:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
