@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 12:4**
-> 어진 여인은 그 지아비의 면류관이나 욕을 끼치는 여인은 그 지아비의 뼈가 썩음 같게 하느니라
+📖 **역대하 27:4**
+> 유다 산중에 성읍들을 건축하며 수풀 가운데에 견고한 진영들과 망대를 건축하고
 
-🕊️ _업데이트 시각: 2025-11-27 05:10:41 KST_
+🕊️ _업데이트 시각: 2025-11-27 05:30:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
