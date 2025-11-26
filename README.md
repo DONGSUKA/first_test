@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 18:9**
-> 내 율례를 따르며 내 규례를 지켜 진실하게 행할진대 그는 의인이니 반드시 살리라 주 여호와의 말씀이니라
+📖 **열왕기상 13:13**
+> 그가 그의 아들들에게 이르되 나를 위하여 나귀에 안장을 지우라 그들이 나귀에 안장을 지우니 그가 타고
 
-🕊️ _업데이트 시각: 2025-11-26 23:48:32 KST_
+🕊️ _업데이트 시각: 2025-11-26 23:56:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
