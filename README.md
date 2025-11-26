@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 15:15**
-> 회중 곧 너희에게나 거류하는 타국인에게나 같은 율례이니 너희의 대대로 영원한 율례라 너희가 어떠한 대로 타국인도 여호와 앞에 그러하리라
+📖 **잠언 23:25**
+> 네 부모를 즐겁게 하며 너를 낳은 어미를 기쁘게 하라
 
-🕊️ _업데이트 시각: 2025-11-27 08:49:12 KST_
+🕊️ _업데이트 시각: 2025-11-27 08:55:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
