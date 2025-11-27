@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 7:35**
-> 이에 유대인들이 서로 묻되 이 사람이 어디로 가기에 우리가 그를 만나지 못하리요 헬라인 중에 흩어져 사는 자들에게로 가서 헬라인을가르칠 터인가
+📖 **역대상 12:14**
+> 이 갓 자손이 군대 지휘관이 되어 그 작은 자는 백부장이요, 그 큰 자는 천부장이더니
 
-🕊️ _업데이트 시각: 2025-11-28 04:31:56 KST_
+🕊️ _업데이트 시각: 2025-11-28 04:39:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
