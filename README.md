@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 17:13**
-> 그 왕족 중에서 하나를 택하여 언약을 세우고 그에게 맹세하게 하고 또 그 땅의 능한 자들을 옮겨 갔나니
+📖 **시편 68:29**
+> 예루살렘에 있는 주의 전을 위하여 왕들이 주께 예물을 드리리이다
 
-🕊️ _업데이트 시각: 2025-11-27 16:34:32 KST_
+🕊️ _업데이트 시각: 2025-11-27 16:43:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
