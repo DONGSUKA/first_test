@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 61:7**
-> 너희가 수치 대신에 보상을 배나 얻으며 능욕 대신에 몫으로 말미암아 즐거워할 것이라 그리하여 그들의 땅에서 갑절이나 얻고 영원한 기쁨이 있으리라
+📖 **예레미야 36:31**
+> 또 내가 그와 그의 자손과 신하들을 그들의 죄악으로 말미암아 벌할 것이라 내가 일찍이 그들과 예루살렘 주민과 유다 사람에게 그 모든 재난을 내리리라 선포하였으나 그들이 듣지 아니하였느니라
 
-🕊️ _업데이트 시각: 2025-11-27 22:04:32 KST_
+🕊️ _업데이트 시각: 2025-11-27 22:38:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
