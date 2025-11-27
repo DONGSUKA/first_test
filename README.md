@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 23:25**
-> 네 부모를 즐겁게 하며 너를 낳은 어미를 기쁘게 하라
+📖 **출애굽기 40:18**
+> 모세가 성막을 세우되 그 받침들을 놓고 그 널판들을 세우고 그 띠를 띠우고 그 기둥들을 세우고
 
-🕊️ _업데이트 시각: 2025-11-27 08:55:07 KST_
+🕊️ _업데이트 시각: 2025-11-27 09:44:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
