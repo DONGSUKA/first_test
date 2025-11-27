@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 2:1**
-> 여호와께서 기억하시다 여호와의 말씀이 내게 임하니라 이르시되
+📖 **데살로니가전서 2:19**
+> 우리의 소망이나 기쁨이나 자랑의 면류관이 무엇이냐 그가 강림하실 때 우리 주 예수 앞에 너희가 아니냐
 
-🕊️ _업데이트 시각: 2025-11-27 20:44:02 KST_
+🕊️ _업데이트 시각: 2025-11-27 20:50:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
