@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 17:8**
-> 제자들이 눈을 들고 보매 오직 예수 외에는 아무도 보이지 아니하더라
+📖 **신명기 33:15**
+> 옛 산의 좋은 산물과 영원한 작은 언덕의 선물과
 
-🕊️ _업데이트 시각: 2025-11-28 02:53:02 KST_
+🕊️ _업데이트 시각: 2025-11-28 02:58:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
