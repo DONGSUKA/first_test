@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 19:6**
-> 두 사람이 앉아서 함께 먹고 마시매 그 여자의 아버지가 그 사람에게 이르되 청하노니 이 밤을 여기서 유숙하여 그대의 마음을 즐겁게 하라 하니
+📖 **마태복음 17:8**
+> 제자들이 눈을 들고 보매 오직 예수 외에는 아무도 보이지 아니하더라
 
-🕊️ _업데이트 시각: 2025-11-28 02:47:06 KST_
+🕊️ _업데이트 시각: 2025-11-28 02:53:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
