@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 142:2**
-> 내가 내 원통함을 그의 앞에 토로하며 내 우환을 그의 앞에 진술하는도다
+📖 **고린도전서 8:4**
+> 그러므로 우상의 제물을 먹는 일에 대하여는 우리가 우상은 세상에 아무 것도 아니며 또한 하나님은 한 분밖에 없는 줄 아노라
 
-🕊️ _업데이트 시각: 2025-11-27 18:51:22 KST_
+🕊️ _업데이트 시각: 2025-11-27 18:56:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
