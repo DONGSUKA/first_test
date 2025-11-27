@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 19:3**
-> 네 하나님 여호와께서 네게 기업으로 주시는 땅 전체를 세 구역으로 나누어 길을 닦고 모든 살인자를 그 성읍으로 도피하게 하라
+📖 **열왕기하 18:25**
+> 내가 어찌 여호와의 뜻이 아니고야 이제 이 곳을 멸하러 올라왔겠느냐 여호와께서 전에 내게 이르시기를 이 땅으로 올라와서 쳐서 멸하라 하셨느니라 하는지라
 
-🕊️ _업데이트 시각: 2025-11-27 13:37:24 KST_
+🕊️ _업데이트 시각: 2025-11-27 13:49:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
