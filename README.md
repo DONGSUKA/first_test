@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 10:5**
-> 그 때에 내가 눈을 들어 바라본즉 한 사람이 세마포 옷을 입었고 허리에는 우바스 순금 띠를 띠었더라
+📖 **사도행전 19:2**
+> 이르되 너희가 믿을 때에 성령을 받았느냐 이르되 아니라 우리는 성령이 계심도 듣지 못하였노라
 
-🕊️ _업데이트 시각: 2025-11-27 17:43:43 KST_
+🕊️ _업데이트 시각: 2025-11-27 17:55:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
