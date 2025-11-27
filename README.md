@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **데살로니가전서 2:19**
-> 우리의 소망이나 기쁨이나 자랑의 면류관이 무엇이냐 그가 강림하실 때 우리 주 예수 앞에 너희가 아니냐
+📖 **마태복음 23:23**
+> 화 있을진저 외식하는 서기관들과 바리새인들이여 너희가 박하와 회향과 근채의 십일조는 드리되 율법의 더 중한 바 정의와 긍휼과 믿음은 버렸도다 그러나 이것도 행하고 저것도 버리지 말아야 할지니라
 
-🕊️ _업데이트 시각: 2025-11-27 20:50:18 KST_
+🕊️ _업데이트 시각: 2025-11-27 20:55:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
