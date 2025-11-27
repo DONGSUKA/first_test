@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 103:21**
-> 그에게 수종들며 그의 뜻을 행하는 모든 천군이여 여호와를 송축하라
+📖 **이사야 49:25**
+> 여호와가 이같이 말하노라 용사의 포로도 빼앗을 것이요 두려운 자의 빼앗은 것도 건져낼 것이니 이는 내가 너를 대적하는 자를 대적하고 네 자녀를 내가 구원할 것임이라
 
-🕊️ _업데이트 시각: 2025-11-27 13:56:17 KST_
+🕊️ _업데이트 시각: 2025-11-27 14:13:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
