@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 1:75**
-> 종신토록 주의 앞에서 성결과 의로 두려움이 없이 섬기게 하리라 하셨도다
+📖 **열왕기하 9:16**
+> 예후가 병거를 타고 이스르엘로 가니 요람 왕이 거기에 누워 있었음이라 유다의 왕 아하시야는 요람을 보러 내려왔더라
 
-🕊️ _업데이트 시각: 2025-11-28 13:56:53 KST_
+🕊️ _업데이트 시각: 2025-11-28 14:14:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
