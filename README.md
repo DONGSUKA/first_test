@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 10:24**
-> 유대인들이 에워싸고 이르되 당신이 언제까지나 우리 마음을 의혹하게 하려 하나이까 그리스도이면 밝히 말씀하소서 하니
+📖 **사무엘상 6:1**
+> 언약궤가 돌아오다 여호와의 궤가 블레셋 사람들의 지방에 있은 지 일곱 달이라
 
-🕊️ _업데이트 시각: 2025-11-29 08:49:07 KST_
+🕊️ _업데이트 시각: 2025-11-29 08:55:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
