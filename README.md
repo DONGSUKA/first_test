@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 22:8**
-> 이에 종들에게 이르되 혼인 잔치는 준비되었으나 청한 사람들은 합당하지 아니하니
+📖 **욥기 23:9**
+> 그가 왼쪽에서 일하시나 내가 만날 수 없고 그가 오른쪽으로 돌이키시나 뵈올 수 없구나
 
-🕊️ _업데이트 시각: 2025-11-29 01:49:49 KST_
+🕊️ _업데이트 시각: 2025-11-29 01:56:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
