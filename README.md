@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 9:16**
-> 예후가 병거를 타고 이스르엘로 가니 요람 왕이 거기에 누워 있었음이라 유다의 왕 아하시야는 요람을 보러 내려왔더라
+📖 **요한계시록 10:3**
+> 사자가 부르짖는 것 같이 큰 소리로 외치니 그가 외칠 때에 일곱 우레가 그 소리를 내어 말하더라
 
-🕊️ _업데이트 시각: 2025-11-28 14:14:27 KST_
+🕊️ _업데이트 시각: 2025-11-28 14:34:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
