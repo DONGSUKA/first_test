@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌레몬서 1:17**
-> 그러므로 네가 나를 동역자로 알진대 그를 영접하기를 내게 하듯 하고
+📖 **요한계시록 12:2**
+> 이 여자가 아이를 배어 해산하게 되매 아파서 애를 쓰며 부르짖더라
 
-🕊️ _업데이트 시각: 2025-11-28 16:59:06 KST_
+🕊️ _업데이트 시각: 2025-11-28 17:26:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
