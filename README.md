@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 23:9**
-> 그가 왼쪽에서 일하시나 내가 만날 수 없고 그가 오른쪽으로 돌이키시나 뵈올 수 없구나
+📖 **예레미야애가 3:24**
+> 내 심령에 이르기를 여호와는 나의 기업이시니 그러므로 내가 그를 바라리라 하도다
 
-🕊️ _업데이트 시각: 2025-11-29 01:56:35 KST_
+🕊️ _업데이트 시각: 2025-11-29 02:11:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
