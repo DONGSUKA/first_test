@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 35:4**
-> 내가 그대와 및 그대와 함께 있는 그대의 친구들에게 대답하리라
+📖 **예레미야 5:29**
+> 내가 이 일들에 대하여 벌하지 아니하겠으며 내 마음이 이같은 나라에 보복하지 아니하겠느냐 여호와의 말씀이니라
 
-🕊️ _업데이트 시각: 2025-11-28 18:56:49 KST_
+🕊️ _업데이트 시각: 2025-11-28 19:14:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
