@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 10:3**
-> 사자가 부르짖는 것 같이 큰 소리로 외치니 그가 외칠 때에 일곱 우레가 그 소리를 내어 말하더라
+📖 **마가복음 8:19**
+> 내가 떡 다섯 개를 오천 명에게 떼어 줄 때에 조각 몇 바구니를 거두었더냐 이르되 열둘이니이다
 
-🕊️ _업데이트 시각: 2025-11-28 14:34:22 KST_
+🕊️ _업데이트 시각: 2025-11-28 14:46:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
