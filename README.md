@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 12:7**
-> 거짓 저울을 쓰는 에브라임 그는 상인이라 손에 거짓 저울을 가지고 속이기를 좋아하는도다
+📖 **요한일서 5:4**
+> 무릇 하나님께로부터 난 자마다 세상을 이기느니라 세상을 이기는 승리는 이것이니 우리의 믿음이니라
 
-🕊️ _업데이트 시각: 2025-11-29 08:26:47 KST_
+🕊️ _업데이트 시각: 2025-11-29 08:35:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
