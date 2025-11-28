@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 42:35**
-> 각기 자루를 쏟고 본즉 각 사람의 돈뭉치가 그 자루 속에 있는지라 그들과 그들의 아버지가 돈뭉치를 보고 다 두려워하더니
+📖 **예레미야 10:11**
+> 너희는 이같이 그들에게 이르기를 천지를 짓지 아니한 신들은 땅 위에서, 이 하늘 아래에서 망하리라 하라
 
-🕊️ _업데이트 시각: 2025-11-29 02:39:32 KST_
+🕊️ _업데이트 시각: 2025-11-29 02:45:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
