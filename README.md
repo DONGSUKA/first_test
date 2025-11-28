@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 19:12**
-> 그 눈은 불꽃 같고 그 머리에는 많은 관들이 있고 또 이름 쓴 것 하나가 있으니 자기밖에 아는 자가 없고
+📖 **민수기 35:12**
+> 이는 너희가 복수할 자에게서 도피하는 성을 삼아 살인자가 회중 앞에 서서 판결을 받기까지 죽지 않게 하기 위함이니라
 
-🕊️ _업데이트 시각: 2025-11-28 22:51:15 KST_
+🕊️ _업데이트 시각: 2025-11-28 22:57:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
