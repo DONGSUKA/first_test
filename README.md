@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 12:19**
-> 네가 어찌 그를 누이라 하여 내가 그를 데려다가 아내를 삼게 하였느냐 네 아내가 여기 있으니 이제 데려가라 하고
+📖 **호세아 12:7**
+> 거짓 저울을 쓰는 에브라임 그는 상인이라 손에 거짓 저울을 가지고 속이기를 좋아하는도다
 
-🕊️ _업데이트 시각: 2025-11-29 08:08:44 KST_
+🕊️ _업데이트 시각: 2025-11-29 08:26:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
