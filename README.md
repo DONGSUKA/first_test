@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요엘 1:5**
-> 취하는 자들아 너희는 깨어 울지어다 포도주를 마시는 자들아 너희는 울지어다 이는 단 포도주가 너희 입에서 끊어졌음이니
+📖 **민수기 6:10**
+> 여덟째 날에 산비둘기 두 마리나 집비둘기 새끼 두 마리를 가지고 회막 문에 와서 제사장에게 줄 것이요
 
-🕊️ _업데이트 시각: 2025-11-28 14:52:01 KST_
+🕊️ _업데이트 시각: 2025-11-28 14:57:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
