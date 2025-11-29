@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:19**
-> 그들이 호렙에서 송아지를 만들고 부어 만든 우상을 경배하여
+📖 **하박국 3:10**
+> 산들이 주를 보고 흔들리며 창수가 넘치고 바다가 소리를 지르며 손을 높이 들었나이다
 
-🕊️ _업데이트 시각: 2025-11-29 20:38:55 KST_
+🕊️ _업데이트 시각: 2025-11-29 20:44:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
