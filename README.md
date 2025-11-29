@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 37:35**
-> 대저 내가 나를 위하며 내 종 다윗을 위하여 이 성을 보호하며 구원하리라 하셨나이다 하니라
+📖 **여호수아 18:27**
+> 레겜과 이르브엘과 다랄라와
 
-🕊️ _업데이트 시각: 2025-11-29 19:18:19 KST_
+🕊️ _업데이트 시각: 2025-11-29 19:36:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
