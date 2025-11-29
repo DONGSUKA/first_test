@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 27:2**
-> 악인들이 내 살을 먹으려고 내게로 왔으나 나의 대적들, 나의 원수들인 그들은 실족하여 넘어졌도다
+📖 **요한일서 3:4**
+> 죄를 짓는 자마다 불법을 행하나니 죄는 불법이라
 
-🕊️ _업데이트 시각: 2025-11-30 00:17:46 KST_
+🕊️ _업데이트 시각: 2025-11-30 00:30:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
