@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 11:11**
-> 모세가 여호와께 여짜오되 어찌하여 주께서 종을 괴롭게 하시나이까 어찌하여 내게 주의 목전에서 은혜를 입게 아니하시고 이 모든 백성을 내게 맡기사 내가 그 짐을 지게 하시나이까
+📖 **다니엘 5:2**
+> 벨사살이 술을 마실 때에 명하여 그의 부친 느부갓네살이 예루살렘 성전에서 탈취하여 온 금, 은 그릇을 가져오라고 명하였으니 이는 왕과 귀족들과 왕후들과 후궁들이 다 그것으로 마시려 함이었더라
 
-🕊️ _업데이트 시각: 2025-11-30 00:45:57 KST_
+🕊️ _업데이트 시각: 2025-11-30 00:51:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
