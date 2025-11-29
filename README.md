@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 17:11**
-> 사울과 온 이스라엘이 블레셋 사람의 이 말을 듣고 놀라 크게 두려워하니라
+📖 **열왕기상 14:28**
+> 왕이 여호와의 성전에 들어갈 때마다 시위하는 자가 그 방패를 들고 갔다가 시위소로 도로 가져갔더라
 
-🕊️ _업데이트 시각: 2025-11-29 13:47:24 KST_
+🕊️ _업데이트 시각: 2025-11-29 13:54:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
