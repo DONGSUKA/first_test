@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 16:2**
-> 사람들이 너희를 출교할 뿐 아니라 때가 이르면 무릇 너희를 죽이는 자가 생각하기를 이것이 하나님을 섬기는 일이라 하리라
+📖 **이사야 37:35**
+> 대저 내가 나를 위하며 내 종 다윗을 위하여 이 성을 보호하며 구원하리라 하셨나이다 하니라
 
-🕊️ _업데이트 시각: 2025-11-29 18:59:14 KST_
+🕊️ _업데이트 시각: 2025-11-29 19:18:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
