@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 16:9**
-> 여호와의 눈은 온 땅을 두루 감찰하사 전심으로 자기에게 향하는 자들을 위하여 능력을 베푸시나니 이 일은 왕이 망령되이 행하였은즉 이후부터는 왕에게 전쟁이 있으리이다 하매
+📖 **열왕기상 11:2**
+> 여호와께서 일찍이 이 여러 백성에 대하여 이스라엘 자손에게 말씀하시기를 너희는 그들과 서로 통혼하지 말며 그들도 너희와 서로 통혼하게 하지 말라 그들이 반드시 너희의 마음을 돌려 그들의 신들을 따르게 하리라 하셨으나 솔로몬이 그들을 사랑하였더라
 
-🕊️ _업데이트 시각: 2025-11-29 18:32:06 KST_
+🕊️ _업데이트 시각: 2025-11-29 18:41:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
