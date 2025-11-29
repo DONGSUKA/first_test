@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 42:13**
-> 또 아들 일곱과 딸 셋을 두었으며
+📖 **역대상 1:6**
+> 고멜의 자손은 아스그나스와 디밧과 도갈마요
 
-🕊️ _업데이트 시각: 2025-11-29 18:47:36 KST_
+🕊️ _업데이트 시각: 2025-11-29 18:53:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
