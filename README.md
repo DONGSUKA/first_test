@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 22:28**
-> 이 사람 고니야는 천하고 깨진 그릇이냐 좋아하지 아니하는 그릇이냐 어찌하여 그와 그의 자손이 쫓겨나서 알지 못하는 땅에 들어갔는고
+📖 **이사야 37:30**
+> 왕이여 이것이 왕에게 징조가 되리니 올해는 스스로 난 것을 먹을 것이요 둘째 해에는 또 거기에서 난 것을 먹을 것이요 셋째 해에는 심고 거두며 포도나무를 심고 그 열매를 먹을 것이니이다
 
-🕊️ _업데이트 시각: 2025-11-29 23:41:45 KST_
+🕊️ _업데이트 시각: 2025-11-29 23:47:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
