@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 29:22**
-> 노하는 자는 다툼을 일으키고 성내는 자는 범죄함이 많으니라
+📖 **시편 55:18**
+> 나를 대적하는 자 많더니 나를 치는 전쟁에서 그가 내 생명을 구원하사 평안하게 하셨도다
 
-🕊️ _업데이트 시각: 2025-11-30 18:36:56 KST_
+🕊️ _업데이트 시각: 2025-11-30 18:43:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
