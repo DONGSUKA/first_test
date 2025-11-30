@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 4:12**
-> 이제 가라 내가 네 입과 함께 있어서 할 말을 가르치리라
+📖 **잠언 24:7**
+> 지혜는 너무 높아서 미련한 자가 미치지 못할 것이므로 그는 성문에서 입을 열지 못하느니라
 
-🕊️ _업데이트 시각: 2025-11-30 22:21:06 KST_
+🕊️ _업데이트 시각: 2025-11-30 22:38:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
