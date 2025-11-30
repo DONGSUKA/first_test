@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 12:21**
-> 힐기야 족속에는 하사뱌요 여다야 족속에는 느다넬이었느니라
+📖 **역대하 3:6**
+> 또 보석으로 성전을 꾸며 화려하게 하였으니 그 금은 바르와임 금이며
 
-🕊️ _업데이트 시각: 2025-11-30 17:55:01 KST_
+🕊️ _업데이트 시각: 2025-11-30 18:08:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
