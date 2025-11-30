@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 55:18**
-> 나를 대적하는 자 많더니 나를 치는 전쟁에서 그가 내 생명을 구원하사 평안하게 하셨도다
+📖 **요한계시록 11:16**
+> 하나님 앞에서 자기 보좌에 앉아 있던 이십사 장로가 엎드려 얼굴을 땅에 대고 하나님께 경배하여
 
-🕊️ _업데이트 시각: 2025-11-30 18:43:35 KST_
+🕊️ _업데이트 시각: 2025-11-30 18:49:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
