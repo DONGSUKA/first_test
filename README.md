@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 24:7**
-> 다윗이 이 말로 자기 사람들을 금하여 사울을 해하지 못하게 하니라 사울이 일어나 굴에서 나가 자기 길을 가니라
+📖 **사사기 9:35**
+> 에벳의 아들 가알이 나와서 성읍 문 입구에 설 때에 아비멜렉과 그와 함께 있는 백성이 매복하였던 곳에서 일어난지라
 
-🕊️ _업데이트 시각: 2025-12-01 05:55:31 KST_
+🕊️ _업데이트 시각: 2025-12-01 06:08:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
