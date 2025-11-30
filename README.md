@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 3:20**
-> 아담이 그의 아내의 이름을 하와라 불렀으니 그는 모든 산 자의 어머니가 됨이더라
+📖 **사무엘하 22:28**
+> 주께서 곤고한 백성은 구원하시고 교만한 자를 살피사 낮추시리이다
 
-🕊️ _업데이트 시각: 2025-11-30 14:46:29 KST_
+🕊️ _업데이트 시각: 2025-11-30 14:52:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
