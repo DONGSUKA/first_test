@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 3:6**
-> 또 보석으로 성전을 꾸며 화려하게 하였으니 그 금은 바르와임 금이며
+📖 **사무엘하 2:15**
+> 그들이 일어나 그 수대로 나아가니 베냐민과 사울의 아들 이스보셋의 편에 열두 명이요 다윗의 신복 중에 열두 명이라
 
-🕊️ _업데이트 시각: 2025-11-30 18:08:38 KST_
+🕊️ _업데이트 시각: 2025-11-30 18:27:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
