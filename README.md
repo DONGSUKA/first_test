@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 49:3**
-> 내 입은 지혜를 말하겠고 내 마음은 명철을 작은 소리로 읊조리리로다
+📖 **시편 117:2**
+> 우리에게 향하신 여호와의 인자하심이 크시고 여호와의 진실하심이 영원함이로다 할렐루야
 
-🕊️ _업데이트 시각: 2025-12-01 07:33:29 KST_
+🕊️ _업데이트 시각: 2025-12-01 07:44:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
