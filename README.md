@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 23:20**
-> 명령과 약속 내가 사자를 네 앞서 보내어 길에서 너를 보호하여 너를 내가 예비한 곳에 이르게 하리니
+📖 **신명기 28:27**
+> 여호와께서 애굽의 종기와 치질과 괴혈병과 피부병으로 너를 치시리니 네가 치유 받지 못할 것이며
 
-🕊️ _업데이트 시각: 2025-12-01 17:16:27 KST_
+🕊️ _업데이트 시각: 2025-12-01 17:46:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
