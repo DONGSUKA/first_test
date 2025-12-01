@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 124:6**
-> 우리를 내주어 그들의 이에 씹히지 아니하게 하신 여호와를 찬송할지로다
+📖 **사도행전 28:5**
+> 바울이 그 짐승을 불에 떨어 버리매 조금도 상함이 없더라
 
-🕊️ _업데이트 시각: 2025-12-01 19:54:09 KST_
+🕊️ _업데이트 시각: 2025-12-01 20:09:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
