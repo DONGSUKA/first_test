@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:22**
-> 그들이 히브리인이냐 나도 그러하며 그들이 이스라엘인이냐 나도 그러하며 그들이 아브라함의 후손이냐 나도 그러하며
+📖 **골로새서 2:14**
+> 우리를 거스르고 불리하게 하는 법조문으로 쓴 증서를 지우시고 제하여 버리사 십자가에 못 박으시고
 
-🕊️ _업데이트 시각: 2025-12-02 05:47:35 KST_
+🕊️ _업데이트 시각: 2025-12-02 05:53:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
