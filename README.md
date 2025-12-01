@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 11:52**
-> 또 그 민족만 위할 뿐 아니라 흩어진 하나님의 자녀를 모아 하나가 되게 하기 위하여 죽으실 것을 미리 말함이러라
+📖 **에스겔 21:22**
+> 오른손에 예루살렘으로 갈 점괘를 얻었으므로 공성퇴를 설치하며 입을 벌리고 죽이며 소리를 높여 외치며 성문을 향하여 공성퇴를 설치하고 토성을 쌓고 사다리를 세우게 되었나니
 
-🕊️ _업데이트 시각: 2025-12-01 21:28:30 KST_
+🕊️ _업데이트 시각: 2025-12-01 22:10:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
