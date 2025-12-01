@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 11:3**
-> 네 자랑하는 말이 어떻게 사람으로 잠잠하게 하겠으며 네가 비웃으면 어찌 너를 부끄럽게 할 사람이 없겠느냐
+📖 **역대하 2:2**
+> 솔로몬이 이에 짐꾼 칠만 명과 산에서 돌을 떠낼 자 팔만 명과 일을 감독할 자 삼천 육백 명을 뽑고
 
-🕊️ _업데이트 시각: 2025-12-01 10:04:30 KST_
+🕊️ _업데이트 시각: 2025-12-01 12:11:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
