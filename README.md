@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 18:22**
-> 아내를 얻는 자는 복을 얻고 여호와께 은총을 받는 자니라
+📖 **고린도후서 11:22**
+> 그들이 히브리인이냐 나도 그러하며 그들이 이스라엘인이냐 나도 그러하며 그들이 아브라함의 후손이냐 나도 그러하며
 
-🕊️ _업데이트 시각: 2025-12-02 05:41:56 KST_
+🕊️ _업데이트 시각: 2025-12-02 05:47:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
