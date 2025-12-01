@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 7:50**
-> 예수께서 여자에게 이르시되 네 믿음이 너를 구원하였으니 평안히 가라 하시니라
+📖 **누가복음 12:17**
+> 심중에 생각하여 이르되 내가 곡식 쌓아 둘 곳이 없으니 어찌할까 하고
 
-🕊️ _업데이트 시각: 2025-12-02 05:59:14 KST_
+🕊️ _업데이트 시각: 2025-12-02 06:16:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
