@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 32:38**
-> 느보와 바알므온들을 건축하고 그 이름을 바꾸었고 또 십마를 건축하고 건축한 성읍들에 새 이름을 주었고
+📖 **역대상 23:19**
+> 헤브론의 아들들은 우두머리 여리야와 둘째 아마랴와 셋째 야하시엘과 넷째 여가므암이며
 
-🕊️ _업데이트 시각: 2025-12-02 03:15:18 KST_
+🕊️ _업데이트 시각: 2025-12-02 03:50:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
