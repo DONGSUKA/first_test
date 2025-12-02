@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 19:15**
-> 모세가 백성에게 이르되 준비하여 셋째 날을 기다리고 여인을 가까이 하지 말라 하니라
+📖 **역대상 29:8**
+> 보석을 가진 모든 사람은 게르손 사람 여히엘의 손에 맡겨 여호와의 성전 곳간에 드렸더라
 
-🕊️ _업데이트 시각: 2025-12-03 02:45:16 KST_
+🕊️ _업데이트 시각: 2025-12-03 02:54:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
