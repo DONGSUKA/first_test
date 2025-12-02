@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:18**
-> 내 눈을 열어서 주의 율법에서 놀라운 것을 보게 하소서
+📖 **요한복음 12:13**
+> 종려나무 가지를 가지고 맞으러 나가 외치되 호산나 찬송하리로다 주의 이름으로 오시는 이 곧 이스라엘의 왕이시여 하더라
 
-🕊️ _업데이트 시각: 2025-12-02 18:59:00 KST_
+🕊️ _업데이트 시각: 2025-12-02 19:20:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
