@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 1:3**
-> 다른 교훈을 가르치지 말라 내가 마게도냐로 갈 때에 너를 권하여 에베소에 머물라 한 것은 어떤 사람들을 명하여 다른 교훈을 가르치지 말며
+📖 **욥기 38:4**
+> 내가 땅의 기초를 놓을 때에 네가 어디 있었느냐 네가 깨달아 알았거든 말할지니라
 
-🕊️ _업데이트 시각: 2025-12-03 07:53:37 KST_
+🕊️ _업데이트 시각: 2025-12-03 07:59:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
