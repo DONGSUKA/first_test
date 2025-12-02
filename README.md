@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 7:15**
-> 멜기세덱과 같은 별다른 한 제사장이 일어난 것을 보니 더욱 분명하도다
+📖 **마태복음 22:8**
+> 이에 종들에게 이르되 혼인 잔치는 준비되었으나 청한 사람들은 합당하지 아니하니
 
-🕊️ _업데이트 시각: 2025-12-02 15:51:52 KST_
+🕊️ _업데이트 시각: 2025-12-02 16:01:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
