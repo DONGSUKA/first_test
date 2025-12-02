@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 12:4**
-> 그 어린 양에 대하여 식구가 너무 적으면 그 집의 이웃과 함께 사람 수를 따라서 하나를 잡고 각 사람이 먹을 수 있는 분량에 따라서너희 어린 양을 계산할 것이며
+📖 **민수기 29:19**
+> 상번제와 그 소제와 그 전제 외에 숫염소 한 마리를 속죄제로 드릴 것이니라
 
-🕊️ _업데이트 시각: 2025-12-02 22:45:28 KST_
+🕊️ _업데이트 시각: 2025-12-02 22:57:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
