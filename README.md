@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 28:42**
-> 또 그들을 위하여 베로 속바지를 만들어 허리에서부터 두 넓적다리까지 이르게 하여 하체를 가리게 하라
+📖 **고린도전서 9:17**
+> 내가 내 자의로 이것을 행하면 상을 얻으려니와 내가 자의로 아니한다 할지라도 나는 사명을 받았노라
 
-🕊️ _업데이트 시각: 2025-12-04 02:52:58 KST_
+🕊️ _업데이트 시각: 2025-12-04 02:58:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
