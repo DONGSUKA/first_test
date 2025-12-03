@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 24:11**
-> 사도들은 그들의 말이 허탄한 듯이 들려 믿지 아니하나
+📖 **시편 5:11**
+> 그러나 주께 피하는 모든 사람은 다 기뻐하며 주의 보호로 말미암아 영원히 기뻐 외치고 주의 이름을 사랑하는 자들은 주를 즐거워하리이다
 
-🕊️ _업데이트 시각: 2025-12-04 06:55:00 KST_
+🕊️ _업데이트 시각: 2025-12-04 07:09:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
