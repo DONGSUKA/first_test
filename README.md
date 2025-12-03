@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 142:1**
-> 다윗이 굴에 있을 때에 지은 마스길 곧 기도 내가 소리 내어 여호와께 부르짖으며 소리 내어 여호와께 간구하는도다
+📖 **사도행전 4:11**
+> 이 예수는 너희 건축자들의 버린 돌로서 집 모퉁이의 머릿돌이 되었느니라
 
-🕊️ _업데이트 시각: 2025-12-04 06:42:50 KST_
+🕊️ _업데이트 시각: 2025-12-04 06:49:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
