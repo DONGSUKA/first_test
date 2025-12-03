@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 14:29**
-> 오라 하시니 베드로가 배에서 내려 물 위로 걸어서 예수께로 가되
+📖 **누가복음 11:10**
+> 구하는 이마다 받을 것이요 찾는 이는 찾아낼 것이요 두드리는 이에게는 열릴 것이니라
 
-🕊️ _업데이트 시각: 2025-12-03 22:59:01 KST_
+🕊️ _업데이트 시각: 2025-12-03 23:19:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
