@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 6:6**
-> 그들이 나곤의 타작 마당에 이르러서는 소들이 뛰므로 웃사가 손을 들어 하나님의 궤를 붙들었더니
+📖 **사사기 6:38**
+> 그대로 된지라 이튿날 기드온이 일찍이 일어나서 양털을 가져다가 그 양털에서 이슬을 짜니 물이 그릇에 가득하더라
 
-🕊️ _업데이트 시각: 2025-12-04 07:57:29 KST_
+🕊️ _업데이트 시각: 2025-12-04 08:12:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
