@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 10:33**
-> 하숨 자손 중에서는 맛드내와 맛닷다와 사밧과 엘리벨렛과 여레매와 므낫세와 시므이요
+📖 **마가복음 8:11**
+> 이 세대가 표적을 구하나(마 16:1-4) 바리새인들이 나와서 예수를 힐난하며 그를 시험하여 하늘로부터 오는 표적을 구하거늘
 
-🕊️ _업데이트 시각: 2025-12-03 20:52:46 KST_
+🕊️ _업데이트 시각: 2025-12-03 20:58:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
