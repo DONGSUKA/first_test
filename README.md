@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 4:23**
-> 여종에게서는 육체를 따라 났고 자유 있는 여자에게서는 약속으로 말미암았느니라
+📖 **에스겔 4:11**
+> 물도 육분의 일 힌씩 되어서 때를 따라 마시라
 
-🕊️ _업데이트 시각: 2025-12-04 16:38:09 KST_
+🕊️ _업데이트 시각: 2025-12-04 16:46:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
