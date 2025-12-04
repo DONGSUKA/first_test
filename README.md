@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:13**
-> 안식일에 우리가 기도할 곳이 있을까 하여 문 밖 강가에 나가 거기 앉아서 모인 여자들에게 말하는데
+📖 **사무엘상 19:13**
+> 미갈이 우상을 가져다가 침상에 누이고 염소 털로 엮은 것을 그 머리에 씌우고 의복으로 그것을 덮었더니
 
-🕊️ _업데이트 시각: 2025-12-05 03:31:51 KST_
+🕊️ _업데이트 시각: 2025-12-05 03:55:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
