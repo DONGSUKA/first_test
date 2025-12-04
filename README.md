@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 20:11**
-> 모세가 그의 손을 들어 그의 지팡이로 반석을 두 번 치니 물이 많이 솟아나오므로 회중과 그들의 짐승이 마시니라
+📖 **요한계시록 22:3**
+> 다시 저주가 없으며 하나님과 그 어린 양의 보좌가 그 가운데에 있으리니 그의 종들이 그를 섬기며
 
-🕊️ _업데이트 시각: 2025-12-04 22:58:47 KST_
+🕊️ _업데이트 시각: 2025-12-04 23:19:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
