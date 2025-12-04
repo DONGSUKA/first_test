@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 22:16**
-> 이르시되 여호와께서 이르시기를 내가 나를 가리켜 맹세하노니 네가 이같이 행하여 네 아들 네 독자도 아끼지 아니하였은즉
+📖 **시편 27:11**
+> 여호와여 주의 도를 내게 가르치시고 내 원수를 생각하셔서 평탄한 길로 나를 인도하소서
 
-🕊️ _업데이트 시각: 2025-12-05 06:30:22 KST_
+🕊️ _업데이트 시각: 2025-12-05 06:41:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
