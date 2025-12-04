@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 3:18**
-> 그 다음은 그들의 형제들 가운데 그일라 지방 절반을 다스리는 헤나닷의 아들 바왜가 중수하였고
+📖 **미가 2:6**
+> 그들이 말하기를 너희는 예언하지 말라 이것은 예언할 것이 아니거늘 욕하는 말을 그치지 아니한다 하는도다
 
-🕊️ _업데이트 시각: 2025-12-05 00:12:02 KST_
+🕊️ _업데이트 시각: 2025-12-05 00:36:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
