@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 10:4**
-> 자기 양을 다 내놓은 후에 앞서 가면 양들이 그의 음성을 아는 고로 따라오되
+📖 **사도행전 3:20**
+> 또 주께서 너희를 위하여 예정하신 그리스도 곧 예수를 보내시리니
 
-🕊️ _업데이트 시각: 2025-12-05 19:57:24 KST_
+🕊️ _업데이트 시각: 2025-12-05 20:13:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
