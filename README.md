@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 7:1**
-> 왕궁 안의 반란 내가 이스라엘을 치료하려 할 때에 에브라임의 죄와 사마리아의 악이 드러나도다 그들은 거짓을 행하며 안으로 들어가 도둑질하고 밖으로 떼 지어 노략질하며
+📖 **요한계시록 14:1**
+> 십사만 사천 명이 부르는 노래 또 내가 보니 보라 어린 양이 시온 산에 섰고 그와 함께 십사만 사천이 서 있는데 그들의 이마에는 어린 양의 이름과 그 아버지의 이름을 쓴 것이 있더라
 
-🕊️ _업데이트 시각: 2025-12-06 22:21:35 KST_
+🕊️ _업데이트 시각: 2025-12-06 22:38:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
