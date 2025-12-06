@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 6:40**
-> 떼로 백 명씩 또는 오십 명씩 앉은지라
+📖 **민수기 1:3**
+> 이스라엘 중 이십 세 이상으로 싸움에 나갈 만한 모든 자를 너와 아론은 그 진영별로 계수하되
 
-🕊️ _업데이트 시각: 2025-12-07 04:49:19 KST_
+🕊️ _업데이트 시각: 2025-12-07 04:55:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
