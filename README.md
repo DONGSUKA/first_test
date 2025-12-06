@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 14:36**
-> 다만 예수의 옷자락에라도 손을 대게 하시기를 간구하니 손을 대는 자는 다 나음을 얻으니라
+📖 **역대하 28:3**
+> 또 힌놈의 아들 골짜기에서 분향하고 여호와께서 이스라엘 자손 앞에서 쫓아내신 이방 사람들의 가증한 일을 본받아 그의 자녀들을 불사르고
 
-🕊️ _업데이트 시각: 2025-12-06 23:12:02 KST_
+🕊️ _업데이트 시각: 2025-12-06 23:30:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
