@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 17:11**
-> 나의 날이 지나갔고 내 계획, 내 마음의 소원이 다 끊어졌구나
+📖 **마가복음 6:40**
+> 떼로 백 명씩 또는 오십 명씩 앉은지라
 
-🕊️ _업데이트 시각: 2025-12-07 04:42:46 KST_
+🕊️ _업데이트 시각: 2025-12-07 04:49:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
