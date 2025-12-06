@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 27:7**
-> 모든 나라가 그와 그의 아들과 손자를 그 땅의 기한이 이르기까지 섬기리라 또한 많은 나라들과 큰 왕들이 그 자신을 섬기리라
+📖 **에스더 9:25**
+> 에스더가 왕 앞에 나아감으로 말미암아 왕이 조서를 내려 하만이 유다인을 해하려던 악한 꾀를 그의 머리에 돌려보내어 하만과 그의 여러아들을 나무에 달게 하였으므로
 
-🕊️ _업데이트 시각: 2025-12-07 08:44:17 KST_
+🕊️ _업데이트 시각: 2025-12-07 08:50:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
