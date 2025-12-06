@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 13:21**
-> 그 속에 뿌리가 없어 잠시 견디다가 말씀으로 말미암아 환난이나 박해가 일어날 때에는 곧 넘어지는 자요
+📖 **누가복음 15:2**
+> 바리새인과 서기관들이 수군거려 이르되 이 사람이 죄인을 영접하고 음식을 같이 먹는다 하더라
 
-🕊️ _업데이트 시각: 2025-12-06 18:12:02 KST_
+🕊️ _업데이트 시각: 2025-12-06 18:29:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
