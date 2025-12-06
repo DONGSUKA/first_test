@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 18:19**
-> 랍사게가 그들에게 이르되 너희는 히스기야에게 말하라 대왕 앗수르 왕의 말씀이 네가 의뢰하는 이 의뢰가 무엇이냐
+📖 **요엘 3:10**
+> 너희는 보습을 쳐서 칼을 만들지어다 낫을 쳐서 창을 만들지어다 약한 자도 이르기를 나는 강하다 할지어다
 
-🕊️ _업데이트 시각: 2025-12-07 07:40:46 KST_
+🕊️ _업데이트 시각: 2025-12-07 07:46:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
