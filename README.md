@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 28:3**
-> 또 힌놈의 아들 골짜기에서 분향하고 여호와께서 이스라엘 자손 앞에서 쫓아내신 이방 사람들의 가증한 일을 본받아 그의 자녀들을 불사르고
+📖 **마가복음 6:8**
+> 명하시되 여행을 위하여 지팡이 외에는 양식이나 배낭이나 전대의 돈이나 아무 것도 가지지 말며
 
-🕊️ _업데이트 시각: 2025-12-06 23:30:03 KST_
+🕊️ _업데이트 시각: 2025-12-06 23:39:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
