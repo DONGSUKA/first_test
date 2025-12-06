@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 27:17**
-> 철이 철을 날카롭게 하는 것 같이 사람이 그의 친구의 얼굴을 빛나게 하느니라
+📖 **창세기 38:21**
+> 그가 그 곳 사람에게 물어 이르되 길 곁 에나임에 있던 창녀가 어디 있느냐 그들이 이르되 여기는 창녀가 없느니라
 
-🕊️ _업데이트 시각: 2025-12-07 00:29:15 KST_
+🕊️ _업데이트 시각: 2025-12-07 00:38:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
