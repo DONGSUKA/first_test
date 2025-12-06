@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 8:4**
-> 기드온과 그와 함께 한 자 삼백 명이 요단 강에 이르러 건너고 비록 피곤하나 추격하며
+📖 **고린도후서 7:6**
+> 그러나 낙심한 자들을 위로하시는 하나님이 디도가 옴으로 우리를 위로하셨으니
 
-🕊️ _업데이트 시각: 2025-12-06 13:39:19 KST_
+🕊️ _업데이트 시각: 2025-12-06 13:48:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
