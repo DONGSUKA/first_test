@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 2:26**
-> 라마와 게바 자손이 육백이십일 명이요
+📖 **요한복음 12:23**
+> 예수께서 대답하여 이르시되 인자가 영광을 얻을 때가 왔도다
 
-🕊️ _업데이트 시각: 2025-12-06 12:59:28 KST_
+🕊️ _업데이트 시각: 2025-12-06 13:21:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
