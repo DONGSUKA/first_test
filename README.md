@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 15:2**
-> 바리새인과 서기관들이 수군거려 이르되 이 사람이 죄인을 영접하고 음식을 같이 먹는다 하더라
+📖 **마태복음 9:1**
+> 중풍병자를 고치시다(막 2:1-12; 눅 5:17-26) 예수께서 배에 오르사 건너가 본 동네에 이르시니
 
-🕊️ _업데이트 시각: 2025-12-06 18:29:28 KST_
+🕊️ _업데이트 시각: 2025-12-06 18:38:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
