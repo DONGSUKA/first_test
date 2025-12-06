@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 10:9**
-> 갈로는 갈그미스와 같지 아니하며 하맛은 아르밧과 같지 아니하며 사마리아는 다메섹과 같지 아니하냐
+📖 **사도행전 27:9**
+> 여러 날이 걸려 금식하는 절기가 이미 지났으므로 항해하기가 위태한지라 바울이 그들을 권하여
 
-🕊️ _업데이트 시각: 2025-12-06 16:55:10 KST_
+🕊️ _업데이트 시각: 2025-12-06 17:12:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
