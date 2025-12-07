@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:53**
-> 네가 적군에게 에워싸이고 맹렬한 공격을 받아 곤란을 당하므로 네 하나님 여호와께서 네게 주신 자녀 곧 네 몸의 소생의 살을 먹을 것이라
+📖 **잠언 14:26**
+> 여호와를 경외하는 자에게는 견고한 의뢰가 있나니 그 자녀들에게 피난처가 있으리라
 
-🕊️ _업데이트 시각: 2025-12-07 22:51:08 KST_
+🕊️ _업데이트 시각: 2025-12-07 22:56:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
