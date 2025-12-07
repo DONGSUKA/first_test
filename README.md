@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 25:2**
-> 대제사장들과 유대인 중 높은 사람들이 바울을 고소할새
+📖 **이사야 37:35**
+> 대저 내가 나를 위하며 내 종 다윗을 위하여 이 성을 보호하며 구원하리라 하셨나이다 하니라
 
-🕊️ _업데이트 시각: 2025-12-08 06:16:00 KST_
+🕊️ _업데이트 시각: 2025-12-08 06:27:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
