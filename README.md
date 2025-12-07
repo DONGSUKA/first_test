@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 23:39**
-> 달린 행악자 중 하나는 비방하여 이르되 네가 그리스도가 아니냐 너와 우리를 구원하라 하되
+📖 **호세아 7:1**
+> 왕궁 안의 반란 내가 이스라엘을 치료하려 할 때에 에브라임의 죄와 사마리아의 악이 드러나도다 그들은 거짓을 행하며 안으로 들어가 도둑질하고 밖으로 떼 지어 노략질하며
 
-🕊️ _업데이트 시각: 2025-12-07 23:46:23 KST_
+🕊️ _업데이트 시각: 2025-12-07 23:52:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
