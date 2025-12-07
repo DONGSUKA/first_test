@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한일서 4:13**
-> 그의 성령을 우리에게 주시므로 우리가 그 안에 거하고 그가 우리 안에 거하시는 줄을 아느니라
+📖 **잠언 6:16**
+> 여호와께서 미워하시는 것 곧 그의 마음에 싫어하시는 것이 예닐곱 가지이니
 
-🕊️ _업데이트 시각: 2025-12-08 05:41:41 KST_
+🕊️ _업데이트 시각: 2025-12-08 05:47:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
