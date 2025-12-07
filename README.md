@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 7:10**
-> 옛날이 오늘보다 나은 것이 어찜이냐 하지 말라 이렇게 묻는 것은 지혜가 아니니라
+📖 **사무엘상 3:18**
+> 사무엘이 그것을 그에게 자세히 말하고 조금도 숨기지 아니하니 그가 이르되 이는 여호와이시니 선하신 대로 하실 것이니라 하니라
 
-🕊️ _업데이트 시각: 2025-12-08 08:42:30 KST_
+🕊️ _업데이트 시각: 2025-12-08 08:48:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
