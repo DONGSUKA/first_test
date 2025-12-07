@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:43**
-> 그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고
+📖 **잠언 23:26**
+> 내 아들아 네 마음을 내게 주며 네 눈으로 내 길을 즐거워할지어다
 
-🕊️ _업데이트 시각: 2025-12-08 05:09:43 KST_
+🕊️ _업데이트 시각: 2025-12-08 05:31:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
