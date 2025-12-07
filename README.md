@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 24:14**
-> 그 저주한 사람을 진영 밖으로 끌어내어 그것을 들은 모든 사람이 그들의 손을 그의 머리에 얹게 하고 온 회중이 돌로 그를 칠지니라
+📖 **요한복음 11:13**
+> 예수는 그의 죽음을 가리켜 말씀하신 것이나 그들은 잠들어 쉬는 것을 가리켜 말씀하심인 줄 생각하는지라
 
-🕊️ _업데이트 시각: 2025-12-07 08:55:59 KST_
+🕊️ _업데이트 시각: 2025-12-07 10:01:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
