@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 14:5**
-> 어떤 사람은 이 날을 저 날보다 낫게 여기고 어떤 사람은 모든 날을 같게 여기나니 각각 자기 마음으로 확정할지니라
+📖 **야고보서 2:2**
+> 만일 너희 회당에 금 가락지를 끼고 아름다운 옷을 입은 사람이 들어오고 또 남루한 옷을 입은 가난한 사람이 들어올 때에
 
-🕊️ _업데이트 시각: 2025-12-08 08:26:32 KST_
+🕊️ _업데이트 시각: 2025-12-08 08:34:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
