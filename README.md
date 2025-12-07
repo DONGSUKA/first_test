@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 24:39**
-> 내 손과 발을 보고 나인 줄 알라 또 나를 만져 보라 영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라
+📖 **로마서 14:5**
+> 어떤 사람은 이 날을 저 날보다 낫게 여기고 어떤 사람은 모든 날을 같게 여기나니 각각 자기 마음으로 확정할지니라
 
-🕊️ _업데이트 시각: 2025-12-08 08:08:23 KST_
+🕊️ _업데이트 시각: 2025-12-08 08:26:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
