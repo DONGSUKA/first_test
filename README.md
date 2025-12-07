@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 9:5**
-> 너희는 명절 날과 여호와의 절기의 날에 무엇을 하겠느냐
+📖 **시편 79:6**
+> 주를 알지 아니하는 민족들과 주의 이름을 부르지 아니하는 나라들에게 주의 노를 쏟으소서
 
-🕊️ _업데이트 시각: 2025-12-07 14:30:48 KST_
+🕊️ _업데이트 시각: 2025-12-07 14:41:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
