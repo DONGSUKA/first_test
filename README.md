@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 8:8**
-> 흘러 유다에 들어와서 가득하여 목에까지 미치리라 임마누엘이여 그가 펴는 날개가 네 땅에 가득하리라 하셨느니라
+📖 **고린도후서 10:1**
+> 바울이 자기의 사도직을 변호하다 너희를 대면하면 유순하고 떠나 있으면 너희에 대하여 담대한 나 바울은 이제 그리스도의 온유와관용으로 친히 너희를 권하고
 
-🕊️ _업데이트 시각: 2025-12-07 23:29:56 KST_
+🕊️ _업데이트 시각: 2025-12-07 23:40:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
