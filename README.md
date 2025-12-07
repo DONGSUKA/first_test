@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **나훔 3:15**
-> 거기서 불이 너를 삼키며 칼이 너를 베기를 느치가 먹는 것 같이 하리라 네가 느치 같이 스스로 많게 할지어다 네가 메뚜기 같이 스스로 많게 할지어다
+📖 **출애굽기 13:3**
+> 모세가 백성에게 이르되 너희는 애굽 곧 종 되었던 집에서 나온 그 날을 기념하여 유교병을 먹지 말라 여호와께서 그 손의 권능으로 너희를 그 곳에서 인도해 내셨음이니라
 
-🕊️ _업데이트 시각: 2025-12-08 01:46:27 KST_
+🕊️ _업데이트 시각: 2025-12-08 01:52:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
