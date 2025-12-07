@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:7**
-> 더러는 가시떨기 속에 떨어지매 가시가 함께 자라서 기운을 막았고
+📖 **데살로니가전서 1:2**
+> 데살로니가 교인들의 믿음의 본 우리가 너희 모두로 말미암아 항상 하나님께 감사하며 기도할 때에 너희를 기억함은
 
-🕊️ _업데이트 시각: 2025-12-07 19:47:22 KST_
+🕊️ _업데이트 시각: 2025-12-07 19:53:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
