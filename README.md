@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 3:16**
-> 모세가 여호와의 말씀을 따라 그 명령하신 대로 계수하니라
+📖 **민수기 10:3**
+> 나팔 두 개를 불 때에는 온 회중이 회막 문 앞에 모여서 네게로 나아올 것이요
 
-🕊️ _업데이트 시각: 2025-12-08 01:58:12 KST_
+🕊️ _업데이트 시각: 2025-12-08 02:13:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
