@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로전서 2:22**
-> 그는 죄를 범하지 아니하시고 그 입에 거짓도 없으시며
+📖 **창세기 43:23**
+> 그가 이르되 너희는 안심하라 두려워하지 말라 너희 하나님, 너희 아버지의 하나님이 재물을 너희 자루에 넣어 너희에게 주신 것이니라너희 돈은 내가 이미 받았느니라 하고 시므온을 그들에게로 이끌어내고
 
-🕊️ _업데이트 시각: 2025-12-09 06:08:46 KST_
+🕊️ _업데이트 시각: 2025-12-09 06:25:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
