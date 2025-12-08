@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 39:43**
-> 모세가 그 마친 모든 것을 본즉 여호와께서 명령하신 대로 되었으므로 모세가 그들에게 축복하였더라
+📖 **창세기 31:14**
+> 라헬과 레아가 그에게 대답하여 이르되 우리가 우리 아버지 집에서 무슨 분깃이나 유산이 있으리요
 
-🕊️ _업데이트 시각: 2025-12-08 14:51:28 KST_
+🕊️ _업데이트 시각: 2025-12-08 14:57:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
