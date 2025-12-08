@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 17:6**
-> 제사장은 그 피를 회막 문 여호와의 제단에 뿌리고 그 기름을 불살라 여호와께 향기로운 냄새가 되게 할 것이라
+📖 **이사야 28:22**
+> 그러므로 너희는 오만한 자가 되지 말라 너희 결박이 단단해질까 하노라 대저 온 땅을 멸망시키기로 작정하신 것을 내가 만군의 주 여호와께로부터 들었느니라
 
-🕊️ _업데이트 시각: 2025-12-08 21:36:56 KST_
+🕊️ _업데이트 시각: 2025-12-08 22:20:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
