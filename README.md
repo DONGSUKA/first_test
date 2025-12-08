@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 4:19**
-> 그의 아버지에게 이르되 내 머리야 내 머리야 하는지라 그의 아버지가 사환에게 말하여 그의 어머니에게로 데려가라 하매
+📖 **민수기 31:4**
+> 이스라엘 모든 지파에게 각 지파에서 천 명씩을 전쟁에 보낼지니라 하매
 
-🕊️ _업데이트 시각: 2025-12-08 22:47:58 KST_
+🕊️ _업데이트 시각: 2025-12-08 22:57:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
