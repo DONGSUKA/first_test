@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 8:24**
-> 그러므로 내가 너희에게 말하기를 너희가 너희 죄 가운데서 죽으리라 하였노라 너희가 만일 내가 그인 줄 믿지 아니하면 너희 죄 가운데서 죽으리라
+📖 **레위기 5:18**
+> 그는 네가 지정한 가치대로 양 떼 중 흠 없는 숫양을 속건제물로 제사장에게로 가져갈 것이요 제사장은 그가 부지중에 범죄한 허물을 위하여 속죄한즉 그가 사함을 받으리라
 
-🕊️ _업데이트 시각: 2025-12-08 20:46:19 KST_
+🕊️ _업데이트 시각: 2025-12-08 20:52:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
