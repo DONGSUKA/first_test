@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 32:3**
-> 모든 백성이 그 귀에서 금 고리를 빼어 아론에게로 가져가매
+📖 **요한복음 11:7**
+> 그 후에 제자들에게 이르시되 유대로 다시 가자 하시니
 
-🕊️ _업데이트 시각: 2025-12-08 18:58:01 KST_
+🕊️ _업데이트 시각: 2025-12-08 19:18:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
