@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 43:23**
-> 그가 이르되 너희는 안심하라 두려워하지 말라 너희 하나님, 너희 아버지의 하나님이 재물을 너희 자루에 넣어 너희에게 주신 것이니라너희 돈은 내가 이미 받았느니라 하고 시므온을 그들에게로 이끌어내고
+📖 **예레미야 14:9**
+> 어찌하여 놀란 자 같으시며 구원하지 못하는 용사 같으시니이까 여호와여 주는 그래도 우리 가운데 계시고 우리는 주의 이름으로 일컬음을 받는 자이오니 우리를 버리지 마옵소서
 
-🕊️ _업데이트 시각: 2025-12-09 06:25:21 KST_
+🕊️ _업데이트 시각: 2025-12-09 06:33:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
