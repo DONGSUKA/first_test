@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 14:16**
-> 내가 아버지께 구하겠으니 그가 또 다른 보혜사를 너희에게 주사 영원토록 너희와 함께 있게 하리니
+📖 **민수기 10:20**
+> 갓 자손 지파의 군대는 드우엘의 아들 엘리아삽이 이끌었더라
 
-🕊️ _업데이트 시각: 2025-12-09 00:47:36 KST_
+🕊️ _업데이트 시각: 2025-12-09 00:54:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
