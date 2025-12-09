@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 18:13**
-> 아무 일도 왕 앞에는 숨길 수 없나니 내가 만일 거역하여 그의 생명을 해하였더라면 당신도 나를 대적하였으리이다 하니
+📖 **에스겔 18:27**
+> 만일 악인이 그 행한 악을 떠나 정의와 공의를 행하면 그 영혼을 보전하리라
 
-🕊️ _업데이트 시각: 2025-12-10 06:47:03 KST_
+🕊️ _업데이트 시각: 2025-12-10 06:53:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
