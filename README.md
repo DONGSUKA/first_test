@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:45**
-> 또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며
+📖 **이사야 3:26**
+> 그 성문은 슬퍼하며 곡할 것이요 시온은 황폐하여 땅에 앉으리라
 
-🕊️ _업데이트 시각: 2025-12-09 20:57:47 KST_
+🕊️ _업데이트 시각: 2025-12-09 21:34:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
