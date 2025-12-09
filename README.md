@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 2:12**
-> 악한 자의 길과 패역을 말하는 자에게서 건져 내리라
+📖 **창세기 38:6**
+> 유다가 장자 엘을 위하여 아내를 데려오니 그의 이름은 다말이더라
 
-🕊️ _업데이트 시각: 2025-12-10 03:12:37 KST_
+🕊️ _업데이트 시각: 2025-12-10 03:43:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
