@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 28:3**
-> 전능하신 하나님이 네게 복을 주시어 네가 생육하고 번성하게 하여 네가 여러 족속을 이루게 하시고
+📖 **욥기 39:27**
+> 독수리가 공중에 떠서 높은 곳에 보금자리를 만드는 것이 어찌 네 명령을 따름이냐
 
-🕊️ _업데이트 시각: 2025-12-10 06:31:02 KST_
+🕊️ _업데이트 시각: 2025-12-10 06:41:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
