@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 15:12**
-> 그들이 삼손에게 이르되 우리가 너를 결박하여 블레셋 사람의 손에 넘겨 주려고 내려왔노라 하니 삼손이 그들에게 이르되 너희가 나를치지 아니하겠다고 내게 맹세하라 하매
+📖 **에스겔 13:18**
+> 이르기를 주 여호와의 말씀에 사람의 영혼을 사냥하려고 손목마다 부적을 꿰어 매고 키가 큰 자나 작은 자의 머리를 위하여 수건을 만드는 여자들에게 화 있을진저 너희가 어찌하여 내 백성의 영혼은 사냥하면서 자기를 위하여는 영혼을 살리려 하느냐
 
-🕊️ _업데이트 시각: 2025-12-10 02:47:35 KST_
+🕊️ _업데이트 시각: 2025-12-10 02:54:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
