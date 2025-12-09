@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌립보서 3:20**
-> 그러나 우리의 시민권은 하늘에 있는지라 거기로부터 구원하는 자 곧 주 예수 그리스도를 기다리노니
+📖 **사무엘하 19:2**
+> 왕이 그 아들을 위하여 슬퍼한다 함이 그 날에 백성들에게 들리매 그 날의 승리가 모든 백성에게 슬픔이 된지라
 
-🕊️ _업데이트 시각: 2025-12-09 19:45:39 KST_
+🕊️ _업데이트 시각: 2025-12-09 19:55:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
