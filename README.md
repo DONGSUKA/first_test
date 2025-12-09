@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 49:22**
-> 요셉은 무성한 가지 곧 샘 곁의 무성한 가지라 그 가지가 담을 넘었도다
+📖 **고린도후서 7:13**
+> 이로 말미암아 우리가 위로를 받았고 우리가 받은 위로 위에 디도의 기쁨으로 우리가 더욱 많이 기뻐함은 그의 마음이 너희 무리로말미암아 안심함을 얻었음이라
 
-🕊️ _업데이트 시각: 2025-12-09 15:48:41 KST_
+🕊️ _업데이트 시각: 2025-12-09 16:00:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
