@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 4:6**
-> 이르되 이 모든 권위와 그 영광을 내가 네게 주리라 이것은 내게 넘겨 준 것이므로 내가 원하는 자에게 주노라
+📖 **말라기 4:3**
+> 또 너희가 악인을 밟을 것이니 그들이 내가 정한 날에 너희 발바닥 밑에 재와 같으리라 만군의 여호와의 말이니라
 
-🕊️ _업데이트 시각: 2025-12-09 16:25:43 KST_
+🕊️ _업데이트 시각: 2025-12-09 16:39:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
