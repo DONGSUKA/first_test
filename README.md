@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 19:36**
-> 당신의 종은 왕을 모시고 요단을 건너려는 것뿐이거늘 왕께서 어찌하여 이같은 상으로 내게 갚으려 하시나이까
+📖 **시편 44:23**
+> 주여 깨소서 어찌하여 주무시나이까 일어나시고 우리를 영원히 버리지 마소서
 
-🕊️ _업데이트 시각: 2025-12-10 03:56:22 KST_
+🕊️ _업데이트 시각: 2025-12-10 04:09:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
