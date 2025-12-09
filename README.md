@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 6:12**
-> 말들이 어찌 바위 위에서 달리겠으며 소가 어찌 거기서 밭 갈겠느냐 그런데 너희는 정의를 쓸개로 바꾸며 공의의 열매를 쓴 쑥으로 바꾸며
+📖 **열왕기상 13:2**
+> 하나님의 사람이 제단을 향하여 여호와의 말씀으로 외쳐 이르되 제단아 제단아 여호와께서 이와 같이 말씀하시기를 다윗의 집에 요시야라 이름하는 아들을 낳으리니 그가 네 위에 분향하는 산당 제사장을 네 위에서 제물로 바칠 것이요 또 사람의 뼈를 네 위에서 사르리라 하셨느니라 하고
 
-🕊️ _업데이트 시각: 2025-12-10 05:30:32 KST_
+🕊️ _업데이트 시각: 2025-12-10 05:41:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
