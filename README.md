@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 94:16**
-> 누가 나를 위하여 일어나서 행악자들을 치며 누가 나를 위하여 일어나서 악행하는 자들을 칠까
+📖 **이사야 8:8**
+> 흘러 유다에 들어와서 가득하여 목에까지 미치리라 임마누엘이여 그가 펴는 날개가 네 땅에 가득하리라 하셨느니라
 
-🕊️ _업데이트 시각: 2025-12-11 08:17:15 KST_
+🕊️ _업데이트 시각: 2025-12-11 08:30:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
