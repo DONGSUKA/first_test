@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 24:15**
-> 그들이 기다리는 바 하나님께 향한 소망을 나도 가졌으니 곧 의인과 악인의 부활이 있으리라 함이니이다
+📖 **에스겔 36:20**
+> 그들이 이른바 그 여러 나라에서 내 거룩한 이름이 그들로 말미암아 더러워졌나니 곧 사람들이 그들을 가리켜 이르기를 이들은 여호와의백성이라도 여호와의 땅에서 떠난 자라 하였음이라
 
-🕊️ _업데이트 시각: 2025-12-10 22:59:06 KST_
+🕊️ _업데이트 시각: 2025-12-10 23:20:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
