@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 1:23**
-> 교회는 그의 몸이니 만물 안에서 만물을 충만하게 하시는 이의 충만함이니라
+📖 **신명기 29:15**
+> 오늘 우리 하나님 여호와 앞에서 우리와 함께 여기 서 있는 자와 오늘 우리와 함께 여기 있지 아니한 자에게까지이니
 
-🕊️ _업데이트 시각: 2025-12-11 04:59:11 KST_
+🕊️ _업데이트 시각: 2025-12-11 05:23:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
