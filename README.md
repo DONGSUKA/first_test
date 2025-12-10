@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:29**
-> 온 애굽 땅에 일곱 해 큰 풍년이 있겠고
+📖 **창세기 17:7**
+> 내가 내 언약을 나와 너 및 네 대대 후손 사이에 세워서 영원한 언약을 삼고 너와 네 후손의 하나님이 되리라
 
-🕊️ _업데이트 시각: 2025-12-11 02:01:36 KST_
+🕊️ _업데이트 시각: 2025-12-11 02:27:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
