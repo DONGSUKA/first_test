@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 31:12**
-> 곧 백성의 남녀와 어린이와 네 성읍 안에 거류하는 타국인을 모으고 그들에게 듣고 배우고 네 하나님 여호와를 경외하며 이 율법의 모든말씀을 지켜 행하게 하고
+📖 **요한삼서 1:14**
+> 속히 보기를 바라노니 또한 우리가 대면하여 말하리라
 
-🕊️ _업데이트 시각: 2025-12-11 03:30:33 KST_
+🕊️ _업데이트 시각: 2025-12-11 03:53:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
