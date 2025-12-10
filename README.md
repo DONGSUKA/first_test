@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 21:21**
-> 그가 이스라엘 사람을 능욕하므로 다윗의 형 삼마의 아들 요나단이 그를 죽이니라
+📖 **신명기 31:12**
+> 곧 백성의 남녀와 어린이와 네 성읍 안에 거류하는 타국인을 모으고 그들에게 듣고 배우고 네 하나님 여호와를 경외하며 이 율법의 모든말씀을 지켜 행하게 하고
 
-🕊️ _업데이트 시각: 2025-12-11 02:59:38 KST_
+🕊️ _업데이트 시각: 2025-12-11 03:30:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
