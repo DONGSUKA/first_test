@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 17:4**
-> 그 지팡이를 회막 안에서 내가 너희와 만나는 곳인 증거궤 앞에 두라
+📖 **창세기 41:29**
+> 온 애굽 땅에 일곱 해 큰 풍년이 있겠고
 
-🕊️ _업데이트 시각: 2025-12-11 01:48:46 KST_
+🕊️ _업데이트 시각: 2025-12-11 02:01:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
