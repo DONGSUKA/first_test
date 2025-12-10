@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 13:11**
-> 마지막으로 말하노니 형제들아 기뻐하라 온전하게 되며 위로를 받으며 마음을 같이하며 평안할지어다 또 사랑과 평강의 하나님이 너희와 함께 계시리라 거룩하게 입맞춤으로 서로 문안하라
+📖 **민수기 14:34**
+> 너희는 그 땅을 정탐한 날 수인 사십 일의 하루를 일 년으로 쳐서 그 사십 년간 너희의 죄악을 담당할지니 너희는 그제서야 내가 싫어하면 어떻게 되는지를 알리라 하셨다 하라
 
-🕊️ _업데이트 시각: 2025-12-10 17:59:01 KST_
+🕊️ _업데이트 시각: 2025-12-10 18:23:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
