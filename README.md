@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 3:2**
-> 내가 땅의 모든 족속 가운데 너희만을 알았나니 그러므로 내가 너희 모든 죄악을 너희에게 보응하리라 하셨나니
+📖 **시편 29:5**
+> 여호와의 소리가 백향목을 꺾으심이여 여호와께서 레바논 백향목을 꺾어 부수시도다
 
-🕊️ _업데이트 시각: 2025-12-10 08:55:26 KST_
+🕊️ _업데이트 시각: 2025-12-10 09:51:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
