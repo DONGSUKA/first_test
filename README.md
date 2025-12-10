@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 9:34**
-> 베드로가 이르되 애니아야 예수 그리스도께서 너를 낫게 하시니 일어나 네 자리를 정돈하라 한대 곧 일어나니
+📖 **히브리서 1:6**
+> 또 그가 맏아들을 이끌어 세상에 다시 들어오게 하실 때에 하나님의 모든 천사들은 그에게 경배할지어다 말씀하시며
 
-🕊️ _업데이트 시각: 2025-12-11 06:12:40 KST_
+🕊️ _업데이트 시각: 2025-12-11 06:34:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
