@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 34:3**
-> 그 살륙 당한 자는 내던진 바 되며 그 사체의 악취가 솟아오르고 그 피에 산들이 녹을 것이며
+📖 **에스더 2:16**
+> 아하수에로 왕의 제칠년 시월 곧 데벳월에 에스더가 왕궁에 인도되어 들어가서 왕 앞에 나가니
 
-🕊️ _업데이트 시각: 2025-12-10 18:42:02 KST_
+🕊️ _업데이트 시각: 2025-12-10 18:52:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
