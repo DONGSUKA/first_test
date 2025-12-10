@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:19**
-> 네가 들어와도 저주를 받고 나가도 저주를 받으리라
+📖 **여호수아 12:8**
+> 곧 산지와 평지와 아라바와 경사지와 광야와 네겝 곧 헷 족속과 아모리 족속과 가나안 족속과 브리스 족속과 히위 족속과 여부스 족속의 땅이라)
 
-🕊️ _업데이트 시각: 2025-12-11 04:47:43 KST_
+🕊️ _업데이트 시각: 2025-12-11 04:53:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
