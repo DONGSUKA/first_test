@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 42:7**
-> 그 한 방의 바깥 담 곧 뜰의 담과 마주 대한 담의 길이는 쉰 척이니
+📖 **민수기 17:4**
+> 그 지팡이를 회막 안에서 내가 너희와 만나는 곳인 증거궤 앞에 두라
 
-🕊️ _업데이트 시각: 2025-12-11 01:25:55 KST_
+🕊️ _업데이트 시각: 2025-12-11 01:48:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
