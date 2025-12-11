@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 37:24**
-> 그를 잡아 구덩이에 던지니 그 구덩이는 빈 것이라 그 속에 물이 없었더라
+📖 **고린도후서 7:2**
+> 고린도 교회의 회개를 기뻐하다 마음으로 우리를 영접하라 우리는 아무에게도 불의를 행하지 않고 아무에게도 해롭게 하지 않고 아무에게서도 속여 빼앗은 일이 없노라
 
-🕊️ _업데이트 시각: 2025-12-12 03:50:54 KST_
+🕊️ _업데이트 시각: 2025-12-12 04:01:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
