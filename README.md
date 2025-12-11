@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 14:14**
-> 예수께서 나오사 큰 무리를 보시고 불쌍히 여기사 그 중에 있는 병자를 고쳐 주시니라
+📖 **시편 55:9**
+> 내가 성내에서 강포와 분쟁을 보았사오니 주여 그들을 멸하소서 그들의 혀를 잘라 버리소서
 
-🕊️ _업데이트 시각: 2025-12-12 07:35:08 KST_
+🕊️ _업데이트 시각: 2025-12-12 07:47:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
