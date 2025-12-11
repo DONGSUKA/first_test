@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 19:5**
-> 너희는 화목제물을 여호와께 드릴 때에 기쁘게 받으시도록 드리고
+📖 **창세기 37:24**
+> 그를 잡아 구덩이에 던지니 그 구덩이는 빈 것이라 그 속에 물이 없었더라
 
-🕊️ _업데이트 시각: 2025-12-12 03:23:12 KST_
+🕊️ _업데이트 시각: 2025-12-12 03:50:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
