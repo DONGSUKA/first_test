@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 6:30**
-> 그들이 묻되 그러면 우리가 보고 당신을 믿도록 행하시는 표적이 무엇이니이까, 하시는 일이 무엇이니이까
+📖 **스가랴 1:15**
+> 안일한 여러 나라들 때문에 심히 진노하나니 나는 조금 노하였거늘 그들은 힘을 내어 고난을 더하였음이라
 
-🕊️ _업데이트 시각: 2025-12-12 06:56:24 KST_
+🕊️ _업데이트 시각: 2025-12-12 07:13:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
