@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 1:18**
-> 아들 디모데야 내가 네게 이 교훈으로써 명하노니 전에 너를 지도한 예언을 따라 그것으로 선한 싸움을 싸우며
+📖 **시편 138:2**
+> 내가 주의 성전을 향하여 예배하며 주의 인자하심과 성실하심으로 말미암아 주의 이름에 감사하오리니 이는 주께서 주의 말씀을 주의 모든이름보다 높게 하셨음이라
 
-🕊️ _업데이트 시각: 2025-12-11 17:22:42 KST_
+🕊️ _업데이트 시각: 2025-12-11 17:47:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
