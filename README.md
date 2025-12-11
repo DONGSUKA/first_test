@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 27:6**
-> 친구의 아픈 책망은 충직으로 말미암는 것이나 원수의 잦은 입맞춤은 거짓에서 난 것이니라
+📖 **출애굽기 28:10**
+> 그들의 나이대로 여섯 이름을 한 보석에, 나머지 여섯 이름은 다른 보석에 새기라
 
-🕊️ _업데이트 시각: 2025-12-11 14:40:15 KST_
+🕊️ _업데이트 시각: 2025-12-11 14:51:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
