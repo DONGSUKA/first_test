@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 14:15**
-> 가령 내가 사나운 짐승을 그 땅에 다니게 하여 그 땅을 황폐하게 하여 사람이 그 짐승 때문에 능히 다니지 못하게 한다 하자
+📖 **스가랴 4:12**
+> 다시 그에게 물어 이르되 금 기름을 흘리는 두 금관 옆에 있는 이 감람나무 두 가지는 무슨 뜻이니이까 하니
 
-🕊️ _업데이트 시각: 2025-12-11 16:51:41 KST_
+🕊️ _업데이트 시각: 2025-12-11 16:57:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
