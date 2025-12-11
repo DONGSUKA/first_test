@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 21:23**
-> 우리가 말하는 이대로 하라 서원한 네 사람이 우리에게 있으니
+📖 **민수기 10:5**
+> 너희가 그것을 크게 불 때에는 동쪽 진영들이 행진할 것이며
 
-🕊️ _업데이트 시각: 2025-12-12 01:49:05 KST_
+🕊️ _업데이트 시각: 2025-12-12 02:13:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
