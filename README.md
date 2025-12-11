@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 28:5**
-> 네 큰 지혜와 네 무역으로 재물을 더하고 그 재물로 말미암아 네 마음이 교만하였도다
+📖 **민수기 29:34**
+> 상번제와 그 소제와 그 전제 외에 숫염소 한 마리를 속죄제로 드릴 것이니라
 
-🕊️ _업데이트 시각: 2025-12-11 18:56:31 KST_
+🕊️ _업데이트 시각: 2025-12-11 19:15:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
