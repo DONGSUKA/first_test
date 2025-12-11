@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 9:5**
-> 너희는 명절 날과 여호와의 절기의 날에 무엇을 하겠느냐
+📖 **잠언 27:6**
+> 친구의 아픈 책망은 충직으로 말미암는 것이나 원수의 잦은 입맞춤은 거짓에서 난 것이니라
 
-🕊️ _업데이트 시각: 2025-12-11 14:16:15 KST_
+🕊️ _업데이트 시각: 2025-12-11 14:40:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
