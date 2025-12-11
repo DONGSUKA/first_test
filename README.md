@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 5:6**
-> 그는 생명의 평탄한 길을 찾지 못하며 자기 길이 든든하지 못하여도 그것을 깨닫지 못하느니라
+📖 **이사야 61:2**
+> 여호와의 은혜의 해와 우리 하나님의 보복의 날을 선포하여 모든 슬픈 자를 위로하되
 
-🕊️ _업데이트 시각: 2025-12-12 04:37:19 KST_
+🕊️ _업데이트 시각: 2025-12-12 04:45:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
