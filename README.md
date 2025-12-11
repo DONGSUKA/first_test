@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 17:4**
-> 압살롬과 이스라엘 장로들이 다 그 말을 옳게 여기더라
+📖 **다니엘 12:8**
+> 내가 듣고도 깨닫지 못한지라 내가 이르되 내 주여 이 모든 일의 결국이 어떠하겠나이까 하니
 
-🕊️ _업데이트 시각: 2025-12-12 08:33:22 KST_
+🕊️ _업데이트 시각: 2025-12-12 08:43:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
