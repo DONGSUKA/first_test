@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 12:46**
-> 옛적 다윗과 아삽의 때에는 노래하는 자의 지도자가 있어서 하나님께 찬송하는 노래와 감사하는 노래를 하였음이며
+📖 **여호수아 21:44**
+> 여호와께서 그들의 주위에 안식을 주셨으되 그 조상들에게 맹세하신 대로 하셨으므로 그들의 모든 원수들 중에 그들과 맞선 자가 하나도 없었으니 이는 여호와께서 그들의 모든 원수들을 그들의 손에 넘겨 주셨음이니라
 
-🕊️ _업데이트 시각: 2025-12-12 05:46:49 KST_
+🕊️ _업데이트 시각: 2025-12-12 05:53:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
