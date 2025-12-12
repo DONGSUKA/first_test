@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 24:19**
-> 너는 행악자들로 말미암아 분을 품지 말며 악인의 형통함을 부러워하지 말라
+📖 **요한복음 16:25**
+> 내가 세상을 이기었다 이것을 비유로 너희에게 일렀거니와 때가 이르면 다시는 비유로 너희에게 이르지 않고 아버지에 대한 것을 밝히이르리라
 
-🕊️ _업데이트 시각: 2025-12-12 14:57:16 KST_
+🕊️ _업데이트 시각: 2025-12-12 15:24:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
