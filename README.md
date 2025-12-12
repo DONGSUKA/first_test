@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 65:17**
-> 새 하늘과 새 땅 창조 보라 내가 새 하늘과 새 땅을 창조하나니 이전 것은 기억되거나 마음에 생각나지 아니할 것이라
+📖 **역대상 12:24**
+> 유다 자손 중에서 방패와 창을 들고 싸움을 준비한 자가 육천팔백 명이요
 
-🕊️ _업데이트 시각: 2025-12-13 08:41:28 KST_
+🕊️ _업데이트 시각: 2025-12-13 08:47:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
