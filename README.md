@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 32:12**
-> 주께서 말씀하시기를 내가 반드시 네게 은혜를 베풀어 네 씨로 바다의 셀 수 없는 모래와 같이 많게 하리라 하셨나이다
+📖 **잠언 24:19**
+> 너는 행악자들로 말미암아 분을 품지 말며 악인의 형통함을 부러워하지 말라
 
-🕊️ _업데이트 시각: 2025-12-12 14:51:33 KST_
+🕊️ _업데이트 시각: 2025-12-12 14:57:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
