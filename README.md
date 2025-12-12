@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 23:22**
-> 그들이 만일 나의 회의에 참여하였더라면 내 백성에게 내 말을 들려서 그들을 악한 길과 악한 행위에서 돌이키게 하였으리라
+📖 **누가복음 16:6**
+> 말하되 기름 백 말이니이다 이르되 여기 네 증서를 가지고 빨리 앉아 오십이라 쓰라 하고
 
-🕊️ _업데이트 시각: 2025-12-13 02:51:46 KST_
+🕊️ _업데이트 시각: 2025-12-13 02:57:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
