@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 46:20**
-> 애굽은 심히 아름다운 암송아지일지라도 북으로부터 쇠파리 떼가 줄곧 오리라
+📖 **요한계시록 2:6**
+> 오직 네게 이것이 있으니 네가 니골라 당의 행위를 미워하는도다 나도 이것을 미워하노라
 
-🕊️ _업데이트 시각: 2025-12-14 00:40:55 KST_
+🕊️ _업데이트 시각: 2025-12-14 00:47:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
