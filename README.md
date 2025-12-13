@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 1:6**
-> 바람은 남으로 불다가 북으로 돌아가며 이리 돌며 저리 돌아 바람은 그 불던 곳으로 돌아가고
+📖 **이사야 27:4**
+> 나는 포도원에 대하여 노함이 없나니 찔레와 가시가 나를 대적하여 싸운다 하자 내가 그것을 밟고 모아 불사르리라
 
-🕊️ _업데이트 시각: 2025-12-14 03:52:01 KST_
+🕊️ _업데이트 시각: 2025-12-14 03:57:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
