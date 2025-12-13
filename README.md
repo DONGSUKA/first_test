@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 24:2**
-> 한 광주리에는 처음 익은 듯한 극히 좋은 무화과가 있고 한 광주리에는 나빠서 먹을 수 없는 극히 나쁜 무화과가 있더라
+📖 **에베소서 4:22**
+> 너희는 유혹의 욕심을 따라 썩어져 가는 구습을 따르는 옛 사람을 벗어 버리고
 
-🕊️ _업데이트 시각: 2025-12-13 20:39:15 KST_
+🕊️ _업데이트 시각: 2025-12-13 20:44:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
