@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 3:15**
-> 내가 마길에게 길르앗을 주었고
+📖 **출애굽기 5:5**
+> 바로가 또 이르되 이제 이 땅의 백성이 많아졌거늘 너희가 그들로 노역을 쉬게 하는도다 하고
 
-🕊️ _업데이트 시각: 2025-12-13 14:57:40 KST_
+🕊️ _업데이트 시각: 2025-12-13 15:22:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
