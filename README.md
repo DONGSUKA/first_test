@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 21:17**
-> 하나님이 그 어린 아이의 소리를 들으셨으므로 하나님의 사자가 하늘에서부터 하갈을 불러 이르시되 하갈아 무슨 일이냐 두려워하지 말라 하나님이 저기 있는 아이의 소리를 들으셨나니
+📖 **레위기 5:1**
+> 만일 누구든지 저주하는 소리를 듣고서도 증인이 되어 그가 본 것이나 알고 있는 것을 알리지 아니하면 그는 자기의 죄를 져야 할 것이요그 허물이 그에게로 돌아갈 것이며
 
-🕊️ _업데이트 시각: 2025-12-14 04:38:35 KST_
+🕊️ _업데이트 시각: 2025-12-14 04:44:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
