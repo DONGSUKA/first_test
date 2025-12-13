@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 5:14**
-> 그들은 낮에도 어두움을 만나고 대낮에도 더듬기를 밤과 같이 하느니라
+📖 **출애굽기 10:11**
+> 그렇게 하지 말고 너희 장정만 가서 여호와를 섬기라 이것이 너희가 구하는 바니라 이에 그들이 바로 앞에서 쫓겨나니라
 
-🕊️ _업데이트 시각: 2025-12-14 02:44:59 KST_
+🕊️ _업데이트 시각: 2025-12-14 02:50:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
