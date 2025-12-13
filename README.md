@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:26**
-> 이에 갑자기 큰 지진이 나서 옥터가 움직이고 문이 곧 다 열리며 모든 사람의 매인 것이 다 벗어진지라
+📖 **에스겔 11:8**
+> 나 주 여호와가 말하노라 너희가 칼을 두려워하니 내가 칼로 너희에게 이르게 하고
 
-🕊️ _업데이트 시각: 2025-12-13 19:49:59 KST_
+🕊️ _업데이트 시각: 2025-12-13 19:56:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
