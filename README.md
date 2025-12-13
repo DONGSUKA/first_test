@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 9:16**
-> 바리새인 중에 어떤 사람은 말하되 이 사람이 안식일을 지키지 아니하니 하나님께로부터 온 자가 아니라 하며 어떤 사람은 말하되 죄인으로서 어떻게 이러한 표적을 행하겠느냐 하여 그들 중에 분쟁이 있었더니
+📖 **사무엘하 20:8**
+> 기브온 큰 바위 곁에 이르매 아마사가 맞으러 오니 그 때에 요압이 군복을 입고 띠를 띠고 칼집에 꽂은 칼을 허리에 맸는데 그가 나아갈 때에 칼이 빠져 떨어졌더라
 
-🕊️ _업데이트 시각: 2025-12-13 18:32:38 KST_
+🕊️ _업데이트 시각: 2025-12-13 18:42:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
