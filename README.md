@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 22:15**
-> 화살을 날려 그들을 흩으시며 번개로 무찌르셨도다
+📖 **시편 76:12**
+> 그가 고관들의 기를 꺾으시리니 그는 세상의 왕들에게 두려움이시로다
 
-🕊️ _업데이트 시각: 2025-12-13 17:53:06 KST_
+🕊️ _업데이트 시각: 2025-12-13 17:59:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
