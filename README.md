@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 10:11**
-> 그렇게 하지 말고 너희 장정만 가서 여호와를 섬기라 이것이 너희가 구하는 바니라 이에 그들이 바로 앞에서 쫓겨나니라
+📖 **창세기 36:24**
+> 시브온의 자녀는 아야와 아나며 이 아나는 그 아버지 시브온의 나귀를 칠 때에 광야에서 온천을 발견하였고
 
-🕊️ _업데이트 시각: 2025-12-14 02:50:57 KST_
+🕊️ _업데이트 시각: 2025-12-14 02:56:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
