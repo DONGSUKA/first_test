@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:49**
-> 그의 헌물도 성소의 세겔로 백삼십 세겔 무게의 은 쟁반 하나와 칠십 세겔 무게의 은 바리 하나라 이 두 그릇에는 소제물로 기름 섞은 고운 가루를 채웠고
+📖 **욥기 5:14**
+> 그들은 낮에도 어두움을 만나고 대낮에도 더듬기를 밤과 같이 하느니라
 
-🕊️ _업데이트 시각: 2025-12-14 02:39:00 KST_
+🕊️ _업데이트 시각: 2025-12-14 02:44:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
