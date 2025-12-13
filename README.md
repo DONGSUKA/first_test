@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 14:25**
-> 속건제의 어린 양을 잡아서 제사장은 그 속건제물의 피를 가져다가 정결함을 받을 자의 오른쪽 귓부리와 오른쪽 엄지 손가락과 오른쪽엄지 발가락에 바를 것이요
+📖 **스가랴 11:5**
+> 사들인 자들은 그들을 잡아도 죄가 없다 하고 판 자들은 말하기를 내가 부요하게 되었은즉 여호와께 찬송하리라 하고 그들의 목자들은 그들을 불쌍히 여기지 아니하는도다
 
-🕊️ _업데이트 시각: 2025-12-13 16:31:32 KST_
+🕊️ _업데이트 시각: 2025-12-13 16:40:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
