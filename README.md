@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 14:28**
-> 제자들과 함께 오래 있으니라
+📖 **고린도전서 16:17**
+> 내가 스데바나와 브드나도와 아가이고가 온 것을 기뻐하노니 그들이 너희의 부족한 것을 채웠음이라
 
-🕊️ _업데이트 시각: 2025-12-13 08:58:54 KST_
+🕊️ _업데이트 시각: 2025-12-13 10:22:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
