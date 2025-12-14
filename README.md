@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 17:5**
-> 압살롬이 이르되 아렉 사람 후새도 부르라 우리가 이제 그의 말도 듣자 하니라
+📖 **역대상 7:29**
+> 또 므낫세 자손의 지계에 가까운 벧스안과 그 주변 마을과 다아낙과 그 주변 마을과 므깃도와 그 주변 마을과 돌과 그 주변 마을이라 이스라엘의 아들 요셉의 자손이 이 여러 곳에 거하였더라
 
-🕊️ _업데이트 시각: 2025-12-14 16:12:48 KST_
+🕊️ _업데이트 시각: 2025-12-14 16:29:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
