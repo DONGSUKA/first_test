@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 2:13**
-> 내가 이제 재주 있고 총명한 사람을 보내오니 전에 내 아버지 후람에게 속하였던 자라
+📖 **에스더 2:1**
+> 에스더가 왕후가 되다 그 후에 아하수에로 왕의 노가 그치매 와스디와 그가 행한 일과 그에 대하여 내린 조서를 생각하거늘
 
-🕊️ _업데이트 시각: 2025-12-14 16:43:58 KST_
+🕊️ _업데이트 시각: 2025-12-14 16:49:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
