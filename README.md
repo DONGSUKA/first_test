@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 2:26**
-> 하나님은 그가 기뻐하시는 자에게는 지혜와 지식과 희락을 주시나 죄인에게는 노고를 주시고 그가 모아 쌓게 하사 하나님을 기뻐하는 자에게 그가 주게 하시지만 이것도 헛되어 바람을 잡는 것이로다
+📖 **미가 1:5**
+> 이는 다 야곱의 허물로 말미암음이요 이스라엘 족속의 죄로 말미암음이라 야곱의 허물이 무엇이냐 사마리아가 아니냐 유다의 산당이 무엇이냐 예루살렘이 아니냐
 
-🕊️ _업데이트 시각: 2025-12-15 05:44:47 KST_
+🕊️ _업데이트 시각: 2025-12-15 05:50:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
