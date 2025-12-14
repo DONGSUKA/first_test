@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 24:5**
-> 이스라엘의 하나님 여호와께서 이와 같이 말씀하시니라 내가 이 곳에서 옮겨 갈대아인의 땅에 이르게 한 유다 포로를 이 좋은 무화과같이 잘 돌볼 것이라
+📖 **역대하 6:10**
+> 이제 여호와께서 말씀하신 대로 이루셨도다 내가 여호와께서 말씀하신 대로 내 아버지 다윗을 대신하여 일어나 이스라엘 왕위에 앉고 이스라엘의 하나님 여호와의 이름을 위하여 성전을 건축하고
 
-🕊️ _업데이트 시각: 2025-12-15 01:56:14 KST_
+🕊️ _업데이트 시각: 2025-12-15 02:09:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
