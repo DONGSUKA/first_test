@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 22:51**
-> 여호와께서 그의 왕에게 큰 구원을 주시며 기름 부음 받은 자에게 인자를 베푸심이여 영원하도록 다윗과 그 후손에게로다 하였더라
+📖 **시편 18:15**
+> 이럴 때에 여호와의 꾸지람과 콧김으로 말미암아 물 밑이 드러나고 세상의 터가 나타났도다
 
-🕊️ _업데이트 시각: 2025-12-14 20:59:30 KST_
+🕊️ _업데이트 시각: 2025-12-14 21:38:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
