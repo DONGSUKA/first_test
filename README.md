@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 9:18**
-> 노아와 그 아들들 방주에서 나온 노아의 아들들은 셈과 함과 야벳이며 함은 가나안의 아버지라
+📖 **레위기 4:5**
+> 기름 부음을 받은 제사장은 그 수송아지의 피를 가지고 회막에 들어가서
 
-🕊️ _업데이트 시각: 2025-12-15 06:37:23 KST_
+🕊️ _업데이트 시각: 2025-12-15 06:43:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
