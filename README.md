@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 10:17**
-> 그 때에 암몬 자손이 모여서 길르앗에 진을 쳤으므로 이스라엘 자손도 모여서 미스바에 진을 치고
+📖 **요한복음 10:12**
+> 삯꾼은 목자가 아니요 양도 제 양이 아니라 이리가 오는 것을 보면 양을 버리고 달아나나니 이리가 양을 물어 가고 또 헤치느니라
 
-🕊️ _업데이트 시각: 2025-12-15 01:38:25 KST_
+🕊️ _업데이트 시각: 2025-12-15 01:50:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
