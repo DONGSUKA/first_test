@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 11:4**
-> 풍세를 살펴보는 자는 파종하지 못할 것이요 구름만 바라보는 자는 거두지 못하리라
+📖 **에스겔 23:46**
+> 주 여호와께서 이같이 말씀하셨느니라 그가 그들에게 무리를 올려 보내 그들이 공포와 약탈을 당하게 하리니
 
-🕊️ _업데이트 시각: 2025-12-14 23:12:21 KST_
+🕊️ _업데이트 시각: 2025-12-14 23:31:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
