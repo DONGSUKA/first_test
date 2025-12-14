@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 2:1**
-> 에스더가 왕후가 되다 그 후에 아하수에로 왕의 노가 그치매 와스디와 그가 행한 일과 그에 대하여 내린 조서를 생각하거늘
+📖 **레위기 9:13**
+> 그들이 또 번제의 제물 곧 그의 각과 머리를 그에게로 가져오매 그가 제단 위에서 불사르고
 
-🕊️ _업데이트 시각: 2025-12-14 16:49:52 KST_
+🕊️ _업데이트 시각: 2025-12-14 16:55:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
