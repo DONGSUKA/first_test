@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 33:17**
-> 그래도 네 민족은 말하기를 주의 길이 바르지 아니하다 하는도다 그러나 실상은 그들의 길이 바르지 아니하니라
+📖 **예레미야 42:11**
+> 여호와의 말씀이니라 너희는 너희가 두려워하는 바벨론의 왕을 겁내지 말라 내가 너희와 함께 있어 너희를 구원하며 그의 손에서 너희를 건지리니 두려워하지 말라
 
-🕊️ _업데이트 시각: 2025-12-14 17:38:02 KST_
+🕊️ _업데이트 시각: 2025-12-14 17:51:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
