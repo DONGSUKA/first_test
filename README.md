@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 6:5**
-> 측근 신하들이 아뢰되 하만이 뜰에 섰나이다 하니 왕이 이르되 들어오게 하라 하니
+📖 **이사야 7:11**
+> 너는 네 하나님 여호와께 한 징조를 구하되 깊은 데에서든지 높은 데에서든지 구하라 하시니
 
-🕊️ _업데이트 시각: 2025-12-15 20:56:21 KST_
+🕊️ _업데이트 시각: 2025-12-15 21:28:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
