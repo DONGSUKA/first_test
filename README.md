@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 4:21**
-> 장막 줄이 그들에게서 뽑히지 아니하겠느냐 그들은 지혜가 없이 죽느니라
+📖 **에스더 6:5**
+> 측근 신하들이 아뢰되 하만이 뜰에 섰나이다 하니 왕이 이르되 들어오게 하라 하니
 
-🕊️ _업데이트 시각: 2025-12-15 20:50:25 KST_
+🕊️ _업데이트 시각: 2025-12-15 20:56:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
