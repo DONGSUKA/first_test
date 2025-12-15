@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 20:43**
-> 내가 네 원수를 네 발등상으로 삼을 때까지 내 우편에 앉았으라 하셨도다 하였느니라
+📖 **시편 33:22**
+> 여호와여 우리가 주께 바라는 대로 주의 인자하심을 우리에게 베푸소서
 
-🕊️ _업데이트 시각: 2025-12-15 16:49:44 KST_
+🕊️ _업데이트 시각: 2025-12-15 16:55:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
