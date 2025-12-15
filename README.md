@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 12:3**
-> 그러므로 너희가 기쁨으로 구원의 우물들에서 물을 길으리로다
+📖 **누가복음 20:43**
+> 내가 네 원수를 네 발등상으로 삼을 때까지 내 우편에 앉았으라 하셨도다 하였느니라
 
-🕊️ _업데이트 시각: 2025-12-15 16:39:45 KST_
+🕊️ _업데이트 시각: 2025-12-15 16:49:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
