@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 18:13**
-> 이스라엘이 가증한 일을 행하다 그러므로 여호와께서 이와 같이 말씀하시니라 너희는 누가 이러한 일을 들었는지 여러 나라 가운데 물어보라 처녀 이스라엘이 심히 가증한 일을 행하였도다
+📖 **이사야 59:12**
+> 이는 우리의 허물이 주의 앞에 심히 많으며 우리의 죄가 우리를 쳐서 증언하오니 이는 우리의 허물이 우리와 함께 있음이니라 우리의 죄악을 우리가 아나이다
 
-🕊️ _업데이트 시각: 2025-12-16 07:54:09 KST_
+🕊️ _업데이트 시각: 2025-12-16 08:10:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
