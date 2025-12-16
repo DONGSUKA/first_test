@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 9:3**
-> 이스라엘 자손에게 말하여 이르기를 너희는 속죄제를 위하여 숫염소를 가져오고 또 번제를 위하여 일 년 되고 흠 없는 송아지와 어린 양을가져오고
+📖 **역대하 18:16**
+> 그가 이르되 내가 보니 온 이스라엘이 목자 없는 양 같이 산에 흩어졌는데 여호와의 말씀이 이 무리가 주인이 없으니 각각 평안히 자기들의 집으로 돌아갈 것이니라 하셨나이다 하는지라
 
-🕊️ _업데이트 시각: 2025-12-17 02:51:23 KST_
+🕊️ _업데이트 시각: 2025-12-17 02:58:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
