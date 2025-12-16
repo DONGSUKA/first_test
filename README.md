@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 4:5**
-> 일을 아니할지라도 경건하지 아니한 자를 의롭다 하시는 이를 믿는 자에게는 그의 믿음을 의로 여기시나니
+📖 **에스겔 11:17**
+> 너는 또 말하기를 주 여호와의 말씀에 내가 너희를 만민 가운데에서 모으며 너희를 흩은 여러 나라 가운데에서 모아 내고 이스라엘 땅을너희에게 주리라 하셨다 하라
 
-🕊️ _업데이트 시각: 2025-12-17 04:38:31 KST_
+🕊️ _업데이트 시각: 2025-12-17 04:45:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
