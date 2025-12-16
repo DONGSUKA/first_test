@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 105:19**
-> 곧 여호와의 말씀이 응할 때까지라 그의 말씀이 그를 단련하였도다
+📖 **느헤미야 13:16**
+> 또 두로 사람이 예루살렘에 살며 물고기와 각양 물건을 가져다가 안식일에 예루살렘에서도 유다 자손에게 팔기로
 
-🕊️ _업데이트 시각: 2025-12-16 19:56:36 KST_
+🕊️ _업데이트 시각: 2025-12-16 20:12:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
