@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 14:10**
-> 이같이 세상에 소리의 종류가 많으나 뜻 없는 소리는 없나니
+📖 **레위기 19:36**
+> 공평한 저울과 공평한 추와 공평한 에바와 공평한 힌을 사용하라 나는 너희를 인도하여 애굽 땅에서 나오게 한 너희의 하나님 여호와이니라
 
-🕊️ _업데이트 시각: 2025-12-16 23:59:03 KST_
+🕊️ _업데이트 시각: 2025-12-17 00:22:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
