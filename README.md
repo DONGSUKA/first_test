@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 6:8**
-> 이는 각 사람이 무슨 선을 행하든지 종이나 자유인이나 주께로부터 그대로 받을 줄을 앎이라
+📖 **시편 146:1**
+> 할렐루야 내 영혼아 여호와를 찬양하라
 
-🕊️ _업데이트 시각: 2025-12-17 07:57:22 KST_
+🕊️ _업데이트 시각: 2025-12-17 08:13:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
