@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:46**
-> 요셉이 애굽 왕 바로 앞에 설 때에 삼십 세라 그가 바로 앞을 떠나 애굽 온 땅을 순찰하니
+📖 **역대상 20:6**
+> 또 가드에서 전쟁할 때에 그 곳에 키 큰 자 하나는 손과 발에 가락이 여섯씩 모두 스물넷이 있는데 그도 키가 큰 자의 소생이라
 
-🕊️ _업데이트 시각: 2025-12-17 04:57:33 KST_
+🕊️ _업데이트 시각: 2025-12-17 05:18:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
