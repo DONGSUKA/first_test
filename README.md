@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 4:41**
-> 이는 모세와 아론이 여호와의 명령대로 회막에서 종사하는 게르손 자손의 모든 종족 중 계수된 자니라
+📖 **고린도후서 11:1**
+> 바울과 거짓 사도들 원하건대 너희는 나의 좀 어리석은 것을 용납하라 청하건대 나를 용납하라
 
-🕊️ _업데이트 시각: 2025-12-18 05:56:58 KST_
+🕊️ _업데이트 시각: 2025-12-18 06:13:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
