@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 14:4**
-> 그런즉 너는 그들에게 말하여 이르라 나 주 여호와가 말하노라 이스라엘 족속 중에 그 우상을 마음에 들이며 죄악의 걸림돌을 자기 앞에두고 선지자에게로 가는 모든 자에게 나 여호와가 그 우상의 수효대로 보응하리니
+📖 **스가랴 1:17**
+> 그가 다시 외쳐 이르기를 만군의 여호와의 말씀에 나의 성읍들이 넘치도록 다시 풍부할 것이라 여호와가 다시 시온을 위로하며 다시 예루살렘을 택하리라 하라 하니라
 
-🕊️ _업데이트 시각: 2025-12-17 11:26:56 KST_
+🕊️ _업데이트 시각: 2025-12-17 12:40:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
