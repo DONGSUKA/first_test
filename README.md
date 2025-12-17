@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 5:9**
-> 그들이 새 노래를 불러 이르되 두루마리를 가지시고 그 인봉을 떼기에 합당하시도다 일찍이 죽임을 당하사 각 족속과 방언과 백성과나라 가운데에서 사람들을 피로 사서 하나님께 드리시고
+📖 **에스라 8:17**
+> 가시뱌 지방으로 보내어 그 곳 족장 잇도에게 나아가게 하고 잇도와 그의 형제 곧 가시뱌 지방에 사는 느디님 사람들에게 할 말을 일러주고 우리 하나님의 성전을 위하여 섬길 자를 데리고 오라 하였더니
 
-🕊️ _업데이트 시각: 2025-12-18 07:46:58 KST_
+🕊️ _업데이트 시각: 2025-12-18 07:53:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
