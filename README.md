@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 110:6**
-> 뭇 나라를 심판하여 시체로 가득하게 하시고 여러 나라의 머리를 쳐서 깨뜨리시며
+📖 **히브리서 9:18**
+> 이러므로 첫 언약도 피 없이 세운 것이 아니니
 
-🕊️ _업데이트 시각: 2025-12-17 23:11:12 KST_
+🕊️ _업데이트 시각: 2025-12-17 23:37:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
