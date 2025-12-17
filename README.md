@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 13:2**
-> 이 남은 땅은 이러하니 블레셋 사람의 모든 지역과 그술 족속의 모든 지역
+📖 **시편 110:2**
+> 여호와께서 시온에서부터 주의 권능의 규를 내보내시리니 주는 원수들 중에서 다스리소서
 
-🕊️ _업데이트 시각: 2025-12-17 13:46:58 KST_
+🕊️ _업데이트 시각: 2025-12-17 13:59:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
