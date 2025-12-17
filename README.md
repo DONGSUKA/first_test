@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 6:60**
-> 또 베냐민 지파 중에서는 게바와 그 초원과 알레멧과 그 초원과 아나돗과 그 초원을 주었으니 그들의 종족이 얻은 성이 모두 열셋이었더라
+📖 **누가복음 19:39**
+> 무리 중 어떤 바리새인들이 말하되 선생이여 당신의 제자들을 책망하소서 하거늘
 
-🕊️ _업데이트 시각: 2025-12-17 20:49:39 KST_
+🕊️ _업데이트 시각: 2025-12-17 20:55:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
