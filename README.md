@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 33:13**
-> 가령 내가 의인에게 말하기를 너는 살리라 하였다 하자 그가 그 공의를 스스로 믿고 죄악을 행하면 그 모든 의로운 행위가 하나도 기억되지 아니하리니 그가 그 지은 죄악으로 말미암아 곧 그 안에서 죽으리라
+📖 **요한계시록 5:9**
+> 그들이 새 노래를 불러 이르되 두루마리를 가지시고 그 인봉을 떼기에 합당하시도다 일찍이 죽임을 당하사 각 족속과 방언과 백성과나라 가운데에서 사람들을 피로 사서 하나님께 드리시고
 
-🕊️ _업데이트 시각: 2025-12-18 07:34:04 KST_
+🕊️ _업데이트 시각: 2025-12-18 07:46:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
