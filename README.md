@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 3:26**
-> 너희가 다 믿음으로 말미암아 그리스도 예수 안에서 하나님의 아들이 되었으니
+📖 **시편 49:15**
+> 그러나 하나님은 나를 영접하시리니 이러므로 내 영혼을 스올의 권세에서 건져내시리로다 (셀라)
 
-🕊️ _업데이트 시각: 2025-12-17 20:10:22 KST_
+🕊️ _업데이트 시각: 2025-12-17 20:30:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
