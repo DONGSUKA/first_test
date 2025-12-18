@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 11:37**
-> 갈멜 사람 헤스로와 에스배의 아들 나아래와
+📖 **누가복음 6:39**
+> 네 눈 속에 있는 들보 또 비유로 말씀하시되 맹인이 맹인을 인도할 수 있느냐 둘이 다 구덩이에 빠지지 아니하겠느냐
 
-🕊️ _업데이트 시각: 2025-12-18 19:18:39 KST_
+🕊️ _업데이트 시각: 2025-12-18 19:43:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
