@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 1:8**
-> 아론의 자손 제사장들은 그 뜬 각과 머리와 기름을 제단 위의 불 위에 있는 나무에 벌여 놓을 것이며
+📖 **사도행전 14:13**
+> 시외 제우스 신당의 제사장이 소와 화환들을 가지고 대문 앞에 와서 무리와 함께 제사하고자 하니
 
-🕊️ _업데이트 시각: 2025-12-18 11:50:29 KST_
+🕊️ _업데이트 시각: 2025-12-18 12:46:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
