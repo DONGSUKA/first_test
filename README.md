@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 21:16**
-> 그 성은 네모가 반듯하여 길이와 너비가 같은지라 그 갈대 자로 그 성을 측량하니 만 이천 스다디온이요 길이와 너비와 높이가 같더라
+📖 **시편 72:6**
+> 그는 벤 풀 위에 내리는 비 같이, 땅을 적시는 소낙비 같이 내리리니
 
-🕊️ _업데이트 시각: 2025-12-19 08:32:12 KST_
+🕊️ _업데이트 시각: 2025-12-19 08:42:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
