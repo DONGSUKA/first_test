@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 25:7**
-> 그러나 그 사람이 만일 그 형제의 아내 맞이하기를 즐겨하지 아니하면 그 형제의 아내는 그 성문으로 장로들에게로 나아가서 말하기를 내남편의 형제가 그의 형제의 이름을 이스라엘 중에 잇기를 싫어하여 남편의 형제 된 의무를 내게 행하지 아니하나이다 할 것이요
+📖 **마가복음 10:46**
+> 맹인 바디매오가 고침을 받다(마 20:29-34; 눅 18:35-43) 그들이 여리고에 이르렀더니 예수께서 제자들과 허다한 무리와 함께 여리고에서 나가실 때에 디매오의 아들인 맹인 거지 바디매오가 길 가에 앉았다가
 
-🕊️ _업데이트 시각: 2025-12-18 20:58:54 KST_
+🕊️ _업데이트 시각: 2025-12-18 21:39:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
