@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 1:8**
-> 아사는 여호사밧을 낳고 여호사밧은 요람을 낳고 요람은 웃시야를 낳고
+📖 **마가복음 6:37**
+> 대답하여 이르시되 너희가 먹을 것을 주라 하시니 여짜오되 우리가 가서 이백 데나리온의 떡을 사다 먹이리이까
 
-🕊️ _업데이트 시각: 2025-12-19 06:37:32 KST_
+🕊️ _업데이트 시각: 2025-12-19 06:44:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
