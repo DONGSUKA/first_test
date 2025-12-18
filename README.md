@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 18:14**
-> 이스라엘 중에서 특별히 드린 모든 것은 네 것이 되리라
+📖 **열왕기하 22:19**
+> 내가 이 곳과 그 주민에게 대하여 빈 터가 되고 저주가 되리라 한 말을 네가 듣고 마음이 부드러워져서 여호와 앞 곧 내 앞에서 겸비하여 옷을 찢고 통곡하였으므로 나도 네 말을 들었노라 여호와가 말하였느니라
 
-🕊️ _업데이트 시각: 2025-12-18 20:09:50 KST_
+🕊️ _업데이트 시각: 2025-12-18 20:28:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
