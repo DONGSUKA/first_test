@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 8:49**
-> 예수께서 대답하시되 나는 귀신 들린 것이 아니라 오직 내 아버지를 공경함이거늘 너희가 나를 무시하는도다
+📖 **요한계시록 8:4**
+> 향연이 성도의 기도와 함께 천사의 손으로부터 하나님 앞으로 올라가는지라
 
-🕊️ _업데이트 시각: 2025-12-18 15:32:06 KST_
+🕊️ _업데이트 시각: 2025-12-18 15:55:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
