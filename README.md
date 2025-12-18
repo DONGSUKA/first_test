@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 12:22**
-> 우슬초 묶음을 가져다가 그릇에 담은 피에 적셔서 그 피를 문 인방과 좌우 설주에 뿌리고 아침까지 한 사람도 자기 집 문 밖에 나가지말라
+📖 **레위기 9:16**
+> 또 번제물을 드리되 규례대로 드리고
 
-🕊️ _업데이트 시각: 2025-12-18 18:49:34 KST_
+🕊️ _업데이트 시각: 2025-12-18 18:57:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
