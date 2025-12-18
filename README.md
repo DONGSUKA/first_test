@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:70**
-> 그들의 마음은 살져서 기름덩이 같으나 나는 주의 법을 즐거워하나이다
+📖 **시편 109:30**
+> 내가 입으로 여호와께 크게 감사하며 많은 사람 중에서 찬송하리니
 
-🕊️ _업데이트 시각: 2025-12-18 14:26:50 KST_
+🕊️ _업데이트 시각: 2025-12-18 14:44:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
