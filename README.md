@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:22**
-> 그는 함의 땅에서 기사와 홍해에서 놀랄 만한 일을 행하신 이시로다
+📖 **사무엘상 4:7**
+> 블레셋 사람이 두려워하여 이르되 신이 진영에 이르렀도다 하고 또 이르되 우리에게 화로다 전날에는 이런 일이 없었도다
 
-🕊️ _업데이트 시각: 2025-12-19 07:34:02 KST_
+🕊️ _업데이트 시각: 2025-12-19 07:46:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
