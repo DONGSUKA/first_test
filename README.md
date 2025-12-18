@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 107:5**
-> 주리고 목이 말라 그들의 영혼이 그들 안에서 피곤하였도다
+📖 **레위기 1:8**
+> 아론의 자손 제사장들은 그 뜬 각과 머리와 기름을 제단 위의 불 위에 있는 나무에 벌여 놓을 것이며
 
-🕊️ _업데이트 시각: 2025-12-18 10:00:33 KST_
+🕊️ _업데이트 시각: 2025-12-18 11:50:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
