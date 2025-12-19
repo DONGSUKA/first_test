@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 11:5**
-> 또 마아세야니 그는 바룩의 아들이요 골호세의 손자요 하사야의 증손이요 아다야의 현손이요 요야립의 오대 손이요 스가랴의 육대 손이요 실로 사람의 칠대 손이라
+📖 **이사야 23:13**
+> 갈대아 사람의 땅을 보라 그 백성이 없어졌나니 곧 앗수르 사람이 그 곳을 들짐승이 사는 곳이 되게 하였으되 그들이 망대를 세우고 궁전을 헐어 황무하게 하였느니라
 
-🕊️ _업데이트 시각: 2025-12-19 22:41:53 KST_
+🕊️ _업데이트 시각: 2025-12-19 22:52:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
