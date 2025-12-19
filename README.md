@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 11:23**
-> 여호와께서 그 모든 나라 백성을 너희 앞에서 다 쫓아내실 것이라 너희가 너희보다 강대한 나라들을 차지할 것인즉
+📖 **에스겔 39:22**
+> 그 날 이후에 이스라엘 족속은 내가 여호와 자기들의 하나님인 줄을 알겠고
 
-🕊️ _업데이트 시각: 2025-12-19 14:58:29 KST_
+🕊️ _업데이트 시각: 2025-12-19 15:28:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
