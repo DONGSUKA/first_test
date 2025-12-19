@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 37:29**
-> 의인이 땅을 차지함이여 거기서 영원히 살리로다
+📖 **시편 35:9**
+> 내 영혼이 여호와를 즐거워함이여 그의 구원을 기뻐하리로다
 
-🕊️ _업데이트 시각: 2025-12-20 06:53:50 KST_
+🕊️ _업데이트 시각: 2025-12-20 06:59:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
