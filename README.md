@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 14:15**
-> 헤브론의 옛 이름은 기럇 아르바라 아르바는 아낙 사람 가운데에서 가장 큰 사람이었더라 그리고 그 땅에 전쟁이 그쳤더라
+📖 **레위기 25:36**
+> 너는 그에게 이자를 받지 말고 네 하나님을 경외하여 네 형제로 너와 함께 생활하게 할 것인즉
 
-🕊️ _업데이트 시각: 2025-12-20 02:57:02 KST_
+🕊️ _업데이트 시각: 2025-12-20 03:20:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
