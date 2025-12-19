@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 20:4**
-> 게으른 자는 가을에 밭 갈지 아니하나니 그러므로 거둘 때에는 구걸할지라도 얻지 못하리라
+📖 **사도행전 17:27**
+> 이는 사람으로 혹 하나님을 더듬어 찾아 발견하게 하려 하심이로되 그는 우리 각 사람에게서 멀리 계시지 아니하도다
 
-🕊️ _업데이트 시각: 2025-12-20 08:41:40 KST_
+🕊️ _업데이트 시각: 2025-12-20 08:47:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
