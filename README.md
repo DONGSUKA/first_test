@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:27**
-> 이는 사람으로 혹 하나님을 더듬어 찾아 발견하게 하려 하심이로되 그는 우리 각 사람에게서 멀리 계시지 아니하도다
+📖 **사사기 20:36**
+> 이스라엘이 승리한 방법 이에 베냐민 자손이 자기가 패한 것을 깨달았으니 이는 이스라엘 사람이 기브아에 매복한 군사를 믿고 잠깐 베냐민 사람 앞을 피하매
 
-🕊️ _업데이트 시각: 2025-12-20 08:47:36 KST_
+🕊️ _업데이트 시각: 2025-12-20 08:53:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
