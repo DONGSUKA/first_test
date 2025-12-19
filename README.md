@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 7:11**
-> 그들이 듣기를 싫어하여 등을 돌리며 듣지 아니하려고 귀를 막으며
+📖 **시편 37:29**
+> 의인이 땅을 차지함이여 거기서 영원히 살리로다
 
-🕊️ _업데이트 시각: 2025-12-20 06:47:49 KST_
+🕊️ _업데이트 시각: 2025-12-20 06:53:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
