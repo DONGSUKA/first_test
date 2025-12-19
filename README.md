@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 4:1**
-> 이스보셋이 살해되다 사울의 아들 이스보셋은 아브넬이 헤브론에서 죽었다 함을 듣고 손의 맥이 풀렸고 온 이스라엘이 놀라니라
+📖 **신명기 10:1**
+> 모세가 십계명을 다시 받다(출 34:1-10) 그 때에 여호와께서 내게 이르시기를 너는 처음과 같은 두 돌판을 다듬어 가지고 산에 올라 내게로 나아오고 또 나무궤 하나를 만들라
 
-🕊️ _업데이트 시각: 2025-12-19 11:49:40 KST_
+🕊️ _업데이트 시각: 2025-12-19 12:49:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
