@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 10:8**
-> 모세와 아론을 바로에게로 다시 데려오니 바로가 그들에게 이르되 가서 너희의 하나님 여호와를 섬기라 갈 자는 누구 누구냐
+📖 **예레미야애가 4:10**
+> 딸 내 백성이 멸망할 때에 자비로운 부녀들이 자기들의 손으로 자기들의 자녀들을 삶아 먹었도다
 
-🕊️ _업데이트 시각: 2025-12-20 07:20:09 KST_
+🕊️ _업데이트 시각: 2025-12-20 07:38:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
