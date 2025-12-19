@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 39:22**
-> 그 날 이후에 이스라엘 족속은 내가 여호와 자기들의 하나님인 줄을 알겠고
+📖 **예레미야 20:18**
+> 어찌하여 내가 태에서 나와서 고생과 슬픔을 보며 나의 날을 부끄러움으로 보내는고 하니라
 
-🕊️ _업데이트 시각: 2025-12-19 15:28:17 KST_
+🕊️ _업데이트 시각: 2025-12-19 15:53:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
