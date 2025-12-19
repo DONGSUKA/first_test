@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 35:9**
-> 내 영혼이 여호와를 즐거워함이여 그의 구원을 기뻐하리로다
+📖 **출애굽기 10:8**
+> 모세와 아론을 바로에게로 다시 데려오니 바로가 그들에게 이르되 가서 너희의 하나님 여호와를 섬기라 갈 자는 누구 누구냐
 
-🕊️ _업데이트 시각: 2025-12-20 06:59:46 KST_
+🕊️ _업데이트 시각: 2025-12-20 07:20:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
