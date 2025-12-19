@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 68:24**
-> 하나님이여 그들이 주께서 행차하심을 보았으니 곧 나의 하나님, 나의 왕이 성소로 행차하시는 것이라
+📖 **스가랴 8:9**
+> 만군의 여호와가 이같이 말하노라 만군의 여호와의 집 곧 성전을 건축하려고 그 지대를 쌓던 날에 있었던 선지자들의 입의 말을 이 날에듣는 너희는 손을 견고히 할지어다
 
-🕊️ _업데이트 시각: 2025-12-20 05:45:59 KST_
+🕊️ _업데이트 시각: 2025-12-20 05:53:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
