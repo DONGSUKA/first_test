@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 7:43**
-> 시몬이 대답하여 이르되 내 생각에는 많이 탕감함을 받은 자니이다 이르시되 네 판단이 옳다 하시고
+📖 **에스겔 4:14**
+> 내가 말하되 아하 주 여호와여 나는 영혼을 더럽힌 일이 없었나이다 어려서부터 지금까지 스스로 죽은 것이나 짐승에게 찢긴 것을 먹지아니하였고 가증한 고기를 입에 넣지 아니하였나이다
 
-🕊️ _업데이트 시각: 2025-12-19 23:58:33 KST_
+🕊️ _업데이트 시각: 2025-12-20 00:19:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
