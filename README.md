@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 11:39**
-> 그는 이방신을 힘입어 크게 견고한 산성들을 점령할 것이요 무릇 그를 안다 하는 자에게는 영광을 더하여 여러 백성을 다스리게도 하며그에게서 뇌물을 받고 땅을 나눠 주기도 하리라
+📖 **스가랴 11:5**
+> 사들인 자들은 그들을 잡아도 죄가 없다 하고 판 자들은 말하기를 내가 부요하게 되었은즉 여호와께 찬송하리라 하고 그들의 목자들은 그들을 불쌍히 여기지 아니하는도다
 
-🕊️ _업데이트 시각: 2025-12-19 17:59:31 KST_
+🕊️ _업데이트 시각: 2025-12-19 18:24:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
