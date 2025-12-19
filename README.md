@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 7:5**
-> 외식하는 자여 먼저 네 눈 속에서 들보를 빼어라 그 후에야 밝히 보고 형제의 눈 속에서 티를 빼리라
+📖 **사사기 4:13**
+> 시스라가 모든 병거 곧 철 병거 구백 대와 자기와 함께 있는 모든 백성을 하로셋학고임에서부터 기손 강으로 모은지라
 
-🕊️ _업데이트 시각: 2025-12-19 18:58:14 KST_
+🕊️ _업데이트 시각: 2025-12-19 19:19:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
