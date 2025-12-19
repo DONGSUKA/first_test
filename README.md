@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 23:31**
-> 포도주는 붉고 잔에서 번쩍이며 순하게 내려가나니 너는 그것을 보지도 말지어다
+📖 **이사야 4:4**
+> 이는 주께서 심판하는 영과 소멸하는 영으로 시온의 딸들의 더러움을 씻기시며 예루살렘의 피를 그 중에서 청결하게 하실 때가 됨이라
 
-🕊️ _업데이트 시각: 2025-12-20 02:14:25 KST_
+🕊️ _업데이트 시각: 2025-12-20 02:30:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
