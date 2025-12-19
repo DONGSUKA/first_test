@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 11:16**
-> 너희는 스스로 삼가라 두렵건대 마음에 미혹하여 돌이켜 다른 신들을 섬기며 그것에게 절하므로
+📖 **사무엘상 23:9**
+> 다윗은 사울이 자기를 해하려 하는 음모를 알고 제사장 아비아달에게 이르되 에봇을 이리로 가져오라 하고
 
-🕊️ _업데이트 시각: 2025-12-19 20:57:00 KST_
+🕊️ _업데이트 시각: 2025-12-19 21:28:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
