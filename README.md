@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 29:23**
-> 또 여호와 앞에 있는 무교병 광주리에서 떡 한 개와 기름 바른 과자 한 개와 전병 한 개를 가져다가
+📖 **에스겔 20:15**
+> 또 내가 내 손을 들어 광야에서 그들에게 맹세하기를 내가 그들에게 허락한 땅 곧 젖과 꿀이 흐르는 땅이요 모든 땅 중의 아름다운 곳으로 그들을 인도하여 들이지 아니하리라 한 것은
 
-🕊️ _업데이트 시각: 2025-12-20 19:37:09 KST_
+🕊️ _업데이트 시각: 2025-12-20 19:46:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
