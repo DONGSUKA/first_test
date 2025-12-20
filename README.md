@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 4:2**
-> 인생들아 어느 때까지 나의 영광을 바꾸어 욕되게 하며 헛된 일을 좋아하고 거짓을 구하려는가 (셀라)
+📖 **히브리서 3:15**
+> 성경에 일렀으되 오늘 너희가 그의 음성을 듣거든 격노하시게 하던 것 같이 너희 마음을 완고하게 하지 말라 하였으니
 
-🕊️ _업데이트 시각: 2025-12-20 13:48:35 KST_
+🕊️ _업데이트 시각: 2025-12-20 13:56:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
