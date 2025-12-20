@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 130:6**
-> 파수꾼이 아침을 기다림보다 내 영혼이 주를 더 기다리나니 참으로 파수꾼이 아침을 기다림보다 더하도다
+📖 **신명기 27:22**
+> 그의 자매 곧 그의 아버지의 딸이나 어머니의 딸과 동침하는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라
 
-🕊️ _업데이트 시각: 2025-12-20 11:54:26 KST_
+🕊️ _업데이트 시각: 2025-12-20 12:42:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
