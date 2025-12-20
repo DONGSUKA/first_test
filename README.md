@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 21:32**
-> 그들이 브엘세바에서 언약을 세우매 아비멜렉과 그 군대 장관 비골은 떠나 블레셋 사람의 땅으로 돌아갔고
+📖 **신명기 28:33**
+> 네 토지 소산과 네 수고로 얻은 것을 네가 알지 못하는 민족이 먹겠고 너는 항상 압제와 학대를 받을 뿐이리니
 
-🕊️ _업데이트 시각: 2025-12-21 06:43:30 KST_
+🕊️ _업데이트 시각: 2025-12-21 06:49:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
