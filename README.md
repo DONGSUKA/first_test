@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 24:15**
-> 모세가 산에 오르매 구름이 산을 가리며
+📖 **여호수아 3:6**
+> 여호수아가 또 제사장들에게 말하여 이르되 언약궤를 메고 백성에 앞서 건너라 하매 곧 언약궤를 메고 백성에 앞서 나아가니라
 
-🕊️ _업데이트 시각: 2025-12-21 01:38:19 KST_
+🕊️ _업데이트 시각: 2025-12-21 01:49:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
