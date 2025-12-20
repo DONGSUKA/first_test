@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 16:23**
-> 온 땅이여 여호와께 노래하며 그의 구원을 날마다 선포할지어다
+📖 **레위기 19:11**
+> 너희는 도둑질하지 말며 속이지 말며 서로 거짓말하지 말며
 
-🕊️ _업데이트 시각: 2025-12-20 20:26:43 KST_
+🕊️ _업데이트 시각: 2025-12-20 20:33:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
