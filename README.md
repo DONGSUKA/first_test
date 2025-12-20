@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 3:15**
-> 성경에 일렀으되 오늘 너희가 그의 음성을 듣거든 격노하시게 하던 것 같이 너희 마음을 완고하게 하지 말라 하였으니
+📖 **마태복음 21:29**
+> 대답하여 이르되 아버지 가겠나이다 하더니 가지 아니하고
 
-🕊️ _업데이트 시각: 2025-12-20 13:56:18 KST_
+🕊️ _업데이트 시각: 2025-12-20 14:12:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
