@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 32:29**
-> 모세가 이르되 각 사람이 자기의 아들과 자기의 형제를 쳤으니 오늘 여호와께 헌신하게 되었느니라 그가 오늘 너희에게 복을 내리시리라
+📖 **베드로후서 1:1**
+> 부르심과 택하심 예수 그리스도의 종이며 사도인 시몬 베드로는 우리 하나님과 구주 예수 그리스도의 의를 힘입어 동일하게 보배로운믿음을 우리와 함께 받은 자들에게 편지하노니
 
-🕊️ _업데이트 시각: 2025-12-20 18:53:25 KST_
+🕊️ _업데이트 시각: 2025-12-20 18:58:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
