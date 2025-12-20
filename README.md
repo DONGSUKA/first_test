@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 7:8**
-> 그러나 죄가 기회를 타서 계명으로 말미암아 내 속에서 온갖 탐심을 이루었나니 이는 율법이 없으면 죄가 죽은 것임이라
+📖 **마태복음 24:49**
+> 동료들을 때리며 술친구들과 더불어 먹고 마시게 되면
 
-🕊️ _업데이트 시각: 2025-12-20 16:29:21 KST_
+🕊️ _업데이트 시각: 2025-12-20 16:37:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
