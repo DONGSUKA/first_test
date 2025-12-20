@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 11:22**
-> 그들을 위하여 양 떼와 소 떼를 잡은들 족하오며 바다의 모든 고기를 모은들 족하오리이까
+📖 **요한일서 4:1**
+> 하나님의 영과 적그리스도의 영 사랑하는 자들아 영을 다 믿지 말고 오직 영들이 하나님께 속하였나 분별하라 많은 거짓 선지자가 세상에 나왔음이라
 
-🕊️ _업데이트 시각: 2025-12-20 15:51:32 KST_
+🕊️ _업데이트 시각: 2025-12-20 15:58:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
