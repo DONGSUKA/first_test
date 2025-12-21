@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 6:28**
-> 그들은 다 심히 반역한 자며 비방하며 돌아다니는 자며 그들은 놋과 철이며 다 사악한 자라
+📖 **민수기 3:46**
+> 이스라엘 자손의 처음 태어난 자가 레위인보다 이백칠십삼 명이 더 많은즉 속전으로
 
-🕊️ _업데이트 시각: 2025-12-22 05:10:06 KST_
+🕊️ _업데이트 시각: 2025-12-22 05:32:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
