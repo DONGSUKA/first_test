@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 22:69**
-> 그러나 이제부터는 인자가 하나님의 권능의 우편에 앉아 있으리라 하시니
+📖 **마태복음 15:31**
+> 말 못하는 사람이 말하고 장애인이 온전하게 되고 다리 저는 사람이 걸으며 맹인이 보는 것을 무리가 보고 놀랍게 여겨 이스라엘의 하나님께 영광을 돌리니라
 
-🕊️ _업데이트 시각: 2025-12-22 02:29:54 KST_
+🕊️ _업데이트 시각: 2025-12-22 02:40:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
