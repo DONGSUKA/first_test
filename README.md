@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 2:1**
-> 에베소 교회에 보내는 말씀 에베소 교회의 사자에게 편지하라 오른손에 있는 일곱 별을 붙잡고 일곱 금 촛대 사이를 거니시는 이가 이르시되
+📖 **시편 41:3**
+> 여호와께서 그를 병상에서 붙드시고 그가 누워 있을 때마다 그의 병을 고쳐 주시나이다
 
-🕊️ _업데이트 시각: 2025-12-22 01:17:16 KST_
+🕊️ _업데이트 시각: 2025-12-22 01:40:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
