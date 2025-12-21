@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 3:46**
-> 이스라엘 자손의 처음 태어난 자가 레위인보다 이백칠십삼 명이 더 많은즉 속전으로
+📖 **사무엘상 12:7**
+> 그런즉 가만히 서 있으라 여호와께서 너희와 너희 조상들에게 행하신 모든 공의로운 일에 대하여 내가 여호와 앞에서 너희와 담론하리라
 
-🕊️ _업데이트 시각: 2025-12-22 05:32:02 KST_
+🕊️ _업데이트 시각: 2025-12-22 05:43:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
