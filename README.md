@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 107:16**
-> 그가 놋문을 깨뜨리시며 쇠빗장을 꺾으셨음이로다
+📖 **누가복음 1:53**
+> 주리는 자를 좋은 것으로 배불리셨으며 부자는 빈 손으로 보내셨도다
 
-🕊️ _업데이트 시각: 2025-12-21 16:19:43 KST_
+🕊️ _업데이트 시각: 2025-12-21 16:32:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
