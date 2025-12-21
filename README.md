@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 41:3**
-> 여호와께서 그를 병상에서 붙드시고 그가 누워 있을 때마다 그의 병을 고쳐 주시나이다
+📖 **출애굽기 2:14**
+> 그가 이르되 누가 너를 우리를 다스리는 자와 재판관으로 삼았느냐 네가 애굽 사람을 죽인 것처럼 나도 죽이려느냐 모세가 두려워하여이르되 일이 탄로되었도다
 
-🕊️ _업데이트 시각: 2025-12-22 01:40:38 KST_
+🕊️ _업데이트 시각: 2025-12-22 01:51:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
