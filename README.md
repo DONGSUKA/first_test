@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 34:18**
-> 그들의 말을 하몰과 그의 아들 세겜이 좋게 여기므로
+📖 **출애굽기 25:6**
+> 등유와 관유에 드는 향료와 분향할 향을 만들 향품과
 
-🕊️ _업데이트 시각: 2025-12-22 08:57:41 KST_
+🕊️ _업데이트 시각: 2025-12-22 10:18:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
