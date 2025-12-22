@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 72:9**
-> 광야에 사는 자는 그 앞에 굽히며 그의 원수들은 티끌을 핥을 것이며
+📖 **레위기 8:18**
+> 또 번제의 숫양을 드릴새 아론과 그의 아들들이 그 숫양의 머리에 안수하매
 
-🕊️ _업데이트 시각: 2025-12-22 16:52:29 KST_
+🕊️ _업데이트 시각: 2025-12-22 16:58:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
