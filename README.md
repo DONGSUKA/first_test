@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 22:17**
-> 그들이 하나님께 말하기를 우리를 떠나소서 하며 또 말하기를 전능자가 우리를 위하여 무엇을 하실 수 있으랴 하였으나
+📖 **누가복음 14:30**
+> 이르되 이 사람이 공사를 시작하고 능히 이루지 못하였다 하리라
 
-🕊️ _업데이트 시각: 2025-12-22 23:36:45 KST_
+🕊️ _업데이트 시각: 2025-12-22 23:49:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
