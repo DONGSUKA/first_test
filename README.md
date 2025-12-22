@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 26:12**
-> 여호와여 주께서 우리를 위하여 평강을 베푸시오리니 주께서 우리의 모든 일도 우리를 위하여 이루심이니이다
+📖 **민수기 7:69**
+> 또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며
 
-🕊️ _업데이트 시각: 2025-12-23 00:54:16 KST_
+🕊️ _업데이트 시각: 2025-12-23 01:12:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
