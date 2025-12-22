@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 6:32**
-> 그 때에 엘리사가 그의 집에 앉아 있고 장로들이 그와 함께 앉아 있는데 왕이 자기 처소에서 사람을 보냈더니 그 사자가 이르기 전에엘리사가 장로들에게 이르되 너희는 이 살인한 자의 아들이 내 머리를 베려고 사람을 보내는 것을 보느냐 너희는 보다가 사자가 오거든 문을 닫고 문 안에 들이지 말라 그의 주인의 발소리가 그의 뒤에서 나지 아니하느냐 하고
+📖 **마가복음 12:26**
+> 죽은 자가 살아난다는 것을 말할진대 너희가 모세의 책 중 가시나무 떨기에 관한 글에 하나님께서 모세에게 이르시되 나는 아브라함의하나님이요 이삭의 하나님이요 야곱의 하나님이로라 하신 말씀을 읽어보지 못하였느냐
 
-🕊️ _업데이트 시각: 2025-12-22 18:51:56 KST_
+🕊️ _업데이트 시각: 2025-12-22 18:58:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
