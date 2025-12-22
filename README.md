@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 14:30**
-> 이르되 이 사람이 공사를 시작하고 능히 이루지 못하였다 하리라
+📖 **사도행전 8:2**
+> 경건한 사람들이 스데반을 장사하고 위하여 크게 울더라
 
-🕊️ _업데이트 시각: 2025-12-22 23:49:19 KST_
+🕊️ _업데이트 시각: 2025-12-22 23:55:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
