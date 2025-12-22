@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:10**
-> 내가 전심으로 주를 찾았사오니 주의 계명에서 떠나지 말게 하소서
+📖 **데살로니가후서 2:6**
+> 너희는 지금 그로 하여금 그의 때에 나타나게 하려 하여 막는 것이 있는 것을 아나니
 
-🕊️ _업데이트 시각: 2025-12-23 08:28:59 KST_
+🕊️ _업데이트 시각: 2025-12-23 08:39:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
