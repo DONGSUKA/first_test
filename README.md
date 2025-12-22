@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 3:2**
-> 날 때가 있고 죽을 때가 있으며 심을 때가 있고 심은 것을 뽑을 때가 있으며
+📖 **마태복음 22:12**
+> 이르되 친구여 어찌하여 예복을 입지 않고 여기 들어왔느냐 하니 그가 아무 말도 못하거늘
 
-🕊️ _업데이트 시각: 2025-12-23 06:56:55 KST_
+🕊️ _업데이트 시각: 2025-12-23 07:13:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
