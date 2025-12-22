@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 6:15**
-> 무교병 한 광주리와 고운 가루에 기름 섞은 과자들과 기름 바른 무교전병들과 그 소제물과 전제물을 드릴 것이요
+📖 **누가복음 24:26**
+> 그리스도가 이런 고난을 받고 자기의 영광에 들어가야 할 것이 아니냐 하시고
 
-🕊️ _업데이트 시각: 2025-12-22 14:55:45 KST_
+🕊️ _업데이트 시각: 2025-12-22 15:19:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
