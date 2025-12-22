@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:69**
-> 또 번제물로 수송아지 한 마리와 숫양 한 마리와 일 년 된 어린 숫양 한 마리이며
+📖 **누가복음 22:24**
+> 베드로가 부인할 것을 이르시다(마 26:31-35; 막 14:27-31; 요 13:36-38) 또 그들 사이에 그 중 누가 크냐 하는 다툼이 난지라
 
-🕊️ _업데이트 시각: 2025-12-23 01:12:14 KST_
+🕊️ _업데이트 시각: 2025-12-23 01:42:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
