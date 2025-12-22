@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 31:11**
-> 온 이스라엘이 네 하나님 여호와 앞 그가 택하신 곳에 모일 때에 이 율법을 낭독하여 온 이스라엘에게 듣게 할지니
+📖 **요한복음 18:4**
+> 예수께서 그 당할 일을 다 아시고 나아가 이르시되 너희가 누구를 찾느냐
 
-🕊️ _업데이트 시각: 2025-12-23 02:12:14 KST_
+🕊️ _업데이트 시각: 2025-12-23 02:32:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
