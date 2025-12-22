@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 24:5**
-> 요단을 건너 갓 골짜기 가운데 성읍 아로엘 오른쪽 곧 야셀 맞은쪽에 이르러 장막을 치고
+📖 **잠언 23:2**
+> 네가 만일 음식을 탐하는 자이거든 네 목에 칼을 둘 것이니라
 
-🕊️ _업데이트 시각: 2025-12-23 04:17:14 KST_
+🕊️ _업데이트 시각: 2025-12-23 04:29:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
