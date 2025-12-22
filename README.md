@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 8:18**
-> 또 번제의 숫양을 드릴새 아론과 그의 아들들이 그 숫양의 머리에 안수하매
+📖 **누가복음 8:33**
+> 귀신들이 그 사람에게서 나와 돼지에게로 들어가니 그 떼가 비탈로 내리달아 호수에 들어가 몰사하거늘
 
-🕊️ _업데이트 시각: 2025-12-22 16:58:23 KST_
+🕊️ _업데이트 시각: 2025-12-22 17:26:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
