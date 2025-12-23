@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 15:47**
-> 막달라 마리아와 요세의 어머니 마리아가 예수 둔 곳을 보더라
+📖 **역대상 23:20**
+> 웃시엘의 아들들은 우두머리 미가와 그 다음 잇시야더라
 
-🕊️ _업데이트 시각: 2025-12-24 00:15:57 KST_
+🕊️ _업데이트 시각: 2025-12-24 00:35:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
