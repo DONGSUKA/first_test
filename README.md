@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 37:23**
-> 네가 훼방하며 능욕한 것은 누구에게냐 네가 소리를 높이며 눈을 높이 들어 향한 것은 누구에게냐 곧 이스라엘의 거룩하신 이에게니라
+📖 **마태복음 15:31**
+> 말 못하는 사람이 말하고 장애인이 온전하게 되고 다리 저는 사람이 걸으며 맹인이 보는 것을 무리가 보고 놀랍게 여겨 이스라엘의 하나님께 영광을 돌리니라
 
-🕊️ _업데이트 시각: 2025-12-23 23:50:48 KST_
+🕊️ _업데이트 시각: 2025-12-23 23:57:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
