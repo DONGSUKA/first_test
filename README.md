@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 17:12**
-> 미가가 그 레위인을 거룩하게 구별하매 그 청년이 미가의 제사장이 되어 그 집에 있었더라
+📖 **시편 140:8**
+> 여호와여 악인의 소원을 허락하지 마시며 그의 악한 꾀를 이루지 못하게 하소서 그들이 스스로 높일까 하나이다 (셀라)
 
-🕊️ _업데이트 시각: 2025-12-24 08:30:20 KST_
+🕊️ _업데이트 시각: 2025-12-24 08:41:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
