@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 13:59**
-> 이는 털옷에나 베옷에나 그 날에나 씨에나 가죽으로 만든 모든 것에 발생한 나병 색점의 정하고 부정한 것을 진단하는 규례니라
+📖 **욥기 28:15**
+> 순금으로도 바꿀 수 없고 은을 달아도 그 값을 당하지 못하리니
 
-🕊️ _업데이트 시각: 2025-12-24 05:33:20 KST_
+🕊️ _업데이트 시각: 2025-12-24 05:45:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
