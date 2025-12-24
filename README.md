@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:7**
-> 그들로 그들의 소망을 하나님께 두며 하나님께서 행하신 일을 잊지 아니하고 오직 그의 계명을 지켜서
+📖 **민수기 19:9**
+> 이에 정결한 자가 암송아지의 재를 거두어 진영 밖 정한 곳에 둘지니 이것은 이스라엘 자손 회중을 위하여 간직하였다가 부정을 씻는 물을 위해 간직할지니 그것은 속죄제니라
 
-🕊️ _업데이트 시각: 2025-12-24 19:57:39 KST_
+🕊️ _업데이트 시각: 2025-12-24 20:14:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
