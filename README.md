@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 13:24**
-> 압살롬이 왕께 나아가 말하되 이제 종에게 양 털 깎는 일이 있사오니 청하건대 왕은 신하들을 데리시고 당신의 종과 함께 가사이다 하니
+📖 **욥기 38:26**
+> 누가 사람 없는 땅에, 사람 없는 광야에 비를 내리며
 
-🕊️ _업데이트 시각: 2025-12-24 23:55:14 KST_
+🕊️ _업데이트 시각: 2025-12-25 00:10:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
