@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 20:20**
-> 그는 마음에 평안을 알지 못하니 그가 기뻐하는 것을 하나도 보존하지 못하겠고
+📖 **시편 59:7**
+> 그들의 입으로는 악을 토하며 그들의 입술에는 칼이 있어 이르기를 누가 들으리요 하나이다
 
-🕊️ _업데이트 시각: 2025-12-25 03:59:05 KST_
+🕊️ _업데이트 시각: 2025-12-25 04:14:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
