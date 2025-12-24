@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 2:1**
-> 십자가에 못 박히신 그리스도 형제들아 내가 너희에게 나아가 하나님의 증거를 전할 때에 말과 지혜의 아름다운 것으로 아니하였나니
+📖 **사무엘하 12:1**
+> 나단의 책망과 다윗의 회개 여호와께서 나단을 다윗에게 보내시니 그가 다윗에게 가서 그에게 이르되 한 성읍에 두 사람이 있는데 한사람은 부하고 한 사람은 가난하니
 
-🕊️ _업데이트 시각: 2025-12-24 23:39:07 KST_
+🕊️ _업데이트 시각: 2025-12-24 23:49:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
