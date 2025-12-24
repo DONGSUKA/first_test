@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 15:25**
-> 왕이 사독에게 이르되 보라 하나님의 궤를 성읍으로 도로 메어 가라 만일 내가 여호와 앞에서 은혜를 입으면 도로 나를 인도하사 내게그 궤와 그 계신 데를 보이시리라
+📖 **역대하 29:25**
+> 왕이 레위 사람들을 여호와의 전에 두어서 다윗과 왕의 선견자 갓과 선지자 나단이 명령한 대로 제금과 비파와 수금을 잡게 하니 이는여호와께서 그의 선지자들로 이렇게 명령하셨음이라
 
-🕊️ _업데이트 시각: 2025-12-24 14:54:41 KST_
+🕊️ _업데이트 시각: 2025-12-24 15:16:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
