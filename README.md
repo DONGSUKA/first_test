@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 38:26**
-> 누가 사람 없는 땅에, 사람 없는 광야에 비를 내리며
+📖 **시편 69:10**
+> 내가 곡하고 금식하였더니 그것이 도리어 나의 욕이 되었으며
 
-🕊️ _업데이트 시각: 2025-12-25 00:10:39 KST_
+🕊️ _업데이트 시각: 2025-12-25 00:32:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
