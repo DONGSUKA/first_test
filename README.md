@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 39:26**
-> 그들이 그 땅에 평안히 거주하고 두렵게 할 자가 없게 될 때에 부끄러움을 품고 내게 범한 죄를 뉘우치리니
+📖 **요엘 2:9**
+> 성중에 뛰어 들어가며 성 위에 달리며 집에 기어 오르며 도둑 같이 창으로 들어가니
 
-🕊️ _업데이트 시각: 2025-12-24 22:53:32 KST_
+🕊️ _업데이트 시각: 2025-12-24 22:59:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
