@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 27:1**
-> 그 날에 여호와께서 그의 견고하고 크고 강한 칼로 날랜 뱀 리워야단 곧 꼬불꼬불한 뱀 리워야단을 벌하시며 바다에 있는 용을 죽이시리라
+📖 **욥기 20:20**
+> 그는 마음에 평안을 알지 못하니 그가 기뻐하는 것을 하나도 보존하지 못하겠고
 
-🕊️ _업데이트 시각: 2025-12-25 03:50:50 KST_
+🕊️ _업데이트 시각: 2025-12-25 03:59:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
