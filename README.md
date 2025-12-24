@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 20:20**
-> 그는 마음에 평안을 알지 못하니 그가 기뻐하는 것을 하나도 보존하지 못하겠고
+📖 **출애굽기 34:3**
+> 아무도 너와 함께 오르지 말며 온 산에 아무도 나타나지 못하게 하고 양과 소도 산 앞에서 먹지 못하게 하라
 
-🕊️ _업데이트 시각: 2025-12-24 13:42:20 KST_
+🕊️ _업데이트 시각: 2025-12-24 14:00:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
