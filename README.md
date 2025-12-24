@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 19:2**
-> 네 하나님 여호와께서 네게 기업으로 주신 땅 가운데에서 세 성읍을 너를 위하여 구별하고
+📖 **사도행전 1:25**
+> 봉사와 및 사도의 직무를 대신할 자인지를 보이시옵소서 유다는 이 직무를 버리고 제 곳으로 갔나이다 하고
 
-🕊️ _업데이트 시각: 2025-12-25 08:39:24 KST_
+🕊️ _업데이트 시각: 2025-12-25 08:46:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
