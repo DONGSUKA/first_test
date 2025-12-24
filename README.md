@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 6:17**
-> 게르손의 아들들의 이름은 이러하니 립니와 시므이요
+📖 **창세기 43:16**
+> 요셉은 베냐민이 그들과 함께 있음을 보고 자기의 청지기에게 이르되 이 사람들을 집으로 인도해 들이고 짐승을 잡고 준비하라 이 사람들이 정오에 나와 함께 먹을 것이니라
 
-🕊️ _업데이트 시각: 2025-12-25 06:31:02 KST_
+🕊️ _업데이트 시각: 2025-12-25 06:41:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
