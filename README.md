@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 31:28**
-> 깨어서 그들을 뿌리 뽑으며 무너뜨리며 전복하며 멸망시키며 괴롭게 하던 것과 같이 내가 깨어서 그들을 세우며 심으리라 여호와의 말씀이니라
+📖 **민수기 14:20**
+> 여호와께서 이르시되 내가 네 말대로 사하노라
 
-🕊️ _업데이트 시각: 2025-12-25 22:05:45 KST_
+🕊️ _업데이트 시각: 2025-12-25 22:39:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
