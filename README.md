@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 31:16**
-> 또 여호와께서 모세에게 이르시되 너는 네 조상과 함께 누우려니와 이 백성은 그 땅으로 들어가 음란히 그 땅의 이방 신들을 따르며 일어날 것이요 나를 버리고 내가 그들과 맺은 언약을 어길 것이라
+📖 **사사기 19:30**
+> 그것을 보는 자가 다 이르되 이스라엘 자손이 애굽 땅에서 올라온 날부터 오늘까지 이런 일은 일어나지도 아니하였고 보지도 못하였도다이 일을 생각하고 상의한 후에 말하자 하니라
 
-🕊️ _업데이트 시각: 2025-12-26 04:11:11 KST_
+🕊️ _업데이트 시각: 2025-12-26 04:26:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
