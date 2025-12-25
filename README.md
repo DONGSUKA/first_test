@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 15:33**
-> 나이가 이십오 세라 예루살렘에서 십육 년간 다스리니라 그의 어머니의 이름은 여루사라 사독의 딸이더라
+📖 **에스겔 39:16**
+> 성읍의 이름도 하모나라 하리라 그들이 이같이 그 땅을 정결하게 하리라
 
-🕊️ _업데이트 시각: 2025-12-25 17:24:38 KST_
+🕊️ _업데이트 시각: 2025-12-25 17:46:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
