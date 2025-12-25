@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 64:3**
-> 주께서 강림하사 우리가 생각하지 못한 두려운 일을 행하시던 그 때에 산들이 주 앞에서 진동하였사오니
+📖 **열왕기상 1:45**
+> 제사장 사독과 선지자 나단이 기혼에서 기름을 부어 왕으로 삼고 무리가 그 곳에서 올라오며 즐거워하므로 성읍이 진동하였나니 당신들에게 들린 소리가 이것이라
 
-🕊️ _업데이트 시각: 2025-12-26 00:35:45 KST_
+🕊️ _업데이트 시각: 2025-12-26 00:45:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
