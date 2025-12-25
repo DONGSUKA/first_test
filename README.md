@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 8:3**
-> 여호와가 이같이 말하노라 내가 시온에 돌아와 예루살렘 가운데에 거하리니 예루살렘은 진리의 성읍이라 일컫겠고 만군의 여호와의 산은성산이라 일컫게 되리라
+📖 **신명기 4:32**
+> 네가 있기 전 하나님이 사람을 세상에 창조하신 날부터 지금까지 지나간 날을 상고하여 보라 하늘 이 끝에서 저 끝까지 이런 큰 일이 있었느냐 이런 일을 들은 적이 있었느냐
 
-🕊️ _업데이트 시각: 2025-12-26 02:31:25 KST_
+🕊️ _업데이트 시각: 2025-12-26 02:42:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
