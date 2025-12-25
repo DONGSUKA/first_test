@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 8:2**
-> 내가 진실한 증인 제사장 우리야와 여베레기야의 아들 스가랴를 불러 증언하게 하리라 하시더니
+📖 **민수기 22:4**
+> 미디안 장로들에게 이르되 이제 이 무리가 소가 밭의 풀을 뜯어먹음 같이 우리 사방에 있는 것을 다 뜯어먹으리로다 하니 그 때에 십볼의아들 발락이 모압 왕이었더라
 
-🕊️ _업데이트 시각: 2025-12-26 07:46:28 KST_
+🕊️ _업데이트 시각: 2025-12-26 07:52:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
