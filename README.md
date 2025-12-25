@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 11:20**
-> 무화과나무가 마르다(마 21:20-22) 그들이 아침에 지나갈 때에 무화과나무가 뿌리째 마른 것을 보고
+📖 **잠언 16:4**
+> 여호와께서 온갖 것을 그 쓰임에 적당하게 지으셨나니 악인도 악한 날에 적당하게 하셨느니라
 
-🕊️ _업데이트 시각: 2025-12-25 20:36:37 KST_
+🕊️ _업데이트 시각: 2025-12-25 20:44:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
