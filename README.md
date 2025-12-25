@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 30:25**
-> 그 날부터 다윗이 이것으로 이스라엘의 율례와 규례를 삼았더니 오늘까지 이르니라
+📖 **로마서 14:13**
+> 형제로 거리끼게 하지 말라 그런즉 우리가 다시는 서로 비판하지 말고 도리어 부딪칠 것이나 거칠 것을 형제 앞에 두지 아니하도록 주의하라
 
-🕊️ _업데이트 시각: 2025-12-26 05:49:11 KST_
+🕊️ _업데이트 시각: 2025-12-26 05:55:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
