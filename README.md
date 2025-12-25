@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 20:4**
-> 그들에게 이르되 너희도 포도원에 들어가라 내가 너희에게 상당하게 주리라 하니 그들이 가고
+📖 **스가랴 8:3**
+> 여호와가 이같이 말하노라 내가 시온에 돌아와 예루살렘 가운데에 거하리니 예루살렘은 진리의 성읍이라 일컫겠고 만군의 여호와의 산은성산이라 일컫게 되리라
 
-🕊️ _업데이트 시각: 2025-12-26 02:11:30 KST_
+🕊️ _업데이트 시각: 2025-12-26 02:31:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
