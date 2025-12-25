@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 26:8**
-> 이삭이 거기 오래 거주하였더니 이삭이 그 아내 리브가를 껴안은 것을 블레셋 왕 아비멜렉이 창으로 내다본지라
+📖 **이사야 8:2**
+> 내가 진실한 증인 제사장 우리야와 여베레기야의 아들 스가랴를 불러 증언하게 하리라 하시더니
 
-🕊️ _업데이트 시각: 2025-12-26 07:34:28 KST_
+🕊️ _업데이트 시각: 2025-12-26 07:46:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
