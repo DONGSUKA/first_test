@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 3:16**
-> 또 여자에게 이르시되 내가 네게 임신하는 고통을 크게 더하리니 네가 수고하고 자식을 낳을 것이며 너는 남편을 원하고 남편은 너를 다스릴 것이니라 하시고
+📖 **시편 90:6**
+> 풀은 아침에 꽃이 피어 자라다가 저녁에는 시들어 마르나이다
 
-🕊️ _업데이트 시각: 2025-12-25 10:19:37 KST_
+🕊️ _업데이트 시각: 2025-12-25 12:03:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
