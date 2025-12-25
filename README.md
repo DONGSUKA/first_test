@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **유다서 1:5**
-> 너희가 본래 모든 사실을 알고 있으나 내가 너희로 다시 생각나게 하고자 하노라 주께서 백성을 애굽에서 구원하여 내시고 후에 믿지 아니하는 자들을 멸하셨으며
+📖 **예레미야 40:4**
+> 보라 내가 오늘 네 손의 사슬을 풀어 너를 풀어 주노니 만일 네가 나와 함께 바벨론으로 가는 것을 좋게 여기거든 가자 내가 너를 선대하리라 만일 나와 함께 바벨론으로 가는 것을 좋지 않게 여기거든 그만 두라 보라 온 땅이 네 앞에 있나니 네가 좋게 여기는 대로 옳게 여기는 곳으로 갈지니라 하니라
 
-🕊️ _업데이트 시각: 2025-12-26 01:44:13 KST_
+🕊️ _업데이트 시각: 2025-12-26 01:56:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
