@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 25:15**
-> 주 여호와께서 이같이 말씀하셨느니라 블레셋 사람이 옛날부터 미워하여 멸시하는 마음으로 원수를 갚아 진멸하고자 하였도다
+📖 **레위기 7:24**
+> 스스로 죽은 것의 기름이나 짐승에게 찢긴 것의 기름은 다른 데는 쓰려니와 결단코 먹지는 말지니라
 
-🕊️ _업데이트 시각: 2025-12-26 04:59:00 KST_
+🕊️ _업데이트 시각: 2025-12-26 05:21:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
