@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 51:56**
-> 곧 멸망시키는 자가 바벨론에 이르렀음이라 그 용사들이 사로잡히고 그들의 활이 꺾이도다 여호와는 보복의 하나님이시니 반드시 보응하시리로다
+📖 **신명기 31:16**
+> 또 여호와께서 모세에게 이르시되 너는 네 조상과 함께 누우려니와 이 백성은 그 땅으로 들어가 음란히 그 땅의 이방 신들을 따르며 일어날 것이요 나를 버리고 내가 그들과 맺은 언약을 어길 것이라
 
-🕊️ _업데이트 시각: 2025-12-26 03:56:57 KST_
+🕊️ _업데이트 시각: 2025-12-26 04:11:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
