@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 22:4**
-> 미디안 장로들에게 이르되 이제 이 무리가 소가 밭의 풀을 뜯어먹음 같이 우리 사방에 있는 것을 다 뜯어먹으리로다 하니 그 때에 십볼의아들 발락이 모압 왕이었더라
+📖 **아모스 1:6**
+> 여호와께서 이와 같이 말씀하시되 가사의 서너 가지 죄로 말미암아 내가 그 벌을 돌이키지 아니하리니 이는 그들이 모든 사로잡은 자를 끌어 에돔에 넘겼음이라
 
-🕊️ _업데이트 시각: 2025-12-26 07:52:38 KST_
+🕊️ _업데이트 시각: 2025-12-26 07:58:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
