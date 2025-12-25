@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 16:3**
-> 그들이 이런 일을 할 것은 아버지와 나를 알지 못함이라
+📖 **마태복음 2:20**
+> 일어나 아기와 그의 어머니를 데리고 이스라엘 땅으로 가라 아기의 목숨을 찾던 자들이 죽었느니라 하시니
 
-🕊️ _업데이트 시각: 2025-12-25 20:56:30 KST_
+🕊️ _업데이트 시각: 2025-12-25 21:25:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
