@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 104:10**
-> 여호와께서 샘을 골짜기에서 솟아나게 하시고 산 사이에 흐르게 하사
+📖 **창세기 38:1**
+> 유다와 다말 그 후에 유다가 자기 형제들로부터 떠나 내려가서 아둘람 사람 히라와 가까이 하니라
 
-🕊️ _업데이트 시각: 2025-12-27 06:58:38 KST_
+🕊️ _업데이트 시각: 2025-12-27 07:17:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
