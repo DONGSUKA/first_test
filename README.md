@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 6:1**
-> 이사야를 선지자로 부르시다 웃시야 왕이 죽던 해에 내가 본즉 주께서 높이 들린 보좌에 앉으셨는데 그의 옷자락은 성전에 가득하였고
+📖 **에스겔 46:13**
+> 매일 드리는 제사 아침마다 일년 되고 흠 없는 어린 양 한 마리를 번제를 갖추어 나 여호와께 드리고
 
-🕊️ _업데이트 시각: 2025-12-27 03:16:01 KST_
+🕊️ _업데이트 시각: 2025-12-27 03:45:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
