@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 6:2**
-> 나의 괴로움을 달아 보며 나의 파멸을 저울 위에 모두 놓을 수 있다면
+📖 **사무엘상 23:11**
+> 그일라 사람들이 나를 그의 손에 넘기겠나이까 주의 종이 들은 대로 사울이 내려 오겠나이까 이스라엘의 하나님 여호와여 원하건대 주의 종에게 일러 주옵소서 하니 여호와께서 이르시되 그가 내려오리라 하신지라
 
-🕊️ _업데이트 시각: 2025-12-26 14:42:39 KST_
+🕊️ _업데이트 시각: 2025-12-26 14:52:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
