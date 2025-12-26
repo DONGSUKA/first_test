@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 31:17**
-> 그러므로 아이들 중에서 남자는 다 죽이고 남자와 동침하여 사내를 아는 여자도 다 죽이고
+📖 **느헤미야 12:46**
+> 옛적 다윗과 아삽의 때에는 노래하는 자의 지도자가 있어서 하나님께 찬송하는 노래와 감사하는 노래를 하였음이며
 
-🕊️ _업데이트 시각: 2025-12-27 05:59:09 KST_
+🕊️ _업데이트 시각: 2025-12-27 06:16:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
