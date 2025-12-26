@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 11:28**
-> 자기의 재물을 의지하는 자는 패망하려니와 의인은 푸른 잎사귀 같아서 번성하리라
+📖 **에베소서 4:25**
+> 하나님을 본받는 생활 그런즉 거짓을 버리고 각각 그 이웃과 더불어 참된 것을 말하라 이는 우리가 서로 지체가 됨이라
 
-🕊️ _업데이트 시각: 2025-12-26 23:56:16 KST_
+🕊️ _업데이트 시각: 2025-12-27 00:12:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
