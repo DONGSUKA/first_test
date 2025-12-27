@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 24:9**
-> 요압이 백성의 수를 왕께 보고하니 곧 이스라엘에서 칼을 빼는 담대한 자가 팔십만 명이요 유다 사람이 오십만 명이었더라
+📖 **에스겔 7:13**
+> 파는 자가 살아 있다 할지라도 다시 돌아가서 그 판 것을 얻지 못하리니 이는 묵시가 그 모든 무리에게 돌아오지 아니하고, 사람이 그죄악으로 말미암아 자기의 목숨을 유지할 수 없으리라 하였음이로다
 
-🕊️ _업데이트 시각: 2025-12-28 04:23:47 KST_
+🕊️ _업데이트 시각: 2025-12-28 04:29:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
