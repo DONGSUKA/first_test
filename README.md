@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 15:7**
-> 아비얌과 여로보암 사이에도 전쟁이 있으니라 아비얌의 남은 사적과 그 행한 모든 일은 유다 왕 역대지략에 기록되지 아니하였느냐
+📖 **마태복음 28:7**
+> 또 빨리 가서 그의 제자들에게 이르되 그가 죽은 자 가운데서 살아나셨고 너희보다 먼저 갈릴리로 가시나니 거기서 너희가 뵈오리라 하라 보라 내가 너희에게 일렀느니라 하거늘
 
-🕊️ _업데이트 시각: 2025-12-28 04:49:23 KST_
+🕊️ _업데이트 시각: 2025-12-28 04:55:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
