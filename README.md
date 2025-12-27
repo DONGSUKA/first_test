@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 16:11**
-> 이러므로 내 마음이 모압을 위하여 수금 같이 소리를 발하며 내 창자가 길하레셋을 위하여 그러하도다
+📖 **역대상 6:30**
+> 그의 아들은 시므아요 그의 아들은 학기야요 그의 아들은 아사야더라
 
-🕊️ _업데이트 시각: 2025-12-27 16:17:30 KST_
+🕊️ _업데이트 시각: 2025-12-27 16:31:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
