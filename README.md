@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 7:37**
-> 맺는 말(2) 이는 번제와 소제와 속죄제와 속건제와 위임식과 화목제의 규례라
+📖 **민수기 32:16**
+> 그들이 모세에게 가까이 나아와 이르되 우리가 이 곳에 우리 가축을 위하여 우리를 짓고 우리 어린 아이들을 위하여 성읍을 건축하고
 
-🕊️ _업데이트 시각: 2025-12-28 00:11:09 KST_
+🕊️ _업데이트 시각: 2025-12-28 00:30:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
