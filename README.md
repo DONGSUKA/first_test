@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 11:27**
-> 선을 간절히 구하는 자는 은총을 얻으려니와 악을 더듬어 찾는 자에게는 악이 임하리라
+📖 **시편 109:1**
+> 다윗의 시, 인도자를 따라 부르는 노래 내가 찬양하는 하나님이여 잠잠하지 마옵소서
 
-🕊️ _업데이트 시각: 2025-12-28 01:20:57 KST_
+🕊️ _업데이트 시각: 2025-12-28 01:42:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
