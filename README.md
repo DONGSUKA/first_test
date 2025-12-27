@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 12:15**
-> 예수께서 아시고 거기를 떠나가시니 많은 사람이 따르는지라 예수께서 그들의 병을 다 고치시고
+📖 **누가복음 20:2**
+> 말하여 이르되 당신이 무슨 권위로 이런 일을 하는지 이 권위를 준 이가 누구인지 우리에게 말하라
 
-🕊️ _업데이트 시각: 2025-12-27 19:51:41 KST_
+🕊️ _업데이트 시각: 2025-12-27 19:57:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
