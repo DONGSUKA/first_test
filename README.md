@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 2:30**
-> 나답의 아들들은 셀렛과 압바임이라 셀렛은 아들이 없이 죽었고
+📖 **예레미야 39:7**
+> 왕이 또 시드기야의 눈을 빼게 하고 바벨론으로 옮기려고 사슬로 결박하였더라
 
-🕊️ _업데이트 시각: 2025-12-27 18:10:14 KST_
+🕊️ _업데이트 시각: 2025-12-27 18:30:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
