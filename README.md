@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 7:18**
-> 그 나머지 은금은 너와 너의 형제가 좋게 여기는 일에 너희 하나님의 뜻을 따라 쓸지며
+📖 **역대상 9:34**
+> 그들은 다 레위 가문의 우두머리이며 그들의 족보의 우두머리로서 예루살렘에 거주하였더라
 
-🕊️ _업데이트 시각: 2025-12-27 20:42:21 KST_
+🕊️ _업데이트 시각: 2025-12-27 20:48:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
