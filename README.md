@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 9:10**
-> 내 백성 중에서 말하기를 화가 우리에게 미치지 아니하며 이르지 아니하리라 하는 모든 죄인은 칼에 죽으리라
+📖 **역대상 17:14**
+> 내가 영원히 그를 내 집과 내 나라에 세우리니 그의 왕위가 영원히 견고하리라 하셨다 하라
 
-🕊️ _업데이트 시각: 2025-12-27 23:32:15 KST_
+🕊️ _업데이트 시각: 2025-12-27 23:44:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
