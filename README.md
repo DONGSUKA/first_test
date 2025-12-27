@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스바냐 3:9**
-> 그 때에 내가 여러 백성의 입술을 깨끗하게 하여 그들이 다 여호와의 이름을 부르며 한 가지로 나를 섬기게 하리니
+📖 **아모스 3:7**
+> 주 여호와께서는 자기의 비밀을 그 종 선지자들에게 보이지 아니하시고는 결코 행하심이 없으시리라
 
-🕊️ _업데이트 시각: 2025-12-27 14:55:40 KST_
+🕊️ _업데이트 시각: 2025-12-27 15:16:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
