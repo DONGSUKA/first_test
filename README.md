@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 8:1**
-> 등잔을 차려 놓는 방식 여호와께서 또 모세에게 말씀하여 이르시되
+📖 **창세기 10:15**
+> 가나안은 장자 시돈과 헷을 낳고
 
-🕊️ _업데이트 시각: 2025-12-27 22:50:51 KST_
+🕊️ _업데이트 시각: 2025-12-27 22:56:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
