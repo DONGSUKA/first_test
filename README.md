@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 19:13**
-> 미갈이 우상을 가져다가 침상에 누이고 염소 털로 엮은 것을 그 머리에 씌우고 의복으로 그것을 덮었더니
+📖 **민수기 8:1**
+> 등잔을 차려 놓는 방식 여호와께서 또 모세에게 말씀하여 이르시되
 
-🕊️ _업데이트 시각: 2025-12-27 22:43:48 KST_
+🕊️ _업데이트 시각: 2025-12-27 22:50:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
