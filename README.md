@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 11:11**
-> 이튿날 사울이 백성을 삼 대로 나누고 새벽에 적진 한가운데로 들어가서 날이 더울 때까지 암몬 사람들을 치매 남은 자가 다 흩어져서둘도 함께 한 자가 없었더라
+📖 **역대하 30:22**
+> 히스기야는 여호와를 섬기는 일에 능숙한 모든 레위 사람들을 위로하였더라 이와 같이 절기 칠 일 동안에 무리가 먹으며 화목제를 드리고 그의 조상들의 하나님 여호와께 감사하였더라
 
-🕊️ _업데이트 시각: 2025-12-28 17:44:44 KST_
+🕊️ _업데이트 시각: 2025-12-28 17:55:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
