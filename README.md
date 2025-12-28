@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아가 7:11**
-> 내 사랑하는 자야 우리가 함께 들로 가서 동네에서 유숙하자
+📖 **창세기 26:16**
+> 아비멜렉이 이삭에게 이르되 네가 우리보다 크게 강성한즉 우리를 떠나라
 
-🕊️ _업데이트 시각: 2025-12-29 03:44:43 KST_
+🕊️ _업데이트 시각: 2025-12-29 03:55:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
