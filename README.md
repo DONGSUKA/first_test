@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 7:30**
-> 바리새인과 율법교사들은 그의 세례를 받지 아니함으로 그들 자신을 위한 하나님의 뜻을 저버리니라
+📖 **빌립보서 1:3**
+> 빌립보 성도들을 생각하며 간구하다 내가 너희를 생각할 때마다 나의 하나님께 감사하며
 
-🕊️ _업데이트 시각: 2025-12-28 22:02:49 KST_
+🕊️ _업데이트 시각: 2025-12-28 22:34:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
