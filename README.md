@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 34:6**
-> 벳브올 맞은편 모압 땅에 있는 골짜기에 장사되었고 오늘까지 그의 묻힌 곳을 아는 자가 없느니라
+📖 **다니엘 2:42**
+> 그 발가락이 얼마는 쇠요 얼마는 진흙인즉 그 나라가 얼마는 든든하고 얼마는 부서질 만할 것이며
 
-🕊️ _업데이트 시각: 2025-12-29 06:56:50 KST_
+🕊️ _업데이트 시각: 2025-12-29 07:12:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
