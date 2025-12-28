@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 19:6**
-> 그러므로 보라 다시는 이 곳을 도벳이나 힌놈의 아들의 골짜기라 부르지 아니하고 오직 죽임의 골짜기라 부르는 날이 이를 것이라 여호와의 말이니라
+📖 **사도행전 9:28**
+> 사울이 제자들과 함께 있어 예루살렘에 출입하며
 
-🕊️ _업데이트 시각: 2025-12-29 04:40:23 KST_
+🕊️ _업데이트 시각: 2025-12-29 04:46:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
