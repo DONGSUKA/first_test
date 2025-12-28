@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 2:42**
-> 그 발가락이 얼마는 쇠요 얼마는 진흙인즉 그 나라가 얼마는 든든하고 얼마는 부서질 만할 것이며
+📖 **창세기 49:31**
+> 아브라함과 그의 아내 사라가 거기 장사되었고 이삭과 그의 아내 리브가도 거기 장사되었으며 나도 레아를 그 곳에 장사하였노라
 
-🕊️ _업데이트 시각: 2025-12-29 07:12:52 KST_
+🕊️ _업데이트 시각: 2025-12-29 07:33:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
