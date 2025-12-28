@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 44:5**
-> 그들이 듣지 아니하며 귀를 기울이지 아니하고 다른 신들에게 여전히 분향하여 그들의 악에서 돌이키지 아니하였으므로
+📖 **예레미야애가 5:6**
+> 우리가 애굽 사람과 앗수르 사람과 악수하고 양식을 얻어 배불리고자 하였나이다
 
-🕊️ _업데이트 시각: 2025-12-28 13:58:47 KST_
+🕊️ _업데이트 시각: 2025-12-28 14:21:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
