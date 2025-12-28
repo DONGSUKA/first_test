@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 12:43**
-> 유월절 규례 여호와께서 모세와 아론에게 이르시되 유월절 규례는 이러하니라 이방 사람은 먹지 못할 것이나
+📖 **예레미야 34:12**
+> 그러므로 여호와의 말씀이 여호와께로부터 예레미야에게 임하니라 이르시되
 
-🕊️ _업데이트 시각: 2025-12-29 05:54:59 KST_
+🕊️ _업데이트 시각: 2025-12-29 06:08:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
