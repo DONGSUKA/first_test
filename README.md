@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 3:19**
-> 귀 고리와 팔목 고리와 얼굴 가리개와
+📖 **고린도후서 11:33**
+> 나는 광주리를 타고 들창문으로 성벽을 내려가 그 손에서 벗어났노라
 
-🕊️ _업데이트 시각: 2025-12-29 02:43:39 KST_
+🕊️ _업데이트 시각: 2025-12-29 02:49:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
