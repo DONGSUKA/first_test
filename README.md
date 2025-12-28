@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 12:3**
-> 무리가 사람을 보내 그를 불렀더라 여로보암과 이스라엘의 온 회중이 와서 르호보암에게 말하여 이르되
+📖 **이사야 59:12**
+> 이는 우리의 허물이 주의 앞에 심히 많으며 우리의 죄가 우리를 쳐서 증언하오니 이는 우리의 허물이 우리와 함께 있음이니라 우리의 죄악을 우리가 아나이다
 
-🕊️ _업데이트 시각: 2025-12-28 18:11:23 KST_
+🕊️ _업데이트 시각: 2025-12-28 18:31:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
