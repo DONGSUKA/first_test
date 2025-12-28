@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 4:34**
-> 그 중에 가난한 사람이 없으니 이는 밭과 집 있는 자는 팔아 그 판 것의 값을 가져다가
+📖 **요엘 2:22**
+> 들짐승들아 두려워하지 말지어다 들의 풀이 싹이 나며 나무가 열매를 맺으며 무화과나무와 포도나무가 다 힘을 내는도다
 
-🕊️ _업데이트 시각: 2025-12-28 16:09:53 KST_
+🕊️ _업데이트 시각: 2025-12-28 16:30:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
