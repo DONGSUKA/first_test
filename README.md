@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 49:38**
-> 내가 나의 보좌를 엘람에 주고 왕과 고관들을 그 곳에서 멸하리라 여호와의 말씀이니라
+📖 **창세기 41:20**
+> 그 파리하고 흉한 소가 처음의 일곱 살진 소를 먹었으며
 
-🕊️ _업데이트 시각: 2025-12-29 02:55:32 KST_
+🕊️ _업데이트 시각: 2025-12-29 03:15:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
