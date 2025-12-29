@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 2:11**
-> 그 후에 내가 생각해 본즉 내 손으로 한 모든 일과 내가 수고한 모든 것이 다 헛되어 바람을 잡는 것이며 해 아래에서 무익한 것이로다
+📖 **마가복음 6:15**
+> 어떤 이는 그가 엘리야라 하고 또 어떤 이는 그가 선지자니 옛 선지자 중의 하나와 같다 하되
 
-🕊️ _업데이트 시각: 2025-12-30 05:11:08 KST_
+🕊️ _업데이트 시각: 2025-12-30 05:35:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
