@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 14:34**
-> 소금이 좋은 것이나 소금도 만일 그 맛을 잃으면 무엇으로 짜게 하리요
+📖 **출애굽기 12:26**
+> 이 후에 너희의 자녀가 묻기를 이 예식이 무슨 뜻이냐 하거든
 
-🕊️ _업데이트 시각: 2025-12-30 04:36:09 KST_
+🕊️ _업데이트 시각: 2025-12-30 04:43:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
