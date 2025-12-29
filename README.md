@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 6:14**
-> 이르시되 내가 반드시 너에게 복 주고 복 주며 너를 번성하게 하고 번성하게 하리라 하셨더니
+📖 **사도행전 9:15**
+> 주께서 이르시되 가라 이 사람은 내 이름을 이방인과 임금들과 이스라엘 자손들에게 전하기 위하여 택한 나의 그릇이라
 
-🕊️ _업데이트 시각: 2025-12-30 02:57:11 KST_
+🕊️ _업데이트 시각: 2025-12-30 03:22:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
