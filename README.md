@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 1:17**
-> 그러나 산파들이 하나님을 두려워하여 애굽 왕의 명령을 어기고 남자 아기들을 살린지라
+📖 **고린도전서 12:23**
+> 우리가 몸의 덜 귀히 여기는 그것들을 더욱 귀한 것들로 입혀 주며 우리의 아름답지 못한 지체는 더욱 아름다운 것을 얻느니라 그런즉
 
-🕊️ _업데이트 시각: 2025-12-29 18:44:46 KST_
+🕊️ _업데이트 시각: 2025-12-29 18:56:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
