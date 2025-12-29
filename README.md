@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 22:15**
-> 아이의 마음에는 미련한 것이 얽혔으나 징계하는 채찍이 이를 멀리 쫓아내리라
+📖 **데살로니가전서 5:11**
+> 그러므로 피차 권면하고 서로 덕을 세우기를 너희가 하는 것 같이 하라
 
-🕊️ _업데이트 시각: 2025-12-29 20:56:21 KST_
+🕊️ _업데이트 시각: 2025-12-29 21:27:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
