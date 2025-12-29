@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **데살로니가후서 1:2**
-> 하나님 아버지와 주 예수 그리스도로부터 은혜와 평강이 너희에게 있을지어다
+📖 **요한복음 13:19**
+> 지금부터 일이 일어나기 전에 미리 너희에게 일러 둠은 일이 일어날 때에 내가 그인 줄 너희가 믿게 하려 함이로라
 
-🕊️ _업데이트 시각: 2025-12-30 03:48:21 KST_
+🕊️ _업데이트 시각: 2025-12-30 03:59:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
