@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 92:7**
-> 악인들은 풀 같이 자라고 악을 행하는 자들은 다 흥왕할지라도 영원히 멸망하리이다
+📖 **창세기 21:26**
+> 아비멜렉이 이르되 누가 그리하였는지 내가 알지 못하노라 너도 내게 알리지 아니하였고 나도 듣지 못하였더니 오늘에야 들었노라
 
-🕊️ _업데이트 시각: 2025-12-29 22:59:01 KST_
+🕊️ _업데이트 시각: 2025-12-29 23:19:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
