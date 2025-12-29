@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 45:2**
-> 바룩아 이스라엘의 하나님 여호와께서 네게 이같이 말씀하셨느니라
+📖 **잠언 19:26**
+> 아비를 구박하고 어미를 쫓아내는 자는 부끄러움을 끼치며 능욕을 부르는 자식이니라
 
-🕊️ _업데이트 시각: 2025-12-30 01:44:41 KST_
+🕊️ _업데이트 시각: 2025-12-30 01:56:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
