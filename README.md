@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 6:30**
-> 도둑이 만일 주릴 때에 배를 채우려고 도둑질하면 사람이 그를 멸시하지는 아니하려니와
+📖 **열왕기하 18:30**
+> 또한 히스기야가 너희에게 여호와를 의뢰하라 함을 듣지 말라 그가 이르기를 여호와께서 반드시 우리를 건지실지라 이 성읍이 앗수르왕의 손에 함락되지 아니하게 하시리라 할지라도
 
-🕊️ _업데이트 시각: 2025-12-30 06:10:21 KST_
+🕊️ _업데이트 시각: 2025-12-30 06:28:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
