@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 12:20**
-> 칠 형제가 있었는데 맏이가 아내를 취하였다가 상속자가 없이 죽고
+📖 **히브리서 6:14**
+> 이르시되 내가 반드시 너에게 복 주고 복 주며 너를 번성하게 하고 번성하게 하리라 하셨더니
 
-🕊️ _업데이트 시각: 2025-12-30 02:51:22 KST_
+🕊️ _업데이트 시각: 2025-12-30 02:57:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
