@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 10:11**
-> 그들에게 일어난 이런 일은 본보기가 되고 또한 말세를 만난 우리를 깨우치기 위하여 기록되었느니라
+📖 **역대하 35:12**
+> 그 번제물을 옮겨 족속의 서열대로 모든 백성에게 나누어 모세의 책에 기록된 대로 여호와께 드리게 하고 소도 그와 같이 하고
 
-🕊️ _업데이트 시각: 2025-12-31 00:40:08 KST_
+🕊️ _업데이트 시각: 2025-12-31 00:51:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
