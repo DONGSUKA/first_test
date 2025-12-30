@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 21:20**
-> 칼이 암몬 족속의 랍바에 이르는 길과 유다의 견고한 성 예루살렘에 이르는 길을 그리라
+📖 **에스겔 10:4**
+> 여호와의 영광이 그룹에서 올라와 성전 문지방에 이르니 구름이 성전에 가득하며 여호와의 영화로운 광채가 뜰에 가득하였고
 
-🕊️ _업데이트 시각: 2025-12-30 12:11:26 KST_
+🕊️ _업데이트 시각: 2025-12-30 13:07:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
