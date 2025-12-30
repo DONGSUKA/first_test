@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 5:4**
-> 여호와를 찾으라 여호와께서 이스라엘 족속에게 이와 같이 말씀하시기를 너희는 나를 찾으라 그리하면 살리라
+📖 **창세기 37:16**
+> 그가 이르되 내가 내 형들을 찾으오니 청하건대 그들이 양치는 곳을 내게 가르쳐 주소서
 
-🕊️ _업데이트 시각: 2025-12-30 22:22:43 KST_
+🕊️ _업데이트 시각: 2025-12-30 22:49:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
