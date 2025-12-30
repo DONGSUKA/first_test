@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 21:6**
-> 그 피살된 곳에서 제일 가까운 성읍의 모든 장로들은 그 골짜기에서 목을 꺾은 암송아지 위에 손을 씻으며
+📖 **시편 65:4**
+> 주께서 택하시고 가까이 오게 하사 주의 뜰에 살게 하신 사람은 복이 있나이다 우리가 주의 집 곧 주의 성전의 아름다움으로 만족하리이다
 
-🕊️ _업데이트 시각: 2025-12-31 04:38:33 KST_
+🕊️ _업데이트 시각: 2025-12-31 04:44:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
