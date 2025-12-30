@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 15:16**
-> 사무엘이 사울에게 이르되 가만히 계시옵소서 간 밤에 여호와께서 내게 이르신 것을 왕에게 말하리이다 하니 그가 이르되 말씀하소서
+📖 **이사야 10:14**
+> 내 손으로 열국의 재물을 얻은 것은 새의 보금자리를 얻음 같고 온 세계를 얻은 것은 내버린 알을 주움 같았으나 날개를 치거나 입을 벌리거나 지저귀는 것이 하나도 없었다 하는도다
 
-🕊️ _업데이트 시각: 2025-12-31 02:55:35 KST_
+🕊️ _업데이트 시각: 2025-12-31 03:17:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
