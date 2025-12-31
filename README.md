@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 21:17**
-> 또 베냐민 지파 중에서는 기브온과 그 목초지와 게바와 그 목초지와
+📖 **고린도전서 7:22**
+> 주 안에서 부르심을 받은 자는 종이라도 주께 속한 자유인이요 또 그와 같이 자유인으로 있을 때에 부르심을 받은 자는 그리스도의종이니라
 
-🕊️ _업데이트 시각: 2026-01-01 03:45:40 KST_
+🕊️ _업데이트 시각: 2026-01-01 03:57:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
