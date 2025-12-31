@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 19:30**
-> 므비보셋이 왕께 아뢰되 내 주 왕께서 평안히 왕궁에 돌아오시게 되었으니 그로 그 전부를 차지하게 하옵소서 하니라
+📖 **다니엘 2:22**
+> 그는 깊고 은밀한 일을 나타내시고 어두운 데에 있는 것을 아시며 또 빛이 그와 함께 있도다
 
-🕊️ _업데이트 시각: 2025-12-31 18:02:02 KST_
+🕊️ _업데이트 시각: 2025-12-31 18:30:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
