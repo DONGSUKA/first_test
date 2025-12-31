@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 5:14**
-> 또 느부갓네살이 예루살렘 하나님의 성전 안에서 금, 은 그릇을 옮겨다가 바벨론 신당에 두었던 것을 고레스 왕이 그 신당에서 꺼내어그가 세운 총독 세스바살이라고 부르는 자에게 내주고
+📖 **마태복음 6:25**
+> 그러므로 내가 너희에게 이르노니 목숨을 위하여 무엇을 먹을까 무엇을 마실까 몸을 위하여 무엇을 입을까 염려하지 말라 목숨이 음식보다 중하지 아니하며 몸이 의복보다 중하지 아니하냐
 
-🕊️ _업데이트 시각: 2025-12-31 16:59:15 KST_
+🕊️ _업데이트 시각: 2025-12-31 17:28:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
