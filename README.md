@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 6:25**
-> 그러므로 내가 너희에게 이르노니 목숨을 위하여 무엇을 먹을까 무엇을 마실까 몸을 위하여 무엇을 입을까 염려하지 말라 목숨이 음식보다 중하지 아니하며 몸이 의복보다 중하지 아니하냐
+📖 **창세기 9:23**
+> 셈과 야벳이 옷을 가져다가 자기들의 어깨에 메고 뒷걸음쳐 들어가서 그들의 아버지의 하체를 덮었으며 그들이 얼굴을 돌이키고 그들의아버지의 하체를 보지 아니하였더라
 
-🕊️ _업데이트 시각: 2025-12-31 17:28:32 KST_
+🕊️ _업데이트 시각: 2025-12-31 17:51:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
