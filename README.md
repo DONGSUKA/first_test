@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 140:11**
-> 악담하는 자는 세상에서 굳게 서지 못하며 포악한 자는 재앙이 따라서 패망하게 하리이다
+📖 **로마서 9:17**
+> 성경이 바로에게 이르시되 내가 이 일을 위하여 너를 세웠으니 곧 너로 말미암아 내 능력을 보이고 내 이름이 온 땅에 전파되게 하려 함이라 하셨으니
 
-🕊️ _업데이트 시각: 2026-01-01 08:47:37 KST_
+🕊️ _업데이트 시각: 2026-01-01 08:53:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
