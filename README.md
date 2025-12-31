@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 7:15**
-> 여호와께서 또 모든 질병을 네게서 멀리 하사 너희가 아는 애굽의 악질에 걸리지 않게 하시고 너를 미워하는 모든 자에게 걸리게 하실 것이라
+📖 **창세기 38:24**
+> 석 달쯤 후에 어떤 사람이 유다에게 일러 말하되 네 며느리 다말이 행음하였고 그 행음함으로 말미암아 임신하였느니라 유다가 이르되그를 끌어내어 불사르라
 
-🕊️ _업데이트 시각: 2026-01-01 01:43:14 KST_
+🕊️ _업데이트 시각: 2026-01-01 01:55:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
