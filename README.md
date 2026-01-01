@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 24:10**
-> 그들이 옷이 없어 벌거벗고 다니며 곡식 이삭을 나르나 굶주리고
+📖 **이사야 26:10**
+> 악인은 은총을 입을지라도 의를 배우지 아니하며 정직한 자의 땅에서 불의를 행하고 여호와의 위엄을 돌아보지 아니하는도다
 
-🕊️ _업데이트 시각: 2026-01-02 06:59:16 KST_
+🕊️ _업데이트 시각: 2026-01-02 07:19:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
