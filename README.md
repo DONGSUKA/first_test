@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 69:33**
-> 여호와는 궁핍한 자의 소리를 들으시며 자기로 말미암아 갇힌 자를 멸시하지 아니하시나니
+📖 **역대상 11:33**
+> 바하룸 사람 아스마?과 사알본 사람 엘리아바와
 
-🕊️ _업데이트 시각: 2026-01-01 14:59:22 KST_
+🕊️ _업데이트 시각: 2026-01-01 15:33:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
