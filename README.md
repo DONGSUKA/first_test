@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 4:18**
-> 우리가 주목하는 것은 보이는 것이 아니요 보이지 않는 것이니 보이는 것은 잠깐이요 보이지 않는 것은 영원함이라
+📖 **에베소서 4:10**
+> 내리셨던 그가 곧 모든 하늘 위에 오르신 자니 이는 만물을 충만하게 하려 하심이라
 
-🕊️ _업데이트 시각: 2026-01-02 00:37:02 KST_
+🕊️ _업데이트 시각: 2026-01-02 00:47:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
