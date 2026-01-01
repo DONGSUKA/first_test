@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 4:41**
-> 그들이 심히 두려워하여 서로 말하되 그가 누구이기에 바람과 바다도 순종하는가 하였더라
+📖 **잠언 10:20**
+> 의인의 혀는 순은과 같거니와 악인의 마음은 가치가 적으니라
 
-🕊️ _업데이트 시각: 2026-01-01 23:46:29 KST_
+🕊️ _업데이트 시각: 2026-01-01 23:53:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
