@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 2:12**
-> 지혜자나 우매자나 내가 돌이켜 지혜와 망령됨과 어리석음을 보았나니 왕 뒤에 오는 자는 무슨 일을 행할까 이미 행한 지 오래 전의 일일뿐이리라
+📖 **예레미야 8:13**
+> 여호와의 말씀이니라 내가 그들을 진멸하리니 포도나무에 포도가 없을 것이며 무화과나무에 무화과가 없을 것이며 그 잎사귀가 마를 것이라 내가 그들에게 준 것이 없어지리라 하셨나니
 
-🕊️ _업데이트 시각: 2026-01-02 08:41:48 KST_
+🕊️ _업데이트 시각: 2026-01-02 08:49:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
