@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 26:10**
-> 악인은 은총을 입을지라도 의를 배우지 아니하며 정직한 자의 땅에서 불의를 행하고 여호와의 위엄을 돌아보지 아니하는도다
+📖 **창세기 42:22**
+> 르우벤이 그들에게 대답하여 이르되 내가 너희에게 그 아이에 대하여 죄를 짓지 말라고 하지 아니하였더냐 그래도 너희가 듣지 아니하였느니라 그러므로 그의 핏값을 치르게 되었도다 하니
 
-🕊️ _업데이트 시각: 2026-01-02 07:19:12 KST_
+🕊️ _업데이트 시각: 2026-01-02 07:38:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
