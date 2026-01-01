@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 4:6**
-> 레갑과 그의 형제 바아나가 밀을 가지러 온 체하고 집 가운데로 들어가서 그의 배를 찌르고 도망하였더라
+📖 **요한복음 19:9**
+> 다시 관정에 들어가서 예수께 말하되 너는 어디로부터냐 하되 예수께서 대답하여 주지 아니하시는지라
 
-🕊️ _업데이트 시각: 2026-01-01 16:58:42 KST_
+🕊️ _업데이트 시각: 2026-01-01 17:26:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
