@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 11:22**
-> 그러나 나는 이제라도 주께서 무엇이든지 하나님께 구하시는 것을 하나님이 주실 줄을 아나이다
+📖 **로마서 10:2**
+> 내가 증언하노니 그들이 하나님께 열심이 있으나 올바른 지식을 따른 것이 아니니라
 
-🕊️ _업데이트 시각: 2026-01-02 17:25:09 KST_
+🕊️ _업데이트 시각: 2026-01-02 17:48:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
