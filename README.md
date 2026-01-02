@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 11:11**
-> 그들은 애굽에서부터 새 같이, 앗수르에서부터 비둘기 같이 떨며 오리니 내가 그들을 그들의 집에 머물게 하리라 나 여호와의 말이니라
+📖 **욥기 5:6**
+> 재난은 티끌에서 일어나는 것이 아니며 고생은 흙에서 나는 것이 아니니라
 
-🕊️ _업데이트 시각: 2026-01-03 05:46:47 KST_
+🕊️ _업데이트 시각: 2026-01-03 05:53:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
