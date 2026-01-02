@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 4:5**
-> 보좌로부터 번개와 음성과 우렛소리가 나고 보좌 앞에 켠 등불 일곱이 있으니 이는 하나님의 일곱 영이라
+📖 **잠언 8:24**
+> 아직 바다가 생기지 아니하였고 큰 샘들이 있기 전에 내가 이미 났으며
 
-🕊️ _업데이트 시각: 2026-01-02 18:30:12 KST_
+🕊️ _업데이트 시각: 2026-01-02 18:46:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
