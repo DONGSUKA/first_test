@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 5:11**
-> 여호와의 말씀이니라 이스라엘의 집과 유다의 집이 내게 심히 반역하였느니라
+📖 **출애굽기 2:9**
+> 바로의 딸이 그에게 이르되 이 아기를 데려다가 나를 위하여 젖을 먹이라 내가 그 삯을 주리라 여인이 아기를 데려다가 젖을 먹이더니
 
-🕊️ _업데이트 시각: 2026-01-03 22:47:06 KST_
+🕊️ _업데이트 시각: 2026-01-03 22:53:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
