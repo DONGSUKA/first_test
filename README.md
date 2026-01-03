@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 30:7**
-> 여호와여 주의 은혜로 나를 산 같이 굳게 세우셨더니 주의 얼굴을 가리시매 내가 근심하였나이다
+📖 **스바냐 2:12**
+> 구스 사람들아 너희도 내 칼에 죽임을 당하리라
 
-🕊️ _업데이트 시각: 2026-01-03 23:34:51 KST_
+🕊️ _업데이트 시각: 2026-01-03 23:45:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
