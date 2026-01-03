@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 17:24**
-> 우주와 그 가운데 있는 만물을 지으신 하나님께서는 천지의 주재시니 손으로 지은 전에 계시지 아니하시고
+📖 **사사기 20:36**
+> 이스라엘이 승리한 방법 이에 베냐민 자손이 자기가 패한 것을 깨달았으니 이는 이스라엘 사람이 기브아에 매복한 군사를 믿고 잠깐 베냐민 사람 앞을 피하매
 
-🕊️ _업데이트 시각: 2026-01-04 05:34:06 KST_
+🕊️ _업데이트 시각: 2026-01-04 05:46:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
