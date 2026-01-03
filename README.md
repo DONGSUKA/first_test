@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 2:2**
-> 내가 모압에 불을 보내리니 그리욧 궁궐들을 사르리라 모압이 요란함과 외침과 나팔 소리 중에서 죽을 것이라
+📖 **요한계시록 12:8**
+> 이기지 못하여 다시 하늘에서 그들이 있을 곳을 얻지 못한지라
 
-🕊️ _업데이트 시각: 2026-01-03 19:59:18 KST_
+🕊️ _업데이트 시각: 2026-01-03 20:16:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
