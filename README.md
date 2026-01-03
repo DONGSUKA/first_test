@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 20:36**
-> 이스라엘이 승리한 방법 이에 베냐민 자손이 자기가 패한 것을 깨달았으니 이는 이스라엘 사람이 기브아에 매복한 군사를 믿고 잠깐 베냐민 사람 앞을 피하매
+📖 **신명기 12:19**
+> 너는 삼가 네 땅에 거주하는 동안에 레위인을 저버리지 말지니라
 
-🕊️ _업데이트 시각: 2026-01-04 05:46:06 KST_
+🕊️ _업데이트 시각: 2026-01-04 05:52:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
