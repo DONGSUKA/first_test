@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 30:2**
-> 야곱이 라헬에게 성을 내어 이르되 그대를 임신하지 못하게 하시는 이는 하나님이시니 내가 하나님을 대신하겠느냐
+📖 **에스겔 5:12**
+> 너희 가운데에서 삼분의 일은 전염병으로 죽으며 기근으로 멸망할 것이요 삼분의 일은 너의 사방에서 칼에 엎드러질 것이며 삼분의 일은내가 사방에 흩어 버리고 또 그 뒤를 따라 가며 칼을 빼리라
 
-🕊️ _업데이트 시각: 2026-01-04 02:13:37 KST_
+🕊️ _업데이트 시각: 2026-01-04 02:30:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
