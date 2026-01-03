@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 8:51**
-> 그들은 주께서 철 풀무 같은 애굽에서 인도하여 내신 주의 백성, 주의 소유가 됨이니이다
+📖 **잠언 31:31**
+> 그 손의 열매가 그에게로 돌아갈 것이요 그 행한 일로 말미암아 성문에서 칭찬을 받으리라
 
-🕊️ _업데이트 시각: 2026-01-04 08:42:50 KST_
+🕊️ _업데이트 시각: 2026-01-04 08:49:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
