@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 9:21**
-> 무리에게 이르되 그들을 살리라 하니 족장들이 그들에게 이른 대로 그들이 온 회중을 위하여 나무를 패며 물을 긷는 자가 되었더라
+📖 **에스겔 24:6**
+> 그러므로 주 여호와께서 이같이 말씀하셨느니라 피를 흘린 성읍, 녹슨 가마 곧 그 속의 녹을 없이하지 아니한 가마여 화 있을진저 제비뽑을 것도 없이 그 덩이를 하나하나 꺼낼지어다
 
-🕊️ _업데이트 시각: 2026-01-03 22:02:36 KST_
+🕊️ _업데이트 시각: 2026-01-03 22:34:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
