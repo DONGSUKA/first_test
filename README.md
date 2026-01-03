@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스바냐 2:12**
-> 구스 사람들아 너희도 내 칼에 죽임을 당하리라
+📖 **오바댜 1:3**
+> 너의 마음의 교만이 너를 속였도다 바위 틈에 거주하며 높은 곳에 사는 자여 네가 마음에 이르기를 누가 능히 나를 땅에 끌어내리겠느냐하니
 
-🕊️ _업데이트 시각: 2026-01-03 23:45:55 KST_
+🕊️ _업데이트 시각: 2026-01-03 23:52:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
