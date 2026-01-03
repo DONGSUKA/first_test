@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 7:2**
-> 그 때에 왕이 그의 손에 의지하는 자 곧 한 장관이 하나님의 사람에게 대답하여 이르되 여호와께서 하늘에 창을 내신들 어찌 이런 일이있으리요 하더라 엘리사가 이르되 네가 네 눈으로 보리라 그러나 그것을 먹지는 못하리라 하니라
+📖 **역대하 9:8**
+> 당신의 하나님 여호와를 송축할지로다 하나님이 당신을 기뻐하시고 그 자리에 올리사 당신의 하나님 여호와를 위하여 왕이 되게 하셨도다당신의 하나님이 이스라엘을 사랑하사 영원히 견고하게 하시려고 당신을 세워 그들의 왕으로 삼아 정의와 공의를 행하게 하셨도다 하고
 
-🕊️ _업데이트 시각: 2026-01-04 07:47:06 KST_
+🕊️ _업데이트 시각: 2026-01-04 07:53:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
