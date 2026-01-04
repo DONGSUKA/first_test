@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 5:25**
-> 이와 같이 선행도 밝히 드러나고 그렇지 아니한 것도 숨길 수 없느니라
+📖 **요한복음 7:43**
+> 예수로 말미암아 무리 중에서 쟁론이 되니
 
-🕊️ _업데이트 시각: 2026-01-05 00:48:21 KST_
+🕊️ _업데이트 시각: 2026-01-05 00:55:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
