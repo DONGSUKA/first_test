@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 29:18**
-> 내가 칼과 기근과 전염병으로 그들을 뒤따르게 하며 그들을 세계 여러 나라 가운데에 흩어 학대를 당하게 할 것이며 내가 그들을 쫓아낸 나라들 가운데에서 저주와 경악과 조소와 수모의 대상이 되게 하리라
+📖 **신명기 29:20**
+> 여호와는 이런 자를 사하지 않으실 뿐 아니라 그 위에 여호와의 분노와 질투의 불을 부으시며 또 이 책에 기록된 모든 저주를 그에게 더하실 것이라 여호와께서 그의 이름을 천하에서 지워버리시되
 
-🕊️ _업데이트 시각: 2026-01-05 05:48:28 KST_
+🕊️ _업데이트 시각: 2026-01-05 05:55:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
