@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 61:7**
-> 너희가 수치 대신에 보상을 배나 얻으며 능욕 대신에 몫으로 말미암아 즐거워할 것이라 그리하여 그들의 땅에서 갑절이나 얻고 영원한 기쁨이 있으리라
+📖 **신명기 28:48**
+> 네가 주리고 목마르고 헐벗고 모든 것이 부족한 중에서 여호와께서 보내사 너를 치게 하실 적군을 섬기게 될 것이니 그가 철 멍에를 네목에 메워 마침내 너를 멸할 것이라
 
-🕊️ _업데이트 시각: 2026-01-05 04:57:33 KST_
+🕊️ _업데이트 시각: 2026-01-05 05:17:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
