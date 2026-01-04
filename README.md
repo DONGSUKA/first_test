@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 1:20**
-> 보라 내가 너희에게 쓰는 것은 하나님 앞에서 거짓말이 아니로다
+📖 **창세기 15:15**
+> 너는 장수하다가 평안히 조상에게로 돌아가 장사될 것이요
 
-🕊️ _업데이트 시각: 2026-01-04 19:58:03 KST_
+🕊️ _업데이트 시각: 2026-01-04 20:13:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
