@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 45:16**
-> 요셉의 형들이 왔다는 소문이 바로의 궁에 들리매 바로와 그의 신하들이 기뻐하고
+📖 **다니엘 2:26**
+> 왕이 대답하여 벨드사살이라 이름한 다니엘에게 이르되 내가 꾼 꿈과 그 해석을 네가 능히 내게 알게 하겠느냐 하니
 
-🕊️ _업데이트 시각: 2026-01-04 20:35:59 KST_
+🕊️ _업데이트 시각: 2026-01-04 20:43:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
