@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데후서 4:20**
-> 에라스도는 고린도에 머물러 있고 드로비모는 병들어서 밀레도에 두었노니
+📖 **예레미야 29:18**
+> 내가 칼과 기근과 전염병으로 그들을 뒤따르게 하며 그들을 세계 여러 나라 가운데에 흩어 학대를 당하게 할 것이며 내가 그들을 쫓아낸 나라들 가운데에서 저주와 경악과 조소와 수모의 대상이 되게 하리라
 
-🕊️ _업데이트 시각: 2026-01-05 05:37:03 KST_
+🕊️ _업데이트 시각: 2026-01-05 05:48:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
