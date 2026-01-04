@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 8:6**
-> 너희는 들을지어다 내가 가장 선한 것을 말하리라 내 입술을 열어 정직을 내리라
+📖 **예레미야 51:61**
+> 스라야에게 말하기를 너는 바벨론에 이르거든 삼가 이 모든 말씀을 읽고
 
-🕊️ _업데이트 시각: 2026-01-04 19:46:05 KST_
+🕊️ _업데이트 시각: 2026-01-04 19:52:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
