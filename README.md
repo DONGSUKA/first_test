@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 17:24**
-> 아브라함이 그의 포피를 벤 때는 구십구 세였고
+📖 **마가복음 13:2**
+> 예수께서 이르시되 네가 이 큰 건물들을 보느냐 돌 하나도 돌 위에 남지 않고 다 무너뜨려지리라 하시니라
 
-🕊️ _업데이트 시각: 2026-01-05 02:55:23 KST_
+🕊️ _업데이트 시각: 2026-01-05 03:14:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
