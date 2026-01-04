@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 47:15**
-> 이 땅 경계선은 이러하니라 북쪽은 대해에서 헤들론 길을 거쳐 스닷 어귀까지니
+📖 **에스겔 21:20**
+> 칼이 암몬 족속의 랍바에 이르는 길과 유다의 견고한 성 예루살렘에 이르는 길을 그리라
 
-🕊️ _업데이트 시각: 2026-01-05 06:57:22 KST_
+🕊️ _업데이트 시각: 2026-01-05 07:14:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
