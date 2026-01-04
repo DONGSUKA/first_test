@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 38:30**
-> 이것으로 회막 문 기둥 받침과 놋 제단과 놋 그물과 제단의 모든 기구를 만들었으며
+📖 **창세기 26:18**
+> 그 아버지 아브라함 때에 팠던 우물들을 다시 팠으니 이는 아브라함이 죽은 후에 블레셋 사람이 그 우물들을 메웠음이라 이삭이 그 우물들의 이름을 그의 아버지가 부르던 이름으로 불렀더라
 
-🕊️ _업데이트 시각: 2026-01-04 14:55:10 KST_
+🕊️ _업데이트 시각: 2026-01-04 15:15:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
