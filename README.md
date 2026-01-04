@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 13:7**
-> 하나님의 궤를 새 수레에 싣고 아비나답의 집에서 나오는데 웃사와 아히오는 수레를 몰며
+📖 **창세기 35:10**
+> 하나님이 그에게 이르시되 네 이름이 야곱이지마는 네 이름을 다시는 야곱이라 부르지 않겠고 이스라엘이 네 이름이 되리라 하시고 그가그의 이름을 이스라엘이라 부르시고
 
-🕊️ _업데이트 시각: 2026-01-05 04:39:45 KST_
+🕊️ _업데이트 시각: 2026-01-05 04:45:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
