@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 12:39**
-> 그들이 애굽으로부터 가지고 나온 발교되지 못한 반죽으로 무교병을 구웠으니 이는 그들이 애굽에서 쫓겨나므로 지체할 수 없었음이며아무 양식도 준비하지 못하였음이었더라
+📖 **느헤미야 9:24**
+> 그 자손이 들어가서 땅을 차지하되 주께서 그 땅 가나안 주민들이 그들 앞에 복종하게 하실 때에 가나안 사람들과 그들의 왕들과 본토여러 족속들을 그들의 손에 넘겨 임의로 행하게 하시매
 
-🕊️ _업데이트 시각: 2026-01-04 17:55:48 KST_
+🕊️ _업데이트 시각: 2026-01-04 18:10:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
