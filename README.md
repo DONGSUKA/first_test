@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:19**
-> 너희는 지혜로운 자로서 어리석은 자들을 기쁘게 용납하는구나
+📖 **창세기 7:19**
+> 물이 땅에 더욱 넘치매 천하의 높은 산이 다 잠겼더니
 
-🕊️ _업데이트 시각: 2026-01-04 20:54:51 KST_
+🕊️ _업데이트 시각: 2026-01-04 21:17:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
