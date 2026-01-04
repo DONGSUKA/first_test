@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 10:20**
-> 갓 자손 지파의 군대는 드우엘의 아들 엘리아삽이 이끌었더라
+📖 **역대하 29:8**
+> 여호와께서 유다와 예루살렘에 진노하시고 내버리사 두려움과 놀람과 비웃음거리가 되게 하신 것을 너희가 똑똑히 보는 바라
 
-🕊️ _업데이트 시각: 2026-01-04 22:32:39 KST_
+🕊️ _업데이트 시각: 2026-01-04 22:47:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
