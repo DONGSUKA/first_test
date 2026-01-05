@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 18:2**
-> 엘리야가 아합에게 보이려고 가니 그 때에 사마리아에 기근이 심하였더라
+📖 **시편 139:20**
+> 그들이 주를 대하여 악하게 말하며 주의 원수들이 주의 이름으로 헛되이 맹세하나이다
 
-🕊️ _업데이트 시각: 2026-01-05 15:01:54 KST_
+🕊️ _업데이트 시각: 2026-01-05 15:49:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
