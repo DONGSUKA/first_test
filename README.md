@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 5:10**
-> 두렵건대 타인이 네 재물로 충족하게 되며 네 수고한 것이 외인의 집에 있게 될까 하노라
+📖 **예레미야 7:22**
+> 사실은 내가 너희 조상들을 애굽 땅에서 인도하여 낸 날에 번제나 희생에 대하여 말하지 아니하며 명령하지 아니하고
 
-🕊️ _업데이트 시각: 2026-01-05 16:18:01 KST_
+🕊️ _업데이트 시각: 2026-01-05 16:43:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
