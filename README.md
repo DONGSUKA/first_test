@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 49:9**
-> 내가 잡혀 있는 자에게 이르기를 나오라 하며 흑암에 있는 자에게 나타나라 하리라 그들이 길에서 먹겠고 모든 헐벗은 산에도 그들의 풀밭이 있을 것인즉
+📖 **에베소서 4:22**
+> 너희는 유혹의 욕심을 따라 썩어져 가는 구습을 따르는 옛 사람을 벗어 버리고
 
-🕊️ _업데이트 시각: 2026-01-05 16:54:57 KST_
+🕊️ _업데이트 시각: 2026-01-05 17:17:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
