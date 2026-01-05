@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 40:38**
-> 안뜰 북쪽 문의 부속 건물들 그 문 벽 곁에 문이 있는 방이 있는데 그것은 번제물을 씻는 방이며
+📖 **사도행전 11:8**
+> 내가 이르되 주님 그럴 수 없나이다 속되거나 깨끗하지 아니한 것은 결코 내 입에 들어간 일이 없나이다 하니
 
-🕊️ _업데이트 시각: 2026-01-06 06:57:27 KST_
+🕊️ _업데이트 시각: 2026-01-06 07:15:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
