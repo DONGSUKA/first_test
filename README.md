@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 7:10**
-> 그 모든 환난에서 건져내사 애굽 왕 바로 앞에서 은총과 지혜를 주시매 바로가 그를 애굽과 자기 온 집의 통치자로 세웠느니라
+📖 **예레미야 34:14**
+> 너희 형제 히브리 사람이 네게 팔려 왔거든 너희는 칠 년 되는 해에 그를 놓아 줄 것이니라 그가 육 년 동안 너를 섬겼은즉 그를 놓아자유롭게 할지니라 하였으나 너희 선조가 내게 순종하지 아니하며 귀를 기울이지도 아니하였느니라
 
-🕊️ _업데이트 시각: 2026-01-05 19:48:15 KST_
+🕊️ _업데이트 시각: 2026-01-05 19:59:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
