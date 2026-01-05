@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 14:20**
-> 삼손의 아내는 삼손의 친구였던 그의 친구에게 준 바 되었더라
+📖 **히브리서 10:6**
+> 번제와 속죄제는 기뻐하지 아니하시나니
 
-🕊️ _업데이트 시각: 2026-01-05 18:48:10 KST_
+🕊️ _업데이트 시각: 2026-01-05 18:59:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
