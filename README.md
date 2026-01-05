@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 41:4**
-> 어찌 그것이 너와 계약을 맺고 너는 그를 영원히 종으로 삼겠느냐
+📖 **민수기 19:19**
+> 그 정결한 자가 셋째 날과 일곱째 날에 그 부정한 자에게 뿌려서 일곱째 날에 그를 정결하게 할 것이며 그는 자기 옷을 빨고 물로 몸을씻을 것이라 저녁이면 정결하리라
 
-🕊️ _업데이트 시각: 2026-01-06 04:29:28 KST_
+🕊️ _업데이트 시각: 2026-01-06 04:40:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
