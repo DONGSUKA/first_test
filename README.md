@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 39:3**
-> 그것들은 몸을 구푸리고 새끼를 낳으니 그 괴로움이 지나가고
+📖 **창세기 41:25**
+> 요셉이 바로에게 아뢰되 바로의 꿈은 하나라 하나님이 그가 하실 일을 바로에게 보이심이니이다
 
-🕊️ _업데이트 시각: 2026-01-06 02:50:31 KST_
+🕊️ _업데이트 시각: 2026-01-06 02:57:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
