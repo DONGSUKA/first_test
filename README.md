@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 21:26**
-> 사람들이 만국의 영광과 존귀를 가지고 그리로 들어가겠고
+📖 **시편 10:11**
+> 그가 그의 마음에 이르기를 하나님이 잊으셨고 그의 얼굴을 가리셨으니 영원히 보지 아니하시리라 하나이다
 
-🕊️ _업데이트 시각: 2026-01-07 05:23:05 KST_
+🕊️ _업데이트 시각: 2026-01-07 05:41:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
