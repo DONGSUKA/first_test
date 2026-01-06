@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:64**
-> 속죄제물로 숫염소 한 마리이며
+📖 **디도서 1:2**
+> 영생의 소망을 위함이라 이 영생은 거짓이 없으신 하나님이 영원 전부터 약속하신 것인데
 
-🕊️ _업데이트 시각: 2026-01-07 06:52:28 KST_
+🕊️ _업데이트 시각: 2026-01-07 06:58:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
