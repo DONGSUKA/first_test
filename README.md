@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 90:8**
-> 주께서 우리의 죄악을 주의 앞에 놓으시며 우리의 은밀한 죄를 주의 얼굴 빛 가운데에 두셨사오니
+📖 **고린도전서 9:7**
+> 누가 자기 비용으로 군 복무를 하겠느냐 누가 포도를 심고 그 열매를 먹지 않겠느냐 누가 양 떼를 기르고 그 양 떼의 젖을 먹지 않겠느냐
 
-🕊️ _업데이트 시각: 2026-01-07 04:29:59 KST_
+🕊️ _업데이트 시각: 2026-01-07 04:39:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
