@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 25:29**
-> 그 죄수의 의복을 벗게 하고 그의 일평생에 항상 왕의 앞에서 양식을 먹게 하였고
+📖 **시편 119:92**
+> 주의 법이 나의 즐거움이 되지 아니하였더면 내가 내 고난 중에 멸망하였으리이다
 
-🕊️ _업데이트 시각: 2026-01-06 08:55:31 KST_
+🕊️ _업데이트 시각: 2026-01-06 09:54:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
