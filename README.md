@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 8:2**
-> 내가 보니 불 같은 형상이 있더라 그 허리 아래의 모양은 불 같고 허리 위에는 광채가 나서 단 쇠 같은데
+📖 **요나 3:7**
+> 왕과 그의 대신들이 조서를 내려 니느웨에 선포하여 이르되 사람이나 짐승이나 소 떼나 양 떼나 아무것도 입에 대지 말지니 곧 먹지도 말 것이요 물도 마시지 말 것이며
 
-🕊️ _업데이트 시각: 2026-01-06 13:29:42 KST_
+🕊️ _업데이트 시각: 2026-01-06 13:57:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
