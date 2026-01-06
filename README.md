@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 11:32**
-> 데라는 나이가 이백오 세가 되어 하란에서 죽었더라
+📖 **요한일서 3:24**
+> 그의 계명을 지키는 자는 주 안에 거하고 주는 그의 안에 거하시나니 우리에게 주신 성령으로 말미암아 그가 우리 안에 거하시는 줄을우리가 아느니라
 
-🕊️ _업데이트 시각: 2026-01-07 07:52:06 KST_
+🕊️ _업데이트 시각: 2026-01-07 07:57:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
