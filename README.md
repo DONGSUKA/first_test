@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디도서 3:15**
-> 나와 함께 있는 자가 다 네게 문안하니 믿음 안에서 우리를 사랑하는 자들에게 너도 문안하라 은혜가 너희 무리에게 있을지어다
+📖 **시편 140:12**
+> 내가 알거니와 여호와는 고난 당하는 자를 변호해 주시며 궁핍한 자에게 정의를 베푸시리이다
 
-🕊️ _업데이트 시각: 2026-01-06 14:43:28 KST_
+🕊️ _업데이트 시각: 2026-01-06 14:54:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
