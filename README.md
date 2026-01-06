@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 13:3**
-> 참으로 나는 전능자에게 말씀하려 하며 하나님과 변론하려 하노라
+📖 **잠언 12:4**
+> 어진 여인은 그 지아비의 면류관이나 욕을 끼치는 여인은 그 지아비의 뼈가 썩음 같게 하느니라
 
-🕊️ _업데이트 시각: 2026-01-06 20:40:31 KST_
+🕊️ _업데이트 시각: 2026-01-06 20:47:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
