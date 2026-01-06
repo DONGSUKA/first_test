@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 6:31**
-> 회막 앞에서 찬송하는 사람들 언약궤가 평안을 얻었을 때에 다윗이 여호와의 성전에서 찬송하는 직분을 맡긴 자들은 아래와 같았더라
+📖 **민수기 14:38**
+> 그 땅을 정탐하러 갔던 사람들 중에서 오직 눈의 아들 여호수아와 여분네의 아들 갈렙은 생존하니라
 
-🕊️ _업데이트 시각: 2026-01-07 07:17:07 KST_
+🕊️ _업데이트 시각: 2026-01-07 07:40:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
