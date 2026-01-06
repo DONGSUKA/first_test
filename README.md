@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 12:4**
-> 어진 여인은 그 지아비의 면류관이나 욕을 끼치는 여인은 그 지아비의 뼈가 썩음 같게 하느니라
+📖 **에스겔 32:1**
+> 큰 악어 애굽 왕 열두째 해 열두째 달 초하루에 여호와의 말씀이 내게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2026-01-06 20:47:36 KST_
+🕊️ _업데이트 시각: 2026-01-06 20:53:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
