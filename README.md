@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 140:12**
-> 내가 알거니와 여호와는 고난 당하는 자를 변호해 주시며 궁핍한 자에게 정의를 베푸시리이다
+📖 **이사야 37:16**
+> 그룹 사이에 계신 이스라엘 하나님 만군의 여호와여 주는 천하 만국에 유일하신 하나님이시라 주께서 천지를 만드셨나이다
 
-🕊️ _업데이트 시각: 2026-01-06 14:54:40 KST_
+🕊️ _업데이트 시각: 2026-01-06 15:16:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
