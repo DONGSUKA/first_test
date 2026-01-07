@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데후서 1:2**
-> 사랑하는 아들 디모데에게 편지하노니 하나님 아버지와 그리스도 예수 우리 주께로부터 은혜와 긍휼과 평강이 네게 있을지어다
+📖 **예레미야 24:4**
+> 여호와의 말씀이 또 내게 임하니라 이르시되
 
-🕊️ _업데이트 시각: 2026-01-08 04:54:03 KST_
+🕊️ _업데이트 시각: 2026-01-08 04:59:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
