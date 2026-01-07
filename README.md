@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 23:5**
-> 오홀라가 내게 속하였을 때에 행음하여 그가 연애하는 자 곧 그의 이웃 앗수르 사람을 사모하였나니
+📖 **욥기 27:4**
+> 결코 내 입술이 불의를 말하지 아니하며 내 혀가 거짓을 말하지 아니하리라
 
-🕊️ _업데이트 시각: 2026-01-08 01:52:27 KST_
+🕊️ _업데이트 시각: 2026-01-08 02:14:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
