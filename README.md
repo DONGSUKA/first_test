@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 11:1**
-> 정한 짐승과 부정한 짐승 여호와께서 모세와 아론에게 말씀하여 이르시되
+📖 **이사야 54:10**
+> 산들이 떠나며 언덕들은 옮겨질지라도 나의 자비는 네게서 떠나지 아니하며 나의 화평의 언약은 흔들리지 아니하리라 너를 긍휼히 여기시는 여호와께서 말씀하셨느니라
 
-🕊️ _업데이트 시각: 2026-01-08 00:45:53 KST_
+🕊️ _업데이트 시각: 2026-01-08 00:58:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
