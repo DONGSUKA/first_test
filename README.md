@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 20:17**
-> 이 전쟁에는 너희가 싸울 것이 없나니 대열을 이루고 서서 너희와 함께 한 여호와가 구원하는 것을 보라 유다와 예루살렘아 너희는 두려워하지 말며 놀라지 말고 내일 그들을 맞서 나가라 여호와가 너희와 함께 하리라 하셨느니라 하매
+📖 **열왕기하 23:13**
+> 또 예루살렘 앞 멸망의 산 오른쪽에 세운 산당들을 왕이 더럽게 하였으니 이는 옛적에 이스라엘 왕 솔로몬이 시돈 사람의 가증한 아스다롯과 모압 사람의 가증한 그모스와 암몬 자손의 가증한 밀곰을 위하여 세웠던 것이며
 
-🕊️ _업데이트 시각: 2026-01-08 10:01:24 KST_
+🕊️ _업데이트 시각: 2026-01-08 11:58:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
