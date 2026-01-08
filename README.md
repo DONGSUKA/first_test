@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 20:25**
-> 네가 내게 돌로 제단을 쌓거든 다듬은 돌로 쌓지 말라 네가 정으로 그것을 쪼면 부정하게 함이니라
+📖 **에스겔 40:18**
+> 그 박석 깔린 땅의 위치는 각 문간의 좌우편인데 그 너비가 문간 길이와 같으니 이는 아래 박석 땅이며
 
-🕊️ _업데이트 시각: 2026-01-09 03:16:18 KST_
+🕊️ _업데이트 시각: 2026-01-09 03:47:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
