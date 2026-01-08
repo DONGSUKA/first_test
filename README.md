@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아모스 7:6**
-> 주 여호와께서 이에 대하여 뜻을 돌이켜 주 여호와께서 이르시되 이것도 이루지 아니하리라 하시니라
+📖 **다니엘 4:33**
+> 바로 그 때에 이 일이 나 느부갓네살에게 응하므로 내가 사람에게 쫓겨나서 소처럼 풀을 먹으며 몸이 하늘 이슬에 젖고 머리털이 독수리털과 같이 자랐고 손톱은 새 발톱과 같이 되었더라
 
-🕊️ _업데이트 시각: 2026-01-08 22:25:10 KST_
+🕊️ _업데이트 시각: 2026-01-08 22:54:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
