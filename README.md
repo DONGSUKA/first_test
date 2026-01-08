@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 51:9**
-> 주의 얼굴을 내 죄에서 돌이키시고 내 모든 죄악을 지워 주소서
+📖 **디모데전서 5:1**
+> 성도를 대하는 태도 늙은이를 꾸짖지 말고 권하되 아버지에게 하듯 하며 젊은이에게는 형제에게 하듯 하고
 
-🕊️ _업데이트 시각: 2026-01-09 04:49:52 KST_
+🕊️ _업데이트 시각: 2026-01-09 04:55:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
