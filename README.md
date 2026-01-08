@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 4:19**
-> 아모리 사람의 왕 시혼과 바산 왕 옥의 나라 길르앗 땅에는 우리의 아들 게벨이니 그 땅에서는 그 한 사람만 지방 관장이 되었더라
+📖 **신명기 24:11**
+> 너는 밖에 서 있고 네게 꾸는 자가 전당물을 밖으로 가지고 나와서 네게 줄 것이며
 
-🕊️ _업데이트 시각: 2026-01-09 02:15:23 KST_
+🕊️ _업데이트 시각: 2026-01-09 02:43:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
