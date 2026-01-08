@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 41:3**
-> 이스마엘이 또 미스바에서 그다랴와 함께 있던 모든 유다 사람과 거기에 있는 갈대아 군사를 죽였더라
+📖 **로마서 1:21**
+> 하나님을 알되 하나님을 영화롭게도 아니하며 감사하지도 아니하고 오히려 그 생각이 허망하여지며 미련한 마음이 어두워졌나니
 
-🕊️ _업데이트 시각: 2026-01-09 06:53:22 KST_
+🕊️ _업데이트 시각: 2026-01-09 06:59:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
