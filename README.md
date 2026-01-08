@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 44:2**
-> 너를 만들고 너를 모태에서부터 지어 낸 너를 도와 줄 여호와가 이같이 말하노라 나의 종 야곱, 내가 택한 여수룬아 두려워하지 말라
+📖 **예레미야 41:3**
+> 이스마엘이 또 미스바에서 그다랴와 함께 있던 모든 유다 사람과 거기에 있는 갈대아 군사를 죽였더라
 
-🕊️ _업데이트 시각: 2026-01-09 06:47:13 KST_
+🕊️ _업데이트 시각: 2026-01-09 06:53:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
