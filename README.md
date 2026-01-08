@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 40:15**
-> 나는 히브리 땅에서 끌려온 자요 여기서도 옥에 갇힐 일은 행하지 아니하였나이다
+📖 **시편 89:47**
+> 나의 때가 얼마나 짧은지 기억하소서 주께서 모든 사람을 어찌 그리 허무하게 창조하셨는지요
 
-🕊️ _업데이트 시각: 2026-01-09 07:58:37 KST_
+🕊️ _업데이트 시각: 2026-01-09 08:16:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
