@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 4:19**
-> 헤스론은 람을 낳았고 람은 암미나답을 낳았고
+📖 **여호수아 21:22**
+> 깁사임과 그 목초지와 벧 호론과 그 목초지이니 네 성읍이요
 
-🕊️ _업데이트 시각: 2026-01-10 05:40:41 KST_
+🕊️ _업데이트 시각: 2026-01-10 05:52:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
