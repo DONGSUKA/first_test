@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 12:13**
-> 성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라
+📖 **데살로니가전서 4:10**
+> 너희가 온 마게도냐 모든 형제에 대하여 과연 이것을 행하도다 형제들아 권하노니 더욱 그렇게 행하고
 
-🕊️ _업데이트 시각: 2026-01-09 14:59:24 KST_
+🕊️ _업데이트 시각: 2026-01-09 15:33:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
