@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 7:26**
-> 그의 아들은 라단이요 그의 아들은 암미훗이요 그의 아들은 엘리사마요
+📖 **욥기 5:4**
+> 그의 자식들은 구원에서 멀고 성문에서 억눌리나 구하는 자가 없으며
 
-🕊️ _업데이트 시각: 2026-01-10 01:51:39 KST_
+🕊️ _업데이트 시각: 2026-01-10 02:12:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
