@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 11:17**
-> 성만찬의 제정(마 26:26-29; 막 14:22-25; 눅 22:14-20) 내가 명하는 이 일에 너희를 칭찬하지 아니하나니 이는 너희의 모임이 유익이 못되고 도리어 해로움이라
+📖 **욥기 13:25**
+> 주께서 어찌하여 날리는 낙엽을 놀라게 하시며 마른 검불을 뒤쫓으시나이까
 
-🕊️ _업데이트 시각: 2026-01-09 21:27:00 KST_
+🕊️ _업데이트 시각: 2026-01-09 22:11:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
