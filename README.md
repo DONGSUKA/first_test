@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 34:11**
-> 그 경계가 또 스밤에서 리블라로 내려가서 아인 동쪽에 이르고 또 내려가서 긴네렛 동쪽 해변에 이르고
+📖 **아가 8:4**
+> 예루살렘 딸들아 내가 너희에게 부탁한다 내 사랑하는 자가 원하기 전에는 흔들지 말며 깨우지 말지니라
 
-🕊️ _업데이트 시각: 2026-01-10 07:50:20 KST_
+🕊️ _업데이트 시각: 2026-01-10 07:56:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
