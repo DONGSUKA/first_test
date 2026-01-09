@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 7:7**
-> 세상이 너희를 미워하지 아니하되 나를 미워하나니 이는 내가 세상의 일들을 악하다고 증언함이라
+📖 **창세기 31:17**
+> 야곱이 일어나 자식들과 아내들을 낙타들에게 태우고
 
-🕊️ _업데이트 시각: 2026-01-09 19:25:13 KST_
+🕊️ _업데이트 시각: 2026-01-09 19:45:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
