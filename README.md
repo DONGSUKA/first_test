@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 2:52**
-> 기럇여아림의 아버지 소발의 자손은 하로에와 므누홋 사람의 절반이니
+📖 **사도행전 18:23**
+> 얼마 있다가 떠나 갈라디아와 브루기아 땅을 차례로 다니며 모든 제자를 굳건하게 하니라
 
-🕊️ _업데이트 시각: 2026-01-10 06:52:01 KST_
+🕊️ _업데이트 시각: 2026-01-10 06:58:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
