@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 5:6**
-> 그렇게 하니 고기를 잡은 것이 심히 많아 그물이 찢어지는지라
+📖 **빌립보서 3:4**
+> 그러나 나도 육체를 신뢰할 만하며 만일 누구든지 다른 이가 육체를 신뢰할 것이 있는 줄로 생각하면 나는 더욱 그러하리니
 
-🕊️ _업데이트 시각: 2026-01-09 17:21:47 KST_
+🕊️ _업데이트 시각: 2026-01-09 17:49:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
