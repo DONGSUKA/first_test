@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아가 8:4**
-> 예루살렘 딸들아 내가 너희에게 부탁한다 내 사랑하는 자가 원하기 전에는 흔들지 말며 깨우지 말지니라
+📖 **예레미야 22:11**
+> 여호와께서 유다 왕 요시야의 아들 곧 그의 아버지 요시야를 이어 왕이 되었다가 이 곳에서 나간 살룸에 대하여 이와 같이 말씀하시니라 그가 이 곳으로 다시 돌아오지 못하고
 
-🕊️ _업데이트 시각: 2026-01-10 07:56:18 KST_
+🕊️ _업데이트 시각: 2026-01-10 08:12:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
