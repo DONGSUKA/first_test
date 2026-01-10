@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 13:31**
-> 겨자씨와 누룩 비유(막 4:30-32; 눅 13:18-21) 또 비유를 들어 이르시되 천국은 마치 사람이 자기 밭에 갖다 심은 겨자씨 한 알 같으니
+📖 **사도행전 7:9**
+> 여러 조상이 요셉을 시기하여 애굽에 팔았더니 하나님이 그와 함께 계셔
 
-🕊️ _업데이트 시각: 2026-01-11 02:14:48 KST_
+🕊️ _업데이트 시각: 2026-01-11 02:31:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
