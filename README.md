@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 6:3**
-> 말씀과 경건에 관한 교훈 누구든지 다른 교훈을 하며 바른 말 곧 우리 주 예수 그리스도의 말씀과 경건에 관한 교훈을 따르지 아니하면
+📖 **예레미야 36:5**
+> 예레미야가 바룩에게 명령하여 이르되 나는 붙잡혔으므로 여호와의 집에 들어갈 수 없으니
 
-🕊️ _업데이트 시각: 2026-01-10 12:50:39 KST_
+🕊️ _업데이트 시각: 2026-01-10 13:21:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
