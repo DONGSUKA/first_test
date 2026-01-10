@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 23:26**
-> 네 나라에 낙태하는 자가 없고 임신하지 못하는 자가 없을 것이라 내가 너의 날 수를 채우리라
+📖 **사무엘하 16:15**
+> 압살롬의 입성과 후새의 위장 전향 압살롬과 모든 이스라엘 백성들이 예루살렘에 이르고 아히도벨도 그와 함께 이른지라
 
-🕊️ _업데이트 시각: 2026-01-11 00:55:59 KST_
+🕊️ _업데이트 시각: 2026-01-11 01:13:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
