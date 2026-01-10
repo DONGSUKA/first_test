@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 36:23**
-> 여후디가 서너 쪽을 낭독하면 왕이 면도칼로 그것을 연하여 베어 화로 불에 던져서 두루마리를 모두 태웠더라
+📖 **다니엘 5:26**
+> 그 글을 해석하건대 메네는 하나님이 이미 왕의 나라의 시대를 세어서 그것을 끝나게 하셨다 함이요
 
-🕊️ _업데이트 시각: 2026-01-10 13:49:08 KST_
+🕊️ _업데이트 시각: 2026-01-10 14:00:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
