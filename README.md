@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 4:15**
-> 오직 사랑 안에서 참된 것을 하여 범사에 그에게까지 자랄지라 그는 머리니 곧 그리스도라
+📖 **사무엘하 19:40**
+> 남북의 분쟁 왕이 길갈로 건너오고 김함도 함께 건너오니 온 유다 백성과 이스라엘 백성의 절반이나 왕과 함께 건너니라
 
-🕊️ _업데이트 시각: 2026-01-10 23:17:04 KST_
+🕊️ _업데이트 시각: 2026-01-10 23:34:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
