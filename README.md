@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 4:18**
-> 땅 위에 기는 어떤 곤충의 형상이든지, 땅 아래 물 속에 있는 어떤 어족의 형상이든지 만들지 말라
+📖 **예레미야 37:16**
+> 예레미야가 뚜껑 씌운 웅덩이에 들어간 지 여러 날 만에
 
-🕊️ _업데이트 시각: 2026-01-10 21:18:16 KST_
+🕊️ _업데이트 시각: 2026-01-10 22:01:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
