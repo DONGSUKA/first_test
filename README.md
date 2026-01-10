@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 16:11**
-> 내 친척 헤로디온에게 문안하라 나깃수의 가족 중 주 안에 있는 자들에게 문안하라
+📖 **사무엘상 8:22**
+> 여호와께서 사무엘에게 이르시되 그들의 말을 들어 왕을 세우라 하시니 사무엘이 이스라엘 사람들에게 이르되 너희는 각기 성읍으로 돌아가라 하니라
 
-🕊️ _업데이트 시각: 2026-01-11 08:50:01 KST_
+🕊️ _업데이트 시각: 2026-01-11 08:55:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
