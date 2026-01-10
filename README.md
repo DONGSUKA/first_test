@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 17:1**
-> 여호와께서 에브라임과 다메섹을 멸하시리라 다메섹에 관한 경고라
+📖 **마태복음 14:10**
+> 사람을 보내어 옥에서 요한의 목을 베어
 
-🕊️ _업데이트 시각: 2026-01-11 04:58:13 KST_
+🕊️ _업데이트 시각: 2026-01-11 05:18:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
