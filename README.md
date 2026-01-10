@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 13:3**
-> 너는 그 선지자나 꿈 꾸는 자의 말을 청종하지 말라 이는 너희의 하나님 여호와께서 너희가 마음을 다하고 뜻을 다하여 너희의 하나님 여호와를 사랑하는 여부를 알려 하사 너희를 시험하심이니라
+📖 **열왕기상 17:10**
+> 그가 일어나 사르밧으로 가서 성문에 이를 때에 한 과부가 그 곳에서 나뭇가지를 줍는지라 이에 불러 이르되 청하건대 그릇에 물을 조금 가져다가 내가 마시게 하라
 
-🕊️ _업데이트 시각: 2026-01-10 19:46:21 KST_
+🕊️ _업데이트 시각: 2026-01-10 19:53:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
