@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 5:26**
-> 그 글을 해석하건대 메네는 하나님이 이미 왕의 나라의 시대를 세어서 그것을 끝나게 하셨다 함이요
+📖 **이사야 9:14**
+> 그러므로 여호와께서 하루 사이에 이스라엘 중에서 머리와 꼬리와 종려나무 가지와 갈대를 끊으시리니
 
-🕊️ _업데이트 시각: 2026-01-10 14:00:42 KST_
+🕊️ _업데이트 시각: 2026-01-10 14:25:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
