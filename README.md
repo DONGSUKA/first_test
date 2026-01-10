@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 147:5**
-> 우리 주는 위대하시며 능력이 많으시며 그의 지혜가 무궁하시도다
+📖 **창세기 45:19**
+> 이제 명령을 받았으니 이렇게 하라 너희는 애굽 땅에서 수레를 가져다가 너희 자녀와 아내를 태우고 너희 아버지를 모셔 오라
 
-🕊️ _업데이트 시각: 2026-01-10 22:46:30 KST_
+🕊️ _업데이트 시각: 2026-01-10 22:53:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
