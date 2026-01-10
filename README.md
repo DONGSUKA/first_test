@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 31:2**
-> 여호와께서 이같이 말씀하시니라 칼에서 벗어난 백성이 광야에서 은혜를 입었나니 곧 내가 이스라엘로 안식을 얻게 하러 갈 때에라
+📖 **시편 102:3**
+> 내 날이 연기 같이 소멸하며 내 뼈가 숯 같이 탔음이니이다
 
-🕊️ _업데이트 시각: 2026-01-11 03:56:47 KST_
+🕊️ _업데이트 시각: 2026-01-11 04:10:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
