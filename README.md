@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 36:5**
-> 예레미야가 바룩에게 명령하여 이르되 나는 붙잡혔으므로 여호와의 집에 들어갈 수 없으니
+📖 **예레미야 36:23**
+> 여후디가 서너 쪽을 낭독하면 왕이 면도칼로 그것을 연하여 베어 화로 불에 던져서 두루마리를 모두 태웠더라
 
-🕊️ _업데이트 시각: 2026-01-10 13:21:56 KST_
+🕊️ _업데이트 시각: 2026-01-10 13:49:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
