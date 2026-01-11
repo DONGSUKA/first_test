@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:22**
-> 여호와께서 폐병과 열병과 염증과 학질과 한재와 풍재와 썩는 재앙으로 너를 치시리니 이 재앙들이 너를 따라서 너를 진멸하게 할 것이라
+📖 **누가복음 12:27**
+> 백합화를 생각하여 보라 실도 만들지 않고 짜지도 아니하느니라 그러나 내가 너희에게 말하노니 솔로몬의 모든 영광으로도 입은 것이이 꽃 하나만큼 훌륭하지 못하였느니라
 
-🕊️ _업데이트 시각: 2026-01-12 04:40:17 KST_
+🕊️ _업데이트 시각: 2026-01-12 04:45:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
