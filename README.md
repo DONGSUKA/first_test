@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 4:27**
-> 과연 헤롯과 본디오 빌라도는 이방인과 이스라엘 백성과 합세하여 하나님께서 기름 부으신 거룩한 종 예수를 거슬러
+📖 **아가 1:5**
+> 예루살렘 딸들아 내가 비록 검으나 아름다우니 게달의 장막 같을지라도 솔로몬의 휘장과도 같구나
 
-🕊️ _업데이트 시각: 2026-01-11 19:48:34 KST_
+🕊️ _업데이트 시각: 2026-01-11 19:55:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
