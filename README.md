@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:101**
-> 내가 주의 말씀을 지키려고 발을 금하여 모든 악한 길로 가지 아니하였사오며
+📖 **마태복음 26:2**
+> 너희가 아는 바와 같이 이틀이 지나면 유월절이라 인자가 십자가에 못 박히기 위하여 팔리리라 하시더라
 
-🕊️ _업데이트 시각: 2026-01-11 18:56:18 KST_
+🕊️ _업데이트 시각: 2026-01-11 19:12:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
