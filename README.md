@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 5:9**
-> 그 사람이 곧 나아서 자리를 들고 걸어가니라
+📖 **마태복음 23:7**
+> 시장에서 문안 받는 것과 사람에게 랍비라 칭함을 받는 것을 좋아하느니라
 
-🕊️ _업데이트 시각: 2026-01-12 06:08:50 KST_
+🕊️ _업데이트 시각: 2026-01-12 06:27:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
