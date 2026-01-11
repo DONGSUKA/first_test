@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 9:24**
-> 예후가 힘을 다하여 활을 당겨 요람의 두 팔 사이를 쏘니 화살이 그의 염통을 꿰뚫고 나오매 그가 병거 가운데에 엎드러 진지라
+📖 **출애굽기 13:3**
+> 모세가 백성에게 이르되 너희는 애굽 곧 종 되었던 집에서 나온 그 날을 기념하여 유교병을 먹지 말라 여호와께서 그 손의 권능으로 너희를 그 곳에서 인도해 내셨음이니라
 
-🕊️ _업데이트 시각: 2026-01-11 23:44:02 KST_
+🕊️ _업데이트 시각: 2026-01-11 23:51:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
