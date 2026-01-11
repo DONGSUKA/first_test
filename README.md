@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 19:25**
-> 그들의 지역은 헬갓과 할리와 베덴과 악삽과
+📖 **열왕기상 12:22**
+> 하나님의 말씀이 하나님의 사람 스마야에게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2026-01-12 03:15:35 KST_
+🕊️ _업데이트 시각: 2026-01-12 03:44:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
