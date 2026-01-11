@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 27:29**
-> 노를 잡은 모든 자와 사공과 바다의 선장들이 다 배에서 내려 언덕에 서서
+📖 **에스겔 28:15**
+> 네가 지음을 받던 날로부터 네 모든 길에 완전하더니 마침내 네게서 불의가 드러났도다
 
-🕊️ _업데이트 시각: 2026-01-11 21:19:55 KST_
+🕊️ _업데이트 시각: 2026-01-11 22:02:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
