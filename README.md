@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 28:15**
-> 네가 지음을 받던 날로부터 네 모든 길에 완전하더니 마침내 네게서 불의가 드러났도다
+📖 **예레미야 48:44**
+> 두려움에서 도망하는 자는 함정에 떨어지겠고 함정에서 나오는 자는 올무에 걸리리니 이는 내가 모압이 벌 받을 해가 임하게 할 것임이라 여호와의 말씀이니라
 
-🕊️ _업데이트 시각: 2026-01-11 22:02:43 KST_
+🕊️ _업데이트 시각: 2026-01-11 22:34:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
