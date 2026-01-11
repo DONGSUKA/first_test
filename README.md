@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 19:14**
-> 유대의 한 제사장 스게와의 일곱 아들도 이 일을 행하더니
+📖 **창세기 31:5**
+> 그들에게 이르되 내가 그대들의 아버지의 안색을 본즉 내게 대하여 전과 같지 아니하도다 그러할지라도 내 아버지의 하나님은 나와 함께계셨느니라
 
-🕊️ _업데이트 시각: 2026-01-11 18:10:21 KST_
+🕊️ _업데이트 시각: 2026-01-11 18:31:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
