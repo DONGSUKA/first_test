@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 16:10**
-> 하나님의 말씀이 왕의 입술에 있은즉 재판할 때에 그의 입이 그르치지 아니하리라
+📖 **욥기 13:13**
+> 너희는 잠잠하고 나를 버려두어 말하게 하라 무슨 일이 닥치든지 내가 당하리라
 
-🕊️ _업데이트 시각: 2026-01-12 08:50:08 KST_
+🕊️ _업데이트 시각: 2026-01-12 08:56:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
