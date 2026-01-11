@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 3:31**
-> 그 다음은 금장색 말기야가 함밉갓 문과 마주 대한 부분을 중수하여 느디님 사람과 상인들의 집에서부터 성 모퉁이 성루에 이르렀고
+📖 **디모데전서 4:16**
+> 네가 네 자신과 가르침을 살펴 이 일을 계속하라 이것을 행함으로 네 자신과 네게 듣는 자를 구원하리라
 
-🕊️ _업데이트 시각: 2026-01-12 02:14:07 KST_
+🕊️ _업데이트 시각: 2026-01-12 02:31:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
