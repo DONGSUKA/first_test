@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 20:8**
-> 모든 장로와 백성들이 다 왕께 아뢰되 왕은 듣지도 말고 허락하지도 마옵소서 한지라
+📖 **사도행전 4:27**
+> 과연 헤롯과 본디오 빌라도는 이방인과 이스라엘 백성과 합세하여 하나님께서 기름 부으신 거룩한 종 예수를 거슬러
 
-🕊️ _업데이트 시각: 2026-01-11 19:36:00 KST_
+🕊️ _업데이트 시각: 2026-01-11 19:48:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
