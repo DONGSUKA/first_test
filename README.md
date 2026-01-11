@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 16:18**
-> 또 네 수 놓은 옷을 그 우상에게 입히고 나의 기름과 향을 그 앞에 베풀며
+📖 **욥기 4:15**
+> 그 때에 영이 내 앞으로 지나매 내 몸에 털이 주뼛하였느니라
 
-🕊️ _업데이트 시각: 2026-01-12 00:42:44 KST_
+🕊️ _업데이트 시각: 2026-01-12 00:49:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
