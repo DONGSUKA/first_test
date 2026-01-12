@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 149:9**
-> 기록한 판결대로 그들에게 시행할지로다 이런 영광은 그의 모든 성도에게 있도다 할렐루야
+📖 **사사기 11:6**
+> 입다에게 이르되 우리가 암몬 자손과 싸우려 하니 당신은 와서 우리의 장관이 되라 하니
 
-🕊️ _업데이트 시각: 2026-01-13 05:21:59 KST_
+🕊️ _업데이트 시각: 2026-01-13 05:41:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
