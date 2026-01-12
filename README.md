@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 55:3**
-> 너희는 귀를 기울이고 내게로 나아와 들으라 그리하면 너희의 영혼이 살리라 내가 너희를 위하여 영원한 언약을 맺으리니 곧 다윗에게 허락한 확실한 은혜이니라
+📖 **이사야 10:14**
+> 내 손으로 열국의 재물을 얻은 것은 새의 보금자리를 얻음 같고 온 세계를 얻은 것은 내버린 알을 주움 같았으나 날개를 치거나 입을 벌리거나 지저귀는 것이 하나도 없었다 하는도다
 
-🕊️ _업데이트 시각: 2026-01-12 23:16:41 KST_
+🕊️ _업데이트 시각: 2026-01-12 23:47:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
