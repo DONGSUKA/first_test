@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 17:8**
-> 내가 너와 네 후손에게 네가 거류하는 이 땅 곧 가나안 온 땅을 주어 영원한 기업이 되게 하고 나는 그들의 하나님이 되리라
+📖 **민수기 9:9**
+> 여호와께서 모세에게 말씀하여 이르시되
 
-🕊️ _업데이트 시각: 2026-01-12 20:57:34 KST_
+🕊️ _업데이트 시각: 2026-01-12 21:36:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
