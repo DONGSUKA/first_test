@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 9:9**
-> 여호와께서 모세에게 말씀하여 이르시되
+📖 **요한계시록 8:6**
+> 나팔 소리 일곱 나팔을 가진 일곱 천사가 나팔 불기를 준비하더라
 
-🕊️ _업데이트 시각: 2026-01-12 21:36:01 KST_
+🕊️ _업데이트 시각: 2026-01-12 22:26:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
