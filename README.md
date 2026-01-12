@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 2:8**
-> 그러므로 각처에서 남자들이 분노와 다툼이 없이 거룩한 손을 들어 기도하기를 원하노라
+📖 **사무엘상 15:29**
+> 이스라엘의 지존자는 거짓이나 변개함이 없으시니 그는 사람이 아니시므로 결코 변개하지 않으심이니이다 하니
 
-🕊️ _업데이트 시각: 2026-01-12 16:53:46 KST_
+🕊️ _업데이트 시각: 2026-01-12 16:59:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
