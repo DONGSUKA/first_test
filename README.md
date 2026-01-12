@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 8:35**
-> 누가 우리를 그리스도의 사랑에서 끊으리요 환난이나 곤고나 박해나 기근이나 적신이나 위험이나 칼이랴
+📖 **출애굽기 7:3**
+> 내가 바로의 마음을 완악하게 하고 내 표징과 내 이적을 애굽 땅에서 많이 행할 것이나
 
-🕊️ _업데이트 시각: 2026-01-13 02:55:21 KST_
+🕊️ _업데이트 시각: 2026-01-13 03:16:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
