@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 23:15**
-> 기타 규정 종이 그의 주인을 피하여 네게로 도망하거든 너는 그의 주인에게 돌려주지 말고
+📖 **레위기 21:13**
+> 그는 처녀를 데려다가 아내를 삼을지니
 
-🕊️ _업데이트 시각: 2026-01-13 08:37:34 KST_
+🕊️ _업데이트 시각: 2026-01-13 08:45:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
