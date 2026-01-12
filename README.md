@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 7:2**
-> 어떤 백부장의 사랑하는 종이 병들어 죽게 되었더니
+📖 **욥기 16:17**
+> 그러나 내 손에는 포학이 없고 나의 기도는 정결하니라
 
-🕊️ _업데이트 시각: 2026-01-12 13:16:51 KST_
+🕊️ _업데이트 시각: 2026-01-12 14:00:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
