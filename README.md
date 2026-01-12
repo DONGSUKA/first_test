@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 10:14**
-> 내 손으로 열국의 재물을 얻은 것은 새의 보금자리를 얻음 같고 온 세계를 얻은 것은 내버린 알을 주움 같았으나 날개를 치거나 입을 벌리거나 지저귀는 것이 하나도 없었다 하는도다
+📖 **사무엘상 25:7**
+> 네게 양 털 깎는 자들이 있다 함을 이제 내가 들었노라 네 목자들이 우리와 함께 있었으나 우리가 그들을 해하지 아니하였고 그들이 갈멜에 있는 동안에 그들의 것을 하나도 잃지 아니하였나니
 
-🕊️ _업데이트 시각: 2026-01-12 23:47:31 KST_
+🕊️ _업데이트 시각: 2026-01-13 00:00:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
