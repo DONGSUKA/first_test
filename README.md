@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 8:6**
-> 나팔 소리 일곱 나팔을 가진 일곱 천사가 나팔 불기를 준비하더라
+📖 **고린도후서 10:13**
+> 그러나 우리는 분수 이상의 자랑을 하지 않고 오직 하나님이 우리에게 나누어 주신 그 범위의 한계를 따라 하노니 곧 너희에게까지이른 것이라
 
-🕊️ _업데이트 시각: 2026-01-12 22:26:05 KST_
+🕊️ _업데이트 시각: 2026-01-12 22:55:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
