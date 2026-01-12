@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 3:3**
-> 예수께서 손 마른 사람에게 이르시되 한 가운데에 일어서라 하시고
+📖 **에스라 10:13**
+> 그러나 백성이 많고 또 큰 비가 내리는 때니 능히 밖에 서지 못할 것이요 우리가 이 일로 크게 범죄하였은즉 하루 이틀에 할 일이 아니오니
 
-🕊️ _업데이트 시각: 2026-01-13 04:53:00 KST_
+🕊️ _업데이트 시각: 2026-01-13 04:58:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
