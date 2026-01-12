@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **미가 4:4**
-> 각 사람이 자기 포도나무 아래와 자기 무화과나무 아래에 앉을 것이라 그들을 두렵게 할 자가 없으리니 이는 만군의 여호와의 입이 이같이말씀하셨음이라
+📖 **에스겔 37:16**
+> 인자야 너는 막대기 하나를 가져다가 그 위에 유다와 그 짝 이스라엘 자손이라 쓰고 또 다른 막대기 하나를 가지고 그 위에 에브라임의막대기 곧 요셉과 그 짝 이스라엘 온 족속이라 쓰고
 
-🕊️ _업데이트 시각: 2026-01-13 00:50:07 KST_
+🕊️ _업데이트 시각: 2026-01-13 01:00:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
