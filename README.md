@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 22:43**
-> 이르시되 그러면 다윗이 성령에 감동되어 어찌 그리스도를 주라 칭하여 말하되
+📖 **고린도전서 3:13**
+> 각 사람의 공적이 나타날 터인데 그 날이 공적을 밝히리니 이는 불로 나타내고 그 불이 각 사람의 공적이 어떠한 것을 시험할 것임이라
 
-🕊️ _업데이트 시각: 2026-01-14 06:32:43 KST_
+🕊️ _업데이트 시각: 2026-01-14 06:45:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
