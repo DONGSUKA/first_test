@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:42**
-> 그들이 원수들의 압박을 받고 그들의 수하에 복종하게 되었도다
+📖 **요한복음 8:18**
+> 내가 나를 위하여 증언하는 자가 되고 나를 보내신 아버지도 나를 위하여 증언하시느니라
 
-🕊️ _업데이트 시각: 2026-01-14 01:30:16 KST_
+🕊️ _업데이트 시각: 2026-01-14 01:58:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
