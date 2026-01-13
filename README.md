@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 21:22**
-> 성 안에서 내가 성전을 보지 못하였으니 이는 주 하나님 곧 전능하신 이와 및 어린 양이 그 성전이심이라
+📖 **예레미야 25:22**
+> 두로의 모든 왕과 시돈의 모든 왕과 바다 건너쪽 섬의 왕들과
 
-🕊️ _업데이트 시각: 2026-01-13 16:21:07 KST_
+🕊️ _업데이트 시각: 2026-01-13 16:40:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
