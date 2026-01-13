@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로후서 2:17**
-> 이 사람들은 물 없는 샘이요 광풍에 밀려 가는 안개니 그들을 위하여 캄캄한 어둠이 예비되어 있나니
+📖 **창세기 17:27**
+> 그 집의 모든 남자 곧 집에서 태어난 자와 돈으로 이방 사람에게서 사온 자가 다 그와 함께 할례를 받았더라
 
-🕊️ _업데이트 시각: 2026-01-14 06:59:08 KST_
+🕊️ _업데이트 시각: 2026-01-14 07:20:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
