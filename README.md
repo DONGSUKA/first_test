@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 32:4**
-> 조급한 자의 마음이 지식을 깨닫고 어눌한 자의 혀가 민첩하여 말을 분명히 할 것이라
+📖 **여호수아 2:8**
+> 또 그들이 눕기 전에 라합이 지붕에 올라가서 그들에게 이르러
 
-🕊️ _업데이트 시각: 2026-01-13 17:19:16 KST_
+🕊️ _업데이트 시각: 2026-01-13 17:49:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
