@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 10:4**
-> 네가 만일 내 백성 보내기를 거절하면 내일 내가 메뚜기를 네 경내에 들어가게 하리니
+📖 **시편 106:42**
+> 그들이 원수들의 압박을 받고 그들의 수하에 복종하게 되었도다
 
-🕊️ _업데이트 시각: 2026-01-14 00:59:06 KST_
+🕊️ _업데이트 시각: 2026-01-14 01:30:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
