@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 31:15**
-> 나를 태 속에 만드신 이가 그도 만들지 아니하셨느냐 우리를 뱃속에 지으신 이가 한 분이 아니시냐
+📖 **사무엘상 26:18**
+> 또 이르되 내 주는 어찌하여 주의 종을 쫓으시나이까 내가 무엇을 하였으며 내 손에 무슨 악이 있나이까
 
-🕊️ _업데이트 시각: 2026-01-14 05:54:19 KST_
+🕊️ _업데이트 시각: 2026-01-14 06:10:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
