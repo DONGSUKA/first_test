@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 38:12**
-> 구스인 에벳멜렉이 예레미야에게 이르되 당신은 이 헝겊과 낡은 옷을 당신의 겨드랑이에 대고 줄을 그 아래에 대시오 예레미야가 그대로 하매
+📖 **욥기 31:11**
+> 그것은 참으로 음란한 일이니 재판에 회부할 죄악이요
 
-🕊️ _업데이트 시각: 2026-01-15 06:55:46 KST_
+🕊️ _업데이트 시각: 2026-01-15 07:12:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
