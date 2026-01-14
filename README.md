@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 28:27**
-> 또 금 고리 둘을 만들어 에봇 앞 두 어깨받이 아래 매는 자리 가까운 쪽 곧 정교하게 짠 띠 위쪽에 달고
+📖 **디모데전서 3:8**
+> 이와 같이 집사들도 정중하고 일구이언을 하지 아니하고 술에 인박히지 아니하고 더러운 이를 탐하지 아니하고
 
-🕊️ _업데이트 시각: 2026-01-15 08:14:25 KST_
+🕊️ _업데이트 시각: 2026-01-15 08:28:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
