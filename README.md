@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 10:2**
-> 그가 경건하여 온 집안과 더불어 하나님을 경외하며 백성을 많이 구제하고 하나님께 항상 기도하더니
+📖 **역대하 5:8**
+> 그룹들이 궤 처소 위에서 날개를 펴서 궤와 그 채를 덮었는데
 
-🕊️ _업데이트 시각: 2026-01-14 14:55:11 KST_
+🕊️ _업데이트 시각: 2026-01-14 15:17:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
