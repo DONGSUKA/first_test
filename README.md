@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 4:12**
-> 자기 사환 게하시에게 이르되 이 수넴 여인을 불러오라 하니 곧 여인을 부르매 여인이 그 앞에 선지라
+📖 **요한계시록 14:5**
+> 그 입에 거짓말이 없고 흠이 없는 자들이더라
 
-🕊️ _업데이트 시각: 2026-01-15 04:47:50 KST_
+🕊️ _업데이트 시각: 2026-01-15 04:53:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
