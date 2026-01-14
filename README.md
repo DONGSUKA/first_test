@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 16:16**
-> 율법과 선지자는 요한의 때까지요 그 후부터는 하나님 나라의 복음이 전파되어 사람마다 그리로 침입하느니라
+📖 **열왕기하 9:28**
+> 그의 신복들이 그를 병거에 싣고 예루살렘에 이르러 다윗 성에서 그들의 조상들과 함께 그의 묘실에 장사하니라
 
-🕊️ _업데이트 시각: 2026-01-15 03:54:37 KST_
+🕊️ _업데이트 시각: 2026-01-15 04:10:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
