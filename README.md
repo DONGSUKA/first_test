@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 4:43**
-> 왕의 신하의 아들을 고치시다(마 8:5-13; 눅 7:1-10) 이틀이 지나매 예수께서 거기를 떠나 갈릴리로 가시며
+📖 **로마서 8:12**
+> 그러므로 형제들아 우리가 빚진 자로되 육신에게 져서 육신대로 살 것이 아니니라
 
-🕊️ _업데이트 시각: 2026-01-15 00:59:33 KST_
+🕊️ _업데이트 시각: 2026-01-15 01:30:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
