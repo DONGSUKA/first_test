@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 11:15**
-> 그 편지에 써서 이르기를 너희가 우리아를 맹렬한 싸움에 앞세워 두고 너희는 뒤로 물러가서 그로 맞아 죽게 하라 하였더라
+📖 **사도행전 10:2**
+> 그가 경건하여 온 집안과 더불어 하나님을 경외하며 백성을 많이 구제하고 하나님께 항상 기도하더니
 
-🕊️ _업데이트 시각: 2026-01-14 14:44:30 KST_
+🕊️ _업데이트 시각: 2026-01-14 14:55:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
