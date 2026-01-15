@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **야고보서 1:4**
-> 인내를 온전히 이루라 이는 너희로 온전하고 구비하여 조금도 부족함이 없게 하려 함이라
+📖 **출애굽기 40:33**
+> 그는 또 성막과 제단 주위 뜰에 포장을 치고 뜰 문에 휘장을 다니라 모세가 이같이 역사를 마치니
 
-🕊️ _업데이트 시각: 2026-01-15 19:45:31 KST_
+🕊️ _업데이트 시각: 2026-01-15 19:56:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
