@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 40:33**
-> 그는 또 성막과 제단 주위 뜰에 포장을 치고 뜰 문에 휘장을 다니라 모세가 이같이 역사를 마치니
+📖 **열왕기하 17:1**
+> 이스라엘 왕 호세아 유다의 왕 아하스 제십이년에 엘라의 아들 호세아가 사마리아에서 이스라엘 왕이 되어 구 년간 다스리며
 
-🕊️ _업데이트 시각: 2026-01-15 19:56:47 KST_
+🕊️ _업데이트 시각: 2026-01-15 20:14:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
