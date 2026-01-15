@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 4:10**
-> 등잔대와 그 모든 기구를 해달의 가죽 덮개 안에 넣어 메는 틀 위에 두고
+📖 **예레미야 32:43**
+> 너희가 말하기를 황폐하여 사람이나 짐승이 없으며 갈대아인의 손에 넘긴 바 되었다 하는 이 땅에서 사람들이 밭을 사되
 
-🕊️ _업데이트 시각: 2026-01-15 08:57:28 KST_
+🕊️ _업데이트 시각: 2026-01-15 10:14:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
