@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 16:8**
-> 모세가 또 이르되 여호와께서 저녁에는 너희에게 고기를 주어 먹이시고 아침에는 떡으로 배불리시리니 이는 여호와께서 자기를 향하여너희가 원망하는 그 말을 들으셨음이라 우리가 누구냐 너희의 원망은 우리를 향하여 함이 아니요 여호와를 향하여 함이로다
+📖 **이사야 30:5**
+> 그들이 다 자기를 유익하게 하지 못하는 민족으로 말미암아 수치를 당하리니 그 민족이 돕지도 못하며 유익하게도 못하고 수치가 되게 하며 수욕이 되게 할 뿐임이니라
 
-🕊️ _업데이트 시각: 2026-01-16 06:59:10 KST_
+🕊️ _업데이트 시각: 2026-01-16 07:20:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
