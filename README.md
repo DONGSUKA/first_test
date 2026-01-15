@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 59:14**
-> 그들에게 저물어 돌아와서 개처럼 울며 성으로 두루 다니게 하소서
+📖 **레위기 14:17**
+> 손에 남은 기름은 제사장이 정결함을 받을 자의 오른쪽 귓부리와 오른쪽 엄지 손가락과 오른쪽 엄지 발가락 곧 속건제물의 피 위에 바를것이며
 
-🕊️ _업데이트 시각: 2026-01-15 15:17:02 KST_
+🕊️ _업데이트 시각: 2026-01-15 15:51:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
