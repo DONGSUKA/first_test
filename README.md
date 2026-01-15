@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 1:15**
-> 왕이 예루살렘에서 은금을 돌 같이 흔하게 하고 백향목을 평지의 뽕나무 같이 많게 하였더라
+📖 **에스겔 22:31**
+> 내가 내 분노를 그들 위에 쏟으며 내 진노의 불로 멸하여 그들 행위대로 그들 머리에 보응하였느니라 주 여호와의 말씀이니라
 
-🕊️ _업데이트 시각: 2026-01-15 18:02:19 KST_
+🕊️ _업데이트 시각: 2026-01-15 18:35:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
