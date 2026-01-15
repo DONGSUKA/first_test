@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 27:26**
-> 어린 양의 털은 네 옷이 되며 염소는 밭을 사는 값이 되며
+📖 **잠언 29:17**
+> 네 자식을 징계하라 그리하면 그가 너를 평안하게 하겠고 또 네 마음에 기쁨을 주리라
 
-🕊️ _업데이트 시각: 2026-01-15 12:05:42 KST_
+🕊️ _업데이트 시각: 2026-01-15 13:09:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
