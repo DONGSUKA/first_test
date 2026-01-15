@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **미가 2:12**
-> 야곱아 내가 반드시 너희 무리를 다 모으며 내가 반드시 이스라엘의 남은 자를 모으고 그들을 한 처소에 두기를 보스라의 양 떼 같이 하며초장의 양 떼 같이 하리니 사람들이 크게 떠들 것이며
+📖 **출애굽기 16:8**
+> 모세가 또 이르되 여호와께서 저녁에는 너희에게 고기를 주어 먹이시고 아침에는 떡으로 배불리시리니 이는 여호와께서 자기를 향하여너희가 원망하는 그 말을 들으셨음이라 우리가 누구냐 너희의 원망은 우리를 향하여 함이 아니요 여호와를 향하여 함이로다
 
-🕊️ _업데이트 시각: 2026-01-16 06:53:13 KST_
+🕊️ _업데이트 시각: 2026-01-16 06:59:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
