@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 81:11**
-> 내 백성이 내 소리를 듣지 아니하며 이스라엘이 나를 원하지 아니하였도다
+📖 **요한복음 1:29**
+> 하나님의 어린 양을 보라 이튿날 요한이 예수께서 자기에게 나아오심을 보고 이르되 보라 세상 죄를 지고 가는 하나님의 어린 양이로다
 
-🕊️ _업데이트 시각: 2026-01-16 06:32:59 KST_
+🕊️ _업데이트 시각: 2026-01-16 06:45:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
