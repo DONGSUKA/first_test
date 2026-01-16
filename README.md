@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 5:20**
-> 그러므로 우리가 그리스도를 대신하여 사신이 되어 하나님이 우리를 통하여 너희를 권면하시는 것 같이 그리스도를 대신하여 간청하노니 너희는 하나님과 화목하라
+📖 **창세기 3:15**
+> 내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니 여자의 후손은 네 머리를 상하게 할 것이요 너는 그의발꿈치를 상하게 할 것이니라 하시고
 
-🕊️ _업데이트 시각: 2026-01-16 12:06:01 KST_
+🕊️ _업데이트 시각: 2026-01-16 13:06:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
