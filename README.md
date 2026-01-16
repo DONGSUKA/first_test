@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 8:11**
-> 다윗 왕이 그것도 여호와께 드리되 그가 정복한 모든 나라에서 얻은 은금
+📖 **창세기 29:18**
+> 야곱이 라헬을 더 사랑하므로 대답하되 내가 외삼촌의 작은 딸 라헬을 위하여 외삼촌에게 칠 년을 섬기리이다
 
-🕊️ _업데이트 시각: 2026-01-17 02:56:17 KST_
+🕊️ _업데이트 시각: 2026-01-17 03:19:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
