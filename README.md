@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 29:18**
-> 야곱이 라헬을 더 사랑하므로 대답하되 내가 외삼촌의 작은 딸 라헬을 위하여 외삼촌에게 칠 년을 섬기리이다
+📖 **사사기 4:20**
+> 그가 또 이르되 장막 문에 섰다가 만일 사람이 와서 네게 묻기를 여기 어떤 사람이 있느냐 하거든 너는 없다 하라 하고
 
-🕊️ _업데이트 시각: 2026-01-17 03:19:55 KST_
+🕊️ _업데이트 시각: 2026-01-17 03:51:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
