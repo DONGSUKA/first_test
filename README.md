@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 19:3**
-> 두 번째로 할렐루야 하니 그 연기가 세세토록 올라가더라
+📖 **베드로전서 2:14**
+> 혹은 그가 악행하는 자를 징벌하고 선행하는 자를 포상하기 위하여 보낸 총독에게 하라
 
-🕊️ _업데이트 시각: 2026-01-16 19:16:38 KST_
+🕊️ _업데이트 시각: 2026-01-16 19:43:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
