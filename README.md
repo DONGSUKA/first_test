@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 3:36**
-> 사람의 송사를 억울하게 하는 것은 다 주께서 기쁘게 보시는 것이 아니로다
+📖 **마태복음 18:2**
+> 예수께서 한 어린 아이를 불러 그들 가운데 세우시고
 
-🕊️ _업데이트 시각: 2026-01-16 17:46:04 KST_
+🕊️ _업데이트 시각: 2026-01-16 18:00:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
