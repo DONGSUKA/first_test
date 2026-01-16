@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 6:18**
-> 다윗이 번제와 화목제 드리기를 마치고 만군의 여호와의 이름으로 백성에게 축복하고
+📖 **사도행전 13:32**
+> 우리도 조상들에게 주신 약속을 너희에게 전파하노니
 
-🕊️ _업데이트 시각: 2026-01-16 08:57:11 KST_
+🕊️ _업데이트 시각: 2026-01-16 10:13:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
