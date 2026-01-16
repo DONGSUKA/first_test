@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 10:19**
-> 소망을 굳게 잡으라 그러므로 형제들아 우리가 예수의 피를 힘입어 성소에 들어갈 담력을 얻었나니
+📖 **사무엘하 8:11**
+> 다윗 왕이 그것도 여호와께 드리되 그가 정복한 모든 나라에서 얻은 은금
 
-🕊️ _업데이트 시각: 2026-01-17 02:47:24 KST_
+🕊️ _업데이트 시각: 2026-01-17 02:56:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
