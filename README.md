@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 26:38**
-> 너희가 여러 민족 중에서 망하리니 너희의 원수들의 땅이 너희를 삼킬 것이라
+📖 **요한복음 6:17**
+> 배를 타고 바다를 건너 가버나움으로 가는데 이미 어두웠고 예수는 아직 그들에게 오시지 아니하셨더니
 
-🕊️ _업데이트 시각: 2026-01-17 04:02:28 KST_
+🕊️ _업데이트 시각: 2026-01-17 04:24:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
