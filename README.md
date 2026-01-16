@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 5:4**
-> 그들이 술을 마시고는 그 금, 은, 구리, 쇠, 나무, 돌로 만든 신들을 찬양하니라
+📖 **잠언 26:23**
+> 온유한 입술에 악한 마음은 낮은 은을 입힌 토기니라
 
-🕊️ _업데이트 시각: 2026-01-17 07:56:01 KST_
+🕊️ _업데이트 시각: 2026-01-17 08:11:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
