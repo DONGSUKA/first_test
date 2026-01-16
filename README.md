@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 23:1**
-> 다윗이 그일라를 구원하다 사람들이 다윗에게 전하여 이르되 보소서 블레셋 사람이 그일라를 쳐서 그 타작 마당을 탈취하더이다 하니
+📖 **에스겔 38:18**
+> 그 날에 곡이 이스라엘 땅을 치러 오면 내 노여움이 내 얼굴에 나타나리라 주 여호와의 말씀이니라
 
-🕊️ _업데이트 시각: 2026-01-17 08:42:46 KST_
+🕊️ _업데이트 시각: 2026-01-17 08:50:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
