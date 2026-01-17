@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 82:2**
-> 너희가 불공평한 판단을 하며 악인의 낯 보기를 언제까지 하려느냐 (셀라)
+📖 **고린도후서 11:25**
+> 세 번 태장으로 맞고 한 번 돌로 맞고 세 번 파선하고 일 주야를 깊은 바다에서 지냈으며
 
-🕊️ _업데이트 시각: 2026-01-17 17:22:31 KST_
+🕊️ _업데이트 시각: 2026-01-17 17:43:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
