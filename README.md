@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 33:24**
-> 하나님이 그 사람을 불쌍히 여기사 그를 건져서 구덩이에 내려가지 않게 하라 내가 대속물을 얻었다 하시리라
+📖 **신명기 4:34**
+> 어떤 신이 와서 시험과 이적과 기사와 전쟁과 강한 손과 편 팔과 크게 두려운 일로 한 민족을 다른 민족에게서 인도하여 낸 일이 있느냐이는 다 너희의 하나님 여호와께서 애굽에서 너희를 위하여 너희의 목전에서 행하신 일이라
 
-🕊️ _업데이트 시각: 2026-01-18 02:47:03 KST_
+🕊️ _업데이트 시각: 2026-01-18 02:52:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
