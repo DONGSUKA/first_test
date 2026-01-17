@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **데살로니가전서 4:2**
-> 우리가 주 예수로 말미암아 너희에게 무슨 명령으로 준 것을 너희가 아느니라
+📖 **욥기 34:13**
+> 누가 땅을 그에게 맡겼느냐 누가 온 세상을 그에게 맡겼느냐
 
-🕊️ _업데이트 시각: 2026-01-18 04:40:50 KST_
+🕊️ _업데이트 시각: 2026-01-18 04:46:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
