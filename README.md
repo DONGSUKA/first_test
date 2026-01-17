@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요엘 2:3**
-> 불이 그들의 앞을 사르며 불꽃이 그들의 뒤를 태우니 그들의 예전의 땅은 에덴 동산 같았으나 그들의 나중의 땅은 황폐한 들 같으니 그것을피한 자가 없도다
+📖 **잠언 17:24**
+> 지혜는 명철한 자 앞에 있거늘 미련한 자는 눈을 땅 끝에 두느니라
 
-🕊️ _업데이트 시각: 2026-01-17 17:55:32 KST_
+🕊️ _업데이트 시각: 2026-01-17 18:10:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
