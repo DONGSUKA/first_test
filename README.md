@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 18:39**
-> 주께서 나를 전쟁하게 하려고 능력으로 내게 띠 띠우사 일어나 나를 치는 자들이 내게 굴복하게 하셨나이다
+📖 **시편 65:5**
+> 우리 구원의 하나님이시여 땅의 모든 끝과 먼 바다에 있는 자가 의지할 주께서 의를 따라 엄위하신 일로 우리에게 응답하시리이다
 
-🕊️ _업데이트 시각: 2026-01-17 18:42:33 KST_
+🕊️ _업데이트 시각: 2026-01-17 18:49:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
