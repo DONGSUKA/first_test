@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 14:16**
-> 비록 이 세 사람이 거기에 있을지라도 나의 삶을 두고 맹세하노니 그들도 자녀는 건지지 못하고 자기만 건지겠고 그 땅은 황폐하리라 주여호와의 말씀이니라
+📖 **에베소서 2:1**
+> 허물과 죄로 죽었던 너희를 살리셨다 그는 허물과 죄로 죽었던 너희를 살리셨도다
 
-🕊️ _업데이트 시각: 2026-01-17 15:58:15 KST_
+🕊️ _업데이트 시각: 2026-01-17 16:16:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
