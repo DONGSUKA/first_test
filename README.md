@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 1:8**
-> 그러나 우리나 혹은 하늘로부터 온 천사라도 우리가 너희에게 전한 복음 외에 다른 복음을 전하면 저주를 받을지어다
+📖 **예레미야 25:2**
+> 선지자 예레미야가 유다의 모든 백성과 예루살렘의 모든 주민에게 말하여 이르되
 
-🕊️ _업데이트 시각: 2026-01-17 16:40:38 KST_
+🕊️ _업데이트 시각: 2026-01-17 16:46:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
