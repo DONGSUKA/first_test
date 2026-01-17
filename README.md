@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 1:38**
-> 단의 아들들에게서 난 자를 그들의 종족과 조상의 가문에 따라 이십 세 이상으로 싸움에 나갈 만한 자를 그 명수대로 다 계수하니
+📖 **히브리서 12:6**
+> 주께서 그 사랑하시는 자를 징계하시고 그가 받아들이시는 아들마다 채찍질하심이라 하였으니
 
-🕊️ _업데이트 시각: 2026-01-17 19:11:09 KST_
+🕊️ _업데이트 시각: 2026-01-17 19:34:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
