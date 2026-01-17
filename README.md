@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 20:21**
-> 에돔 왕이 이같이 이스라엘이 그의 영토로 지나감을 용납하지 아니하므로 이스라엘이 그들에게서 돌이키니라
+📖 **창세기 21:9**
+> 사라가 본즉 아브라함의 아들 애굽 여인 하갈의 아들이 이삭을 놀리는지라
 
-🕊️ _업데이트 시각: 2026-01-17 20:28:17 KST_
+🕊️ _업데이트 시각: 2026-01-17 20:36:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
