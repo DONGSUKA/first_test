@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 30:7**
-> 떨기나무 가운데에서 부르짖으며 가시나무 아래에 모여 있느니라
+📖 **이사야 21:13**
+> 아라비아에 관한 경고 아라비아에 관한 경고라
 
-🕊️ _업데이트 시각: 2026-01-17 22:52:37 KST_
+🕊️ _업데이트 시각: 2026-01-17 22:58:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
