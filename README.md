@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 14:10**
-> 큰 소리로 이르되 네 발로 바로 일어서라 하니 그 사람이 일어나 걷는지라
+📖 **시편 2:5**
+> 그 때에 분을 발하며 진노하사 그들을 놀라게 하여 이르시기를
 
-🕊️ _업데이트 시각: 2026-01-18 04:25:43 KST_
+🕊️ _업데이트 시각: 2026-01-18 04:32:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
