@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 21:9**
-> 사라가 본즉 아브라함의 아들 애굽 여인 하갈의 아들이 이삭을 놀리는지라
+📖 **사사기 21:15**
+> 백성들이 베냐민을 위하여 뉘우쳤으니 이는 여호와께서 이스라엘 지파들 중에 한 지파가 빠지게 하셨음이었더라
 
-🕊️ _업데이트 시각: 2026-01-17 20:36:52 KST_
+🕊️ _업데이트 시각: 2026-01-17 20:43:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
