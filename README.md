@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 44:5**
-> 우리가 주를 의지하여 우리 대적을 누르고 우리를 치러 일어나는 자를 주의 이름으로 밟으리이다
+📖 **아모스 9:10**
+> 내 백성 중에서 말하기를 화가 우리에게 미치지 아니하며 이르지 아니하리라 하는 모든 죄인은 칼에 죽으리라
 
-🕊️ _업데이트 시각: 2026-01-19 05:35:12 KST_
+🕊️ _업데이트 시각: 2026-01-19 05:47:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
