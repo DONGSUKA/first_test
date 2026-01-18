@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 17:13**
-> 그 왕족 중에서 하나를 택하여 언약을 세우고 그에게 맹세하게 하고 또 그 땅의 능한 자들을 옮겨 갔나니
+📖 **고린도전서 10:24**
+> 누구든지 자기의 유익을 구하지 말고 남의 유익을 구하라
 
-🕊️ _업데이트 시각: 2026-01-19 08:50:27 KST_
+🕊️ _업데이트 시각: 2026-01-19 08:56:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
