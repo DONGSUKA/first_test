@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **야고보서 3:2**
-> 우리가 다 실수가 많으니 만일 말에 실수가 없는 자라면 곧 온전한 사람이라 능히 온 몸도 굴레 씌우리라
+📖 **예레미야 31:26**
+> 내가 깨어 보니 내 잠이 달았더라
 
-🕊️ _업데이트 시각: 2026-01-18 18:52:10 KST_
+🕊️ _업데이트 시각: 2026-01-18 18:58:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
