@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 5:17**
-> 토기에 거룩한 물을 담고 성막 바닥의 티끌을 취하여 물에 넣고
+📖 **예레미야 52:16**
+> 가난한 백성은 남겨 두어 포도원을 관리하는 자와 농부가 되게 하였더라
 
-🕊️ _업데이트 시각: 2026-01-19 04:31:21 KST_
+🕊️ _업데이트 시각: 2026-01-19 04:39:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
