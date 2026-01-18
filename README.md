@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 96:12**
-> 밭과 그 가운데에 있는 모든 것은 즐거워할지로다 그 때 숲의 모든 나무들이 여호와 앞에서 즐거이 노래하리니
+📖 **욥기 5:27**
+> 볼지어다 우리가 연구한 바가 이와 같으니 너는 들어 보라 그러면 네가 알리라
 
-🕊️ _업데이트 시각: 2026-01-19 02:50:07 KST_
+🕊️ _업데이트 시각: 2026-01-19 02:56:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
