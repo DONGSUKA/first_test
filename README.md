@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 17:8**
-> 자기 손으로 만든 제단을 바라보지 아니하며 자기 손가락으로 지은 아세라나 태양상을 보지 아니할 것이며
+📖 **사도행전 19:3**
+> 바울이 이르되 그러면 너희가 무슨 세례를 받았느냐 대답하되 요한의 세례니라
 
-🕊️ _업데이트 시각: 2026-01-18 23:49:53 KST_
+🕊️ _업데이트 시각: 2026-01-18 23:55:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
