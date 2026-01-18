@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 18:12**
-> 너희 생각에는 어떠하냐 만일 어떤 사람이 양 백 마리가 있는데 그 중의 하나가 길을 잃었으면 그 아흔아홉 마리를 산에 두고 가서 길잃은 양을 찾지 않겠느냐
+📖 **사도행전 18:2**
+> 아굴라라 하는 본도에서 난 유대인 한 사람을 만나니 글라우디오가 모든 유대인을 명하여 로마에서 떠나라 한 고로 그가 그 아내 브리스길라와 함께 이달리야로부터 새로 온지라 바울이 그들에게 가매
 
-🕊️ _업데이트 시각: 2026-01-19 01:51:35 KST_
+🕊️ _업데이트 시각: 2026-01-19 01:57:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
