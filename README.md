@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 3:5**
-> 그 다음은 드고아 사람들이 중수하였으나 그 귀족들은 그들의 주인들의 공사를 분담하지 아니하였으며
+📖 **신명기 24:7**
+> 사람이 자기 형제 곧 이스라엘 자손 중 한 사람을 유인하여 종으로 삼거나 판 것이 발견되면 그 유인한 자를 죽일지니 이같이 하여 너희중에서 악을 제할지니라
 
-🕊️ _업데이트 시각: 2026-01-19 00:30:35 KST_
+🕊️ _업데이트 시각: 2026-01-19 00:42:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
