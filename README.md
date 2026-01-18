@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 11:28**
-> 자기의 재물을 의지하는 자는 패망하려니와 의인은 푸른 잎사귀 같아서 번성하리라
+📖 **열왕기상 3:14**
+> 네가 만일 네 아버지 다윗이 행함 같이 내 길로 행하며 내 법도와 명령을 지키면 내가 또 네 날을 길게 하리라
 
-🕊️ _업데이트 시각: 2026-01-19 04:51:27 KST_
+🕊️ _업데이트 시각: 2026-01-19 04:57:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
