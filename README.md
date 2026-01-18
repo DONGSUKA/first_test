@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요엘 2:24**
-> 마당에는 밀이 가득하고 독에는 새 포도주와 기름이 넘치리로다
+📖 **미가 1:7**
+> 그 새긴 우상들은 다 부서지고 그 음행의 값은 다 불살라지며 내가 그 목상들을 다 깨뜨리리니 그가 기생의 값으로 모았은즉 그것이 기생의값으로 돌아가리라
 
-🕊️ _업데이트 시각: 2026-01-19 08:32:37 KST_
+🕊️ _업데이트 시각: 2026-01-19 08:43:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
