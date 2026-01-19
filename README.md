@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 9:2**
-> 이스라엘 자손에게 유월절을 그 정한 기일에 지키게 하라
+📖 **스가랴 7:5**
+> 온 땅의 백성과 제사장들에게 이르라 너희가 칠십 년 동안 다섯째 달과 일곱째 달에 금식하고 애통하였거니와 그 금식이 나를 위하여, 나를 위하여 한 것이냐
 
-🕊️ _업데이트 시각: 2026-01-20 02:56:53 KST_
+🕊️ _업데이트 시각: 2026-01-20 03:21:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
