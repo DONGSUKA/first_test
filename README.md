@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 13:15**
-> 선한 지혜는 은혜를 베푸나 사악한 자의 길은 험하니라
+📖 **시편 148:4**
+> 하늘의 하늘도 그를 찬양하며 하늘 위에 있는 물들도 그를 찬양할지어다
 
-🕊️ _업데이트 시각: 2026-01-20 00:56:10 KST_
+🕊️ _업데이트 시각: 2026-01-20 01:18:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
