@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 18:3**
-> 생업이 같으므로 함께 살며 일을 하니 그 생업은 천막을 만드는 것이더라
+📖 **민수기 21:21**
+> 요단 동쪽을 점령하다(신 2:26-3:11) 이스라엘이 아모리 왕 시혼에게 사신을 보내어 이르되
 
-🕊️ _업데이트 시각: 2026-01-19 20:33:05 KST_
+🕊️ _업데이트 시각: 2026-01-19 20:46:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
