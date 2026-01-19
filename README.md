@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 12:17**
-> 너희가 아는 바와 같이 그가 그 후에 축복을 이어받으려고 눈물을 흘리며 구하되 버린 바가 되어 회개할 기회를 얻지 못하였느니라
+📖 **열왕기하 13:25**
+> 여호아하스의 아들 요아스가 하사엘의 아들 벤하닷의 손에서 성읍을 다시 빼앗으니 이 성읍들은 자기 부친 여호아하스가 전쟁 중에 빼앗겼던 것이라 요아스가 벤하닷을 세 번 쳐서 무찌르고 이스라엘 성읍들을 회복하였더라
 
-🕊️ _업데이트 시각: 2026-01-20 06:51:18 KST_
+🕊️ _업데이트 시각: 2026-01-20 06:57:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
