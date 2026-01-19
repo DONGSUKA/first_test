@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 53:3**
-> 그는 멸시를 받아 사람들에게 버림 받았으며 간고를 많이 겪었으며 질고를 아는 자라 마치 사람들이 그에게서 얼굴을 가리는 것 같이 멸시를 당하였고 우리도 그를 귀히 여기지 아니하였도다
+📖 **베드로전서 2:24**
+> 친히 나무에 달려 그 몸으로 우리 죄를 담당하셨으니 이는 우리로 죄에 대하여 죽고 의에 대하여 살게 하려 하심이라 그가 채찍에 맞음으로 너희는 나음을 얻었나니
 
-🕊️ _업데이트 시각: 2026-01-19 10:08:34 KST_
+🕊️ _업데이트 시각: 2026-01-19 12:15:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
