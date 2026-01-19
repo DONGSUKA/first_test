@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 19:4**
-> 그의 장인 곧 그 여자의 아버지가 그를 머물게 하매 그가 삼 일 동안 그와 함께 머물며 먹고 마시며 거기서 유숙하다가
+📖 **레위기 14:51**
+> 백향목과 우슬초와 홍색 실과 살아 있는 새를 가져다가 잡은 새의 피와 흐르는 물을 찍어 그 집에 일곱 번 뿌릴 것이요
 
-🕊️ _업데이트 시각: 2026-01-19 21:50:02 KST_
+🕊️ _업데이트 시각: 2026-01-19 22:35:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
