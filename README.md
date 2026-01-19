@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 19:5**
-> 그 암소를 자기 목전에서 불사르게 하되 그 가죽과 고기와 피와 똥을 불사르게 하고
+📖 **요한계시록 14:5**
+> 그 입에 거짓말이 없고 흠이 없는 자들이더라
 
-🕊️ _업데이트 시각: 2026-01-19 23:32:02 KST_
+🕊️ _업데이트 시각: 2026-01-19 23:54:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
