@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 2:21**
-> 할례할 팔 일이 되매 그 이름을 예수라 하니 곧 잉태하기 전에 천사가 일컬은 바러라
+📖 **신명기 28:32**
+> 네 자녀를 다른 민족에게 빼앗기고 종일 생각하고 찾음으로 눈이 피곤하여지나 네 손에 힘이 없을 것이며
 
-🕊️ _업데이트 시각: 2026-01-19 14:57:14 KST_
+🕊️ _업데이트 시각: 2026-01-19 15:29:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
