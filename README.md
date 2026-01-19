@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:32**
-> 네 자녀를 다른 민족에게 빼앗기고 종일 생각하고 찾음으로 눈이 피곤하여지나 네 손에 힘이 없을 것이며
+📖 **시편 53:2**
+> 하나님이 하늘에서 인생을 굽어살피사 지각이 있는 자와 하나님을 찾는 자가 있는가 보려 하신즉
 
-🕊️ _업데이트 시각: 2026-01-19 15:29:16 KST_
+🕊️ _업데이트 시각: 2026-01-19 16:02:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
