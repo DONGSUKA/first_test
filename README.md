@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 35:5**
-> 그들이 떠났으나 하나님이 그 사면 고을들로 크게 두려워하게 하셨으므로 야곱의 아들들을 추격하는 자가 없었더라
+📖 **사사기 18:22**
+> 그들이 미가의 집을 멀리 떠난 때에 미가의 이웃집 사람들이 모여서 단 자손을 따라 붙어서
 
-🕊️ _업데이트 시각: 2026-01-21 02:47:51 KST_
+🕊️ _업데이트 시각: 2026-01-21 02:59:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
