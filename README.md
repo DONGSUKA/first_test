@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 33:20**
-> 므낫세가 그의 열조와 함께 누우매 그의 궁에 장사되고 그의 아들 아몬이 대신하여 왕이 되니라
+📖 **열왕기하 17:19**
+> 유다도 그들의 하나님 여호와의 명령을 지키지 아니하고 이스라엘 사람들이 만든 관습을 행하였으므로
 
-🕊️ _업데이트 시각: 2026-01-20 22:29:10 KST_
+🕊️ _업데이트 시각: 2026-01-20 23:00:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
