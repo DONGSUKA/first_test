@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 14:1**
-> 지혜로운 여인은 자기 집을 세우되 미련한 여인은 자기 손으로 그것을 허느니라
+📖 **느헤미야 13:29**
+> 내 하나님이여 그들이 제사장의 직분을 더럽히고 제사장의 직분과 레위 사람에 대한 언약을 어겼사오니 그들을 기억하옵소서
 
-🕊️ _업데이트 시각: 2026-01-21 05:34:53 KST_
+🕊️ _업데이트 시각: 2026-01-21 05:56:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
