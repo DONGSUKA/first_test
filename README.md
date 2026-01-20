@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 9:15**
-> 가령 내가 의로울지라도 대답하지 못하겠고 나를 심판하실 그에게 간구할 뿐이며
+📖 **누가복음 8:30**
+> 예수께서 네 이름이 무엇이냐 물으신즉 이르되 군대라 하니 이는 많은 귀신이 들렸음이라
 
-🕊️ _업데이트 시각: 2026-01-21 01:54:34 KST_
+🕊️ _업데이트 시각: 2026-01-21 02:18:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
