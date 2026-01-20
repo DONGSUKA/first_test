@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:30**
-> 예수께서 네 이름이 무엇이냐 물으신즉 이르되 군대라 하니 이는 많은 귀신이 들렸음이라
+📖 **창세기 35:5**
+> 그들이 떠났으나 하나님이 그 사면 고을들로 크게 두려워하게 하셨으므로 야곱의 아들들을 추격하는 자가 없었더라
 
-🕊️ _업데이트 시각: 2026-01-21 02:18:59 KST_
+🕊️ _업데이트 시각: 2026-01-21 02:47:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
