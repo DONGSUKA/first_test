@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 3:39**
-> 살아 있는 사람은 자기 죄들 때문에 벌을 받나니 어찌 원망하랴
+📖 **에스겔 38:19**
+> 내가 질투와 맹렬한 노여움으로 말하였거니와 그 날에 큰 지진이 이스라엘 땅에 일어나서
 
-🕊️ _업데이트 시각: 2026-01-21 20:46:38 KST_
+🕊️ _업데이트 시각: 2026-01-21 20:54:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
