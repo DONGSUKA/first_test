@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 2:11**
-> 그 날에 눈이 높은 자가 낮아지며 교만한 자가 굴복되고 여호와께서 홀로 높임을 받으시리라
+📖 **베드로전서 5:3**
+> 맡은 자들에게 주장하는 자세를 하지 말고 양 무리의 본이 되라
 
-🕊️ _업데이트 시각: 2026-01-21 18:53:40 KST_
+🕊️ _업데이트 시각: 2026-01-21 19:13:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
