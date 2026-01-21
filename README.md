@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 26:9**
-> 이곳으로 인도하사 이 땅 곧 젖과 꿀이 흐르는 땅을 주셨나이다
+📖 **시편 112:4**
+> 정직한 자들에게는 흑암 중에 빛이 일어나나니 그는 자비롭고 긍휼이 많으며 의로운 이로다
 
-🕊️ _업데이트 시각: 2026-01-21 08:57:21 KST_
+🕊️ _업데이트 시각: 2026-01-21 10:16:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
