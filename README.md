@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 3:6**
-> 누구든지 엎드려 절하지 아니하는 자는 즉시 맹렬히 타는 풀무불에 던져 넣으리라 하였더라
+📖 **누가복음 11:13**
+> 너희가 악할지라도 좋은 것을 자식에게 줄 줄 알거든 하물며 너희 하늘 아버지께서 구하는 자에게 성령을 주시지 않겠느냐 하시니라
 
-🕊️ _업데이트 시각: 2026-01-22 00:16:50 KST_
+🕊️ _업데이트 시각: 2026-01-22 00:49:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
