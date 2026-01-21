@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 17:7**
-> 그 창 자루는 베틀 채 같고 창 날은 철 육백 세겔이며 방패 든 자가 앞서 행하더라
+📖 **예레미야애가 3:38**
+> 화와 복이 지존자의 입으로부터 나오지 아니하느냐
 
-🕊️ _업데이트 시각: 2026-01-21 22:55:38 KST_
+🕊️ _업데이트 시각: 2026-01-21 23:20:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
