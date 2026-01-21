@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 8:16**
-> 그 성읍에 있는 모든 백성이 그들을 추격하려고 모여 여호수아를 추격하며 유인함을 받아 아이 성읍을 멀리 떠나니
+📖 **누가복음 13:25**
+> 집 주인이 일어나 문을 한 번 닫은 후에 너희가 밖에 서서 문을 두드리며 주여 열어 주소서 하면 그가 대답하여 이르되 나는 너희가어디에서 온 자인지 알지 못하노라 하리니
 
-🕊️ _업데이트 시각: 2026-01-22 07:48:19 KST_
+🕊️ _업데이트 시각: 2026-01-22 08:00:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
