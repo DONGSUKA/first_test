@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 11:13**
-> 너희가 악할지라도 좋은 것을 자식에게 줄 줄 알거든 하물며 너희 하늘 아버지께서 구하는 자에게 성령을 주시지 않겠느냐 하시니라
+📖 **누가복음 9:60**
+> 이르시되 죽은 자들로 자기의 죽은 자들을 장사하게 하고 너는 가서 하나님의 나라를 전파하라 하시고
 
-🕊️ _업데이트 시각: 2026-01-22 00:49:44 KST_
+🕊️ _업데이트 시각: 2026-01-22 01:17:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
