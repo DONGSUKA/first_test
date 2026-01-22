@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 13:2**
-> 큰 무리가 그에게로 모여 들거늘 예수께서 배에 올라가 앉으시고 온 무리는 해변에 서 있더니
+📖 **시편 77:3**
+> 내가 하나님을 기억하고 불안하여 근심하니 내 심령이 상하도다 (셀라)
 
-🕊️ _업데이트 시각: 2026-01-22 15:40:52 KST_
+🕊️ _업데이트 시각: 2026-01-22 16:02:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
