@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 18:36**
-> 그러나 백성이 잠잠하고 한 마디도 그에게 대답하지 아니하니 이는 왕이 명령하여 대답하지 말라 하였음이라
+📖 **욥기 35:7**
+> 그대가 의로운들 하나님께 무엇을 드리겠으며 그가 그대의 손에서 무엇을 받으시겠느냐
 
-🕊️ _업데이트 시각: 2026-01-23 05:20:30 KST_
+🕊️ _업데이트 시각: 2026-01-23 05:45:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
