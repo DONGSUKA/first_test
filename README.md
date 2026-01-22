@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 22:27**
-> 그 가운데에 그 고관들은 음식물을 삼키는 이리 같아서 불의한 이익을 얻으려고 피를 흘려 영혼을 멸하거늘
+📖 **잠언 4:17**
+> 불의의 떡을 먹으며 강포의 술을 마심이니라
 
-🕊️ _업데이트 시각: 2026-01-22 14:27:19 KST_
+🕊️ _업데이트 시각: 2026-01-22 14:50:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
