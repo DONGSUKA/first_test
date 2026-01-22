@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 5:28**
-> 라멕은 백팔십이 세에 아들을 낳고
+📖 **역대하 20:29**
+> 이방 모든 나라가 여호와께서 이스라엘의 적군을 치셨다 함을 듣고 하나님을 두려워하므로
 
-🕊️ _업데이트 시각: 2026-01-22 16:50:34 KST_
+🕊️ _업데이트 시각: 2026-01-22 16:57:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
