@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 7:4**
-> 그가 네 아들을 유혹하여 그가 여호와를 떠나고 다른 신들을 섬기게 하므로 여호와께서 너희에게 진노하사 갑자기 너희를 멸하실 것임이니라
+📖 **예레미야 7:13**
+> 여호와의 말씀이니라 이제 너희가 그 모든 일을 행하였으며 내가 너희에게 말하되 새벽부터 부지런히 말하여도 듣지 아니하였고 너희를불러도 대답하지 아니하였느니라
 
-🕊️ _업데이트 시각: 2026-01-22 13:17:53 KST_
+🕊️ _업데이트 시각: 2026-01-22 13:59:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
