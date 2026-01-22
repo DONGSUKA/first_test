@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 26:20**
-> 유다 자손의 종족들은 이러하니 셀라에게서 난 셀라 종족과 베레스에게서 난 베레스 종족과 세라에게서 난 세라 종족이며
+📖 **시편 124:2**
+> 사람들이 우리를 치러 일어날 때에 여호와께서 우리 편에 계시지 아니하셨더라면
 
-🕊️ _업데이트 시각: 2026-01-23 08:45:18 KST_
+🕊️ _업데이트 시각: 2026-01-23 08:52:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
