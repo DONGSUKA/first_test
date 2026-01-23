@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 11:21**
-> 이는 먹을 때에 각각 자기의 만찬을 먼저 갖다 먹으므로 어떤 사람은 시장하고 어떤 사람은 취함이라
+📖 **예레미야 52:1**
+> 시드기야의 배반과 죽음(왕하 24:18-25:7) 시드기야가 왕위에 오를 때에 나이가 이십일 세라 예루살렘에서 십일 년 동안 다스리니라 그의 어머니의 이름은 하무달이라 립나인 예레미야의 딸이더라
 
-🕊️ _업데이트 시각: 2026-01-23 18:38:49 KST_
+🕊️ _업데이트 시각: 2026-01-23 18:54:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
