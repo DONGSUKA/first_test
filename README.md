@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 6:4**
-> 엘르아살은 비느하스를 낳고 비느하스는 아비수아를 낳고
+📖 **시편 146:7**
+> 억눌린 사람들을 위해 정의로 심판하시며 주린 자들에게 먹을 것을 주시는 이시로다 여호와께서는 갇힌 자들에게 자유를 주시는도다
 
-🕊️ _업데이트 시각: 2026-01-23 15:54:15 KST_
+🕊️ _업데이트 시각: 2026-01-23 16:16:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
