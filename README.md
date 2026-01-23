@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 37:29**
-> 거룩한 관유와 향품으로 정결한 향을 만들었으되 향을 만드는 법대로 하였더라
+📖 **열왕기하 21:7**
+> 또 자기가 만든 아로새긴 아세라 목상을 성전에 세웠더라 옛적에 여호와께서 이 성전에 대하여 다윗과 그의 아들 솔로몬에게 이르시기를 내가 이스라엘의 모든 지파 중에서 택한 이 성전과 예루살렘에 내 이름을 영원히 둘지라
 
-🕊️ _업데이트 시각: 2026-01-23 22:51:30 KST_
+🕊️ _업데이트 시각: 2026-01-23 23:12:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
