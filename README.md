@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **미가 5:11**
-> 네 땅의 성읍들을 멸하며 네 모든 견고한 성을 무너뜨릴 것이며
+📖 **잠언 25:28**
+> 자기의 마음을 제어하지 아니하는 자는 성읍이 무너지고 성벽이 없는 것과 같으니라
 
-🕊️ _업데이트 시각: 2026-01-24 00:58:09 KST_
+🕊️ _업데이트 시각: 2026-01-24 01:25:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
