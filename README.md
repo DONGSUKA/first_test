@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 34:7**
-> 들소와 송아지와 수소가 함께 도살장에 내려가니 그들의 땅이 피에 취하며 흙이 기름으로 윤택하리라
+📖 **전도서 1:17**
+> 내가 다시 지혜를 알고자 하며 미친 것들과 미련한 것들을 알고자 하여 마음을 썼으나 이것도 바람을 잡으려는 것인 줄을 깨달았도다
 
-🕊️ _업데이트 시각: 2026-01-24 07:15:31 KST_
+🕊️ _업데이트 시각: 2026-01-24 07:35:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
