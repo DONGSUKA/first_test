@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 15:12**
-> 유출병이 있는 자가 만진 질그릇은 깨뜨리고 나무 그릇은 다 물로 씻을지니라
+📖 **다니엘 2:38**
+> 사람들과 들짐승과 공중의 새들, 어느 곳에 있는 것을 막론하고 그것들을 왕의 손에 넘기사 다 다스리게 하셨으니 왕은 곧 그 금 머리니이다
 
-🕊️ _업데이트 시각: 2026-01-23 19:12:59 KST_
+🕊️ _업데이트 시각: 2026-01-23 19:44:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
