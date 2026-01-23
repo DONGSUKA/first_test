@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 10:45**
-> 인자가 온 것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기 목숨을 많은 사람의 대속물로 주려 함이니라
+📖 **열왕기하 8:11**
+> 하나님의 사람이 그가 부끄러워하기까지 그의 얼굴을 쏘아보다가 우니
 
-🕊️ _업데이트 시각: 2026-01-24 00:21:55 KST_
+🕊️ _업데이트 시각: 2026-01-24 00:44:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
