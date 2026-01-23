@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 45:6**
-> 하나님이여 주의 보좌는 영원하며 주의 나라의 규는 공평한 규이니이다
+📖 **사사기 19:28**
+> 그에게 이르되 일어나라 우리가 떠나가자 하나 아무 대답이 없는지라 이에 그의 시체를 나귀에 싣고 행하여 자기 곳에 돌아가서
 
-🕊️ _업데이트 시각: 2026-01-24 06:52:25 KST_
+🕊️ _업데이트 시각: 2026-01-24 06:58:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
