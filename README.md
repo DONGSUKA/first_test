@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 25:21**
-> 바울은 황제의 판결을 받도록 자기를 지켜 주기를 호소하므로 내가 그를 가이사에게 보내기까지 지켜 두라 명하였노라 하니
+📖 **고린도전서 11:21**
+> 이는 먹을 때에 각각 자기의 만찬을 먼저 갖다 먹으므로 어떤 사람은 시장하고 어떤 사람은 취함이라
 
-🕊️ _업데이트 시각: 2026-01-23 18:03:36 KST_
+🕊️ _업데이트 시각: 2026-01-23 18:38:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
