@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 11:1**
-> 다윗의 시, 인도자를 따라 부르는 노래 내가 여호와께 피하였거늘 너희가 내 영혼에게 새 같이 네 산으로 도망하라 함은 어찌함인가
+📖 **이사야 5:25**
+> 그러므로 여호와께서 자기 백성에게 노를 발하시고 그들 위에 손을 들어 그들을 치신지라 산들은 진동하며 그들의 시체는 거리 가운데에분토 같이 되었도다 그럴지라도 그의 노가 돌아서지 아니하였고 그의 손이 여전히 펼쳐져 있느니라
 
-🕊️ _업데이트 시각: 2026-01-24 23:45:51 KST_
+🕊️ _업데이트 시각: 2026-01-24 23:52:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
