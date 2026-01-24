@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 4:28**
-> 게르손 자손의 종족들이 회막에서 할 일은 이러하며 그들의 직무는 제사장 아론의 아들 이다말이 감독할지니라
+📖 **역대하 6:33**
+> 주는 계신 곳 하늘에서 들으시고 모든 이방인이 주께 부르짖는 대로 이루사 땅의 만민이 주의 이름을 알고 주의 백성 이스라엘처럼 경외하게 하시오며 또 내가 건축한 이 성전을 주의 이름으로 일컫는 줄을 알게 하옵소서
 
-🕊️ _업데이트 시각: 2026-01-24 14:49:11 KST_
+🕊️ _업데이트 시각: 2026-01-24 14:55:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
