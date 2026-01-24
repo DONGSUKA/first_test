@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 111:10**
-> 여호와를 경외함이 지혜의 근본이라 그의 계명을 지키는 자는 다 훌륭한 지각을 가진 자이니 여호와를 찬양함이 영원히 계속되리로다
+📖 **레위기 5:18**
+> 그는 네가 지정한 가치대로 양 떼 중 흠 없는 숫양을 속건제물로 제사장에게로 가져갈 것이요 제사장은 그가 부지중에 범죄한 허물을 위하여 속죄한즉 그가 사함을 받으리라
 
-🕊️ _업데이트 시각: 2026-01-25 07:53:24 KST_
+🕊️ _업데이트 시각: 2026-01-25 07:59:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
