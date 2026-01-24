@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 20:28**
-> 도마가 대답하여 이르되 나의 주님이시요 나의 하나님이시니이다
+📖 **누가복음 1:60**
+> 그 어머니가 대답하여 이르되 아니라 요한이라 할 것이라 하매
 
-🕊️ _업데이트 시각: 2026-01-25 03:19:06 KST_
+🕊️ _업데이트 시각: 2026-01-25 03:47:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
