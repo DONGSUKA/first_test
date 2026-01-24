@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 5:19**
-> 도둑질 하지 말지니라
+📖 **스가랴 11:11**
+> 당일에 곧 폐하매 내 말을 지키던 가련한 양들은 이것이 여호와의 말씀이었던 줄 안지라
 
-🕊️ _업데이트 시각: 2026-01-24 12:01:45 KST_
+🕊️ _업데이트 시각: 2026-01-24 13:00:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
