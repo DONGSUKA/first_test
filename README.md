@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 3:8**
-> 다니엘의 세 친구 그 때에 어떤 갈대아 사람들이 나아와 유다 사람들을 참소하니라
+📖 **사무엘상 14:50**
+> 사울의 아내의 이름은 아히노암이니 아히마아스의 딸이요 그의 군사령관의 이름은 아브넬이니 사울의 숙부 넬의 아들이며
 
-🕊️ _업데이트 시각: 2026-01-24 20:36:09 KST_
+🕊️ _업데이트 시각: 2026-01-24 20:44:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
