@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 10:11**
-> 이르되 만일 아람 사람이 나보다 강하면 네가 나를 돕고 만일 암몬 자손이 너보다 강하면 내가 가서 너를 도우리라
+📖 **사도행전 2:24**
+> 하나님께서 그를 사망의 고통에서 풀어 살리셨으니 이는 그가 사망에 매여 있을 수 없었음이라
 
-🕊️ _업데이트 시각: 2026-01-25 22:41:19 KST_
+🕊️ _업데이트 시각: 2026-01-25 22:52:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
