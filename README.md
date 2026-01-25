@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 10:24**
-> 두려워할 분을 두려워하라(눅 12:2-9) 제자가 그 선생보다, 또는 종이 그 상전보다 높지 못하나니
+📖 **누가복음 12:41**
+> 베드로가 여짜오되 주께서 이 비유를 우리에게 하심이니이까 모든 사람에게 하심이니이까
 
-🕊️ _업데이트 시각: 2026-01-26 04:44:42 KST_
+🕊️ _업데이트 시각: 2026-01-26 04:50:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
