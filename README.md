@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 25:3**
-> 그 사람의 이름은 나발이요 그의 아내의 이름은 아비가일이라 그 여자는 총명하고 용모가 아름다우나 남자는 완고하고 행실이 악하며그는 갈렙 족속이었더라
+📖 **열왕기하 18:25**
+> 내가 어찌 여호와의 뜻이 아니고야 이제 이 곳을 멸하러 올라왔겠느냐 여호와께서 전에 내게 이르시기를 이 땅으로 올라와서 쳐서 멸하라 하셨느니라 하는지라
 
-🕊️ _업데이트 시각: 2026-01-25 08:56:04 KST_
+🕊️ _업데이트 시각: 2026-01-25 10:07:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
