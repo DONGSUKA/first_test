@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 21:28**
-> 잇사갈 지파 중에서는 기시온과 그 목초지와 다브랏과 그 목초지와
+📖 **신명기 1:19**
+> 정탐할 사람을 보내다(민 13:1-33) 우리 하나님 여호와께서 우리에게 명령하신 대로 우리가 호렙 산을 떠나 너희가 보았던 그 크고 두려운 광야를 지나 아모리 족속의 산지 길로 가데스 바네아에 이른 때에
 
-🕊️ _업데이트 시각: 2026-01-25 23:16:34 KST_
+🕊️ _업데이트 시각: 2026-01-25 23:35:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
