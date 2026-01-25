@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 71:14**
-> 나는 항상 소망을 품고 주를 더욱더욱 찬송하리이다
+📖 **잠언 5:22**
+> 악인은 자기의 악에 걸리며 그 죄의 줄에 매이나니
 
-🕊️ _업데이트 시각: 2026-01-25 17:16:00 KST_
+🕊️ _업데이트 시각: 2026-01-25 17:43:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
