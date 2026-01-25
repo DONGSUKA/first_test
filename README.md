@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 2:24**
-> 하나님께서 그를 사망의 고통에서 풀어 살리셨으니 이는 그가 사망에 매여 있을 수 없었음이라
+📖 **시편 83:13**
+> 나의 하나님이여 그들이 굴러가는 검불 같게 하시며 바람에 날리는 지푸라기 같게 하소서
 
-🕊️ _업데이트 시각: 2026-01-25 22:52:55 KST_
+🕊️ _업데이트 시각: 2026-01-25 22:58:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
