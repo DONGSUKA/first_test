@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 13:8**
-> 제사장은 진찰할지니 그 병이 피부에 퍼졌으면 그를 부정하다 할지니라 이는 나병임이니라
+📖 **역대하 11:11**
+> 르호보암이 그 방비하는 성읍들을 더욱 견고하게 하고 지휘관들을 그 가운데에 두고 양식과 기름과 포도주를 저축하고
 
-🕊️ _업데이트 시각: 2026-01-26 02:12:11 KST_
+🕊️ _업데이트 시각: 2026-01-26 02:32:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
