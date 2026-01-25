@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 41:10**
-> 바로께서 종들에게 노하사 나와 떡 굽는 관원장을 친위대장의 집에 가두셨을 때에
+📖 **에스겔 41:6**
+> 골방은 삼 층인데 골방 위에 골방이 있어 모두 서른이라 그 삼면 골방이 성전 벽 밖으로 그 벽에 붙어 있는 성전 벽 속을 뚫지는 아니하였으며
 
-🕊️ _업데이트 시각: 2026-01-26 08:30:15 KST_
+🕊️ _업데이트 시각: 2026-01-26 08:43:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
