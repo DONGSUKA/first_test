@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 8:46**
-> 예수께서 이르시되 내게 손을 댄 자가 있도다 이는 내게서 능력이 나간 줄 앎이로다 하신대
+📖 **사무엘상 19:14**
+> 사울이 전령들을 보내어 다윗을 잡으려 하매 미갈이 이르되 그가 병들었느니라
 
-🕊️ _업데이트 시각: 2026-01-27 04:55:46 KST_
+🕊️ _업데이트 시각: 2026-01-27 05:14:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
