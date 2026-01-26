@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 3:46**
-> 이스라엘 자손의 처음 태어난 자가 레위인보다 이백칠십삼 명이 더 많은즉 속전으로
+📖 **누가복음 8:46**
+> 예수께서 이르시되 내게 손을 댄 자가 있도다 이는 내게서 능력이 나간 줄 앎이로다 하신대
 
-🕊️ _업데이트 시각: 2026-01-27 04:47:55 KST_
+🕊️ _업데이트 시각: 2026-01-27 04:55:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
