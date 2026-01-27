@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 12:17**
-> 오늘은 밀 베는 때가 아니냐 내가 여호와께 아뢰리니 여호와께서 우레와 비를 보내사 너희가 왕을 구한 일 곧 여호와의 목전에서 범한죄악이 큼을 너희에게 밝히 알게 하시리라
+📖 **요한복음 4:19**
+> 여자가 이르되 주여 내가 보니 선지자로소이다
 
-🕊️ _업데이트 시각: 2026-01-27 20:51:13 KST_
+🕊️ _업데이트 시각: 2026-01-27 20:58:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
