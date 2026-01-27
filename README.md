@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 18:31**
-> 그 동료들이 그것을 보고 몹시 딱하게 여겨 주인에게 가서 그 일을 다 알리니
+📖 **예레미야 29:18**
+> 내가 칼과 기근과 전염병으로 그들을 뒤따르게 하며 그들을 세계 여러 나라 가운데에 흩어 학대를 당하게 할 것이며 내가 그들을 쫓아낸 나라들 가운데에서 저주와 경악과 조소와 수모의 대상이 되게 하리라
 
-🕊️ _업데이트 시각: 2026-01-28 04:04:30 KST_
+🕊️ _업데이트 시각: 2026-01-28 04:34:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
