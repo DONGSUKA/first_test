@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 12:8**
-> 대제사장 예수아의 자손들 레위 사람들은 예수아와 빈누이와 갓미엘과 세레뱌와 유다와 맛다냐니 이 맛다냐는 그의 형제와 함께 찬송하는 일을 맡았고
+📖 **역대하 28:22**
+> 아하스의 범죄 이 아하스 왕이 곤고할 때에 더욱 여호와께 범죄하여
 
-🕊️ _업데이트 시각: 2026-01-27 16:55:02 KST_
+🕊️ _업데이트 시각: 2026-01-27 17:16:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
