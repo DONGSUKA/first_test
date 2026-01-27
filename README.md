@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 26:13**
-> 내가 진실로 너희에게 이르노니 온 천하에 어디서든지 이 복음이 전파되는 곳에서는 이 여자가 행한 일도 말하여 그를 기억하리라 하시니라
+📖 **느헤미야 2:3**
+> 왕께 대답하되 왕은 만세수를 하옵소서 내 조상들의 묘실이 있는 성읍이 이제까지 황폐하고 성문이 불탔사오니 내가 어찌 얼굴에 수심이없사오리이까 하니
 
-🕊️ _업데이트 시각: 2026-01-27 08:55:49 KST_
+🕊️ _업데이트 시각: 2026-01-27 10:01:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
