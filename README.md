@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 7:4**
-> 보라 네 눈 속에 들보가 있는데 어찌하여 형제에게 말하기를 나로 네 눈 속에 있는 티를 빼게 하라 하겠느냐
+📖 **요한복음 17:2**
+> 아버지께서 아들에게 주신 모든 사람에게 영생을 주게 하시려고 만민을 다스리는 권세를 아들에게 주셨음이로소이다
 
-🕊️ _업데이트 시각: 2026-01-28 02:45:11 KST_
+🕊️ _업데이트 시각: 2026-01-28 02:58:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
