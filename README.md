@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 20:29**
-> 이방 모든 나라가 여호와께서 이스라엘의 적군을 치셨다 함을 듣고 하나님을 두려워하므로
+📖 **예레미야 3:3**
+> 그러므로 단비가 그쳤고 늦은 비가 없어졌느니라 그럴지라도 네가 창녀의 낯을 가졌으므로 수치를 알지 못하느니라
 
-🕊️ _업데이트 시각: 2026-01-28 06:58:05 KST_
+🕊️ _업데이트 시각: 2026-01-28 07:19:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
