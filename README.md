@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 28:22**
-> 아하스의 범죄 이 아하스 왕이 곤고할 때에 더욱 여호와께 범죄하여
+📖 **여호수아 7:10**
+> 여호와께서 여호수아에게 이르시되 일어나라 어찌하여 이렇게 엎드렸느냐
 
-🕊️ _업데이트 시각: 2026-01-27 17:16:38 KST_
+🕊️ _업데이트 시각: 2026-01-27 17:50:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
