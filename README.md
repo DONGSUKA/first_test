@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 18:3**
-> 제사장이 백성에게서 받을 몫은 이러하니 곧 그 드리는 제물의 소나 양이나 그 앞다리와 두 볼과 위라 이것을 제사장에게 줄 것이요
+📖 **고린도후서 8:1**
+> 풍성한 연보 형제들아 하나님께서 마게도냐 교회들에게 주신 은혜를 우리가 너희에게 알리노니
 
-🕊️ _업데이트 시각: 2026-01-29 02:20:16 KST_
+🕊️ _업데이트 시각: 2026-01-29 02:50:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
