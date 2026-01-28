@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 3:16**
-> 너희는 너희가 하나님의 성전인 것과 하나님의 성령이 너희 안에 계시는 것을 알지 못하느냐
+📖 **잠언 5:19**
+> 그는 사랑스러운 암사슴 같고 아름다운 암노루 같으니 너는 그의 품을 항상 족하게 여기며 그의 사랑을 항상 연모하라
 
-🕊️ _업데이트 시각: 2026-01-29 07:51:27 KST_
+🕊️ _업데이트 시각: 2026-01-29 08:13:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
