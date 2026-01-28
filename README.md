@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 8:13**
-> 이와 같이 성읍 북쪽에는 온 군대가 있고 성읍 서쪽에는 복병이 있었더라 여호수아가 그 밤에 골짜기 가운데로 들어가니
+📖 **빌립보서 2:24**
+> 나도 속히 가게 될 것을 주 안에서 확신하노라
 
-🕊️ _업데이트 시각: 2026-01-28 14:58:18 KST_
+🕊️ _업데이트 시각: 2026-01-28 15:31:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
