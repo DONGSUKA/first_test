@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 37:10**
-> 가령 너희가 너희를 치는 갈대아인의 온 군대를 쳐서 그 중에 부상자만 남긴다 할지라도 그들이 각기 장막에서 일어나 이 성을 불사르리라
+📖 **디모데전서 6:16**
+> 오직 그에게만 죽지 아니함이 있고 가까이 가지 못할 빛에 거하시고 어떤 사람도 보지 못하였고 또 볼 수 없는 이시니 그에게 존귀와영원한 권능을 돌릴지어다 아멘
 
-🕊️ _업데이트 시각: 2026-01-28 21:36:11 KST_
+🕊️ _업데이트 시각: 2026-01-28 22:31:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
