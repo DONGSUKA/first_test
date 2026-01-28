@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 41:16**
-> 문 통로 벽과 닫힌 창과 삼면에 둘려 있는 회랑은 문 통로 안쪽에서부터 땅에서 창까지 널판자로 가렸고 (창은 이미 닫혔더라)
+📖 **느헤미야 12:32**
+> 그들의 뒤를 따르는 자는 호세야와 유다 지도자의 절반이요
 
-🕊️ _업데이트 시각: 2026-01-28 10:18:01 KST_
+🕊️ _업데이트 시각: 2026-01-28 12:13:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
