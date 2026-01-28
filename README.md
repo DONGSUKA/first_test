@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 14:14**
-> 예수께서 나오사 큰 무리를 보시고 불쌍히 여기사 그 중에 있는 병자를 고쳐 주시니라
+📖 **신명기 18:3**
+> 제사장이 백성에게서 받을 몫은 이러하니 곧 그 드리는 제물의 소나 양이나 그 앞다리와 두 볼과 위라 이것을 제사장에게 줄 것이요
 
-🕊️ _업데이트 시각: 2026-01-29 01:48:02 KST_
+🕊️ _업데이트 시각: 2026-01-29 02:20:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
