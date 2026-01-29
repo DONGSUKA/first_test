@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아가 1:6**
-> 내가 햇볕에 쬐어서 거무스름할지라도 흘겨보지 말 것은 내 어머니의 아들들이 나에게 노하여 포도원지기로 삼았음이라 나의 포도원을 내가지키지 못하였구나
+📖 **역대상 17:15**
+> 나단이 이 모든 말씀과 이 모든 계시대로 다윗에게 전하니라
 
-🕊️ _업데이트 시각: 2026-01-29 13:15:53 KST_
+🕊️ _업데이트 시각: 2026-01-29 14:12:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
