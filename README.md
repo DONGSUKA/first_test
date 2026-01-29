@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 27:23**
-> 이스라엘 사람의 이십 세 이하의 수효는 다윗이 조사하지 아니하였으니 이는 여호와께서 전에 말씀하시기를 이스라엘 사람을 하늘의 별같이 많게 하리라 하셨음이라
+📖 **창세기 42:16**
+> 너희 중 하나를 보내어 너희 아우를 데려오게 하고 너희는 갇히어 있으라 내가 너희의 말을 시험하여 너희 중에 진실이 있는지 보리라바로의 생명으로 맹세하노니 그리하지 아니하면 너희는 과연 정탐꾼이니라 하고
 
-🕊️ _업데이트 시각: 2026-01-30 07:46:28 KST_
+🕊️ _업데이트 시각: 2026-01-30 08:01:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
