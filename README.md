@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 42:6**
-> 그러므로 내가 스스로 거두어들이고 티끌과 재 가운데에서 회개하나이다
+📖 **시편 47:2**
+> 지존하신 여호와는 두려우시고 온 땅에 큰 왕이 되심이로다
 
-🕊️ _업데이트 시각: 2026-01-30 00:42:12 KST_
+🕊️ _업데이트 시각: 2026-01-30 01:20:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
