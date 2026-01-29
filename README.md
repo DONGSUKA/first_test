@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 4:6**
-> 이르되 이 모든 권위와 그 영광을 내가 네게 주리라 이것은 내게 넘겨 준 것이므로 내가 원하는 자에게 주노라
+📖 **룻기 1:13**
+> 너희가 어찌 그들이 자라기를 기다리겠으며 어찌 남편 없이 지내겠다고 결심하겠느냐 내 딸들아 그렇지 아니하니라 여호와의 손이 나를 치셨으므로 나는 너희로 말미암아 더욱 마음이 아프도다 하매
 
-🕊️ _업데이트 시각: 2026-01-29 19:28:47 KST_
+🕊️ _업데이트 시각: 2026-01-29 20:04:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
