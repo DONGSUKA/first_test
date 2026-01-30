@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 5:27**
-> 그들을 끌어다가 공회 앞에 세우니 대제사장이 물어
+📖 **열왕기하 5:22**
+> 그가 이르되 평안하나이다 우리 주인께서 나를 보내시며 말씀하시기를 지금 선지자의 제자 중에 두 청년이 에브라임 산지에서부터 내게로 왔으니 청하건대 당신은 그들에게 은 한 달란트와 옷 두 벌을 주라 하시더이다
 
-🕊️ _업데이트 시각: 2026-01-31 06:54:51 KST_
+🕊️ _업데이트 시각: 2026-01-31 07:11:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
