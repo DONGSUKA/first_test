@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 12:12**
-> 너는 은밀히 행하였으나 나는 온 이스라엘 앞에서 백주에 이 일을 행하리라 하셨나이다 하니
+📖 **여호수아 24:4**
+> 이삭에게는 야곱과 에서를 주었고 에서에게는 세일 산을 소유로 주었으나 야곱과 그의 자손들은 애굽으로 내려갔으므로
 
-🕊️ _업데이트 시각: 2026-01-31 00:47:53 KST_
+🕊️ _업데이트 시각: 2026-01-31 01:18:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
