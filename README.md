@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 10:26**
-> 제자들이 매우 놀라 서로 말하되 그런즉 누가 구원을 얻을 수 있는가 하니
+📖 **사무엘상 14:50**
+> 사울의 아내의 이름은 아히노암이니 아히마아스의 딸이요 그의 군사령관의 이름은 아브넬이니 사울의 숙부 넬의 아들이며
 
-🕊️ _업데이트 시각: 2026-01-30 18:24:02 KST_
+🕊️ _업데이트 시각: 2026-01-30 18:57:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
