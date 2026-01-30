@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 17:5**
-> 여호와께서 모세에게 이르시되 백성 앞을 지나서 이스라엘 장로들을 데리고 나일 강을 치던 네 지팡이를 손에 잡고 가라
+📖 **히브리서 10:10**
+> 이 뜻을 따라 예수 그리스도의 몸을 단번에 드리심으로 말미암아 우리가 거룩함을 얻었노라
 
-🕊️ _업데이트 시각: 2026-01-31 04:22:15 KST_
+🕊️ _업데이트 시각: 2026-01-31 04:48:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
