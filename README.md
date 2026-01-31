@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 20:1**
-> 다윗이 랍바를 함락시키다(삼하 12:26-31) 해가 바뀌어 왕들이 출전할 때가 되매 요압이 그 군대를 거느리고 나가서 암몬 자손의 땅을 격파하고 들어가 랍바를 에워싸고 다윗은 예루살렘에 그대로 있더니 요압이 랍바를 쳐서 함락시키매
+📖 **역대하 30:9**
+> 너희가 만일 여호와께 돌아오면 너희 형제들과 너희 자녀가 사로잡은 자들에게서 자비를 입어 다시 이 땅으로 돌아오리라 너희 하나님 여호와는 은혜로우시고 자비하신지라 너희가 그에게로 돌아오면 그의 얼굴을 너희에게서 돌이키지 아니하시리라 하였더라
 
-🕊️ _업데이트 시각: 2026-02-01 02:03:19 KST_
+🕊️ _업데이트 시각: 2026-02-01 02:31:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
