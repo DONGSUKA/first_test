@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 52:1**
-> 여호와께서 예루살렘을 구속하시다 시온이여 깰지어다 깰지어다 네 힘을 낼지어다 거룩한 성 예루살렘이여 네 아름다운 옷을 입을지어다이제부터 할례 받지 아니한 자와 부정한 자가 다시는 네게로 들어옴이 없을 것임이라
+📖 **마태복음 27:11**
+> 십자가에 못 박히게 예수를 넘기다(막 15:2-15; 눅 23:3-5, 13-25; 요 18:33-19:16) 예수께서 총독 앞에 섰으매 총독이 물어 이르되네가 유대인의 왕이냐 예수께서 대답하시되 네 말이 옳도다 하시고
 
-🕊️ _업데이트 시각: 2026-01-31 16:58:49 KST_
+🕊️ _업데이트 시각: 2026-01-31 17:27:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
