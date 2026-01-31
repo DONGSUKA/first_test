@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 15:12**
-> 유출병이 있는 자가 만진 질그릇은 깨뜨리고 나무 그릇은 다 물로 씻을지니라
+📖 **열왕기하 23:19**
+> 전에 이스라엘 여러 왕이 사마리아 각 성읍에 지어서 여호와를 격노하게 한 산당을 요시야가 다 제거하되 벧엘에서 행한 모든 일대로행하고
 
-🕊️ _업데이트 시각: 2026-01-31 19:13:57 KST_
+🕊️ _업데이트 시각: 2026-01-31 19:44:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
