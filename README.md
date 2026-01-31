@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 11:8**
-> 그들의 시체가 큰 성 길에 있으리니 그 성은 영적으로 하면 소돔이라고도 하고 애굽이라고도 하니 곧 그들의 주께서 십자가에 못 박히신 곳이라
+📖 **에스겔 20:2**
+> 여호와의 말씀이 내게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2026-02-01 05:42:28 KST_
+🕊️ _업데이트 시각: 2026-02-01 05:55:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
