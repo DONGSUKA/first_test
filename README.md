@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 23:25**
-> 다윗이 이르기를 이스라엘 하나님 여호와께서 평강을 그의 백성에게 주시고 예루살렘에 영원히 거하시나니
+📖 **시편 119:130**
+> 주의 말씀을 열면 빛이 비치어 우둔한 사람들을 깨닫게 하나이다
 
-🕊️ _업데이트 시각: 2026-01-31 10:27:50 KST_
+🕊️ _업데이트 시각: 2026-01-31 12:35:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
