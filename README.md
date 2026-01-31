@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 26:13**
-> 나는 너희를 애굽 땅에서 인도해 내어 그들에게 종된 것을 면하게 한 너희의 하나님 여호와이니라 내가 너희의 멍에의 빗장을 부수고 너희를 바로 서서 걷게 하였느니라
+📖 **에스겔 13:1**
+> 거짓 선지자의 종말 여호와의 말씀이 내게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2026-02-01 06:55:32 KST_
+🕊️ _업데이트 시각: 2026-02-01 07:11:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
