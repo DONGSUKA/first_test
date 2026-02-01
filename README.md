@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 25:12**
-> 베스도가 배석자들과 상의하고 이르되 네가 가이사에게 상소하였으니 가이사에게 갈 것이라 하니라
+📖 **히브리서 12:10**
+> 그들은 잠시 자기의 뜻대로 우리를 징계하였거니와 오직 하나님은 우리의 유익을 위하여 그의 거룩하심에 참여하게 하시느니라
 
-🕊️ _업데이트 시각: 2026-02-02 02:40:10 KST_
+🕊️ _업데이트 시각: 2026-02-02 02:55:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
