@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 7:16**
-> 이에 여호수아가 아침 일찍이 일어나서 이스라엘을 그의 지파대로 가까이 나아오게 하였더니 유다 지파가 뽑혔고
+📖 **역대상 28:2**
+> 이에 다윗 왕이 일어서서 이르되 나의 형제들, 나의 백성들아 내 말을 들으라 나는 여호와의 언약궤 곧 우리 하나님의 발판을 봉안할 성전을 건축할 마음이 있어서 건축할 재료를 준비하였으나
 
-🕊️ _업데이트 시각: 2026-02-02 04:49:15 KST_
+🕊️ _업데이트 시각: 2026-02-02 04:57:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
