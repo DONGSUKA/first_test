@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 17:10**
-> 미가가 그에게 이르되 네가 나와 함께 거주하며 나를 위하여 아버지와 제사장이 되라 내가 해마다 은 열과 의복 한 벌과 먹을 것을 주리라 하므로 그 레위인이 들어갔더라
+📖 **신명기 22:21**
+> 그 처녀를 그의 아버지 집 문에서 끌어내고 그 성읍 사람들이 그를 돌로 쳐죽일지니 이는 그가 그의 아버지 집에서 창기의 행동을 하여이스라엘 중에서 악을 행하였음이라 너는 이와 같이 하여 너희 가운데서 악을 제할지니라
 
-🕊️ _업데이트 시각: 2026-02-01 14:46:15 KST_
+🕊️ _업데이트 시각: 2026-02-01 15:30:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
