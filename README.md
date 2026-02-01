@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 12:10**
-> 그들은 잠시 자기의 뜻대로 우리를 징계하였거니와 오직 하나님은 우리의 유익을 위하여 그의 거룩하심에 참여하게 하시느니라
+📖 **역대상 29:11**
+> 여호와여 위대하심과 권능과 영광과 승리와 위엄이 다 주께 속하였사오니 천지에 있는 것이 다 주의 것이로소이다 여호와여 주권도 주께속하였사오니 주는 높으사 만물의 머리이심이니이다
 
-🕊️ _업데이트 시각: 2026-02-02 02:55:12 KST_
+🕊️ _업데이트 시각: 2026-02-02 03:17:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
