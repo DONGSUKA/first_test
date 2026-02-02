@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:15**
-> 그러므로 사탄의 일꾼들도 자기를 의의 일꾼으로 가장하는 것이 또한 대단한 일이 아니니라 그들의 마지막은 그 행위대로 되리라
+📖 **역대상 11:28**
+> 드고아 사람 익게스의 아들 이라와 아나돗 사람 아비에셀과
 
-🕊️ _업데이트 시각: 2026-02-02 17:37:35 KST_
+🕊️ _업데이트 시각: 2026-02-02 18:27:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
