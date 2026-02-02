@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 43:19**
-> 보라 내가 새 일을 행하리니 이제 나타낼 것이라 너희가 그것을 알지 못하겠느냐 반드시 내가 광야에 길을 사막에 강을 내리니
+📖 **신명기 1:15**
+> 내가 너희 지파의 수령으로 지혜가 있고 인정 받는 자들을 취하여 너희의 수령을 삼되 곧 각 지파를 따라 천부장과 백부장과 오십부장과십부장과 조장을 삼고
 
-🕊️ _업데이트 시각: 2026-02-03 08:08:06 KST_
+🕊️ _업데이트 시각: 2026-02-03 08:18:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
