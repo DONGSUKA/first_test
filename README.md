@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 8:24**
-> 그러므로 내가 너희에게 말하기를 너희가 너희 죄 가운데서 죽으리라 하였노라 너희가 만일 내가 그인 줄 믿지 아니하면 너희 죄 가운데서 죽으리라
+📖 **시편 119:70**
+> 그들의 마음은 살져서 기름덩이 같으나 나는 주의 법을 즐거워하나이다
 
-🕊️ _업데이트 시각: 2026-02-04 05:59:05 KST_
+🕊️ _업데이트 시각: 2026-02-04 06:33:01 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
