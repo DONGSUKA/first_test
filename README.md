@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 1:9**
-> 하나님이 이르시되 천하의 물이 한 곳으로 모이고 뭍이 드러나라 하시니 그대로 되니라
+📖 **아가 3:11**
+> 시온의 딸들아 나와서 솔로몬 왕을 보라 혼인날 마음이 기쁠 때에 그의 어머니가 씌운 왕관이 그 머리에 있구나
 
-🕊️ _업데이트 시각: 2026-02-03 18:00:01 KST_
+🕊️ _업데이트 시각: 2026-02-03 18:42:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
