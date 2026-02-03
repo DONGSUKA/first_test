@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 65:5**
-> 우리 구원의 하나님이시여 땅의 모든 끝과 먼 바다에 있는 자가 의지할 주께서 의를 따라 엄위하신 일로 우리에게 응답하시리이다
+📖 **출애굽기 1:16**
+> 이르되 너희는 히브리 여인을 위하여 해산을 도울 때에 그 자리를 살펴서 아들이거든 그를 죽이고 딸이거든 살려두라
 
-🕊️ _업데이트 시각: 2026-02-03 09:00:07 KST_
+🕊️ _업데이트 시각: 2026-02-03 11:22:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
