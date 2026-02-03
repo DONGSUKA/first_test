@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 8:26**
-> 이와 같이 성령도 우리의 연약함을 도우시나니 우리는 마땅히 기도할 바를 알지 못하나 오직 성령이 말할 수 없는 탄식으로 우리를 위하여 친히 간구하시느니라
+📖 **사무엘하 16:4**
+> 왕이 시바에게 이르되 므비보셋에게 있는 것이 다 네 것이니라 하니라 시바가 이르되 내가 절하나이다 내 주 왕이여 내가 왕 앞에서 은혜를 입게 하옵소서 하니라
 
-🕊️ _업데이트 시각: 2026-02-03 21:00:39 KST_
+🕊️ _업데이트 시각: 2026-02-03 22:10:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
