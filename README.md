@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 3:2**
-> 그 때까지 여호와의 이름을 위하여 성전을 아직 건축하지 아니하였으므로 백성들이 산당에서 제사하며
+📖 **출애굽기 17:5**
+> 여호와께서 모세에게 이르시되 백성 앞을 지나서 이스라엘 장로들을 데리고 나일 강을 치던 네 지팡이를 손에 잡고 가라
 
-🕊️ _업데이트 시각: 2026-02-05 08:42:26 KST_
+🕊️ _업데이트 시각: 2026-02-05 08:57:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
