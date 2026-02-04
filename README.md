@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 3:21**
-> 내가 애굽 사람으로 이 백성에게 은혜를 입히게 할지라 너희가 나갈 때에 빈손으로 가지 아니하리니
+📖 **신명기 29:8**
+> 그 땅을 차지하여 르우벤과 갓과 므낫세 반 지파에게 기업으로 주었나니
 
-🕊️ _업데이트 시각: 2026-02-05 07:30:13 KST_
+🕊️ _업데이트 시각: 2026-02-05 07:53:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
