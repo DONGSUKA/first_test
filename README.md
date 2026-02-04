@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 4:29**
-> 하나님이 솔로몬에게 지혜와 총명을 심히 많이 주시고 또 넓은 마음을 주시되 바닷가의 모래 같이 하시니
+📖 **사도행전 5:17**
+> 사도들이 능욕을 받다 대제사장과 그와 함께 있는 사람 즉 사두개인의 당파가 다 마음에 시기가 가득하여 일어나서
 
-🕊️ _업데이트 시각: 2026-02-04 08:59:19 KST_
+🕊️ _업데이트 시각: 2026-02-04 11:00:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
