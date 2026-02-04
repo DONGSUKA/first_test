@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 7:35**
-> 맺는 말(1) 이는 여호와의 화제물 중에서 아론에게 돌릴 것과 그의 아들들에게 돌릴 것이니 그들을 세워 여호와의 제사장의 직분을 행하게 한 날
+📖 **역대상 26:18**
+> 서쪽 뜰에 있는 큰 길에 네 사람 그리고 뜰에 두 사람이라
 
-🕊️ _업데이트 시각: 2026-02-04 19:28:59 KST_
+🕊️ _업데이트 시각: 2026-02-04 20:06:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
