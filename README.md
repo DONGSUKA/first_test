@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 35:6**
-> 너희가 레위인에게 줄 성읍은 살인자들이 피하게 할 도피성으로 여섯 성읍이요 그 외에 사십이 성읍이라
+📖 **역대상 8:37**
+> 모사는 비느아를 낳았으며 비느아의 아들은 라바요 그의 아들은 엘르아사요 그의 아들은 아셀이며
 
-🕊️ _업데이트 시각: 2026-02-05 06:21:53 KST_
+🕊️ _업데이트 시각: 2026-02-05 06:49:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
