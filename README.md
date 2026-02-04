@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 63:12**
-> 그의 영광의 팔이 모세의 오른손을 이끄시며 그의 이름을 영원하게 하려 하사 그들 앞에서 물을 갈라지게 하시고
+📖 **잠언 20:23**
+> 한결같지 않은 저울 추는 여호와께서 미워하시는 것이요 속이는 저울은 좋지 못한 것이니라
 
-🕊️ _업데이트 시각: 2026-02-05 00:30:14 KST_
+🕊️ _업데이트 시각: 2026-02-05 01:09:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
