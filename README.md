@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 17:5**
-> 여호와께서 모세에게 이르시되 백성 앞을 지나서 이스라엘 장로들을 데리고 나일 강을 치던 네 지팡이를 손에 잡고 가라
+📖 **마가복음 3:20**
+> 예수와 바알세불(마 12:22-32; 눅 11:14-23; 12:10) 집에 들어가시니 무리가 다시 모이므로 식사할 겨를도 없는지라
 
-🕊️ _업데이트 시각: 2026-02-05 08:57:52 KST_
+🕊️ _업데이트 시각: 2026-02-05 10:44:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
