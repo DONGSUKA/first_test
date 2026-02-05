@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 17:14**
-> 다투는 시작은 둑에서 물이 새는 것 같은즉 싸움이 일어나기 전에 시비를 그칠 것이니라
+📖 **신명기 29:13**
+> 여호와께서 네게 말씀하신 대로 또 네 조상 아브라함과 이삭과 야곱에게 맹세하신 대로 오늘 너를 세워 자기 백성을 삼으시고 그는 친히네 하나님이 되시려 함이니라
 
-🕊️ _업데이트 시각: 2026-02-05 18:08:48 KST_
+🕊️ _업데이트 시각: 2026-02-05 18:58:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
