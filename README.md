@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 8:20**
-> 피조물이 허무한 데 굴복하는 것은 자기 뜻이 아니요 오직 굴복하게 하시는 이로 말미암음이라
+📖 **이사야 57:9**
+> 네가 기름을 가지고 몰렉에게 나아가되 향품을 더하였으며 네가 또 사신을 먼 곳에 보내고 스올에까지 내려가게 하였으며
 
-🕊️ _업데이트 시각: 2026-02-06 05:01:39 KST_
+🕊️ _업데이트 시각: 2026-02-06 05:39:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
