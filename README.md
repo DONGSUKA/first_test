@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:55**
-> 또 나라를 그들의 앞에서 쫓아내시며 줄을 쳐서 그들의 소유를 분배하시고 이스라엘의 지파들이 그들의 장막에 살게 하셨도다
+📖 **골로새서 2:17**
+> 이것들은 장래 일의 그림자이나 몸은 그리스도의 것이니라
 
-🕊️ _업데이트 시각: 2026-02-07 07:49:58 KST_
+🕊️ _업데이트 시각: 2026-02-07 08:01:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
