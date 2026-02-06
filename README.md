@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 19:31**
-> 너희는 신접한 자와 박수를 믿지 말며 그들을 추종하여 스스로 더럽히지 말라 나는 너희 하나님 여호와이니라
+📖 **다니엘 7:9**
+> 옛적부터 항상 계신 자 내가 보니 왕좌가 놓이고 옛적부터 항상 계신 이가 좌정하셨는데 그의 옷은 희기가 눈 같고 그의 머리털은 깨끗한양의 털 같고 그의 보좌는 불꽃이요 그의 바퀴는 타오르는 불이며
 
-🕊️ _업데이트 시각: 2026-02-06 22:14:12 KST_
+🕊️ _업데이트 시각: 2026-02-06 23:07:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
