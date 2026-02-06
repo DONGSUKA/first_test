@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:12**
-> 여호와께서 너를 위하여 하늘의 아름다운 보고를 여시사 네 땅에 때를 따라 비를 내리시고 네 손으로 하는 모든 일에 복을 주시리니 네가 많은 민족에게 꾸어줄지라도 너는 꾸지 아니할 것이요
+📖 **사무엘하 9:3**
+> 왕이 이르되 사울의 집에 아직도 남은 사람이 없느냐 내가 그 사람에게 하나님의 은총을 베풀고자 하노라 하니 시바가 왕께 아뢰되 요나단의 아들 하나가 있는데 다리 저는 자니이다 하니라
 
-🕊️ _업데이트 시각: 2026-02-07 06:54:06 KST_
+🕊️ _업데이트 시각: 2026-02-07 07:00:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
