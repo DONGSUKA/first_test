@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 106:11**
-> 그들의 대적들은 물로 덮으시매 그들 중에서 하나도 살아 남지 못하였도다
+📖 **호세아 2:10**
+> 이제 내가 그 수치를 그 사랑하는 자의 눈 앞에 드러내리니 그를 내 손에서 건져낼 사람이 없으리라
 
-🕊️ _업데이트 시각: 2026-02-08 07:02:09 KST_
+🕊️ _업데이트 시각: 2026-02-08 07:33:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
