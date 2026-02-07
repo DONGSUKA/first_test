@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 24:5**
-> 이스라엘의 하나님 여호와께서 이와 같이 말씀하시니라 내가 이 곳에서 옮겨 갈대아인의 땅에 이르게 한 유다 포로를 이 좋은 무화과같이 잘 돌볼 것이라
+📖 **사무엘하 11:22**
+> 전령이 가서 다윗에게 이르러 요압이 그를 보낸 모든 일을 다윗에게 아뢰어
 
-🕊️ _업데이트 시각: 2026-02-07 08:50:00 KST_
+🕊️ _업데이트 시각: 2026-02-07 09:00:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
