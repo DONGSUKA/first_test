@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 10:6**
-> 내가 유다 족속을 견고하게 하며 요셉 족속을 구원할지라 내가 그들을 긍휼히 여김으로 그들이 돌아오게 하리니 그들은 내가 내버린 일이없었음 같이 되리라 나는 그들의 하나님 여호와라 내가 그들에게 들으리라
+📖 **사사기 15:10**
+> 유다 사람들이 이르되 너희가 어찌하여 올라와서 우리를 치느냐 그들이 대답하되 우리가 올라온 것은 삼손을 결박하여 그가 우리에게 행한 대로 그에게 행하려 함이로라 하는지라
 
-🕊️ _업데이트 시각: 2026-02-07 18:15:23 KST_
+🕊️ _업데이트 시각: 2026-02-07 18:45:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
