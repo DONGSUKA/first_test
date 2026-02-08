@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 10:8**
-> 어느 동네에 들어가든지 너희를 영접하거든 너희 앞에 차려놓는 것을 먹고
+📖 **룻기 4:15**
+> 이는 네 생명의 회복자이며 네 노년의 봉양자라 곧 너를 사랑하며 일곱 아들보다 귀한 네 며느리가 낳은 자로다 하니라
 
-🕊️ _업데이트 시각: 2026-02-09 01:01:50 KST_
+🕊️ _업데이트 시각: 2026-02-09 01:38:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
