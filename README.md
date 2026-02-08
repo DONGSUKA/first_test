@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 1:4**
-> 왕이 여러 날 곧 백팔십 일 동안에 그의 영화로운 나라의 부함과 위엄의 혁혁함을 나타내니라
+📖 **열왕기상 21:20**
+> 아합이 엘리야에게 이르되 내 대적자여 네가 나를 찾았느냐 대답하되 내가 찾았노라 네가 네 자신을 팔아 여호와 보시기에 악을 행하였으므로
 
-🕊️ _업데이트 시각: 2026-02-08 10:09:44 KST_
+🕊️ _업데이트 시각: 2026-02-08 13:07:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
