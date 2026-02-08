@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 7:45**
-> 문지기들은 살룸 자손과 아델 자손과 달문 자손과 악굽 자손과 하디다 자손과 소배 자손이 모두 백삼십팔 명이었느니라
+📖 **시편 115:2**
+> 어찌하여 뭇 나라가 그들의 하나님이 이제 어디 있느냐 말하게 하리이까
 
-🕊️ _업데이트 시각: 2026-02-08 20:44:06 KST_
+🕊️ _업데이트 시각: 2026-02-08 20:54:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
