@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 37:11**
-> 예레미야를 붙잡아 가두다 갈대아인의 군대가 바로의 군대를 두려워하여 예루살렘에서 떠나매
+📖 **이사야 54:3**
+> 이는 네가 좌우로 퍼지며 네 자손은 열방을 얻으며 황폐한 성읍들을 사람 살 곳이 되게 할 것임이라
 
-🕊️ _업데이트 시각: 2026-02-08 23:16:50 KST_
+🕊️ _업데이트 시각: 2026-02-08 23:47:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
