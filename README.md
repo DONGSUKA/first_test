@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 2:7**
-> 그들은 심히 패역한 자라 그들이 듣든지 아니 듣든지 너는 내 말로 고할지어다
+📖 **민수기 7:85**
+> 은 쟁반은 각각 백삼십 세겔 무게요 은 바리는 각각 칠십 세겔 무게라 성소의 세겔로 모든 기구의 은이 모두 이천사백 세겔이요
 
-🕊️ _업데이트 시각: 2026-02-09 21:00:09 KST_
+🕊️ _업데이트 시각: 2026-02-09 22:18:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
