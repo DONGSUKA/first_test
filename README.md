@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 9:10**
-> 곧 함므다다의 손자요 유다인의 대적 하만의 열 아들을 죽였으나 그들의 재산에는 손을 대지 아니하였더라
+📖 **시편 50:5**
+> 이르시되 나의 성도들을 내 앞에 모으라 그들은 제사로 나와 언약한 이들이니라 하시도다
 
-🕊️ _업데이트 시각: 2026-02-10 02:27:38 KST_
+🕊️ _업데이트 시각: 2026-02-10 03:09:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
