@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 23:36**
-> 유다 왕 여호야김(대하 36:5-8) 여호야김이 왕이 될 때에 나이가 이십오 세라 예루살렘에서 십일 년간 다스리니라 그의 어머니의 이름은 스비다라 루마 브다야의 딸이더라
+📖 **이사야 51:13**
+> 하늘을 펴고 땅의 기초를 정하고 너를 지은 자 여호와를 어찌하여 잊어버렸느냐 너를 멸하려고 준비하는 저 학대자의 분노를 어찌하여항상 종일 두려워하느냐 학대자의 분노가 어디 있느냐
 
-🕊️ _업데이트 시각: 2026-02-09 23:31:44 KST_
+🕊️ _업데이트 시각: 2026-02-10 00:31:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
