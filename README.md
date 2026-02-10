@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 24:38**
-> 내 아버지의 집, 내 족속에게로 가서 내 아들을 위하여 아내를 택하라 하시기로
+📖 **예레미야 32:19**
+> 주는 책략에 크시며 하시는 일에 능하시며 인류의 모든 길을 주목하시며 그의 길과 그의 행위의 열매대로 보응하시나이다
 
-🕊️ _업데이트 시각: 2026-02-10 14:42:45 KST_
+🕊️ _업데이트 시각: 2026-02-10 15:46:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
