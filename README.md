@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 4:28**
-> 모세가 여호와께서 자기에게 분부하여 보내신 모든 말씀과 여호와께서 자기에게 명령하신 모든 이적을 아론에게 알리니라
+📖 **역대하 7:9**
+> 여덟째 날에 무리가 한 성회를 여니라 제단의 낙성식을 칠 일 동안 행한 후 이 절기를 칠 일 동안 지키니라
 
-🕊️ _업데이트 시각: 2026-02-11 06:53:16 KST_
+🕊️ _업데이트 시각: 2026-02-11 07:25:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
