@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 20:26**
-> 지혜로운 왕은 악인들을 키질하며 타작하는 바퀴를 그들 위에 굴리느니라
+📖 **예레미야애가 3:22**
+> 여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다
 
-🕊️ _업데이트 시각: 2026-02-11 12:50:42 KST_
+🕊️ _업데이트 시각: 2026-02-11 14:20:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
