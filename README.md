@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 12:22**
-> 우슬초 묶음을 가져다가 그릇에 담은 피에 적셔서 그 피를 문 인방과 좌우 설주에 뿌리고 아침까지 한 사람도 자기 집 문 밖에 나가지말라
+📖 **누가복음 7:39**
+> 예수를 청한 바리새인이 그것을 보고 마음에 이르되 이 사람이 만일 선지자라면 자기를 만지는 이 여자가 누구며 어떠한 자 곧 죄인인줄을 알았으리라 하거늘
 
-🕊️ _업데이트 시각: 2026-02-12 05:04:03 KST_
+🕊️ _업데이트 시각: 2026-02-12 05:50:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
