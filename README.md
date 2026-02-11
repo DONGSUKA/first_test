@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **디모데전서 3:13**
-> 집사의 직분을 잘한 자들은 아름다운 지위와 그리스도 예수 안에 있는 믿음에 큰 담력을 얻느니라
+📖 **에스겔 44:6**
+> 너는 반역하는 자 곧 이스라엘 족속에게 이르기를 주 여호와께서 이같이 말씀하시기를 이스라엘 족속아 너희의 모든 가증한 일이 족하니라
 
-🕊️ _업데이트 시각: 2026-02-12 06:52:45 KST_
+🕊️ _업데이트 시각: 2026-02-12 07:15:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
