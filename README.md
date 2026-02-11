@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 9:15**
-> 제자들이 이렇게 하여 다 앉힌 후
+📖 **누가복음 3:14**
+> 군인들도 물어 이르되 우리는 무엇을 하리이까 하매 이르되 사람에게서 강탈하지 말며 거짓으로 고발하지 말고 받는 급료를 족한 줄로알라 하니라
 
-🕊️ _업데이트 시각: 2026-02-11 17:07:53 KST_
+🕊️ _업데이트 시각: 2026-02-11 18:02:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
