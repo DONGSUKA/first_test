@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 1:28**
-> 하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라, 땅을 정복하라, 바다의 물고기와 하늘의새와 땅에 움직이는 모든 생물을 다스리라 하시니라
+📖 **요한계시록 2:17**
+> 귀 있는 자는 성령이 교회들에게 하시는 말씀을 들을지어다 이기는 그에게는 내가 감추었던 만나를 주고 또 흰 돌을 줄 터인데 그 돌위에 새 이름을 기록한 것이 있나니 받는 자 밖에는 그 이름을 알 사람이 없느니라
 
-🕊️ _업데이트 시각: 2026-02-12 13:31:08 KST_
+🕊️ _업데이트 시각: 2026-02-12 14:47:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
