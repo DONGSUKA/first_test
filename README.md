@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 68:35**
-> 하나님이여 위엄을 성소에서 나타내시나이다 이스라엘의 하나님은 그의 백성에게 힘과 능력을 주시나니 하나님을 찬송할지어다
+📖 **역대상 14:10**
+> 다윗이 하나님께 물어 이르되 내가 블레셋 사람들을 치러 올라가리이까 주께서 그들을 내 손에 넘기시겠나이까 하니 여호와께서 그에게이르시되 올라가라 내가 그들을 네 손에 넘기리라 하신지라
 
-🕊️ _업데이트 시각: 2026-02-12 15:43:01 KST_
+🕊️ _업데이트 시각: 2026-02-12 16:38:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
