@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 4:3**
-> 평안의 매는 줄로 성령이 하나 되게 하신 것을 힘써 지키라
+📖 **예레미야 37:21**
+> 이에 시드기야 왕이 명령하여 예레미야를 감옥 뜰에 두고 떡 만드는 자의 거리에서 매일 떡 한 개씩 그에게 주게 하매 성중에 떡이 떨어질 때까지 이르니라 예레미야가 감옥 뜰에 머무니라
 
-🕊️ _업데이트 시각: 2026-02-12 20:59:06 KST_
+🕊️ _업데이트 시각: 2026-02-12 22:04:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
