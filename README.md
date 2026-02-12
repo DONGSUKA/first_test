@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 20:24**
-> 아론은 그 조상들에게로 돌아가고 내가 이스라엘 자손에게 준 땅에는 들어가지 못하리니 이는 너희가 므리바 물에서 내 말을 거역한 까닭이니라
+📖 **마가복음 5:32**
+> 예수께서 이 일 행한 여자를 보려고 둘러 보시니
 
-🕊️ _업데이트 시각: 2026-02-12 08:59:34 KST_
+🕊️ _업데이트 시각: 2026-02-12 11:11:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
