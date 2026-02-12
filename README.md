@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 17:6**
-> 제사장은 그 피를 회막 문 여호와의 제단에 뿌리고 그 기름을 불살라 여호와께 향기로운 냄새가 되게 할 것이라
+📖 **창세기 34:24**
+> 성문으로 출입하는 모든 자가 하몰과 그의 아들 세겜의 말을 듣고 성문으로 출입하는 그 모든 남자가 할례를 받으니라
 
-🕊️ _업데이트 시각: 2026-02-13 04:52:42 KST_
+🕊️ _업데이트 시각: 2026-02-13 05:18:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
