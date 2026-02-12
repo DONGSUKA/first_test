@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 7:7**
-> 그들이 다 화덕 같이 뜨거워져서 그 재판장들을 삼키며 그들의 왕들을 다 엎드러지게 하며 그들 중에는 내게 부르짖는 자가 하나도 없도다
+📖 **사무엘상 12:20**
+> 사무엘이 백성에게 이르되 두려워하지 말라 너희가 과연 이 모든 악을 행하였으나 여호와를 따르는 데에서 돌아서지 말고 오직 너희의마음을 다하여 여호와를 섬기라
 
-🕊️ _업데이트 시각: 2026-02-12 18:55:37 KST_
+🕊️ _업데이트 시각: 2026-02-12 19:33:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
