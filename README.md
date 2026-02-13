@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 12:30**
-> 그 왕의 머리에서 보석 박힌 왕관을 가져오니 그 중량이 금 한 달란트라 다윗이 자기의 머리에 쓰니라 다윗이 또 그 성읍에서 노략한물건을 무수히 내오고
+📖 **욥기 10:8**
+> 주의 손으로 나를 빚으셨으며 만드셨는데 이제 나를 멸하시나이다
 
-🕊️ _업데이트 시각: 2026-02-13 15:39:34 KST_
+🕊️ _업데이트 시각: 2026-02-13 16:35:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
