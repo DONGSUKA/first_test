@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 32:12**
-> 주께서 말씀하시기를 내가 반드시 네게 은혜를 베풀어 네 씨로 바다의 셀 수 없는 모래와 같이 많게 하리라 하셨나이다
+📖 **마태복음 24:17**
+> 지붕 위에 있는 자는 집 안에 있는 물건을 가지러 내려 가지 말며
 
-🕊️ _업데이트 시각: 2026-02-14 08:17:49 KST_
+🕊️ _업데이트 시각: 2026-02-14 08:45:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
