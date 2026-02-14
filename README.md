@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **골로새서 1:26**
-> 이 비밀은 만세와 만대로부터 감추어졌던 것인데 이제는 그의 성도들에게 나타났고
+📖 **미가 3:10**
+> 시온을 피로, 예루살렘을 죄악으로 건축하는도다
 
-🕊️ _업데이트 시각: 2026-02-14 19:17:17 KST_
+🕊️ _업데이트 시각: 2026-02-14 19:47:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
