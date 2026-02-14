@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 46:18**
-> 만군의 여호와라 일컫는 왕이 이르시되 나의 삶으로 맹세하노니 그가 과연 산들 중의 다볼 같이, 해변의 갈멜 같이 오리라
+📖 **출애굽기 25:29**
+> 너는 대접과 숟가락과 병과 붓는 잔을 만들되 순금으로 만들며
 
-🕊️ _업데이트 시각: 2026-02-15 06:41:53 KST_
+🕊️ _업데이트 시각: 2026-02-15 06:54:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
