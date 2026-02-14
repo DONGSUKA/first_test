@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 9:16**
-> 무지개가 구름 사이에 있으리니 내가 보고 나 하나님과 모든 육체를 가진 땅의 모든 생물 사이의 영원한 언약을 기억하리라
+📖 **예레미야 14:9**
+> 어찌하여 놀란 자 같으시며 구원하지 못하는 용사 같으시니이까 여호와여 주는 그래도 우리 가운데 계시고 우리는 주의 이름으로 일컬음을 받는 자이오니 우리를 버리지 마옵소서
 
-🕊️ _업데이트 시각: 2026-02-15 08:16:09 KST_
+🕊️ _업데이트 시각: 2026-02-15 08:39:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
