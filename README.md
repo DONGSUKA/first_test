@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 32:31**
-> 진실로 그들의 반석이 우리의 반석과 같지 아니하니 우리의 원수들이 스스로 판단하도다
+📖 **시편 109:5**
+> 그들이 악으로 나의 선을 갚으며 미워함으로 나의 사랑을 갚았사오니
 
-🕊️ _업데이트 시각: 2026-02-14 20:59:46 KST_
+🕊️ _업데이트 시각: 2026-02-14 21:50:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
