@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 24:14**
-> 이스라엘 왕이 누구를 따라 나왔으며 누구의 뒤를 쫓나이까 죽은 개나 벼룩을 쫓음이니이다
+📖 **누가복음 12:56**
+> 외식하는 자여 너희가 천지의 기상은 분간할 줄 알면서 어찌 이 시대는 분간하지 못하느냐
 
-🕊️ _업데이트 시각: 2026-02-15 04:48:36 KST_
+🕊️ _업데이트 시각: 2026-02-15 04:56:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
