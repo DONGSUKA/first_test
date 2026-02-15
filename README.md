@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 16:17**
-> 이는 야곱에게 세우신 율례 곧 이스라엘에게 하신 영원한 언약이라
+📖 **예레미야 49:1**
+> 암몬이 받을 심판 암몬 자손에 대한 말씀이라 여호와께서 이와 같이 말씀하시되 이스라엘이 자식이 없느냐 상속자가 없느냐 말감이 갓을 점령하며 그 백성이 그 성읍들에 사는 것은 어찌 됨이냐
 
-🕊️ _업데이트 시각: 2026-02-16 00:31:30 KST_
+🕊️ _업데이트 시각: 2026-02-16 00:49:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
