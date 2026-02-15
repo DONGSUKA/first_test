@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 32:22**
-> 이와 같이 여호와께서 히스기야와 예루살렘 주민을 앗수르 왕 산헤립의 손과 모든 적국의 손에서 구원하여 내사 사면으로 보호하시매
+📖 **사무엘상 24:14**
+> 이스라엘 왕이 누구를 따라 나왔으며 누구의 뒤를 쫓나이까 죽은 개나 벼룩을 쫓음이니이다
 
-🕊️ _업데이트 시각: 2026-02-15 08:54:06 KST_
+🕊️ _업데이트 시각: 2026-02-15 09:00:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
