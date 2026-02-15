@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 11:10**
-> 제사장이 여호와의 성전에 있는 다윗 왕의 창과 방패를 백부장들에게 주니
+📖 **누가복음 11:5**
+> 또 이르시되 너희 중에 누가 벗이 있는데 밤중에 그에게 가서 말하기를 벗이여 떡 세 덩이를 내게 꾸어 달라
 
-🕊️ _업데이트 시각: 2026-02-15 23:49:32 KST_
+🕊️ _업데이트 시각: 2026-02-16 00:01:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
