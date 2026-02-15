@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 17:2**
-> 여호와께서 보시기에 악을 행하였으나 다만 그 전 이스라엘 여러 왕들과 같이 하지는 아니하였더라
+📖 **시편 44:7**
+> 오직 주께서 우리를 우리 원수들에게서 구원하시고 우리를 미워하는 자로 수치를 당하게 하셨나이다
 
-🕊️ _업데이트 시각: 2026-02-15 14:40:58 KST_
+🕊️ _업데이트 시각: 2026-02-15 15:29:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
