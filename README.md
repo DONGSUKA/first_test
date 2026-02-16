@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌립보서 4:15**
-> 빌립보 사람들아 너희도 알거니와 복음의 시초에 내가 마게도냐를 떠날 때에 주고 받는 내 일에 참여한 교회가 너희 외에 아무도 없었느니라
+📖 **신명기 5:12**
+> 네 하나님 여호와가 네게 명령한 대로 안식일을 지켜 거룩하게 하라
 
-🕊️ _업데이트 시각: 2026-02-16 18:09:31 KST_
+🕊️ _업데이트 시각: 2026-02-16 19:07:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
