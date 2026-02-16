@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 25:6**
-> 왕 앞에서 스스로 높은 체하지 말며 대인들의 자리에 서지 말라
+📖 **신명기 13:9**
+> 너는 용서 없이 그를 죽이되 죽일 때에 네가 먼저 그에게 손을 대고 후에 뭇 백성이 손을 대라
 
-🕊️ _업데이트 시각: 2026-02-17 04:38:44 KST_
+🕊️ _업데이트 시각: 2026-02-17 04:55:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
