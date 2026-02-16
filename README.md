@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 68:6**
-> 하나님이 고독한 자들은 가족과 함께 살게 하시며 갇힌 자들은 이끌어 내사 형통하게 하시느니라 오직 거역하는 자들의 거처는 메마른 땅이로다
+📖 **예레미야 13:5**
+> 내가 여호와께서 내게 명령하신 대로 가서 그것을 유브라데 물 가에 감추니라
 
-🕊️ _업데이트 시각: 2026-02-17 02:06:09 KST_
+🕊️ _업데이트 시각: 2026-02-17 02:50:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
