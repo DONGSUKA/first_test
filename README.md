@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 40:18**
-> 그런즉 너희가 하나님을 누구와 같다 하겠으며 무슨 형상을 그에게 비기겠느냐
+📖 **사도행전 7:9**
+> 여러 조상이 요셉을 시기하여 애굽에 팔았더니 하나님이 그와 함께 계셔
 
-🕊️ _업데이트 시각: 2026-02-16 08:59:40 KST_
+🕊️ _업데이트 시각: 2026-02-16 11:10:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
