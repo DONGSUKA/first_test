@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 5:24**
-> 에녹이 하나님과 동행하더니 하나님이 그를 데려가시므로 세상에 있지 아니하였더라
+📖 **에스겔 35:7**
+> 내가 세일 산이 황무지와 폐허가 되게 하여 그 위에 왕래하는 자를 다 끊을지라
 
-🕊️ _업데이트 시각: 2026-02-17 14:39:10 KST_
+🕊️ _업데이트 시각: 2026-02-17 15:35:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
