@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 6:29**
-> 서로 물어 이르되 이것이 누구의 소행인가 하고 그들이 캐어 물은 후에 이르되 요아스의 아들 기드온이 이를 행하였도다 하고
+📖 **시편 23:2**
+> 그가 나를 푸른 풀밭에 누이시며 쉴 만한 물 가로 인도하시는도다
 
-🕊️ _업데이트 시각: 2026-02-17 21:42:11 KST_
+🕊️ _업데이트 시각: 2026-02-17 22:52:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
