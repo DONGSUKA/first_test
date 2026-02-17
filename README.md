@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 6:2**
-> 네 아버지와 어머니를 공경하라 이것은 약속이 있는 첫 계명이니
+📖 **출애굽기 30:19**
+> 아론과 그의 아들들이 그 두멍에서 수족을 씻되
 
-🕊️ _업데이트 시각: 2026-02-18 03:29:09 KST_
+🕊️ _업데이트 시각: 2026-02-18 04:27:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
