@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 32:1**
-> 하늘이여 귀를 기울이라 내가 말하리라 땅은 내 입의 말을 들을지어다
+📖 **열왕기하 6:20**
+> 사마리아에 들어갈 때에 엘리사가 이르되 여호와여 이 무리의 눈을 열어서 보게 하옵소서 하니 여호와께서 그들의 눈을 여시매 그들이보니 자기들이 사마리아 가운데에 있더라
 
-🕊️ _업데이트 시각: 2026-02-19 07:54:33 KST_
+🕊️ _업데이트 시각: 2026-02-19 08:17:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
