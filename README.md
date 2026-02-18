@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 16:16**
-> 세 영이 히브리어로 아마겟돈이라 하는 곳으로 왕들을 모으더라
+📖 **욥기 12:25**
+> 빛 없이 캄캄한 데를 더듬게 하시며 취한 사람 같이 비틀거리게 하시느니라
 
-🕊️ _업데이트 시각: 2026-02-18 09:57:22 KST_
+🕊️ _업데이트 시각: 2026-02-18 12:34:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
