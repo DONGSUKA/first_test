@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 7:9**
-> 너희가 도둑질하며 살인하며 간음하며 거짓 맹세하며 바알에게 분향하며 너희가 알지 못하는 다른 신들을 따르면서
+📖 **에스겔 35:4**
+> 내가 네 성읍들을 무너뜨리며 네가 황폐하게 되리니 네가 나를 여호와인 줄을 알리라
 
-🕊️ _업데이트 시각: 2026-02-21 03:25:41 KST_
+🕊️ _업데이트 시각: 2026-02-21 04:09:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
