@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **갈라디아서 3:2**
-> 내가 너희에게서 다만 이것을 알려 하노니 너희가 성령을 받은 것이 율법의 행위로냐 혹은 듣고 믿음으로냐
+📖 **창세기 21:10**
+> 그가 아브라함에게 이르되 이 여종과 그 아들을 내쫓으라 이 종의 아들은 내 아들 이삭과 함께 기업을 얻지 못하리라 하므로
 
-🕊️ _업데이트 시각: 2026-02-21 04:58:37 KST_
+🕊️ _업데이트 시각: 2026-02-21 05:28:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
