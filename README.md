@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 12:26**
-> 이상의 모든 사람들은 요사닥의 손자 예수아의 아들 요야김과 총독 느헤미야와 제사장 겸 학사 에스라 때에 있었느니라
+📖 **요나 3:3**
+> 요나가 여호와의 말씀대로 일어나서 니느웨로 가니라 니느웨는 사흘 동안 걸을 만큼 하나님 앞에 큰 성읍이더라
 
-🕊️ _업데이트 시각: 2026-02-21 00:26:06 KST_
+🕊️ _업데이트 시각: 2026-02-21 00:56:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
