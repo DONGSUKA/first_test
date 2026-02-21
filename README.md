@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 146:1**
-> 할렐루야 내 영혼아 여호와를 찬양하라
+📖 **느헤미야 10:6**
+> 다니엘, 긴느돈, 바룩,
 
-🕊️ _업데이트 시각: 2026-02-22 07:19:38 KST_
+🕊️ _업데이트 시각: 2026-02-22 07:44:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
