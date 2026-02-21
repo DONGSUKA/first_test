@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 3:12**
-> 이제 이스라엘 지파 중에서 각 지파에 한 사람씩 열두 명을 택하라
+📖 **누가복음 17:8**
+> 도리어 그더러 내 먹을 것을 준비하고 띠를 띠고 내가 먹고 마시는 동안에 수종들고 너는 그 후에 먹고 마시라 하지 않겠느냐
 
-🕊️ _업데이트 시각: 2026-02-21 17:15:59 KST_
+🕊️ _업데이트 시각: 2026-02-21 17:48:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
