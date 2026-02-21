@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 1:36**
-> 오직 여분네의 아들 갈렙은 온전히 여호와께 순종하였은즉 그는 그것을 볼 것이요 그가 밟은 땅을 내가 그와 그의 자손에게 주리라 하시고
+📖 **역대상 23:15**
+> 모세의 아들은 게르솜과 엘리에셀이라
 
-🕊️ _업데이트 시각: 2026-02-22 06:36:39 KST_
+🕊️ _업데이트 시각: 2026-02-22 06:50:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
