@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 10:24**
-> 노래하는 자 중에서는 엘리아십이요 문지기 중에서는 살룸과 델렘과 우리였더라
+📖 **욥기 20:26**
+> 큰 어둠이 그를 위하여 예비되어 있고 사람이 피우지 않은 불이 그를 멸하며 그 장막에 남은 것을 해치리라
 
-🕊️ _업데이트 시각: 2026-02-21 20:00:18 KST_
+🕊️ _업데이트 시각: 2026-02-21 20:25:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
