@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 139:21**
-> 여호와여 내가 주를 미워하는 자들을 미워하지 아니하오며 주를 치러 일어나는 자들을 미워하지 아니하나이까
+📖 **사사기 3:14**
+> 이에 이스라엘 자손이 모압 왕 에글론을 열여덟 해 동안 섬기니라
 
-🕊️ _업데이트 시각: 2026-02-21 22:57:37 KST_
+🕊️ _업데이트 시각: 2026-02-21 23:20:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
