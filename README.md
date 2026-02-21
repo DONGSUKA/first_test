@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 3:14**
-> 이에 이스라엘 자손이 모압 왕 에글론을 열여덟 해 동안 섬기니라
+📖 **디모데전서 1:10**
+> 음행하는 자와 남색하는 자와 인신 매매를 하는 자와 거짓말하는 자와 거짓맹세하는 자와 기타 바른 교훈을 거스르는 자를 위함이니
 
-🕊️ _업데이트 시각: 2026-02-21 23:20:47 KST_
+🕊️ _업데이트 시각: 2026-02-21 23:47:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
