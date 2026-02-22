@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 5:9**
-> 이에 물으시되 네 이름이 무엇이냐 이르되 내 이름은 군대니 우리가 많음이니이다 하고
+📖 **예레미야 30:17**
+> 여호와의 말씀이니라 그들이 쫓겨난 자라 하매 시온을 찾는 자가 없은즉 내가 너의 상처로부터 새 살이 돋아나게 하여 너를 고쳐 주리라
 
-🕊️ _업데이트 시각: 2026-02-22 18:16:14 KST_
+🕊️ _업데이트 시각: 2026-02-22 18:47:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
