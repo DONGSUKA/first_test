@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 1:17**
-> 모세와 아론이 지명된 이 사람들을 데리고
+📖 **시편 59:14**
+> 그들에게 저물어 돌아와서 개처럼 울며 성으로 두루 다니게 하소서
 
-🕊️ _업데이트 시각: 2026-02-23 13:07:31 KST_
+🕊️ _업데이트 시각: 2026-02-23 14:40:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
