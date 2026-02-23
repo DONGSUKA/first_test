@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 8:17**
-> 이제 야곱의 집에 대하여 얼굴을 가리시는 여호와를 나는 기다리며 그를 바라보리라
+📖 **마태복음 19:4**
+> 예수께서 대답하여 이르시되 사람을 지으신 이가 본래 그들을 남자와 여자로 지으시고
 
-🕊️ _업데이트 시각: 2026-02-23 15:44:18 KST_
+🕊️ _업데이트 시각: 2026-02-23 16:41:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
