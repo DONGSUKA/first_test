@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 6:8**
-> 영광과 욕됨으로 그러했으며 악한 이름과 아름다운 이름으로 그러했느니라 우리는 속이는 자 같으나 참되고
+📖 **마태복음 14:12**
+> 요한의 제자들이 와서 시체를 가져다가 장사하고 가서 예수께 아뢰니라
 
-🕊️ _업데이트 시각: 2026-02-24 01:58:06 KST_
+🕊️ _업데이트 시각: 2026-02-24 02:57:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
