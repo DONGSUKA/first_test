@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 42:11**
-> 여호와의 말씀이니라 너희는 너희가 두려워하는 바벨론의 왕을 겁내지 말라 내가 너희와 함께 있어 너희를 구원하며 그의 손에서 너희를 건지리니 두려워하지 말라
+📖 **창세기 38:16**
+> 길 곁으로 그에게 나아가 이르되 청하건대 나로 네게 들어가게 하라 하니 그의 며느리인 줄을 알지 못하였음이라 그가 이르되 당신이 무엇을 주고 내게 들어오려느냐
 
-🕊️ _업데이트 시각: 2026-02-24 20:28:54 KST_
+🕊️ _업데이트 시각: 2026-02-24 20:59:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
