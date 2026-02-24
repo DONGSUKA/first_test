@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 12:3**
-> 지혜 있는 자는 궁창의 빛과 같이 빛날 것이요 많은 사람을 옳은 데로 돌아오게 한 자는 별과 같이 영원토록 빛나리라
+📖 **레위기 1:17**
+> 또 그 날개 자리에서 그 몸을 찢되 아주 찢지 말고 제사장이 그것을 제단 위의 불 위에 있는 나무 위에서 불살라 번제를 드릴지니 이는화제라 여호와께 향기로운 냄새니라
 
-🕊️ _업데이트 시각: 2026-02-25 03:09:48 KST_
+🕊️ _업데이트 시각: 2026-02-25 04:16:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
