@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 18:13**
-> 우두머리를 세워 재판하게 하다(신 1:9-18) 이튿날 모세가 백성을 재판하느라고 앉아 있고 백성은 아침부터 저녁까지 모세 곁에 서 있는지라
+📖 **예레미야 16:19**
+> 예레미야의 기도 여호와 나의 힘, 나의 요새, 환난날의 피난처시여 민족들이 땅 끝에서 주께 이르러 말하기를 우리 조상들의 계승한바는 허망하고 거짓되고 무익한 것뿐이라
 
-🕊️ _업데이트 시각: 2026-02-24 14:39:11 KST_
+🕊️ _업데이트 시각: 2026-02-24 15:38:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
