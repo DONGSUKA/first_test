@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 21:9**
-> 그 편지 사연에 이르기를 금식을 선포하고 나봇을 백성 가운데에 높이 앉힌 후에
+📖 **레위기 14:13**
+> 그 어린 숫양은 거룩한 장소 곧 속죄제와 번제물 잡는 곳에서 잡을 것이며 속건제물은 속죄제물과 마찬가지로 제사장에게 돌릴지니 이는지극히 거룩한 것이니라
 
-🕊️ _업데이트 시각: 2026-02-26 07:01:46 KST_
+🕊️ _업데이트 시각: 2026-02-26 07:39:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
