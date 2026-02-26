@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 20:7**
-> 이제 그 사람의 아내를 돌려보내라 그는 선지자라 그가 너를 위하여 기도하리니 네가 살려니와 네가 돌려보내지 아니하면 너와 네게 속한자가 다 반드시 죽을 줄 알지니라
+📖 **여호수아 24:15**
+> 만일 여호와를 섬기는 것이 너희에게 좋지 않게 보이거든 너희 조상들이 강 저쪽에서 섬기던 신들이든지 또는 너희가 거주하는 땅에있는 아모리 족속의 신들이든지 너희가 섬길 자를 오늘 택하라 오직 나와 내 집은 여호와를 섬기겠노라 하니
 
-🕊️ _업데이트 시각: 2026-02-27 05:57:03 KST_
+🕊️ _업데이트 시각: 2026-02-27 06:26:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
