@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 22:27**
-> 나귀가 여호와의 사자를 보고 발람 밑에 엎드리니 발람이 노하여 자기 지팡이로 나귀를 때리는지라
+📖 **잠언 20:7**
+> 온전하게 행하는 자가 의인이라 그의 후손에게 복이 있느니라
 
-🕊️ _업데이트 시각: 2026-02-27 01:28:15 KST_
+🕊️ _업데이트 시각: 2026-02-27 02:34:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
