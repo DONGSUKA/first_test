@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기하 11:15**
-> 제사장 여호야다가 군대를 거느린 백부장들에게 명령하여 이르되 그를 대열 밖으로 몰아내라 그를 따르는 자는 모두 칼로 죽이라 하니제사장의 이 말은 여호와의 성전에서는 그를 죽이지 말라 함이라
+📖 **고린도전서 3:1**
+> 하나님의 동역자들 형제들아 내가 신령한 자들을 대함과 같이 너희에게 말할 수 없어서 육신에 속한 자 곧 그리스도 안에서 어린 아이들을 대함과 같이 하노라
 
-🕊️ _업데이트 시각: 2026-02-26 10:19:46 KST_
+🕊️ _업데이트 시각: 2026-02-26 12:42:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
