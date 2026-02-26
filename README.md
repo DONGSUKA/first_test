@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 2:19**
-> 호론 사람 산발랏과 종이었던 암몬 사람 도비야와 아라비아 사람 게셈이 이 말을 듣고 우리를 업신여기고 우리를 비웃어 이르되 너희가하는 일이 무엇이냐 너희가 왕을 배반하고자 하느냐 하기로
+📖 **신명기 33:7**
+> 유다에 대한 축복은 이러하니라 일렀으되 여호와여 유다의 음성을 들으시고 그의 백성에게로 인도하시오며 그의 손으로 자기를 위하여 싸우게 하시고 주께서 도우사 그가 그 대적을 치게 하시기를 원하나이다
 
-🕊️ _업데이트 시각: 2026-02-26 20:51:38 KST_
+🕊️ _업데이트 시각: 2026-02-26 21:30:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
