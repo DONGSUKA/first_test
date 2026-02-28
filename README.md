@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 7:12**
-> 네 수한이 차서 네 조상들과 함께 누울 때에 내가 네 몸에서 날 네 씨를 네 뒤에 세워 그의 나라를 견고하게 하리라
+📖 **잠언 22:12**
+> 여호와의 눈은 지식 있는 사람을 지키시나 사악한 사람의 말은 패하게 하시느니라
 
-🕊️ _업데이트 시각: 2026-02-28 18:54:49 KST_
+🕊️ _업데이트 시각: 2026-02-28 19:11:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
