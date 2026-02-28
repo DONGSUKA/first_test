@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 12:5**
-> 또 다른 종을 보내니 그들이 그를 죽이고 또 그 외 많은 종들도 더러는 때리고 더러는 죽인지라
+📖 **역대하 26:9**
+> 웃시야가 예루살렘에서 성 모퉁이 문과 골짜기 문과 성굽이에 망대를 세워 견고하게 하고
 
-🕊️ _업데이트 시각: 2026-03-01 02:33:21 KST_
+🕊️ _업데이트 시각: 2026-03-01 02:47:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
