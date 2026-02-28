@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 9:19**
-> 만군의 여호와의 진노로 말미암아 이 땅이 불타리니 백성은 불에 섶과 같을 것이라 사람이 자기의 형제를 아끼지 아니하며
+📖 **열왕기하 2:16**
+> 그에게 이르되 당신의 종들에게 용감한 사람 오십 명이 있으니 청하건대 그들이 가서 당신의 주인을 찾게 하소서 염려하건대 여호와의성령이 그를 들고 가다가 어느 산에나 어느 골짜기에 던지셨을까 하나이다 하니라 엘리사가 이르되 보내지 말라 하나
 
-🕊️ _업데이트 시각: 2026-03-01 07:37:57 KST_
+🕊️ _업데이트 시각: 2026-03-01 07:52:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
