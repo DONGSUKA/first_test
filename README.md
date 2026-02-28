@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 85:6**
-> 주께서 우리를 다시 살리사 주의 백성이 주를 기뻐하도록 하지 아니하시겠나이까
+📖 **시편 20:6**
+> 여호와께서 자기에게 기름 부음 받은 자를 구원하시는 줄 이제 내가 아노니 그의 오른손의 구원하는 힘으로 그의 거룩한 하늘에서 그에게응답하시리로다
 
-🕊️ _업데이트 시각: 2026-02-28 22:49:33 KST_
+🕊️ _업데이트 시각: 2026-02-28 22:59:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
