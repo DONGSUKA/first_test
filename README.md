@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 20:6**
-> 여호와께서 자기에게 기름 부음 받은 자를 구원하시는 줄 이제 내가 아노니 그의 오른손의 구원하는 힘으로 그의 거룩한 하늘에서 그에게응답하시리로다
+📖 **민수기 31:50**
+> 우리 각 사람이 받은 바 금 패물 곧 발목 고리, 손목 고리, 인장 반지, 귀 고리, 목걸이들을 여호와께 헌금으로 우리의 생명을 위하여여호와 앞에 속죄하려고 가져왔나이다
 
-🕊️ _업데이트 시각: 2026-02-28 22:59:23 KST_
+🕊️ _업데이트 시각: 2026-02-28 23:21:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
