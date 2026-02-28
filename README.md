@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 11:23**
-> 여호와께서 모세에게 이르시되 여호와의 손이 짧으냐 네가 이제 내 말이 네게 응하는 여부를 보리라
+📖 **역대하 21:4**
+> 여호람이 그의 아버지의 왕국을 다스리게 되어 세력을 얻은 후에 그의 모든 아우들과 이스라엘 방백들 중 몇 사람을 칼로 죽였더라
 
-🕊️ _업데이트 시각: 2026-03-01 01:13:08 KST_
+🕊️ _업데이트 시각: 2026-03-01 01:41:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
