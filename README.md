@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 36:15**
-> 각 폭의 길이는 서른 규빗, 너비는 네 규빗으로 열한 폭의 장단을 같게 하여
+📖 **역대하 29:13**
+> 엘리사반의 자손 중 시므리와 여우엘과 아삽의 자손 중 스가랴와 맛다냐와
 
-🕊️ _업데이트 시각: 2026-03-01 03:49:34 KST_
+🕊️ _업데이트 시각: 2026-03-01 04:02:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
