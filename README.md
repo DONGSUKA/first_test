@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 31:22**
-> 반역한 딸아 네가 어느 때까지 방황하겠느냐 여호와가 새 일을 세상에 창조하였나니 곧 여자가 남자를 둘러 싸리라
+📖 **에스라 10:27**
+> 삿두 자손 중에서는 엘료에내와 엘리아십과 맛다냐와 여레못과 사밧과 아시사요
 
-🕊️ _업데이트 시각: 2026-02-28 20:57:36 KST_
+🕊️ _업데이트 시각: 2026-02-28 21:34:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
