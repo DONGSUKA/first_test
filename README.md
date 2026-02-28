@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 60:5**
-> 그 때에 네가 보고 기쁜 빛을 내며 네 마음이 놀라고 또 화창하리니 이는 바다의 부가 네게로 돌아오며 이방 나라들의 재물이 네게로 옴이라
+📖 **역대하 28:14**
+> 이에 무기를 가진 사람들이 포로와 노략한 물건을 방백들과 온 회중 앞에 둔지라
 
-🕊️ _업데이트 시각: 2026-02-28 17:46:18 KST_
+🕊️ _업데이트 시각: 2026-02-28 17:59:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
