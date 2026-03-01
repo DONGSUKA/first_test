@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 4:8**
-> 그들의 이름은 이러하니라 에브라임 산지에는 벤훌이요
+📖 **골로새서 4:1**
+> 상전들아 의와 공평을 종들에게 베풀지니 너희에게도 하늘에 상전이 계심을 알지어다
 
-🕊️ _업데이트 시각: 2026-03-02 00:11:40 KST_
+🕊️ _업데이트 시각: 2026-03-02 00:35:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
