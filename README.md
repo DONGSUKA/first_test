@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 5:9**
-> 에노스는 구십 세에 게난을 낳았고
+📖 **시편 69:2**
+> 나는 설 곳이 없는 깊은 수렁에 빠지며 깊은 물에 들어가니 큰 물이 내게 넘치나이다
 
-🕊️ _업데이트 시각: 2026-03-01 20:46:05 KST_
+🕊️ _업데이트 시각: 2026-03-01 20:53:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
