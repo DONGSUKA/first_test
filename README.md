@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 3:23**
-> 누구든지 그 선지자의 말을 듣지 아니하는 자는 백성 중에서 멸망 받으리라 하였고
+📖 **에베소서 5:1**
+> 그러므로 사랑을 받는 자녀 같이 너희는 하나님을 본받는 자가 되고
 
-🕊️ _업데이트 시각: 2026-03-02 06:11:51 KST_
+🕊️ _업데이트 시각: 2026-03-02 06:34:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
