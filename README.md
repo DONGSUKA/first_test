@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 10:8**
-> 그들은 다 무지하고 어리석은 것이니 우상의 가르침은 나무뿐이라
+📖 **시편 29:3**
+> 여호와의 소리가 물 위에 있도다 영광의 하나님이 우렛소리를 내시니 여호와는 많은 물 위에 계시도다
 
-🕊️ _업데이트 시각: 2026-03-02 18:06:55 KST_
+🕊️ _업데이트 시각: 2026-03-02 19:03:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
