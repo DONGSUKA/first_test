@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 10:9**
-> 갈로는 갈그미스와 같지 아니하며 하맛은 아르밧과 같지 아니하며 사마리아는 다메섹과 같지 아니하냐
+📖 **레위기 25:19**
+> 땅은 그것의 열매를 내리니 너희가 배불리 먹고 거기 안전하게 거주하리라
 
-🕊️ _업데이트 시각: 2026-03-03 01:04:50 KST_
+🕊️ _업데이트 시각: 2026-03-03 02:00:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
