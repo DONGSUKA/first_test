@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 46:10**
-> 시므온의 아들은 여무엘과 야민과 오핫과 야긴과 스할과 가나안 여인의 아들 사울이요
+📖 **이사야 10:9**
+> 갈로는 갈그미스와 같지 아니하며 하맛은 아르밧과 같지 아니하며 사마리아는 다메섹과 같지 아니하냐
 
-🕊️ _업데이트 시각: 2026-03-03 00:32:27 KST_
+🕊️ _업데이트 시각: 2026-03-03 01:04:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
