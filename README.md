@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 25:14**
-> 죽임을 당한 이스라엘 남자 곧 미디안 여인과 함께 죽임을 당한 자의 이름은 시므리니 살루의 아들이요 시므온인의 조상의 가문 중 한지도자이며
+📖 **출애굽기 35:27**
+> 모든 족장은 호마노와 및 에봇과 흉패에 물릴 보석을 가져왔으며
 
-🕊️ _업데이트 시각: 2026-03-03 06:18:15 KST_
+🕊️ _업데이트 시각: 2026-03-03 06:50:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
