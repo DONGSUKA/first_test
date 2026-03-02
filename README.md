@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 14:3**
-> 가서 너희를 위하여 거처를 예비하면 내가 다시 와서 너희를 내게로 영접하여 나 있는 곳에 너희도 있게 하리라
+📖 **욥기 22:9**
+> 너는 과부를 빈손으로 돌려보내며 고아의 팔을 꺾는구나
 
-🕊️ _업데이트 시각: 2026-03-03 07:59:26 KST_
+🕊️ _업데이트 시각: 2026-03-03 08:25:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
