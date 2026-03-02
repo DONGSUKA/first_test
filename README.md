@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 6:15**
-> 무교병 한 광주리와 고운 가루에 기름 섞은 과자들과 기름 바른 무교전병들과 그 소제물과 전제물을 드릴 것이요
+📖 **창세기 46:10**
+> 시므온의 아들은 여무엘과 야민과 오핫과 야긴과 스할과 가나안 여인의 아들 사울이요
 
-🕊️ _업데이트 시각: 2026-03-02 23:55:57 KST_
+🕊️ _업데이트 시각: 2026-03-03 00:32:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
