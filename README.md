@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 35:18**
-> 만일 사람을 죽일 만한 나무 연장을 손에 들고 사람을 쳐죽이면 그는 살인한 자니 그 살인자는 반드시 죽일 것이니라
+📖 **느헤미야 8:15**
+> 또 일렀으되 모든 성읍과 예루살렘에 공포하여 이르기를 너희는 산에 가서 감람나무 가지와 들감람나무 가지와 화석류나무 가지와 종려나무 가지와 기타 무성한 나무 가지를 가져다가 기록한 바를 따라 초막을 지으라 하라 한지라
 
-🕊️ _업데이트 시각: 2026-03-04 01:43:26 KST_
+🕊️ _업데이트 시각: 2026-03-04 02:28:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
