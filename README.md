@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 4:5**
-> 바다의 두께는 한 손 너비만 하고 그 둘레는 잔 둘레와 같이 백합화의 모양으로 만들었으니 그 바다에는 삼천 밧을 담겠으며
+📖 **데살로니가전서 1:3**
+> 너희의 믿음의 역사와 사랑의 수고와 우리 주 예수 그리스도에 대한 소망의 인내를 우리 하나님 아버지 앞에서 끊임없이 기억함이니
 
-🕊️ _업데이트 시각: 2026-03-03 20:39:50 KST_
+🕊️ _업데이트 시각: 2026-03-03 20:58:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
