@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스가랴 8:11**
-> 만군의 여호와의 말씀이니라 이제는 내가 이 남은 백성을 대하기를 옛날과 같이 아니할 것인즉
+📖 **사무엘상 4:19**
+> 비느하스의 아내가 죽다 그의 며느리인 비느하스의 아내가 임신하여 해산 때가 가까웠더니 하나님의 궤를 빼앗긴 것과 그의 시아버지와남편이 죽은 소식을 듣고 갑자기 아파서 몸을 구푸려 해산하고
 
-🕊️ _업데이트 시각: 2026-03-03 17:22:56 KST_
+🕊️ _업데이트 시각: 2026-03-03 18:02:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
