@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 13:22**
-> 네가 마음으로 이르기를 어찌하여 이런 일이 내게 닥쳤는고 하겠으나 네 죄악이 크므로 네 치마가 들리고 네 발뒤꿈치가 상함이니라
+📖 **예레미야 29:4**
+> 만군의 여호와 이스라엘의 하나님께서 예루살렘에서 바벨론으로 사로잡혀 가게 한 모든 포로에게 이와 같이 말씀하시니라
 
-🕊️ _업데이트 시각: 2026-03-03 15:07:49 KST_
+🕊️ _업데이트 시각: 2026-03-03 16:06:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
