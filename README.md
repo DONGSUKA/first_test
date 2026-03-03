@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 12:6**
-> 은 줄이 풀리고 금 그릇이 깨지고 항아리가 샘 곁에서 깨지고 바퀴가 우물 위에서 깨지고
+📖 **시편 138:6**
+> 여호와께서는 높이 계셔도 낮은 자를 굽어살피시며 멀리서도 교만한 자를 아심이니이다
 
-🕊️ _업데이트 시각: 2026-03-04 07:50:20 KST_
+🕊️ _업데이트 시각: 2026-03-04 08:01:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
