@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 8:15**
-> 또 일렀으되 모든 성읍과 예루살렘에 공포하여 이르기를 너희는 산에 가서 감람나무 가지와 들감람나무 가지와 화석류나무 가지와 종려나무 가지와 기타 무성한 나무 가지를 가져다가 기록한 바를 따라 초막을 지으라 하라 한지라
+📖 **사도행전 17:34**
+> 몇 사람이 그를 가까이하여 믿으니 그 중에는 아레오바고 관리 디오누시오와 다마리라 하는 여자와 또 다른 사람들도 있었더라
 
-🕊️ _업데이트 시각: 2026-03-04 02:28:23 KST_
+🕊️ _업데이트 시각: 2026-03-04 03:03:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
