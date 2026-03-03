@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로후서 3:9**
-> 주의 약속은 어떤 이들이 더디다고 생각하는 것 같이 더딘 것이 아니라 오직 주께서는 너희를 대하여 오래 참으사 아무도 멸망하지 아니하고 다 회개하기에 이르기를 원하시느니라
+📖 **예레미야 18:8**
+> 만일 내가 말한 그 민족이 그의 악에서 돌이키면 내가 그에게 내리기로 생각하였던 재앙에 대하여 뜻을 돌이키겠고
 
-🕊️ _업데이트 시각: 2026-03-03 18:53:39 KST_
+🕊️ _업데이트 시각: 2026-03-03 19:25:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
