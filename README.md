@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 12:2**
-> 인자야 네가 반역하는 족속 중에 거주하는도다 그들은 볼 눈이 있어도 보지 아니하고 들을 귀가 있어도 듣지 아니하나니 그들은 반역하는족속임이라
+📖 **사무엘상 2:32**
+> 이스라엘에게 모든 복을 내리는 중에 너는 내 처소의 환난을 볼 것이요 네 집에 영원토록 노인이 없을 것이며
 
-🕊️ _업데이트 시각: 2026-03-04 04:04:45 KST_
+🕊️ _업데이트 시각: 2026-03-04 04:42:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
