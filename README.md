@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 14:29**
-> 요나단이 이르되 내 아버지께서 이 땅을 곤란하게 하셨도다 보라 내가 이 꿀 조금을 맛보고도 내 눈이 이렇게 밝아졌거든
+📖 **열왕기상 18:39**
+> 모든 백성이 보고 엎드려 말하되 여호와 그는 하나님이시로다 여호와 그는 하나님이시로다 하니
 
-🕊️ _업데이트 시각: 2026-03-05 08:15:21 KST_
+🕊️ _업데이트 시각: 2026-03-05 08:44:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
