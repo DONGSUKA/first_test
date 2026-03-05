@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 5:20**
-> 예수께서 그들의 믿음을 보시고 이르시되 이 사람아 네 죄 사함을 받았느니라 하시니
+📖 **말라기 1:12**
+> 그러나 너희는 말하기를 여호와의 식탁은 더러워졌고 그 위에 있는 과일 곧 먹을 것은 경멸히 여길 것이라 하여 내 이름을 더럽히는도다
 
-🕊️ _업데이트 시각: 2026-03-05 23:28:09 KST_
+🕊️ _업데이트 시각: 2026-03-06 00:10:52 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
