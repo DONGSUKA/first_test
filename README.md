@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:10**
-> 바울이 그 환상을 보았을 때 우리가 곧 마게도냐로 떠나기를 힘쓰니 이는 하나님이 저 사람들에게 복음을 전하라고 우리를 부르신 줄로 인정함이러라
+📖 **열왕기상 18:22**
+> 엘리야가 백성에게 이르되 여호와의 선지자는 나만 홀로 남았으나 바알의 선지자는 사백오십 명이로다
 
-🕊️ _업데이트 시각: 2026-03-05 14:09:52 KST_
+🕊️ _업데이트 시각: 2026-03-05 15:00:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
