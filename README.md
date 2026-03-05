@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 98:7**
-> 바다와 거기 충만한 것과 세계와 그 중에 거주하는 자는 다 외칠지어다
+📖 **욥기 12:23**
+> 민족들을 커지게도 하시고 다시 멸하기도 하시며 민족들을 널리 퍼지게도 하시고 다시 끌려가게도 하시며
 
-🕊️ _업데이트 시각: 2026-03-06 04:24:25 KST_
+🕊️ _업데이트 시각: 2026-03-06 05:02:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
