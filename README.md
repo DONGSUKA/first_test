@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 17:11**
-> 불의로 치부하는 자는 자고새가 낳지 아니한 알을 품음 같아서 그의 중년에 그것이 떠나겠고 마침내 어리석은 자가 되리라
+📖 **시편 98:7**
+> 바다와 거기 충만한 것과 세계와 그 중에 거주하는 자는 다 외칠지어다
 
-🕊️ _업데이트 시각: 2026-03-06 03:07:39 KST_
+🕊️ _업데이트 시각: 2026-03-06 04:24:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
