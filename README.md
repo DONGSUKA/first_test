@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 26:68**
-> 이르되 그리스도야 우리에게 선지자 노릇을 하라 너를 친 자가 누구냐 하더라
+📖 **출애굽기 26:36**
+> 청색 자색 홍색 실과 가늘게 꼰 베 실로 수 놓아 짜서 성막 문을 위하여 휘장을 만들고
 
-🕊️ _업데이트 시각: 2026-03-06 08:20:45 KST_
+🕊️ _업데이트 시각: 2026-03-06 08:59:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
