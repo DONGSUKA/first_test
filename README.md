@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 13:13**
-> 또 너희가 내 이름으로 말미암아 모든 사람에게 미움을 받을 것이나 끝까지 견디는 자는 구원을 받으리라
+📖 **시편 107:12**
+> 그러므로 그가 고통을 주어 그들의 마음을 겸손하게 하셨으니 그들이 엎드러져도 돕는 자가 없었도다
 
-🕊️ _업데이트 시각: 2026-03-06 06:51:23 KST_
+🕊️ _업데이트 시각: 2026-03-06 07:15:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
