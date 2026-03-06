@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 47:24**
-> 추수의 오분의 일을 바로에게 상납하고 오분의 사는 너희가 가져서 토지의 종자로도 삼고 너희의 양식으로도 삼고 너희 가족과 어린 아이의 양식으로도 삼으라
+📖 **고린도전서 3:13**
+> 각 사람의 공적이 나타날 터인데 그 날이 공적을 밝히리니 이는 불로 나타내고 그 불이 각 사람의 공적이 어떠한 것을 시험할 것임이라
 
-🕊️ _업데이트 시각: 2026-03-06 23:22:55 KST_
+🕊️ _업데이트 시각: 2026-03-06 23:59:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
