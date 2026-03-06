@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 2:35**
-> 다만 그 가축과 성읍에서 탈취한 것은 우리의 소유로 삼았으며
+📖 **요한계시록 16:5**
+> 내가 들으니 물을 차지한 천사가 이르되 전에도 계셨고 지금도 계신 거룩하신 이여 이렇게 심판하시니 의로우시도다
 
-🕊️ _업데이트 시각: 2026-03-07 02:24:31 KST_
+🕊️ _업데이트 시각: 2026-03-07 02:55:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
