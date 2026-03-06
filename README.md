@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 8:7**
-> 기드온이 이르되 그러면 여호와께서 세바와 살문나를 내 손에 넘겨 주신 후에 내가 들가시와 찔레로 너희 살을 찢으리라 하고
+📖 **잠언 13:20**
+> 지혜로운 자와 동행하면 지혜를 얻고 미련한 자와 사귀면 해를 받느니라
 
-🕊️ _업데이트 시각: 2026-03-07 08:44:19 KST_
+🕊️ _업데이트 시각: 2026-03-07 08:57:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
