@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 10:1**
-> 힛데겔 강 가에서 본 환상 바사 왕 고레스 제삼년에 한 일이 벨드사살이라 이름한 다니엘에게 나타났는데 그 일이 참되니 곧 큰 전쟁에관한 것이라 다니엘이 그 일을 분명히 알았고 그 환상을 깨달으니라
+📖 **누가복음 6:46**
+> 듣고 행하는 자와 행하지 아니하는 자(마 7:24-27) 너희는 나를 불러 주여 주여 하면서도 어찌하여 내가 말하는 것을 행하지 아니하느냐
 
-🕊️ _업데이트 시각: 2026-03-07 21:40:53 KST_
+🕊️ _업데이트 시각: 2026-03-07 22:25:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
