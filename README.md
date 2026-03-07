@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한일서 2:21**
-> 내가 너희에게 쓰는 것은 너희가 진리를 알지 못하기 때문이 아니라 알기 때문이요 또 모든 거짓은 진리에서 나지 않기 때문이라
+📖 **스가랴 13:4**
+> 그 날에 선지자들이 예언할 때에 그 환상을 각기 부끄러워할 것이며 사람을 속이려고 털옷도 입지 아니할 것이며
 
-🕊️ _업데이트 시각: 2026-03-07 16:51:43 KST_
+🕊️ _업데이트 시각: 2026-03-07 16:59:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
