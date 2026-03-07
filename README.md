@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야애가 4:4**
-> 젖먹이가 목말라서 혀가 입천장에 붙음이여 어린 아이들이 떡을 구하나 떼어 줄 사람이 없도다
+📖 **마가복음 2:21**
+> 생베 조각을 낡은 옷에 붙이는 자가 없나니 만일 그렇게 하면 기운 새 것이 낡은 그것을 당기어 해어짐이 더하게 되느니라
 
-🕊️ _업데이트 시각: 2026-03-07 17:55:28 KST_
+🕊️ _업데이트 시각: 2026-03-07 18:17:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
