@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 2:15**
-> 룻이 이삭을 주우러 일어날 때에 보아스가 자기 소년들에게 명령하여 이르되 그에게 곡식 단 사이에서 줍게 하고 책망하지 말며
+📖 **레위기 19:37**
+> 너희는 내 모든 규례와 내 모든 법도를 지켜 행하라 나는 여호와이니라
 
-🕊️ _업데이트 시각: 2026-03-07 19:15:32 KST_
+🕊️ _업데이트 시각: 2026-03-07 19:42:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
