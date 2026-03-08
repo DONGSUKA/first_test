@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 17:20**
-> 이르시되 너희 믿음이 작은 까닭이니라 진실로 너희에게 이르노니 만일 너희에게 믿음이 겨자씨 한 알 만큼만 있어도 이 산을 명하여여기서 저기로 옮겨지라 하면 옮겨질 것이요 또 너희가 못할 것이 없으리라
+📖 **에스겔 3:23**
+> 내가 일어나 들로 나아가니 여호와의 영광이 거기에 머물렀는데 내가 전에 그발 강 가에서 보던 영광과 같은지라 내가 곧 엎드리니
 
-🕊️ _업데이트 시각: 2026-03-08 16:53:20 KST_
+🕊️ _업데이트 시각: 2026-03-08 17:00:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
