@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 13:11**
-> 그러므로 롯이 요단 온 지역을 택하고 동으로 옮기니 그들이 서로 떠난지라
+📖 **호세아 1:9**
+> 여호와께서 이르시되 그의 이름을 로암미라 하라 너희는 내 백성이 아니요 나는 너희 하나님이 되지 아니할 것임이니라
 
-🕊️ _업데이트 시각: 2026-03-08 19:59:36 KST_
+🕊️ _업데이트 시각: 2026-03-08 20:21:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
