@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 22:8**
-> 아브라함이 이르되 내 아들아 번제할 어린 양은 하나님이 자기를 위하여 친히 준비하시리라 하고 두 사람이 함께 나아가서
+📖 **룻기 2:8**
+> 보아스가 룻에게 이르되 내 딸아 들으라 이삭을 주우러 다른 밭으로 가지 말며 여기서 떠나지 말고 나의 소녀들과 함께 있으라
 
-🕊️ _업데이트 시각: 2026-03-09 17:04:27 KST_
+🕊️ _업데이트 시각: 2026-03-09 17:57:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
