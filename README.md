@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 24:11**
-> 다윗이 아침에 일어날 때에 여호와의 말씀이 다윗의 선견자 된 선지자 갓에게 임하여 이르시되
+📖 **창세기 22:8**
+> 아브라함이 이르되 내 아들아 번제할 어린 양은 하나님이 자기를 위하여 친히 준비하시리라 하고 두 사람이 함께 나아가서
 
-🕊️ _업데이트 시각: 2026-03-09 16:36:10 KST_
+🕊️ _업데이트 시각: 2026-03-09 17:04:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
