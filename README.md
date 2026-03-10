@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에베소서 4:14**
-> 이는 우리가 이제부터 어린 아이가 되지 아니하여 사람의 속임수와 간사한 유혹에 빠져 온갖 교훈의 풍조에 밀려 요동하지 않게 하려함이라
+📖 **여호수아 23:3**
+> 너희의 하나님 여호와께서 너희를 위하여 이 모든 나라에 행하신 일을 너희가 다 보았거니와 너희의 하나님 여호와 그는 너희를 위하여싸우신 이시니라
 
-🕊️ _업데이트 시각: 2026-03-11 06:16:39 KST_
+🕊️ _업데이트 시각: 2026-03-11 06:42:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
