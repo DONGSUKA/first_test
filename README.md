@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **골로새서 3:13**
-> 누가 누구에게 불만이 있거든 서로 용납하여 피차 용서하되 주께서 너희를 용서하신 것 같이 너희도 그리하고
+📖 **창세기 15:10**
+> 아브람이 그 모든 것을 가져다가 그 중간을 쪼개고 그 쪼갠 것을 마주 대하여 놓고 그 새는 쪼개지 아니하였으며
 
-🕊️ _업데이트 시각: 2026-03-11 21:56:54 KST_
+🕊️ _업데이트 시각: 2026-03-11 23:00:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
