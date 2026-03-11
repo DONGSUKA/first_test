@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스바냐 3:18**
-> 내가 절기로 말미암아 근심하는 자들을 모으리니 그들은 네게 속한 자라 그들에게 지워진 짐이 치욕이 되었느니라
+📖 **호세아 12:8**
+> 에브라임이 말하기를 나는 실로 부자라 내가 재물을 얻었는데 내가 수고한 모든 것 중에서 죄라 할 만한 불의를 내게서 찾아 낼 자 없으리라 하거니와
 
-🕊️ _업데이트 시각: 2026-03-11 16:50:30 KST_
+🕊️ _업데이트 시각: 2026-03-11 17:23:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
