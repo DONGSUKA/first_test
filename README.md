@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 17:20**
-> 마음이 굽은 자는 복을 얻지 못하고 혀가 패역한 자는 재앙에 빠지느니라
+📖 **신명기 20:11**
+> 그 성읍이 만일 화평하기로 회답하고 너를 향하여 성문을 열거든 그 모든 주민들에게 네게 조공을 바치고 너를 섬기게 할 것이요
 
-🕊️ _업데이트 시각: 2026-03-11 11:26:09 KST_
+🕊️ _업데이트 시각: 2026-03-11 13:19:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
