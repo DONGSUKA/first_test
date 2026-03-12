@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 3:3**
-> 그런즉 너는 목욕하고 기름을 바르고 의복을 입고 타작 마당에 내려가서 그 사람이 먹고 마시기를 다 하기까지는 그에게 보이지 말고
+📖 **민수기 19:2**
+> 여호와께서 명령하시는 법의 율례를 이제 이르노니 이스라엘 자손에게 일러서 온전하여 흠이 없고 아직 멍에 메지 아니한 붉은 암송아지를 네게로 끌어오게 하고
 
-🕊️ _업데이트 시각: 2026-03-12 16:09:41 KST_
+🕊️ _업데이트 시각: 2026-03-12 16:52:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
