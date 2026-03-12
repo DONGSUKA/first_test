@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 11:25**
-> 다윗이 전령에게 이르되 너는 요압에게 이같이 말하기를 이 일로 걱정하지 말라 칼은 이 사람이나 저 사람이나 삼키느니라 그 성을 향하여 더욱 힘써 싸워 함락시키라 하여 너는 그를 담대하게 하라 하니라
+📖 **에스겔 8:3**
+> 그가 손 같은 것을 펴서 내 머리털 한 모숨을 잡으며 주의 영이 나를 들어 천지 사이로 올리시고 하나님의 환상 가운데에 나를 이끌어 예루살렘으로 가서 안뜰로 들어가는 북향한 문에 이르시니 거기에는 질투의 우상 곧 질투를 일어나게 하는 우상의 자리가 있는 곳이라
 
-🕊️ _업데이트 시각: 2026-03-12 17:25:59 KST_
+🕊️ _업데이트 시각: 2026-03-12 18:05:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
