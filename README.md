@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 13:14**
-> 회칠한 담을 내가 이렇게 허물어서 땅에 넘어뜨리고 그 기초를 드러낼 것이라 담이 무너진즉 너희가 그 가운데에서 망하리니 나를 여호와인 줄 알리라
+📖 **사사기 10:2**
+> 이스라엘의 사사가 된 지 이십삼 년 만에 죽으매 사밀에 장사되었더라
 
-🕊️ _업데이트 시각: 2026-03-13 02:26:55 KST_
+🕊️ _업데이트 시각: 2026-03-13 03:07:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
