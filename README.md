@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 1:2**
-> 그 사람의 이름은 엘리멜렉이요 그의 아내의 이름은 나오미요 그의 두 아들의 이름은 말론과 기룐이니 유다 베들레헴 에브랏 사람들이더라그들이 모압 지방에 들어가서 거기 살더니
+📖 **열왕기상 8:27**
+> 하나님이 참으로 땅에 거하시리이까 하늘과 하늘들의 하늘이라도 주를 용납하지 못하겠거든 하물며 내가 건축한 이 성전이오리이까
 
-🕊️ _업데이트 시각: 2026-03-14 02:38:42 KST_
+🕊️ _업데이트 시각: 2026-03-14 03:02:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
