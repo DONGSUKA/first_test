@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 5:44**
-> 나는 너희에게 이르노니 너희 원수를 사랑하며 너희를 박해하는 자를 위하여 기도하라
+📖 **예레미야 31:15**
+> 라헬의 애곡과 여호와의 위로 여호와께서 이와 같이 말씀하시니라 라마에서 슬퍼하며 통곡하는 소리가 들리니 라헬이 그 자식 때문에애곡하는 것이라 그가 자식이 없어져서 위로 받기를 거절하는도다
 
-🕊️ _업데이트 시각: 2026-03-13 18:00:49 KST_
+🕊️ _업데이트 시각: 2026-03-13 18:44:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
