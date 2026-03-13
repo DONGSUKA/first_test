@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 2:26**
-> 여라므엘이 다른 아내가 있었으니 이름은 아다라라 그는 오남의 어머니더라
+📖 **에스라 5:13**
+> 바벨론 왕 고레스 원년에 고레스 왕이 조서를 내려 하나님의 이 성전을 다시 건축하게 하고
 
-🕊️ _업데이트 시각: 2026-03-13 22:35:56 KST_
+🕊️ _업데이트 시각: 2026-03-13 23:24:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
