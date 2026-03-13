@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **미가 7:15**
-> 이르시되 네가 애굽 땅에서 나오던 날과 같이 내가 그들에게 이적을 보이리라 하셨느니라
+📖 **예레미야 4:31**
+> 내가 소리를 들은즉 여인의 해산하는 소리 같고 초산하는 자의 고통하는 소리 같으니 이는 시온의 딸의 소리라 그가 헐떡이며 그의 손을 펴고 이르기를 내게 화가 있도다 죽이는 자로 말미암아 나의 심령이 피곤하도다 하는도다
 
-🕊️ _업데이트 시각: 2026-03-13 20:27:22 KST_
+🕊️ _업데이트 시각: 2026-03-13 20:50:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
