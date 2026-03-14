@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 29:12**
-> 너희가 내게 부르짖으며 내게 와서 기도하면 내가 너희들의 기도를 들을 것이요
+📖 **시편 119:114**
+> 주는 나의 은신처요 방패시라 내가 주의 말씀을 바라나이다
 
-🕊️ _업데이트 시각: 2026-03-14 22:01:17 KST_
+🕊️ _업데이트 시각: 2026-03-14 22:49:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
