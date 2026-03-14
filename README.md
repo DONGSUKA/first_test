@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 40:47**
-> 그가 또 그 뜰을 측량하니 길이는 백 척이요 너비는 백 척이라 네모 반듯하며 제단은 성전 앞에 있더라
+📖 **역대하 4:12**
+> 곧 기둥 둘과 그 기둥 꼭대기의 공 같은 머리 둘과 또 기둥 꼭대기의 공 같은 기둥 머리를 가리는 그물 둘과
 
-🕊️ _업데이트 시각: 2026-03-15 00:35:12 KST_
+🕊️ _업데이트 시각: 2026-03-15 00:52:25 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
