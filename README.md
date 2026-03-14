@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:114**
-> 주는 나의 은신처요 방패시라 내가 주의 말씀을 바라나이다
+📖 **요한일서 4:6**
+> 우리는 하나님께 속하였으니 하나님을 아는 자는 우리의 말을 듣고 하나님께 속하지 아니한 자는 우리의 말을 듣지 아니하나니 진리의영과 미혹의 영을 이로써 아느니라
 
-🕊️ _업데이트 시각: 2026-03-14 22:49:43 KST_
+🕊️ _업데이트 시각: 2026-03-14 23:15:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
