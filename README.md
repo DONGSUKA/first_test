@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 25:25**
-> 먼저 나온 자는 붉고 전신이 털옷 같아서 이름을 에서라 하였고
+📖 **시편 90:1**
+> 하나님의 사람 모세의 기도 주여 주는 대대에 우리의 거처가 되셨나이다
 
-🕊️ _업데이트 시각: 2026-03-14 16:27:42 KST_
+🕊️ _업데이트 시각: 2026-03-14 16:54:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
