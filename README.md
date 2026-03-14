@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 30:12**
-> 레아의 시녀 실바가 둘째 아들을 야곱에게 낳으매
+📖 **예레미야 29:12**
+> 너희가 내게 부르짖으며 내게 와서 기도하면 내가 너희들의 기도를 들을 것이요
 
-🕊️ _업데이트 시각: 2026-03-14 21:00:45 KST_
+🕊️ _업데이트 시각: 2026-03-14 22:01:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
