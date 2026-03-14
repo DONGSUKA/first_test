@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **베드로전서 2:22**
-> 그는 죄를 범하지 아니하시고 그 입에 거짓도 없으시며
+📖 **시편 129:7**
+> 이런 것은 베는 자의 손과 묶는 자의 품에 차지 아니하나니
 
-🕊️ _업데이트 시각: 2026-03-14 17:20:38 KST_
+🕊️ _업데이트 시각: 2026-03-14 17:54:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
