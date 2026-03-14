@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 21:20**
-> 예루살렘의 환난과 인자의 오심(마 24:15-21, 29-31; 막 13:14-19, 24-27) 너희가 예루살렘이 군대들에게 에워싸이는 것을 보거든 그멸망이 가까운 줄을 알라
+📖 **역대상 17:25**
+> 나의 하나님이여 주께서 종을 위하여 왕조를 세우실 것을 이미 듣게 하셨으므로 주의 종이 주 앞에서 이 기도로 간구할 마음이 생겼나이다
 
-🕊️ _업데이트 시각: 2026-03-14 11:04:15 KST_
+🕊️ _업데이트 시각: 2026-03-14 13:17:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
