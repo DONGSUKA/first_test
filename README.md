@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 64:4**
-> 숨은 곳에서 온전한 자를 쏘며 갑자기 쏘고 두려워하지 아니하는도다
+📖 **누가복음 21:20**
+> 예루살렘의 환난과 인자의 오심(마 24:15-21, 29-31; 막 13:14-19, 24-27) 너희가 예루살렘이 군대들에게 에워싸이는 것을 보거든 그멸망이 가까운 줄을 알라
 
-🕊️ _업데이트 시각: 2026-03-14 08:59:44 KST_
+🕊️ _업데이트 시각: 2026-03-14 11:04:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
