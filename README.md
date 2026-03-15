@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 55:23**
-> 하나님이여 주께서 그들로 파멸의 웅덩이에 빠지게 하시리이다 피를 흘리게 하며 속이는 자들은 그들의 날의 반도 살지 못할 것이나 나는주를 의지하리이다
+📖 **창세기 20:9**
+> 아비멜렉이 아브라함을 불러서 그에게 이르되 네가 어찌하여 우리에게 이렇게 하느냐 내가 무슨 죄를 네게 범하였기에 네가 나와 내 나라가 큰 죄에 빠질 뻔하게 하였느냐 네가 합당하지 아니한 일을 내게 행하였도다 하고
 
-🕊️ _업데이트 시각: 2026-03-16 06:35:44 KST_
+🕊️ _업데이트 시각: 2026-03-16 06:53:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
