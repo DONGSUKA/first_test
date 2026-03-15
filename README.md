@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 27:7**
-> 모든 나라가 그와 그의 아들과 손자를 그 땅의 기한이 이르기까지 섬기리라 또한 많은 나라들과 큰 왕들이 그 자신을 섬기리라
+📖 **레위기 14:5**
+> 제사장은 또 명령하여 그 새 하나는 흐르는 물 위 질그릇 안에서 잡게 하고
 
-🕊️ _업데이트 시각: 2026-03-16 03:50:03 KST_
+🕊️ _업데이트 시각: 2026-03-16 04:17:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
