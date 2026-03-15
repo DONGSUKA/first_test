@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 7:21**
-> 땅 위에 움직이는 생물이 다 죽었으니 곧 새와 가축과 들짐승과 땅에 기는 모든 것과 모든 사람이라
+📖 **사도행전 10:48**
+> 명하여 예수 그리스도의 이름으로 세례를 베풀라 하니라 그들이 베드로에게 며칠 더 머물기를 청하니라
 
-🕊️ _업데이트 시각: 2026-03-15 16:03:43 KST_
+🕊️ _업데이트 시각: 2026-03-15 16:50:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
