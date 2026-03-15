@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 29:3**
-> 첫째 해 첫째 달에 여호와의 전 문들을 열고 수리하고
+📖 **예레미야 51:47**
+> 그러므로 보라 날이 이르리니 내가 바벨론의 우상들을 벌할 것이라 그 온 땅이 치욕을 당하겠고 그 죽임 당할 자가 모두 그 가운데에엎드러질 것이며
 
-🕊️ _업데이트 시각: 2026-03-15 20:52:51 KST_
+🕊️ _업데이트 시각: 2026-03-15 21:00:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
