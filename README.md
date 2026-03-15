@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 1:22**
-> 그러므로 바로가 그의 모든 백성에게 명령하여 이르되 아들이 태어나거든 너희는 그를 나일 강에 던지고 딸이거든 살려두라 하였더라
+📖 **이사야 17:12**
+> 주께서 열방을 꾸짖어 흩으시리라 슬프다 많은 민족이 소동하였으되 바다 파도가 치는 소리 같이 그들이 소동하였고 열방이 충돌하였으되 큰 물이 몰려옴 같이 그들도 충돌하였도다
 
-🕊️ _업데이트 시각: 2026-03-16 08:37:05 KST_
+🕊️ _업데이트 시각: 2026-03-16 08:55:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
