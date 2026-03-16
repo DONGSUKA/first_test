@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 15:6**
-> 르호보암과 여로보암 사이에 사는 날 동안 전쟁이 있었더니
+📖 **마가복음 6:38**
+> 이르시되 너희에게 떡 몇 개나 있는지 가서 보라 하시니 알아보고 이르되 떡 다섯 개와 물고기 두 마리가 있더이다 하거늘
 
-🕊️ _업데이트 시각: 2026-03-16 18:11:35 KST_
+🕊️ _업데이트 시각: 2026-03-16 19:13:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
