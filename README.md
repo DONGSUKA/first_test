@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 17:12**
-> 주께서 열방을 꾸짖어 흩으시리라 슬프다 많은 민족이 소동하였으되 바다 파도가 치는 소리 같이 그들이 소동하였고 열방이 충돌하였으되 큰 물이 몰려옴 같이 그들도 충돌하였도다
+📖 **요한계시록 14:11**
+> 그 고난의 연기가 세세토록 올라가리로다 짐승과 그의 우상에게 경배하고 그의 이름 표를 받는 자는 누구든지 밤낮 쉼을 얻지 못하리라 하더라
 
-🕊️ _업데이트 시각: 2026-03-16 08:55:54 KST_
+🕊️ _업데이트 시각: 2026-03-16 10:20:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
