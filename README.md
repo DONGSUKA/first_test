@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 10:26**
-> 이는 땅과 거기 충만한 것이 주의 것임이라
+📖 **예레미야 22:11**
+> 여호와께서 유다 왕 요시야의 아들 곧 그의 아버지 요시야를 이어 왕이 되었다가 이 곳에서 나간 살룸에 대하여 이와 같이 말씀하시니라 그가 이 곳으로 다시 돌아오지 못하고
 
-🕊️ _업데이트 시각: 2026-03-18 06:56:28 KST_
+🕊️ _업데이트 시각: 2026-03-18 07:23:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
