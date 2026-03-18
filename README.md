@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 1:12**
-> 땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님이 보시기에 좋았더라
+📖 **누가복음 18:40**
+> 예수께서 머물러 서서 명하여 데려오라 하셨더니 그가 가까이 오매 물어 이르시되
 
-🕊️ _업데이트 시각: 2026-03-19 03:36:44 KST_
+🕊️ _업데이트 시각: 2026-03-19 04:31:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
