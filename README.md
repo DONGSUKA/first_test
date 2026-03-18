@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 29:46**
-> 그들은 내가 그들의 하나님 여호와로서 그들 중에 거하려고 그들을 애굽 땅에서 인도하여 낸 줄을 알리라 나는 그들의 하나님 여호와니라
+📖 **예레미야 22:1**
+> 유다 왕의 집에 선언하다 여호와께서 이와 같이 말씀하시되 너는 유다 왕의 집에 내려가서 거기에서 이 말을 선언하여
 
-🕊️ _업데이트 시각: 2026-03-18 19:33:41 KST_
+🕊️ _업데이트 시각: 2026-03-18 20:26:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
