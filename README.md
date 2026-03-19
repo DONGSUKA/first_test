@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 15:33**
-> 얼마 있다가 평안히 가라는 전송을 형제들에게 받고 자기를 보내던 사람들에게로 돌아가되
+📖 **출애굽기 25:3**
+> 너희가 그들에게서 받을 예물은 이러하니 금과 은과 놋과
 
-🕊️ _업데이트 시각: 2026-03-19 22:45:35 KST_
+🕊️ _업데이트 시각: 2026-03-19 23:34:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
