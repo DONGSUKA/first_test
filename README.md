@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 63:7**
-> 이스라엘에게 베푸신 은총 내가 여호와께서 우리에게 베푸신 모든 자비와 그의 찬송을 말하며 그의 사랑을 따라, 그의 많은 자비를 따라이스라엘 집에 베푸신 큰 은총을 말하리라
+📖 **에베소서 6:8**
+> 이는 각 사람이 무슨 선을 행하든지 종이나 자유인이나 주께로부터 그대로 받을 줄을 앎이라
 
-🕊️ _업데이트 시각: 2026-03-20 07:15:44 KST_
+🕊️ _업데이트 시각: 2026-03-20 07:48:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
