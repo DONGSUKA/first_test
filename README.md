@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 20:20**
-> 이에 백성들이 아침에 일찍이 일어나서 드고아 들로 나가니라 나갈 때에 여호사밧이 서서 이르되 유다와 예루살렘 주민들아 내 말을 들을지어다 너희는 너희 하나님 여호와를 신뢰하라 그리하면 견고히 서리라 그의 선지자들을 신뢰하라 그리하면 형통하리라 하고
+📖 **민수기 28:11**
+> 초하루 초하루에는 수송아지 두 마리와 숫양 한 마리와 일 년 되고 흠 없는 숫양 일곱 마리로 여호와께 번제를 드리되
 
-🕊️ _업데이트 시각: 2026-03-19 14:13:23 KST_
+🕊️ _업데이트 시각: 2026-03-19 15:09:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
