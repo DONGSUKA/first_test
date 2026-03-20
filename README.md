@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 19:19**
-> 나팔 소리가 점점 커질 때에 모세가 말한즉 하나님이 음성으로 대답하시더라
+📖 **사무엘상 2:7**
+> 여호와는 가난하게도 하시고 부하게도 하시며 낮추기도 하시고 높이기도 하시는도다
 
-🕊️ _업데이트 시각: 2026-03-20 15:07:23 KST_
+🕊️ _업데이트 시각: 2026-03-20 16:10:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
