@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **아가 6:3**
-> 나는 내 사랑하는 자에게 속하였고 내 사랑하는 자는 내게 속하였으며 그가 백합화 가운데에서 그 양 떼를 먹이는도다
+📖 **욥기 15:13**
+> 네 영이 하나님께 분노를 터뜨리며 네 입을 놀리느냐
 
-🕊️ _업데이트 시각: 2026-03-21 02:50:28 KST_
+🕊️ _업데이트 시각: 2026-03-21 03:26:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
