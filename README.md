@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 108:9**
-> 모압은 내 목욕통이라 에돔에는 내 신발을 벗어 던질지며 블레셋 위에서 내가 외치리라 하셨도다
+📖 **예레미야 27:5**
+> 나는 내 큰 능력과 나의 쳐든 팔로 땅과 지상에 있는 사람과 짐승들을 만들고 내가 보기에 옳은 사람에게 그것을 주었노라
 
-🕊️ _업데이트 시각: 2026-03-20 17:24:48 KST_
+🕊️ _업데이트 시각: 2026-03-20 18:01:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
