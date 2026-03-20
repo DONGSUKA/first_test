@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 4:16**
-> 이 사람들을 어떻게 할까 그들로 말미암아 유명한 표적 나타난 것이 예루살렘에 사는 모든 사람에게 알려졌으니 우리도 부인할 수 없는지라
+📖 **이사야 63:6**
+> 내가 노함으로 말미암아 만민을 밟았으며 내가 분함으로 말미암아 그들을 취하게 하고 그들의 선혈이 땅에 쏟아지게 하였느니라
 
-🕊️ _업데이트 시각: 2026-03-20 13:00:45 KST_
+🕊️ _업데이트 시각: 2026-03-20 14:16:57 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
