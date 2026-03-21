@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 4:15**
-> 너는 그에게 말하고 그의 입에 할 말을 주라 내가 네 입과 그의 입에 함께 있어서 너희들이 행할 일을 가르치리라
+📖 **열왕기상 6:15**
+> 백향목 널판으로 성전의 안벽 곧 성전 마루에서 천장까지의 벽에 입히고 또 잣나무 널판으로 성전 마루를 놓고
 
-🕊️ _업데이트 시각: 2026-03-22 06:54:44 KST_
+🕊️ _업데이트 시각: 2026-03-22 07:11:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
