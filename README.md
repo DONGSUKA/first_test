@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 3:11**
-> 하림의 아들 말기야와 바핫모압의 아들 핫숩이 한 부분과 화덕 망대를 중수하였고
+📖 **민수기 6:19**
+> 자기의 몸을 구별한 나실인이 그의 머리 털을 민 후에 제사장이 삶은 숫양의 어깨와 광주리 가운데 무교병 하나와 무교전병 하나를 취하여 나실인의 두 손에 두고
 
-🕊️ _업데이트 시각: 2026-03-22 02:51:05 KST_
+🕊️ _업데이트 시각: 2026-03-22 03:00:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
