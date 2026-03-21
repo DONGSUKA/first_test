@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:22**
-> 여호와께서 폐병과 열병과 염증과 학질과 한재와 풍재와 썩는 재앙으로 너를 치시리니 이 재앙들이 너를 따라서 너를 진멸하게 할 것이라
+📖 **역대상 3:19**
+> 브다야의 아들들은 스룹바벨과 시므이요 스룹바벨의 아들은 므술람과 하나냐와 그의 매제 슬로밋과
 
-🕊️ _업데이트 시각: 2026-03-22 08:18:13 KST_
+🕊️ _업데이트 시각: 2026-03-22 08:41:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
