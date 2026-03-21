@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 2:18**
-> 라마에서 슬퍼하며 크게 통곡하는 소리가 들리니 라헬이 그 자식을 위하여 애곡하는 것이라 그가 자식이 없으므로 위로 받기를 거절하였도다 함이 이루어졌느니라
+📖 **열왕기상 7:36**
+> 버팀대 판과 옆판에는 각각 빈 곳을 따라 그룹들과 사자와 종려나무를 아로새겼고 또 그 둘레에 화환 모양이 있더라
 
-🕊️ _업데이트 시각: 2026-03-21 18:36:32 KST_
+🕊️ _업데이트 시각: 2026-03-21 18:55:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
