@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 26:70**
-> 베드로가 모든 사람 앞에서 부인하여 이르되 나는 네가 무슨 말을 하는지 알지 못하겠노라 하며
+📖 **출애굽기 5:18**
+> 이제 가서 일하라 짚은 너희에게 주지 않을지라도 벽돌은 너희가 수량대로 바칠지니라
 
-🕊️ _업데이트 시각: 2026-03-22 07:41:49 KST_
+🕊️ _업데이트 시각: 2026-03-22 07:57:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
