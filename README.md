@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 23:12**
-> 이르시되 너 학대 받은 처녀 딸 시돈아 네게 다시는 희락이 없으리니 일어나 깃딤으로 건너가라 거기에서도 네가 평안을 얻지 못하리라하셨느니라
+📖 **이사야 66:18**
+> 내가 그들의 행위와 사상을 아노라 때가 이르면 뭇 나라와 언어가 다른 민족들을 모으리니 그들이 와서 나의 영광을 볼 것이며
 
-🕊️ _업데이트 시각: 2026-03-22 00:12:54 KST_
+🕊️ _업데이트 시각: 2026-03-22 00:38:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
