@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 140:11**
-> 악담하는 자는 세상에서 굳게 서지 못하며 포악한 자는 재앙이 따라서 패망하게 하리이다
+📖 **레위기 21:11**
+> 어떤 시체에든지 가까이 하지 말지니 그의 부모로 말미암아서도 더러워지게 하지 말며
 
-🕊️ _업데이트 시각: 2026-03-21 15:02:11 KST_
+🕊️ _업데이트 시각: 2026-03-21 15:55:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
