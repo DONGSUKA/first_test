@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 20:18**
-> 이는 그들이 그 신들에게 행하는 모든 가증한 일을 너희에게 가르쳐 본받게 하여 너희가 너희의 하나님 여호와께 범죄하게 할까 함이니라
+📖 **시편 46:9**
+> 그가 땅 끝까지 전쟁을 쉬게 하심이여 활을 꺾고 창을 끊으며 수레를 불사르시는도다
 
-🕊️ _업데이트 시각: 2026-03-21 08:55:03 KST_
+🕊️ _업데이트 시각: 2026-03-21 09:58:05 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
