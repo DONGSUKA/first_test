@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 149:9**
-> 기록한 판결대로 그들에게 시행할지로다 이런 영광은 그의 모든 성도에게 있도다 할렐루야
+📖 **민수기 23:23**
+> 야곱을 해할 점술이 없고 이스라엘을 해할 복술이 없도다 이 때에 야곱과 이스라엘에 대하여 논할진대 하나님께서 행하신 일이 어찌 그리 크냐 하리로다
 
-🕊️ _업데이트 시각: 2026-03-23 08:43:24 KST_
+🕊️ _업데이트 시각: 2026-03-23 08:59:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
