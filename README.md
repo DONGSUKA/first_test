@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 32:10**
-> 내가 그 많은 백성을 너로 말미암아 놀라게 할 것이며 내가 내 칼이 그들의 왕 앞에서 춤추게 할 때에 그 왕이 너로 말미암아 심히 두려워할 것이며 네가 엎드러지는 날에 그들이 각각 자기 생명을 위하여 무시로 떨리로다
+📖 **사도행전 9:6**
+> 너는 일어나 시내로 들어가라 네가 행할 것을 네게 이를 자가 있느니라 하시니
 
-🕊️ _업데이트 시각: 2026-03-23 00:02:18 KST_
+🕊️ _업데이트 시각: 2026-03-23 00:33:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
