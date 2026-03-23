@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 18:3**
-> 그 도시에 한 과부가 있어 자주 그에게 가서 내 원수에 대한 나의 원한을 풀어 주소서 하되
+📖 **레위기 3:11**
+> 제사장은 그것을 제단 위에서 불사를지니 이는 화제로 여호와께 드리는 음식이니라
 
-🕊️ _업데이트 시각: 2026-03-23 19:35:49 KST_
+🕊️ _업데이트 시각: 2026-03-23 20:25:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
