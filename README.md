@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌레몬서 1:13**
-> 그를 내게 머물러 있게 하여 내 복음을 위하여 갇힌 중에서 네 대신 나를 섬기게 하고자 하나
+📖 **마태복음 27:25**
+> 백성이 다 대답하여 이르되 그 피를 우리와 우리 자손에게 돌릴지어다 하거늘
 
-🕊️ _업데이트 시각: 2026-03-25 03:06:13 KST_
+🕊️ _업데이트 시각: 2026-03-25 04:17:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
