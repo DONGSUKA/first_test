@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 103:8**
-> 여호와는 긍휼이 많으시고 은혜로우시며 노하기를 더디 하시고 인자하심이 풍부하시도다
+📖 **사도행전 20:24**
+> 내가 달려갈 길과 주 예수께 받은 사명 곧 하나님의 은혜의 복음을 증언하는 일을 마치려 함에는 나의 생명조차 조금도 귀한 것으로여기지 아니하노라
 
-🕊️ _업데이트 시각: 2026-03-24 20:05:37 KST_
+🕊️ _업데이트 시각: 2026-03-24 20:52:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
