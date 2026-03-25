@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 31:50**
-> 만일 네가 내 딸을 박대하거나 내 딸들 외에 다른 아내들을 맞이하면 우리와 함께 할 사람은 없어도 보라 하나님이 나와 너 사이에 증인이 되시느니라 함이었더라
+📖 **열왕기하 3:23**
+> 이르되 이는 피라 틀림없이 저 왕들이 싸워 서로 죽인 것이로다 모압 사람들아 이제 노략하러 가자 하고
 
-🕊️ _업데이트 시각: 2026-03-26 03:34:35 KST_
+🕊️ _업데이트 시각: 2026-03-26 04:27:00 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
