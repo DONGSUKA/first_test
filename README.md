@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 23:8**
-> 그런데 내가 앞으로 가도 그가 아니 계시고 뒤로 가도 보이지 아니하며
+📖 **예레미야 31:9**
+> 그들이 울며 돌아오리니 나의 인도함을 받고 간구할 때에 내가 그들을 넘어지지 아니하고 물 있는 계곡의 곧은 길로 가게 하리라 나는이스라엘의 아버지요 에브라임은 나의 장자니라
 
-🕊️ _업데이트 시각: 2026-03-25 21:33:05 KST_
+🕊️ _업데이트 시각: 2026-03-25 22:56:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
