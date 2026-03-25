@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 10:30**
-> 고넬료가 이르되 내가 나흘 전 이맘때까지 내 집에서 제 구 시 기도를 하는데 갑자기 한 사람이 빛난 옷을 입고 내 앞에 서서
+📖 **창세기 31:50**
+> 만일 네가 내 딸을 박대하거나 내 딸들 외에 다른 아내들을 맞이하면 우리와 함께 할 사람은 없어도 보라 하나님이 나와 너 사이에 증인이 되시느니라 함이었더라
 
-🕊️ _업데이트 시각: 2026-03-26 02:44:06 KST_
+🕊️ _업데이트 시각: 2026-03-26 03:34:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
