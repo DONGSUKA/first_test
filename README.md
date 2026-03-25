@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 7:17**
-> 몰약과 침향과 계피를 뿌렸노라
+📖 **에스겔 48:19**
+> 이스라엘 모든 지파 가운데에 그 성읍에서 일하는 자는 그 땅을 경작할지니라
 
-🕊️ _업데이트 시각: 2026-03-25 09:01:42 KST_
+🕊️ _업데이트 시각: 2026-03-25 11:44:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
