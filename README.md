@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도전서 8:12**
-> 이같이 너희가 형제에게 죄를 지어 그 약한 양심을 상하게 하는 것이 곧 그리스도에게 죄를 짓는 것이니라
+📖 **이사야 53:11**
+> 그가 자기 영혼의 수고한 것을 보고 만족하게 여길 것이라 나의 의로운 종이 자기 지식으로 많은 사람을 의롭게 하며 또 그들의 죄악을친히 담당하리로다
 
-🕊️ _업데이트 시각: 2026-03-25 13:33:54 KST_
+🕊️ _업데이트 시각: 2026-03-25 14:44:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
