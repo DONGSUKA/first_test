@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 9:6**
-> 이는 그들이 몹시 무서워하므로 그가 무슨 말을 할지 알지 못함이더라
+📖 **시편 2:2**
+> 세상의 군왕들이 나서며 관원들이 서로 꾀하여 여호와와 그의 기름 부음 받은 자를 대적하며
 
-🕊️ _업데이트 시각: 2026-03-25 20:02:34 KST_
+🕊️ _업데이트 시각: 2026-03-25 20:48:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
