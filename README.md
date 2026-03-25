@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 21:29**
-> 아비멜렉이 아브라함에게 이르되 이 일곱 암양 새끼를 따로 놓음은 어찜이냐
+📖 **사도행전 5:5**
+> 아나니아가 이 말을 듣고 엎드러져 혼이 떠나니 이 일을 듣는 사람이 다 크게 두려워하더라
 
-🕊️ _업데이트 시각: 2026-03-26 07:20:35 KST_
+🕊️ _업데이트 시각: 2026-03-26 07:57:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
