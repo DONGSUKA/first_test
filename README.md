@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 8:15**
-> 제사장들과 레위 사람들이 국고 일에든지 무슨 일에든지 왕이 명령한 바를 전혀 어기지 아니하였더라
+📖 **출애굽기 7:14**
+> 첫째 재앙 : 물이 피가 되다 여호와께서 모세에게 이르시되 바로의 마음이 완강하여 백성 보내기를 거절하는도다
 
-🕊️ _업데이트 시각: 2026-03-26 00:54:06 KST_
+🕊️ _업데이트 시각: 2026-03-26 01:49:06 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
