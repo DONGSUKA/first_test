@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 5:5**
-> 아나니아가 이 말을 듣고 엎드러져 혼이 떠나니 이 일을 듣는 사람이 다 크게 두려워하더라
+📖 **여호수아 22:1**
+> 여호수아가 동쪽 지파들을 보내다 그 때에 여호수아가 르우벤 사람과 갓 사람과 므낫세 반 지파를 불러서
 
-🕊️ _업데이트 시각: 2026-03-26 07:57:55 KST_
+🕊️ _업데이트 시각: 2026-03-26 08:29:30 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
