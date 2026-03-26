@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **전도서 4:12**
-> 한 사람이면 패하겠거니와 두 사람이면 맞설 수 있나니 세 겹 줄은 쉽게 끊어지지 아니하느니라
+📖 **느헤미야 9:1**
+> 백성들이 죄를 자복하다 그 달 스무나흗 날에 이스라엘 자손이 다 모여 금식하며 굵은 베 옷을 입고 티끌을 무릅쓰며
 
-🕊️ _업데이트 시각: 2026-03-26 19:30:47 KST_
+🕊️ _업데이트 시각: 2026-03-26 20:27:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
