@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 26:2**
-> 아그립바 왕이여 유대인이 고발하는 모든 일을 오늘 당신 앞에서 변명하게 된 것을 다행히 여기나이다
+📖 **잠언 20:4**
+> 게으른 자는 가을에 밭 갈지 아니하나니 그러므로 거둘 때에는 구걸할지라도 얻지 못하리라
 
-🕊️ _업데이트 시각: 2026-03-28 08:18:53 KST_
+🕊️ _업데이트 시각: 2026-03-28 08:47:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
