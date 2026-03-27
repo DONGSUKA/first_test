@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 7:64**
-> 속죄제물로 숫염소 한 마리이며
+📖 **사도행전 26:2**
+> 아그립바 왕이여 유대인이 고발하는 모든 일을 오늘 당신 앞에서 변명하게 된 것을 다행히 여기나이다
 
-🕊️ _업데이트 시각: 2026-03-28 07:52:54 KST_
+🕊️ _업데이트 시각: 2026-03-28 08:18:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
