@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 14:7**
-> 무기를 든 자가 그에게 이르되 당신의 마음에 있는 대로 다 행하여 앞서 가소서 내가 당신과 마음을 같이 하여 따르리이다
+📖 **마태복음 25:21**
+> 그 주인이 이르되 잘하였도다 착하고 충성된 종아 네가 적은 일에 충성하였으매 내가 많은 것을 네게 맡기리니 네 주인의 즐거움에 참여할지어다 하고
 
-🕊️ _업데이트 시각: 2026-03-27 20:02:48 KST_
+🕊️ _업데이트 시각: 2026-03-27 20:48:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
