@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 29:40**
-> 한 어린 양에 고운 밀가루 십분의 일 에바와 찧은 기름 사분의 일 힌을 더하고 또 전제로 포도주 사분의 일 힌을 더할지며
+📖 **예레미야애가 4:11**
+> 여호와께서 그의 분을 내시며 그의 맹렬한 진노를 쏟으심이여 시온에 불을 지르사 그 터를 사르셨도다
 
-🕊️ _업데이트 시각: 2026-03-27 21:30:08 KST_
+🕊️ _업데이트 시각: 2026-03-27 22:49:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
