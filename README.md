@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 7:65**
-> 총독이 그들에게 명령하여 우림과 둠밈을 가진 제사장이 일어나기 전에는 지성물을 먹지 말라 하였느니라
+📖 **이사야 30:16**
+> 이르기를 아니라 우리가 말 타고 도망하리라 하였으므로 너희가 도망할 것이요 또 이르기를 우리가 빠른 짐승을 타리라 하였으므로 너희를 쫓는 자들이 빠르리니
 
-🕊️ _업데이트 시각: 2026-03-27 14:26:22 KST_
+🕊️ _업데이트 시각: 2026-03-27 15:42:36 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
