@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 15:19**
-> 지금부터는 아버지의 아들이라 일컬음을 감당하지 못하겠나이다 나를 품꾼의 하나로 보소서 하리라 하고
+📖 **사무엘상 14:7**
+> 무기를 든 자가 그에게 이르되 당신의 마음에 있는 대로 다 행하여 앞서 가소서 내가 당신과 마음을 같이 하여 따르리이다
 
-🕊️ _업데이트 시각: 2026-03-27 19:09:00 KST_
+🕊️ _업데이트 시각: 2026-03-27 20:02:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
