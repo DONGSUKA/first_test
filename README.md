@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 11:20**
-> 냄새도 싫어하기까지 한 달 동안 먹게 하시리니 이는 너희가 너희 중에 계시는 여호와를 멸시하고 그 앞에서 울며 이르기를 우리가 어찌하여 애굽에서 나왔던가 함이라 하라
+📖 **민수기 26:59**
+> 아므람의 처의 이름은 요게벳이니 레위의 딸이요 애굽에서 레위에게서 난 자라 그가 아므람에게서 아론과 모세와 그의 누이 미리암을 낳았고
 
-🕊️ _업데이트 시각: 2026-03-28 03:00:06 KST_
+🕊️ _업데이트 시각: 2026-03-28 03:57:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
