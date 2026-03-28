@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 51:17**
-> 사람마다 어리석고 무식하도다 금장색마다 자기가 만든 신상으로 말미암아 수치를 당하나니 이는 그 부어 만든 우상은 거짓이요 그 속에 생기가 없음이라
+📖 **사무엘하 12:7**
+> 나단이 다윗에게 이르되 당신이 그 사람이라 이스라엘의 하나님 여호와께서 이와 같이 이르시기를 내가 너를 이스라엘 왕으로 기름 붓기 위하여 너를 사울의 손에서 구원하고
 
-🕊️ _업데이트 시각: 2026-03-29 03:19:44 KST_
+🕊️ _업데이트 시각: 2026-03-29 04:01:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
