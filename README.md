@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 4:1**
-> 지켜야 할 하나님의 규례들 이스라엘아 이제 내가 너희에게 가르치는 규례와 법도를 듣고 준행하라 그리하면 너희가 살 것이요 너희 조상의 하나님 여호와께서 너희에게 주시는 땅에 들어가서 그것을 얻게 되리라
+📖 **창세기 24:6**
+> 아브라함이 그에게 이르되 내 아들을 그리로 데리고 돌아가지 아니하도록 하라
 
-🕊️ _업데이트 시각: 2026-03-29 01:58:47 KST_
+🕊️ _업데이트 시각: 2026-03-29 02:26:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
