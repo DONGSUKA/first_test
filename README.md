@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:49**
-> 주의 종에게 하신 말씀을 기억하소서 주께서 내게 소망을 가지게 하셨나이다
+📖 **시편 72:20**
+> 이새의 아들 다윗의 기도가 끝나니라
 
-🕊️ _업데이트 시각: 2026-03-29 06:58:46 KST_
+🕊️ _업데이트 시각: 2026-03-29 07:26:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
