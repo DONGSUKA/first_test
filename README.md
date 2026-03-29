@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 12:6**
-> 이제 한 사람이 남았으니 곧 그가 사랑하는 아들이라 최후로 이를 보내며 이르되 내 아들은 존대하리라 하였더니
+📖 **마가복음 1:40**
+> 나병환자를 깨끗하게 하시다(마 8:1-4; 눅 5:12-16) 한 나병환자가 예수께 와서 꿇어 엎드려 간구하여 이르되 원하시면 저를 깨끗하게하실 수 있나이다
 
-🕊️ _업데이트 시각: 2026-03-30 00:19:18 KST_
+🕊️ _업데이트 시각: 2026-03-30 00:48:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
