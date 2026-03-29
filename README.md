@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 78:26**
-> 그가 동풍을 하늘에서 일게 하시며 그의 권능으로 남풍을 인도하시고
+📖 **열왕기하 14:4**
+> 오직 산당들을 제거하지 아니하였으므로 백성이 여전히 산당에서 제사를 드리며 분향하였더라
 
-🕊️ _업데이트 시각: 2026-03-29 14:20:03 KST_
+🕊️ _업데이트 시각: 2026-03-29 15:36:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
