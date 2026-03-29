@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 24:28**
-> 그들이 가는 마을에 가까이 가매 예수는 더 가려 하는 것 같이 하시니
+📖 **역대하 8:8**
+> 곧 이스라엘 자손이 다 멸하지 않았으므로 그 땅에 남아 있는 그들의 자손들을 솔로몬이 역꾼으로 삼아 오늘에 이르렀으되
 
-🕊️ _업데이트 시각: 2026-03-29 17:52:39 KST_
+🕊️ _업데이트 시각: 2026-03-29 18:23:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
