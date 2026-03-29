@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 5:19**
-> 그에게 큰 권세를 주셨으므로 백성들과 나라들과 언어가 다른 모든 사람들이 그의 앞에서 떨며 두려워하였으며 그는 임의로 죽이며 임의로 살리며 임의로 높이며 임의로 낮추었더니
+📖 **창세기 30:39**
+> 가지 앞에서 새끼를 배므로 얼룩얼룩한 것과 점이 있고 아롱진 것을 낳은지라
 
-🕊️ _업데이트 시각: 2026-03-29 19:55:36 KST_
+🕊️ _업데이트 시각: 2026-03-29 20:18:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
