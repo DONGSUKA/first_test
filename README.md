@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **빌립보서 2:9**
-> 이러므로 하나님이 그를 지극히 높여 모든 이름 위에 뛰어난 이름을 주사
+📖 **열왕기하 20:3**
+> 여호와여 구하오니 내가 진실과 전심으로 주 앞에 행하며 주께서 보시기에 선하게 행한 것을 기억하옵소서 하고 히스기야가 심히 통곡하더라
 
-🕊️ _업데이트 시각: 2026-03-31 07:52:18 KST_
+🕊️ _업데이트 시각: 2026-03-31 08:22:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
