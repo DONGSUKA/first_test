@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 14:24**
-> 그러나 네 하나님 여호와께서 자기의 이름을 두시려고 택하신 곳이 네게서 너무 멀고 행로가 어려워서 네 하나님 여호와께서 그 풍부히주신 것을 가지고 갈 수 없거든
+📖 **누가복음 11:43**
+> 화 있을진저 너희 바리새인이여 너희가 회당의 높은 자리와 시장에서 문안 받는 것을 기뻐하는도다
 
-🕊️ _업데이트 시각: 2026-03-30 17:44:51 KST_
+🕊️ _업데이트 시각: 2026-03-30 18:59:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
