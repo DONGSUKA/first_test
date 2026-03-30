@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **로마서 6:4**
-> 그러므로 우리가 그의 죽으심과 합하여 세례를 받음으로 그와 함께 장사되었나니 이는 아버지의 영광으로 말미암아 그리스도를 죽은 자 가운데서 살리심과 같이 우리로 또한 새 생명 가운데서 행하게 하려 함이라
+📖 **열왕기상 12:6**
+> 르호보암 왕이 그의 아버지 솔로몬의 생전에 그 앞에 모셨던 노인들과 의논하여 이르되 너희는 어떻게 충고하여 이 백성에게 대답하게하겠느냐
 
-🕊️ _업데이트 시각: 2026-03-31 01:42:10 KST_
+🕊️ _업데이트 시각: 2026-03-31 02:35:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
