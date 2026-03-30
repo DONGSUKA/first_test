@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 12:6**
-> 르호보암 왕이 그의 아버지 솔로몬의 생전에 그 앞에 모셨던 노인들과 의논하여 이르되 너희는 어떻게 충고하여 이 백성에게 대답하게하겠느냐
+📖 **호세아 10:13**
+> 너희는 악을 밭 갈아 죄를 거두고 거짓 열매를 먹었나니 이는 네가 네 길과 네 용사의 많음을 의뢰하였음이라
 
-🕊️ _업데이트 시각: 2026-03-31 02:35:45 KST_
+🕊️ _업데이트 시각: 2026-03-31 03:33:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
