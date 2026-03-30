@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 38:5**
-> 그가 또 다시 아들을 낳고 그의 이름을 셀라라 하니라 그가 셀라를 낳을 때에 유다는 거십에 있었더라
+📖 **사도행전 1:14**
+> 여자들과 예수의 어머니 마리아와 예수의 아우들과 더불어 마음을 같이하여 오로지 기도에 힘쓰더라
 
-🕊️ _업데이트 시각: 2026-03-31 05:57:52 KST_
+🕊️ _업데이트 시각: 2026-03-31 06:37:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
