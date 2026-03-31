@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 2:29**
-> 너희가 나에게 대항함은 어찌 됨이냐 너희가 다 내게 잘못하였느니라 여호와의 말씀이니라
+📖 **시편 121:1**
+> 성전에 올라가는 노래 내가 산을 향하여 눈을 들리라 나의 도움이 어디서 올까
 
-🕊️ _업데이트 시각: 2026-03-31 23:56:11 KST_
+🕊️ _업데이트 시각: 2026-04-01 00:58:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
