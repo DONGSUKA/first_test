@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 121:1**
-> 성전에 올라가는 노래 내가 산을 향하여 눈을 들리라 나의 도움이 어디서 올까
+📖 **마가복음 14:63**
+> 대제사장이 자기 옷을 찢으며 이르되 우리가 어찌 더 증인을 요구하리요
 
-🕊️ _업데이트 시각: 2026-04-01 00:58:18 KST_
+🕊️ _업데이트 시각: 2026-04-01 01:53:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
