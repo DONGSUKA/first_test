@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 7:13**
-> 파는 자가 살아 있다 할지라도 다시 돌아가서 그 판 것을 얻지 못하리니 이는 묵시가 그 모든 무리에게 돌아오지 아니하고, 사람이 그죄악으로 말미암아 자기의 목숨을 유지할 수 없으리라 하였음이로다
+📖 **고린도전서 6:19**
+> 너희 몸은 너희가 하나님께로부터 받은 바 너희 가운데 계신 성령의 전인 줄을 알지 못하느냐 너희는 너희 자신의 것이 아니라
 
-🕊️ _업데이트 시각: 2026-03-31 14:28:55 KST_
+🕊️ _업데이트 시각: 2026-03-31 15:47:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
