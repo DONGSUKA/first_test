@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 40:24**
-> 그는 또 회막 안 곧 성막 남쪽에 등잔대를 놓아 상과 마주하게 하고
+📖 **레위기 17:3**
+> 이스라엘 집의 모든 사람이 소나 어린 양이나 염소를 진영 안에서 잡든지 진영 밖에서 잡든지
 
-🕊️ _업데이트 시각: 2026-03-31 21:06:15 KST_
+🕊️ _업데이트 시각: 2026-03-31 22:57:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
