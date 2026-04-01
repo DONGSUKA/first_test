@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 15:14**
-> 하나님이 처음으로 이방인 중에서 자기 이름을 위할 백성을 취하시려고 그들을 돌보신 것을 시므온이 말하였으니
+📖 **이사야 42:16**
+> 내가 맹인들을 그들이 알지 못하는 길로 이끌며 그들이 알지 못하는 지름길로 인도하며 암흑이 그 앞에서 광명이 되게 하며 굽은 데를곧게 할 것이라 내가 이 일을 행하여 그들을 버리지 아니하리니
 
-🕊️ _업데이트 시각: 2026-04-01 16:01:49 KST_
+🕊️ _업데이트 시각: 2026-04-01 17:17:34 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
