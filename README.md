@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 42:16**
-> 내가 맹인들을 그들이 알지 못하는 길로 이끌며 그들이 알지 못하는 지름길로 인도하며 암흑이 그 앞에서 광명이 되게 하며 굽은 데를곧게 할 것이라 내가 이 일을 행하여 그들을 버리지 아니하리니
+📖 **에스겔 16:4**
+> 네가 난 것을 말하건대 네가 날 때에 네 배꼽 줄을 자르지 아니하였고 너를 물로 씻어 정결하게 하지 아니하였고 네게 소금을 뿌리지 아니하였고 너를 강보로 싸지도 아니하였나니
 
-🕊️ _업데이트 시각: 2026-04-01 17:17:34 KST_
+🕊️ _업데이트 시각: 2026-04-01 18:36:39 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
