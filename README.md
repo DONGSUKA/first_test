@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 7:10**
-> 불이 강처럼 흘러 그의 앞에서 나오며 그를 섬기는 자는 천천이요 그 앞에서 모셔 선 자는 만만이며 심판을 베푸는데 책들이 펴 놓였더라
+📖 **아가 6:2**
+> 내 사랑하는 자가 자기 동산으로 내려가 향기로운 꽃밭에 이르러서 동산 가운데에서 양 떼를 먹이며 백합화를 꺾는구나
 
-🕊️ _업데이트 시각: 2026-04-03 06:30:21 KST_
+🕊️ _업데이트 시각: 2026-04-03 07:01:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
