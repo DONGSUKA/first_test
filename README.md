@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 49:1**
-> 야곱의 유언과 죽음 야곱이 그 아들들을 불러 이르되 너희는 모이라 너희가 후일에 당할 일을 내가 너희에게 이르리라
+📖 **마가복음 4:10**
+> 비유를 설명하시다(마 13:10-23; 눅 8:9-15) 예수께서 홀로 계실 때에 함께 한 사람들이 열두 제자와 더불어 그 비유들에 대하여 물으니
 
-🕊️ _업데이트 시각: 2026-04-04 00:35:56 KST_
+🕊️ _업데이트 시각: 2026-04-04 01:04:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
