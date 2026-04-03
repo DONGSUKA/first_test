@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 8:13**
-> 그들이 내게 고기를 제물로 드리고 먹을지라도 여호와는 그것을 기뻐하지 아니하고 이제 그들의 죄악을 기억하여 그 죄를 벌하리니 그들은 애굽으로 다시 가리라
+📖 **예레미야 26:15**
+> 너희는 분명히 알아라 너희가 나를 죽이면 반드시 무죄한 피를 너희 몸과 이 성과 이 성 주민에게 돌리는 것이니라 이는 여호와께서진실로 나를 보내사 이 모든 말을 너희 귀에 말하게 하셨음이라
 
-🕊️ _업데이트 시각: 2026-04-04 06:51:43 KST_
+🕊️ _업데이트 시각: 2026-04-04 07:16:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
