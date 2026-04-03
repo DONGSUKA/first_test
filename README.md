@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 19:8**
-> 삭개오가 서서 주께 여짜오되 주여 보시옵소서 내 소유의 절반을 가난한 자들에게 주겠사오며 만일 누구의 것을 속여 빼앗은 일이 있으면 네 갑절이나 갚겠나이다
+📖 **룻기 3:15**
+> 보아스가 이르되 네 겉옷을 가져다가 그것을 펴서 잡으라 하매 그것을 펴서 잡으니 보리를 여섯 번 되어 룻에게 지워 주고 성읍으로 들어가니라
 
-🕊️ _업데이트 시각: 2026-04-04 02:21:47 KST_
+🕊️ _업데이트 시각: 2026-04-04 02:54:37 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
