@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 17:13**
-> 너희 집에서 난 자든지 너희 돈으로 산 자든지 할례를 받아야 하리니 이에 내 언약이 너희 살에 있어 영원한 언약이 되려니와
+📖 **마태복음 8:9**
+> 나도 남의 수하에 있는 사람이요 내 아래에도 군사가 있으니 이더러 가라 하면 가고 저더러 오라 하면 오고 내 종더러 이것을 하라 하면하나이다
 
-🕊️ _업데이트 시각: 2026-04-04 08:51:17 KST_
+🕊️ _업데이트 시각: 2026-04-04 09:57:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
