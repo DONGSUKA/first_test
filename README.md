@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **출애굽기 26:9**
-> 그 휘장 다섯 폭을 서로 연결하며 또 여섯 폭을 서로 연결하고 그 여섯째 폭 절반은 성막 전면에 접어 드리우고
+📖 **창세기 40:11**
+> 내 손에 바로의 잔이 있기로 내가 포도를 따서 그 즙을 바로의 잔에 짜서 그 잔을 바로의 손에 드렸노라
 
-🕊️ _업데이트 시각: 2026-04-04 18:49:43 KST_
+🕊️ _업데이트 시각: 2026-04-04 19:18:24 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
