@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 22:19**
-> 내가 말하기를 주님 내가 주를 믿는 사람들을 가두고 또 각 회당에서 때리고
+📖 **이사야 60:2**
+> 보라 어둠이 땅을 덮을 것이며 캄캄함이 만민을 가리려니와 오직 여호와께서 네 위에 임하실 것이며 그의 영광이 네 위에 나타나리니
 
-🕊️ _업데이트 시각: 2026-04-05 05:50:55 KST_
+🕊️ _업데이트 시각: 2026-04-05 06:16:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
