@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:11**
-> 여호와께서 네게 주리라고 네 조상들에게 맹세하신 땅에서 네게 복을 주사 네 몸의 소생과 가축의 새끼와 토지의 소산을 많게 하시며
+📖 **호세아 14:6**
+> 그의 가지는 퍼지며 그의 아름다움은 감람나무와 같고 그의 향기는 레바논 백향목 같으리니
 
-🕊️ _업데이트 시각: 2026-04-04 23:27:24 KST_
+🕊️ _업데이트 시각: 2026-04-04 23:58:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
