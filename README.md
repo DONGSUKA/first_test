@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 8:14**
-> 그가 성소가 되시리라 그러나 이스라엘의 두 집에는 걸림돌과 걸려 넘어지는 반석이 되실 것이며 예루살렘 주민에게는 함정과 올무가 되시리니
+📖 **창세기 10:25**
+> 에벨은 두 아들을 낳고 하나의 이름을 벨렉이라 하였으니 그 때에 세상이 나뉘었음이요 벨렉의 아우의 이름은 욕단이며
 
-🕊️ _업데이트 시각: 2026-04-06 06:00:13 KST_
+🕊️ _업데이트 시각: 2026-04-06 06:36:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
