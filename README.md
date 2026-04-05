@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 42:37**
-> 르우벤이 그의 아버지에게 말하여 이르되 내가 그를 아버지께로 데리고 오지 아니하거든 내 두 아들을 죽이소서 그를 내 손에 맡기소서내가 그를 아버지께로 데리고 돌아오리이다
+📖 **사무엘상 9:17**
+> 사무엘이 사울을 볼 때에 여호와께서 그에게 이르시되 보라 이는 내가 네게 말한 사람이니 이가 내 백성을 다스리리라 하시니라
 
-🕊️ _업데이트 시각: 2026-04-06 06:57:37 KST_
+🕊️ _업데이트 시각: 2026-04-06 07:25:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
