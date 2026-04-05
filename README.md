@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 6:18**
-> 너희에게 아버지가 되고 너희는 내게 자녀가 되리라 전능하신 주의 말씀이니라 하셨느니라
+📖 **신명기 9:1**
+> 백성의 불순종 이스라엘아 들으라 네가 오늘 요단을 건너 너보다 강대한 나라들로 들어가서 그것을 차지하리니 그 성읍들은 크고 성벽은하늘에 닿았으며
 
-🕊️ _업데이트 시각: 2026-04-05 18:48:19 KST_
+🕊️ _업데이트 시각: 2026-04-05 19:18:07 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
