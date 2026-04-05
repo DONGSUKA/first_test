@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **잠언 17:10**
-> 한 마디 말로 총명한 자에게 충고하는 것이 매 백 대로 미련한 자를 때리는 것보다 더욱 깊이 박히느니라
+📖 **사무엘상 17:50**
+> 다윗이 이같이 물매와 돌로 블레셋 사람을 이기고 그를 쳐죽였으나 자기 손에는 칼이 없었더라
 
-🕊️ _업데이트 시각: 2026-04-05 14:51:02 KST_
+🕊️ _업데이트 시각: 2026-04-05 15:48:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
