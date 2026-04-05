@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 10:16**
-> 아모리의 모든 왕과 땅을 취하다 그 다섯 왕들이 도망하여 막게다의 굴에 숨었더니
+📖 **욥기 16:3**
+> 헛된 말이 어찌 끝이 있으랴 네가 무엇에 자극을 받아 이같이 대답하는가
 
-🕊️ _업데이트 시각: 2026-04-05 22:55:41 KST_
+🕊️ _업데이트 시각: 2026-04-05 23:25:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
