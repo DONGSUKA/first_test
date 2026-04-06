@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 4:14**
-> 므오노대는 오브라를 낳고 스라야는 요압을 낳았으니 요압은 게하라심의 조상이라 그들은 공장이었더라
+📖 **잠언 17:20**
+> 마음이 굽은 자는 복을 얻지 못하고 혀가 패역한 자는 재앙에 빠지느니라
 
-🕊️ _업데이트 시각: 2026-04-07 00:48:50 KST_
+🕊️ _업데이트 시각: 2026-04-07 01:31:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
