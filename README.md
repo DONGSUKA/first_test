@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 1:3**
-> 그 모든 일을 근원부터 자세히 미루어 살핀 나도 데오빌로 각하에게 차례대로 써 보내는 것이 좋은 줄 알았노니
+📖 **느헤미야 4:4**
+> 우리 하나님이여 들으시옵소서 우리가 업신여김을 당하나이다 원하건대 그들이 욕하는 것을 자기들의 머리에 돌리사 노략거리가 되어 이방에 사로잡히게 하시고
 
-🕊️ _업데이트 시각: 2026-04-06 23:04:16 KST_
+🕊️ _업데이트 시각: 2026-04-06 23:59:43 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
