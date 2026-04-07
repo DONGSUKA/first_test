@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 17:13**
-> 모든 이스라엘 자손이나 그들 중에 거류하는 거류민이 먹을 만한 짐승이나 새를 사냥하여 잡거든 그것의 피를 흘리고 흙으로 덮을지니라
+📖 **예레미야 25:33**
+> 그 날에 여호와에게 죽임을 당한 자가 땅 이 끝에서 땅 저 끝에 미칠 것이나 그들을 위하여 애곡하는 자도 없고 시신을 거두어 주는자도 없고 매장하여 주는 자도 없으리니 그들은 지면에서 분토가 되리로다
 
-🕊️ _업데이트 시각: 2026-04-08 01:37:08 KST_
+🕊️ _업데이트 시각: 2026-04-08 02:35:33 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
