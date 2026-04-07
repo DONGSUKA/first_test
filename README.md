@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 21:16**
-> 회중의 장로들이 이르되 베냐민의 여인이 다 멸절되었으니 이제 그 남은 자들에게 어떻게 하여야 아내를 얻게 할까 하고
+📖 **잠언 1:28**
+> 그 때에 너희가 나를 부르리라 그래도 내가 대답하지 아니하겠고 부지런히 나를 찾으리라 그래도 나를 만나지 못하리니
 
-🕊️ _업데이트 시각: 2026-04-07 15:07:25 KST_
+🕊️ _업데이트 시각: 2026-04-07 16:46:21 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
