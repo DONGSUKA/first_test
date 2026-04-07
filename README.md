@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 10:3**
-> 고멜의 아들은 아스그나스와 리밧과 도갈마요
+📖 **시편 33:1**
+> 너희 의인들아 여호와를 즐거워하라 찬송은 정직한 자들이 마땅히 할 바로다
 
-🕊️ _업데이트 시각: 2026-04-07 20:37:07 KST_
+🕊️ _업데이트 시각: 2026-04-07 21:38:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
