@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 43:28**
-> 그들이 대답하되 주의 종 우리 아버지가 평안하고 지금까지 생존하였나이다 하고 머리 숙여 절하더라
+📖 **요한복음 13:28**
+> 이 말씀을 무슨 뜻으로 하셨는지 그 앉은 자 중에 아는 자가 없고
 
-🕊️ _업데이트 시각: 2026-04-09 06:54:17 KST_
+🕊️ _업데이트 시각: 2026-04-09 07:27:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
