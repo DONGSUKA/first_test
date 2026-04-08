@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **욥기 41:22**
-> 그것의 힘은 그의 목덜미에 있으니 그 앞에서는 절망만 감돌 뿐이구나
+📖 **레위기 25:12**
+> 이는 희년이니 너희에게 거룩함이니라 너희는 밭의 소출을 먹으리라
 
-🕊️ _업데이트 시각: 2026-04-08 17:04:18 KST_
+🕊️ _업데이트 시각: 2026-04-08 18:14:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
