@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 6:18**
-> 성전 안에 입힌 백향목에는 박과 핀 꽃을 아로새겼고 모두 백향목이라 돌이 보이지 아니하며
+📖 **레위기 16:32**
+> 기름 부음을 받고 위임되어 자기의 아버지를 대신하여 제사장의 직분을 행하는 제사장은 속죄하되 세마포 옷 곧 거룩한 옷을 입고
 
-🕊️ _업데이트 시각: 2026-04-08 19:17:04 KST_
+🕊️ _업데이트 시각: 2026-04-08 20:15:22 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
