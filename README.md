@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘하 13:35**
-> 요나답이 왕께 아뢰되 보소서 왕자들이 오나이다 당신의 종이 말한 대로 되었나이다 하고
+📖 **창세기 43:28**
+> 그들이 대답하되 주의 종 우리 아버지가 평안하고 지금까지 생존하였나이다 하고 머리 숙여 절하더라
 
-🕊️ _업데이트 시각: 2026-04-09 06:04:21 KST_
+🕊️ _업데이트 시각: 2026-04-09 06:54:17 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
