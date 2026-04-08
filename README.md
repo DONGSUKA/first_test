@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 16:4**
-> 네가 난 것을 말하건대 네가 날 때에 네 배꼽 줄을 자르지 아니하였고 너를 물로 씻어 정결하게 하지 아니하였고 네게 소금을 뿌리지 아니하였고 너를 강보로 싸지도 아니하였나니
+📖 **욥기 41:22**
+> 그것의 힘은 그의 목덜미에 있으니 그 앞에서는 절망만 감돌 뿐이구나
 
-🕊️ _업데이트 시각: 2026-04-08 15:54:16 KST_
+🕊️ _업데이트 시각: 2026-04-08 17:04:18 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
