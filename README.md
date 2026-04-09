@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **신명기 28:11**
-> 여호와께서 네게 주리라고 네 조상들에게 맹세하신 땅에서 네게 복을 주사 네 몸의 소생과 가축의 새끼와 토지의 소산을 많게 하시며
+📖 **역대상 9:22**
+> 택함을 입어 문지기 된 자가 모두 이백열두 명이니 이는 그들의 마을에서 그들의 계보대로 계수된 자요 다윗과 선견자 사무엘이 전에 세워서 이 직분을 맡긴 자라
 
-🕊️ _업데이트 시각: 2026-04-10 00:51:04 KST_
+🕊️ _업데이트 시각: 2026-04-10 01:53:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
