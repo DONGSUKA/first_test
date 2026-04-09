@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 62:11**
-> 여호와께서 땅 끝까지 선포하시되 너희는 딸 시온에게 이르라 보라 네 구원이 이르렀느니라 보라 상급이 그에게 있고 보응이 그 앞에 있느니라 하셨느니라
+📖 **데살로니가후서 2:1**
+> 멸망하는 자들 형제들아 우리가 너희에게 구하는 것은 우리 주 예수 그리스도의 강림하심과 우리가 그 앞에 모임에 관하여
 
-🕊️ _업데이트 시각: 2026-04-10 07:48:25 KST_
+🕊️ _업데이트 시각: 2026-04-10 08:26:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
