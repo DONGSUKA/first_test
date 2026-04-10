@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 9:11**
-> 대답하되 예수라 하는 그 사람이 진흙을 이겨 내 눈에 바르고 나더러 실로암에 가서 씻으라 하기에 가서 씻었더니 보게 되었노라
+📖 **이사야 11:4**
+> 공의로 가난한 자를 심판하며 정직으로 세상의 겸손한 자를 판단할 것이며 그의 입의 막대기로 세상을 치며 그의 입술의 기운으로 악인을죽일 것이며
 
-🕊️ _업데이트 시각: 2026-04-10 20:58:37 KST_
+🕊️ _업데이트 시각: 2026-04-10 22:02:45 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
