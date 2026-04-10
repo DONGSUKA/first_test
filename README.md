@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 10:25**
-> 사무엘이 나라의 제도를 백성에게 말하고 책에 기록하여 여호와 앞에 두고 모든 백성을 각기 집으로 보내매
+📖 **에스겔 27:33**
+> 네 물품을 바다로 실어 낼 때에 네가 여러 백성을 풍족하게 하였음이여 네 재물과 무역품이 많으므로 세상 왕들을 풍부하게 하였었도다
 
-🕊️ _업데이트 시각: 2026-04-10 08:57:56 KST_
+🕊️ _업데이트 시각: 2026-04-10 11:06:08 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
