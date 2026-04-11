@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 9:21**
-> 무릇 사망이 우리 창문을 통하여 넘어 들어오며 우리 궁실에 들어오며 밖에서는 자녀들을 거리에서는 청년들을 멸절하려 하느니라
+📖 **사사기 18:30**
+> 단 자손이 자기들을 위하여 그 새긴 신상을 세웠고 모세의 손자요 게르솜의 아들인 요나단과 그의 자손은 단 지파의 제사장이 되어 그땅 백성이 사로잡히는 날까지 이르렀더라
 
-🕊️ _업데이트 시각: 2026-04-12 02:18:25 KST_
+🕊️ _업데이트 시각: 2026-04-12 02:50:48 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
