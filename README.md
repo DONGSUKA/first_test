@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 15:19**
-> 지금부터는 아버지의 아들이라 일컬음을 감당하지 못하겠나이다 나를 품꾼의 하나로 보소서 하리라 하고
+📖 **에스겔 30:17**
+> 아웬과 비베셋의 장정들은 칼에 엎드러질 것이며 그 성읍 주민들은 포로가 될 것이라
 
-🕊️ _업데이트 시각: 2026-04-11 19:04:38 KST_
+🕊️ _업데이트 시각: 2026-04-11 19:48:53 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
