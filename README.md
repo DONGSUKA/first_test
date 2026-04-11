@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **룻기 4:21**
-> 살몬은 보아스를 낳았고 보아스는 오벳을 낳았고
+📖 **누가복음 15:19**
+> 지금부터는 아버지의 아들이라 일컬음을 감당하지 못하겠나이다 나를 품꾼의 하나로 보소서 하리라 하고
 
-🕊️ _업데이트 시각: 2026-04-11 18:33:32 KST_
+🕊️ _업데이트 시각: 2026-04-11 19:04:38 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
