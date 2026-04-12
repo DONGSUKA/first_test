@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 16:12**
-> 또 여섯째 천사가 그 대접을 큰 강 유브라데에 쏟으매 강물이 말라서 동방에서 오는 왕들의 길이 예비되었더라
+📖 **누가복음 5:29**
+> 레위가 예수를 위하여 자기 집에서 큰 잔치를 하니 세리와 다른 사람이 많이 함께 앉아 있는지라
 
-🕊️ _업데이트 시각: 2026-04-13 07:18:26 KST_
+🕊️ _업데이트 시각: 2026-04-13 07:56:42 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
