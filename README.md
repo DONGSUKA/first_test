@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 16:7**
-> 무시아 앞에 이르러 비두니아로 가고자 애쓰되 예수의 영이 허락하지 아니하시는지라
+📖 **마태복음 26:42**
+> 다시 두 번째 나아가 기도하여 이르시되 내 아버지여 만일 내가 마시지 않고는 이 잔이 내게서 지나갈 수 없거든 아버지의 원대로 되기를 원하나이다 하시고
 
-🕊️ _업데이트 시각: 2026-04-12 22:37:49 KST_
+🕊️ _업데이트 시각: 2026-04-12 23:21:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
