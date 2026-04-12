@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대하 14:8**
-> 아사의 군대는 유다 중에서 큰 방패와 창을 잡는 자가 삼십만 명이요 베냐민 중에서 작은 방패를 잡으며 활을 당기는 자가 이십팔만 명이라 그들은 다 큰 용사였더라
+📖 **창세기 16:15**
+> 하갈이 아브람의 아들을 낳으매 아브람이 하갈이 낳은 그 아들을 이름하여 이스마엘이라 하였더라
 
-🕊️ _업데이트 시각: 2026-04-12 23:59:23 KST_
+🕊️ _업데이트 시각: 2026-04-13 00:34:50 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
