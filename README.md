@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 20:10**
-> 누구든지 남의 아내와 간음하는 자 곧 그의 이웃의 아내와 간음하는 자는 그 간부와 음부를 반드시 죽일지니라
+📖 **고린도전서 10:8**
+> 그들 중의 어떤 사람들이 음행하다가 하루에 이만 삼천 명이 죽었나니 우리는 그들과 같이 음행하지 말자
 
-🕊️ _업데이트 시각: 2026-04-13 04:51:18 KST_
+🕊️ _업데이트 시각: 2026-04-13 05:18:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
