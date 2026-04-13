@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 20:43**
-> 거기에서 너희의 길과 스스로 더럽힌 모든 행위를 기억하고 이미 행한 모든 악으로 말미암아 스스로 미워하리라
+📖 **예레미야 29:5**
+> 너희는 집을 짓고 거기에 살며 텃밭을 만들고 그 열매를 먹으라
 
-🕊️ _업데이트 시각: 2026-04-14 05:33:32 KST_
+🕊️ _업데이트 시각: 2026-04-14 06:25:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
