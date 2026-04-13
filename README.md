@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스더 7:4**
-> 나와 내 민족이 팔려서 죽임과 도륙함과 진멸함을 당하게 되었나이다 만일 우리가 노비로 팔렸더라면 내가 잠잠하였으리이다 그래도 대적이 왕의 손해를 보충하지 못하였으리이다 하니
+📖 **마가복음 1:14**
+> 갈릴리에서 복음을 전파하시다(마 4:12-17; 눅 4:14-15) 요한이 잡힌 후 예수께서 갈릴리에 오셔서 하나님의 복음을 전파하여
 
-🕊️ _업데이트 시각: 2026-04-13 19:55:13 KST_
+🕊️ _업데이트 시각: 2026-04-13 20:57:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
