@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **말라기 3:16**
-> 그 때에 여호와를 경외하는 자들이 피차에 말하매 여호와께서 그것을 분명히 들으시고 여호와를 경외하는 자와 그 이름을 존중히 여기는자를 위하여 여호와 앞에 있는 기념책에 기록하셨느니라
+📖 **레위기 2:11**
+> 너희가 여호와께 드리는 모든 소제물에는 누룩을 넣지 말지니 너희가 누룩이나 꿀을 여호와께 화제로 드려 사르지 못할지니라
 
-🕊️ _업데이트 시각: 2026-04-14 10:07:53 KST_
+🕊️ _업데이트 시각: 2026-04-14 13:15:10 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
