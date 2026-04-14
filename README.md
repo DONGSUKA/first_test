@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 22:4**
-> 그러므로 내가 말하노니 돌이켜 나를 보지 말지어다 나는 슬피 통곡하겠노라 내 딸 백성이 패망하였음으로 말미암아 나를 위로하려고 힘쓰지 말지니라
+📖 **사사기 16:4**
+> 삼손과 들릴라 이 후에 삼손이 소렉 골짜기의 들릴라라 이름하는 여인을 사랑하매
 
-🕊️ _업데이트 시각: 2026-04-14 15:10:19 KST_
+🕊️ _업데이트 시각: 2026-04-14 17:01:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
