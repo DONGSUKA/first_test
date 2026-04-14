@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 14:1**
-> 세례 요한의 죽음(막 6:14-29; 눅 9:7-9) 그 때에 분봉 왕 헤롯이 예수의 소문을 듣고
+📖 **마태복음 16:23**
+> 예수께서 돌이키시며 베드로에게 이르시되 사탄아 내 뒤로 물러 가라 너는 나를 넘어지게 하는 자로다 네가 하나님의 일을 생각하지아니하고 도리어 사람의 일을 생각하는도다 하시고
 
-🕊️ _업데이트 시각: 2026-04-15 04:53:29 KST_
+🕊️ _업데이트 시각: 2026-04-15 05:38:13 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
