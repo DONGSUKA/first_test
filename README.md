@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 22:19**
-> 만일 누구든지 이 두루마리의 예언의 말씀에서 제하여 버리면 하나님이 이 두루마리에 기록된 생명나무와 및 거룩한 성에 참여함을제하여 버리시리라
+📖 **열왕기상 12:9**
+> 이르되 너희는 어떻게 자문하여 이 백성에게 대답하게 하겠느냐 백성이 내게 말하기를 왕의 아버지가 우리에게 메운 멍에를 가볍게 하라 하였느니라
 
-🕊️ _업데이트 시각: 2026-04-15 13:14:29 KST_
+🕊️ _업데이트 시각: 2026-04-15 15:09:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
