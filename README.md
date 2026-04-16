@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 2:46**
-> 날마다 마음을 같이하여 성전에 모이기를 힘쓰고 집에서 떡을 떼며 기쁨과 순전한 마음으로 음식을 먹고
+📖 **이사야 6:11**
+> 내가 이르되 주여 어느 때까지니이까 하였더니 주께서 대답하시되 성읍들은 황폐하여 주민이 없으며 가옥들에는 사람이 없고 이 토지는황폐하게 되며
 
-🕊️ _업데이트 시각: 2026-04-16 19:46:51 KST_
+🕊️ _업데이트 시각: 2026-04-16 20:42:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
