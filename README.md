@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **느헤미야 3:5**
-> 그 다음은 드고아 사람들이 중수하였으나 그 귀족들은 그들의 주인들의 공사를 분담하지 아니하였으며
+📖 **출애굽기 2:13**
+> 이튿날 다시 나가니 두 히브리 사람이 서로 싸우는지라 그 잘못한 사람에게 이르되 네가 어찌하여 동포를 치느냐 하매
 
-🕊️ _업데이트 시각: 2026-04-19 00:40:39 KST_
+🕊️ _업데이트 시각: 2026-04-19 01:06:12 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
