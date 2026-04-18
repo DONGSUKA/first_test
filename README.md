@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 6:23**
-> 그 날에 기뻐하고 뛰놀라 하늘에서 너희 상이 큼이라 그들의 조상들이 선지자들에게 이와 같이 하였느니라
+📖 **아모스 3:9**
+> 사마리아에 내리신 벌 아스돗의 궁궐들과 애굽 땅의 궁궐들에 선포하여 이르기를 너희는 사마리아 산들에 모여 그 성 중에서 얼마나 큰 요란함과 학대함이 있나 보라 하라
 
-🕊️ _업데이트 시각: 2026-04-18 08:33:19 KST_
+🕊️ _업데이트 시각: 2026-04-18 09:05:31 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
