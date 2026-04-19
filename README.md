@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 4:26**
-> 뜰의 휘장과 성막과 제단 사방에 있는 뜰의 휘장 문과 그 줄들과 그것에 사용하는 모든 기구를 메며 이 모든 것을 이렇게 맡아 처리할 것이라
+📖 **사도행전 4:25**
+> 또 주의 종 우리 조상 다윗의 입을 통하여 성령으로 말씀하시기를 어찌하여 열방이 분노하며 족속들이 허사를 경영하였는고
 
-🕊️ _업데이트 시각: 2026-04-20 01:05:59 KST_
+🕊️ _업데이트 시각: 2026-04-20 01:54:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
