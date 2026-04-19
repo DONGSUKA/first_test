@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 22:3**
-> 너는 말하라 주 여호와께서 이같이 말씀하셨느니라 자기 가운데에 피를 흘려 벌 받을 때가 이르게 하며 우상을 만들어 스스로 더럽히는성아
+📖 **누가복음 2:48**
+> 그의 부모가 보고 놀라며 그의 어머니는 이르되 아이야 어찌하여 우리에게 이렇게 하였느냐 보라 네 아버지와 내가 근심하여 너를 찾았노라
 
-🕊️ _업데이트 시각: 2026-04-19 22:38:06 KST_
+🕊️ _업데이트 시각: 2026-04-19 23:21:51 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
