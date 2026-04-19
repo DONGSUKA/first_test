@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **스바냐 1:10**
-> 나 여호와가 말하노라 그 날에 어문에서는 부르짖는 소리가, 제 이 구역에서는 울음 소리가, 작은 산들에서는 무너지는 소리가 일어나리라
+📖 **야고보서 1:27**
+> 하나님 아버지 앞에서 정결하고 더러움이 없는 경건은 곧 고아와 과부를 그 환난중에 돌보고 또 자기를 지켜 세속에 물들지 아니하는그것이니라
 
-🕊️ _업데이트 시각: 2026-04-20 02:24:02 KST_
+🕊️ _업데이트 시각: 2026-04-20 02:56:20 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
