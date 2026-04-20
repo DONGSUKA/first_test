@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **민수기 31:49**
-> 모세에게 말하되 당신의 종들이 이끈 군인을 계수한즉 우리 중 한 사람도 축나지 아니하였기로
+📖 **여호수아 19:50**
+> 곧 여호와의 명령대로 여호수아가 요구한 성읍 에브라임 산지 딤낫 세라를 주매 여호수아가 그 성읍을 건설하고 거기 거주하였더라
 
-🕊️ _업데이트 시각: 2026-04-20 15:31:40 KST_
+🕊️ _업데이트 시각: 2026-04-20 17:34:26 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
