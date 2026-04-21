@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 9:47**
-> 세겜 망대의 모든 사람들이 모인 것이 아비멜렉에게 알려지매
+📖 **시편 80:6**
+> 우리를 우리 이웃에게 다툼 거리가 되게 하시니 우리 원수들이 서로 비웃나이다
 
-🕊️ _업데이트 시각: 2026-04-22 03:41:21 KST_
+🕊️ _업데이트 시각: 2026-04-22 04:47:28 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
