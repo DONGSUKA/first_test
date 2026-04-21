@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 9:17**
-> 그들이 듣지 아니하므로 내 하나님이 그들을 버리시리니 그들이 여러 나라 가운데에 떠도는 자가 되리라
+📖 **예레미야 21:7**
+> 여호와의 말씀이니라 그 후에 내가 유다의 왕 시드기야와 그의 신하들과 백성과 및 이 성읍에서 전염병과 칼과 기근에서 남은 자를 바벨론의 느부갓네살 왕의 손과 그들의 원수의 손과 그들의 생명을 찾는 자들의 손에 넘기리니 그가 칼날로 그들을 치되 측은히 여기지 아니하며 긍휼히 여기지 아니하며 불쌍히 여기지 아니하리라 하셨느니라
 
-🕊️ _업데이트 시각: 2026-04-21 09:01:26 KST_
+🕊️ _업데이트 시각: 2026-04-21 12:19:59 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
