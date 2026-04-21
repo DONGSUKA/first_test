@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **히브리서 13:9**
-> 여러 가지 다른 교훈에 끌리지 말라 마음은 은혜로써 굳게 함이 아름답고 음식으로써 할 것이 아니니 음식으로 말미암아 행한 자는 유익을 얻지 못하였느니라
+📖 **요한복음 6:27**
+> 썩을 양식을 위하여 일하지 말고 영생하도록 있는 양식을 위하여 하라 이 양식은 인자가 너희에게 주리니 인자는 아버지 하나님께서 인치신 자니라
 
-🕊️ _업데이트 시각: 2026-04-22 05:34:01 KST_
+🕊️ _업데이트 시각: 2026-04-22 06:23:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
