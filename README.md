@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **호세아 13:8**
-> 내가 새끼 잃은 곰 같이 그들을 만나 그의 염통 꺼풀을 찢고 거기서 암사자 같이 저희를 삼키리라 들짐승이 그들을 찢으리라
+📖 **느헤미야 12:28**
+> 이에 노래하는 자들이 예루살렘 사방 들과 느도바 사람의 마을에서 모여들고
 
-🕊️ _업데이트 시각: 2026-04-21 21:42:38 KST_
+🕊️ _업데이트 시각: 2026-04-21 23:18:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
