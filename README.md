@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 58:5**
-> 술사의 홀리는 소리도 듣지 않고 능숙한 술객의 요술도 따르지 아니하는 독사로다
+📖 **역대하 11:9**
+> 아도라임과 라기스와 아세가와
 
-🕊️ _업데이트 시각: 2026-04-23 04:49:13 KST_
+🕊️ _업데이트 시각: 2026-04-23 05:37:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
