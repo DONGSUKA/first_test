@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 21:5**
-> 이 여러 날을 지낸 후 우리가 떠나갈새 그들이 다 그 처자와 함께 성문 밖까지 전송하거늘 우리가 바닷가에서 무릎을 꿇어 기도하고
+📖 **요한복음 3:12**
+> 내가 땅의 일을 말하여도 너희가 믿지 아니하거든 하물며 하늘의 일을 말하면 어떻게 믿겠느냐
 
-🕊️ _업데이트 시각: 2026-04-23 22:17:28 KST_
+🕊️ _업데이트 시각: 2026-04-24 00:21:32 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
