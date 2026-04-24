@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **다니엘 6:5**
-> 그들이 이르되 이 다니엘은 그 하나님의 율법에서 근거를 찾지 못하면 그를 고발할 수 없으리라 하고
+📖 **에스겔 22:23**
+> 선지자 제사장 고관들의 죄 여호와의 말씀이 내게 임하여 이르시되
 
-🕊️ _업데이트 시각: 2026-04-25 04:57:17 KST_
+🕊️ _업데이트 시각: 2026-04-25 05:38:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
