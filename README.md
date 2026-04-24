@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **역대상 23:12**
-> 그핫의 아들들은 아므람과 이스할과 헤브론과 웃시엘 네 사람이라
+📖 **누가복음 3:20**
+> 그 위에 한 가지 악을 더하여 요한을 옥에 가두니라
 
-🕊️ _업데이트 시각: 2026-04-25 07:55:16 KST_
+🕊️ _업데이트 시각: 2026-04-25 08:29:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
