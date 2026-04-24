@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마가복음 8:2**
-> 내가 무리를 불쌍히 여기노라 그들이 나와 함께 있은 지 이미 사흘이 지났으나 먹을 것이 없도다
+📖 **시편 115:3**
+> 오직 우리 하나님은 하늘에 계셔서 원하시는 모든 것을 행하셨나이다
 
-🕊️ _업데이트 시각: 2026-04-24 09:06:03 KST_
+🕊️ _업데이트 시각: 2026-04-24 12:44:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
