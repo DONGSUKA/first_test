@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 15:18**
-> 입에서 나오는 것들은 마음에서 나오나니 이것이야말로 사람을 더럽게 하느니라
+📖 **잠언 23:30**
+> 술에 잠긴 자에게 있고 혼합한 술을 구하러 다니는 자에게 있느니라
 
-🕊️ _업데이트 시각: 2026-04-25 16:54:54 KST_
+🕊️ _업데이트 시각: 2026-04-25 17:39:03 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
