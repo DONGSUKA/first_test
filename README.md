@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 19:20**
-> 짐승이 잡히고 그 앞에서 표적을 행하던 거짓 선지자도 함께 잡혔으니 이는 짐승의 표를 받고 그의 우상에게 경배하던 자들을 표적으로 미혹하던 자라 이 둘이 산 채로 유황불 붙는 못에 던져지고
+📖 **출애굽기 7:15**
+> 아침에 너는 바로에게로 가라 보라 그가 물 있는 곳으로 나오리니 너는 나일 강 가에 서서 그를 맞으며 그 뱀 되었던 지팡이를 손에 잡고
 
-🕊️ _업데이트 시각: 2026-04-26 06:06:54 KST_
+🕊️ _업데이트 시각: 2026-04-26 06:49:54 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
