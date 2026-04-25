@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 83:4**
-> 말하기를 가서 그들을 멸하여 다시 나라가 되지 못하게 하여 이스라엘의 이름으로 다시는 기억되지 못하게 하자 하나이다
+📖 **욥기 20:23**
+> 그가 배를 불리려 할 때에 하나님이 맹렬한 진노를 내리시리니 음식을 먹을 때에 그의 위에 비 같이 쏟으시리라
 
-🕊️ _업데이트 시각: 2026-04-25 09:03:49 KST_
+🕊️ _업데이트 시각: 2026-04-25 12:25:04 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
