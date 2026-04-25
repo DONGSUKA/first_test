@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **누가복음 3:20**
-> 그 위에 한 가지 악을 더하여 요한을 옥에 가두니라
+📖 **시편 83:4**
+> 말하기를 가서 그들을 멸하여 다시 나라가 되지 못하게 하여 이스라엘의 이름으로 다시는 기억되지 못하게 하자 하나이다
 
-🕊️ _업데이트 시각: 2026-04-25 08:29:27 KST_
+🕊️ _업데이트 시각: 2026-04-25 09:03:49 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
