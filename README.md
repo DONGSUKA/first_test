@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 7:13**
-> 이로 말미암아 우리가 위로를 받았고 우리가 받은 위로 위에 디도의 기쁨으로 우리가 더욱 많이 기뻐함은 그의 마음이 너희 무리로말미암아 안심함을 얻었음이라
+📖 **요한복음 5:4**
+> 이는 천사가 가끔 못에 내려와 물을 움직이게 하는데 움직인 후에 먼저 들어가는 자는 어떤 병에 걸렸든지 낫게 됨이러라]
 
-🕊️ _업데이트 시각: 2026-04-25 18:33:16 KST_
+🕊️ _업데이트 시각: 2026-04-25 19:23:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
