@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 119:46**
-> 또 왕들 앞에서 주의 교훈들을 말할 때에 수치를 당하지 아니하겠사오며
+📖 **요한복음 10:3**
+> 문지기는 그를 위하여 문을 열고 양은 그의 음성을 듣나니 그가 자기 양의 이름을 각각 불러 인도하여 내느니라
 
-🕊️ _업데이트 시각: 2026-04-27 00:07:54 KST_
+🕊️ _업데이트 시각: 2026-04-27 00:53:40 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
