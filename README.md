@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 48:36**
-> 모압이 벌 받을 해 그러므로 나의 마음이 모압을 위하여 피리 같이 소리 내며 나의 마음이 길헤레스 사람들을 위하여 피리 같이 소리내나니 이는 그가 모은 재물이 없어졌음이라
+📖 **이사야 5:8**
+> 사람이 저지르는 악한 일 가옥에 가옥을 이으며 전토에 전토를 더하여 빈 틈이 없도록 하고 이 땅 가운데에서 홀로 거주하려 하는 자들은화 있을진저
 
-🕊️ _업데이트 시각: 2026-04-28 01:14:33 KST_
+🕊️ _업데이트 시각: 2026-04-28 02:41:02 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
