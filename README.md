@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사도행전 26:15**
-> 내가 대답하되 주님 누구시니이까 주께서 이르시되 나는 네가 박해하는 예수라
+📖 **시편 19:11**
+> 또 주의 종이 이것으로 경고를 받고 이것을 지킴으로 상이 크니이다
 
-🕊️ _업데이트 시각: 2026-04-28 05:00:33 KST_
+🕊️ _업데이트 시각: 2026-04-28 06:06:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
