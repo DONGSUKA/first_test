@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 22:22**
-> 그들이 이 말씀을 듣고 놀랍게 여겨 예수를 떠나가니라
+📖 **누가복음 23:24**
+> 이에 빌라도가 그들이 구하는 대로 하기를 언도하고
 
-🕊️ _업데이트 시각: 2026-04-27 08:50:25 KST_
+🕊️ _업데이트 시각: 2026-04-27 10:16:11 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
