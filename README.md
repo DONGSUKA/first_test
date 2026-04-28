@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 6:3**
-> 남의 잃은 물건을 줍고도 사실을 부인하여 거짓 맹세하는 등 사람이 이 모든 일 중의 하나라도 행하여 범죄하면
+📖 **열왕기하 21:12**
+> 그러므로 이스라엘의 하나님 여호와가 말하노니 내가 이제 예루살렘과 유다에 재앙을 내리리니 듣는 자마다 두 귀가 울리리라
 
-🕊️ _업데이트 시각: 2026-04-29 02:15:33 KST_
+🕊️ _업데이트 시각: 2026-04-29 03:51:27 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
