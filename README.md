@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 1:17**
-> 유다가 그의 형제 시므온과 함께 가서 스밧에 거주하는 가나안 족속을 쳐서 그 곳을 진멸하였으므로 그 성읍의 이름을 호르마라 하니라
+📖 **마가복음 13:24**
+> 인자가 오는 것을 보리라(마 24:29-31; 눅 21:25-28) 그 때에 그 환난 후 해가 어두워지며 달이 빛을 내지 아니하며
 
-🕊️ _업데이트 시각: 2026-04-28 20:51:51 KST_
+🕊️ _업데이트 시각: 2026-04-28 22:18:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
