@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사무엘상 6:20**
-> 벧세메스 사람들이 이르되 이 거룩하신 하나님 여호와 앞에 누가 능히 서리요 그를 우리에게서 누구에게로 올라가시게 할까 하고
+📖 **출애굽기 30:8**
+> 또 저녁 때 등불을 켤 때에 사를지니 이 향은 너희가 대대로 여호와 앞에 끊지 못할지며
 
-🕊️ _업데이트 시각: 2026-04-29 22:22:45 KST_
+🕊️ _업데이트 시각: 2026-04-30 00:29:19 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
