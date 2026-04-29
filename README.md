@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 3:3**
-> 오십부장과 귀인과 모사와 정교한 장인과 능란한 요술자를 그리하실 것이며
+📖 **사도행전 22:17**
+> 후에 내가 예루살렘으로 돌아와서 성전에서 기도할 때에 황홀한 중에
 
-🕊️ _업데이트 시각: 2026-04-30 05:44:47 KST_
+🕊️ _업데이트 시각: 2026-04-30 06:43:46 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
