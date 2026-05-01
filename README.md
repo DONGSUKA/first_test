@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 50:8**
-> 요셉의 온 집과 그의 형제들과 그의 아버지의 집이 그와 함께 올라가고 그들의 어린 아이들과 양 떼와 소 떼만 고센 땅에 남겼으며
+📖 **요한삼서 1:11**
+> 사랑하는 자여 악한 것을 본받지 말고 선한 것을 본받으라 선을 행하는 자는 하나님께 속하고 악을 행하는 자는 하나님을 뵈옵지 못하였느니라
 
-🕊️ _업데이트 시각: 2026-05-02 05:28:30 KST_
+🕊️ _업데이트 시각: 2026-05-02 06:12:55 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
