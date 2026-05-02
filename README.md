@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **사사기 20:3**
-> 이스라엘 자손이 미스바에 올라간 것을 베냐민 자손이 들었더라 이스라엘 자손이 이르되 이 악한 일이 어떻게 일어났는지 우리에게 말하라 하니
+📖 **에스라 4:19**
+> 명령하여 살펴보니 과연 이 성읍이 예로부터 왕들을 거역하며 그 중에서 항상 패역하고 반역하는 일을 행하였으며
 
-🕊️ _업데이트 시각: 2026-05-03 07:56:02 KST_
+🕊️ _업데이트 시각: 2026-05-03 08:33:15 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
