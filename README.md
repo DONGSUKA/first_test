@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 37:25**
-> 내가 내 종 야곱에게 준 땅 곧 그의 조상들이 거주하던 땅에 그들이 거주하되 그들과 그들의 자자 손손이 영원히 거기에 거주할 것이요내 종 다윗이 영원히 그들의 왕이 되리라
+📖 **욥기 14:12**
+> 사람이 누우면 다시 일어나지 못하고 하늘이 없어지기까지 눈을 뜨지 못하며 잠을 깨지 못하느니라
 
-🕊️ _업데이트 시각: 2026-05-04 04:15:06 KST_
+🕊️ _업데이트 시각: 2026-05-04 04:59:09 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
