@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한복음 16:33**
-> 이것을 너희에게 이르는 것은 너희로 내 안에서 평안을 누리게 하려 함이라 세상에서는 너희가 환난을 당하나 담대하라 내가 세상을이기었노라
+📖 **에스라 4:24**
+> 이에 예루살렘에서 하나님의 성전 공사가 바사 왕 다리오 제이년까지 중단되니라
 
-🕊️ _업데이트 시각: 2026-05-03 20:21:44 KST_
+🕊️ _업데이트 시각: 2026-05-03 20:59:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
