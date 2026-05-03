@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스겔 8:16**
-> 그가 또 나를 데리고 여호와의 성전 안뜰에 들어가시니라 보라 여호와의 성전 문 곧 현관과 제단 사이에서 약 스물다섯 명이 여호와의 성전을 등지고 낯을 동쪽으로 향하여 동쪽 태양에게 예배하더라
+📖 **요한복음 16:33**
+> 이것을 너희에게 이르는 것은 너희로 내 안에서 평안을 누리게 하려 함이라 세상에서는 너희가 환난을 당하나 담대하라 내가 세상을이기었노라
 
-🕊️ _업데이트 시각: 2026-05-03 19:34:39 KST_
+🕊️ _업데이트 시각: 2026-05-03 20:21:44 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
