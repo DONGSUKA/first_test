@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **이사야 37:22**
-> 여호와께서 그에 대하여 이같이 이르시되 처녀 딸 시온이 너를 멸시하며 조소하였고 딸 예루살렘이 너를 향하여 머리를 흔들었느니라
+📖 **미가 6:15**
+> 네가 씨를 뿌려도 추수하지 못할 것이며 감람 열매를 밟아도 기름을 네 몸에 바르지 못할 것이며 포도를 밟아도 술을 마시지 못하리라
 
-🕊️ _업데이트 시각: 2026-05-04 00:56:41 KST_
+🕊️ _업데이트 시각: 2026-05-04 01:38:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
