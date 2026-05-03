@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **에스라 4:24**
-> 이에 예루살렘에서 하나님의 성전 공사가 바사 왕 다리오 제이년까지 중단되니라
+📖 **여호수아 23:3**
+> 너희의 하나님 여호와께서 너희를 위하여 이 모든 나라에 행하신 일을 너희가 다 보았거니와 너희의 하나님 여호와 그는 너희를 위하여싸우신 이시니라
 
-🕊️ _업데이트 시각: 2026-05-03 20:59:58 KST_
+🕊️ _업데이트 시각: 2026-05-03 22:12:41 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
