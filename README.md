@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **여호수아 23:3**
-> 너희의 하나님 여호와께서 너희를 위하여 이 모든 나라에 행하신 일을 너희가 다 보았거니와 너희의 하나님 여호와 그는 너희를 위하여싸우신 이시니라
+📖 **민수기 27:4**
+> 어찌하여 아들이 없다고 우리 아버지의 이름이 그의 종족 중에서 삭제되리이까 우리 아버지의 형제 중에서 우리에게 기업을 주소서 하매
 
-🕊️ _업데이트 시각: 2026-05-03 22:12:41 KST_
+🕊️ _업데이트 시각: 2026-05-03 23:14:14 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
