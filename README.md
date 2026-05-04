@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **고린도후서 11:28**
-> 이 외의 일은 고사하고 아직도 날마다 내 속에 눌리는 일이 있으니 곧 모든 교회를 위하여 염려하는 것이라
+📖 **스가랴 11:14**
+> 내가 또 연합이라 하는 둘째 막대기를 꺾었으니 이는 유다와 이스라엘 형제의 의리를 끊으려 함이었느니라
 
-🕊️ _업데이트 시각: 2026-05-04 22:12:16 KST_
+🕊️ _업데이트 시각: 2026-05-05 00:19:35 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
