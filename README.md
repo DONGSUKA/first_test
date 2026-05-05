@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **레위기 15:11**
-> 유출병이 있는 자가 물로 그의 손을 씻지 아니하고 아무든지 만지면 그 자는 그의 옷을 빨고 물로 몸을 씻을 것이며 저녁까지 부정하리라
+📖 **로마서 10:16**
+> 믿음과 들음과 그리스도의 말씀 그러나 그들이 다 복음을 순종하지 아니하였도다 이사야가 이르되 주여 우리가 전한 것을 누가 믿었나이까 하였으니
 
-🕊️ _업데이트 시각: 2026-05-06 08:08:43 KST_
+🕊️ _업데이트 시각: 2026-05-06 08:58:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
