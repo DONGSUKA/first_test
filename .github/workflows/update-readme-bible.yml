@@ -8,18 +8,22 @@ on:
 permissions:
   contents: write
 
+# 글로벌 환경 변수 설정: Node.js 20 지원 중단 대응
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-bible-verse:
     runs-on: ubuntu-latest
 
     steps:
       - name: 리포지토리 체크아웃
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4 # 최신 안정 버전 유지
 
       - name: Python 설치
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5 # Node.js 24 환경에서 실행되도록 env에 의해 강제됨
         with:
-          python-version: 3.13
+          python-version: "3.13"
 
       - name: README.md용 성경 구절 생성
         run: |
@@ -32,31 +36,29 @@ jobs:
           today = now.strftime("%Y-%m-%d %H:%M:%S KST")
 
           # Pickle에서 구절 불러오기
-          with open(".github/bible_verses.pkl", "rb") as f:
-              verses = pickle.load(f)
+          try:
+              with open(".github/bible_verses.pkl", "rb") as f:
+                  verses = pickle.load(f)
+              
+              verse = random.choice(verses)
+              ref = verse["reference"]
+              text = verse["verse"]
 
-          verse = random.choice(verses)
-          ref = verse["reference"]
-          text = verse["verse"]
+              # 삽입할 텍스트 구성
+              new_content = f"\n📖 **{ref}**\n> {text}\n\n🕊️ _업데이트 시각: {today}_\n"
 
-          # 삽입할 텍스트 구성
-          new_content = f"""<!-- START_BIBLE_VERSE -->
-          📖 **{ref}**
-          > {text}
+              # README.md 수정
+              with open("README.md", "r", encoding="utf-8") as f:
+                  content = f.read()
 
-          🕊️ _업데이트 시각: {today}_
-            <!-- END_BIBLE_VERSE -->"""
+              import re
+              # 정규표현식으로 주석 사이 내용 교체
+              updated = re.sub(r".*?", new_content, content, flags=re.DOTALL)
 
-          # README.md 수정
-          with open("README.md", "r", encoding="utf-8") as f:
-              content = f.read()
-
-          import re
-          updated = re.sub(r"<!-- START_BIBLE_VERSE -->(.|\n)*?<!-- END_BIBLE_VERSE -->", new_content, content)
-
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(updated)
-
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(updated)
+          except FileNotFoundError:
+              print("파일을 찾을 수 없습니다. 경로를 확인해주세요.")
         shell: python
 
       - name: Git 설정
@@ -66,10 +68,10 @@ jobs:
 
       - name: 변경 사항 커밋 및 푸시
         run: |
-          if [[ -z $(git status --porcelain README.md) ]]; then
+          git add README.md
+          if git diff --staged --quiet; then
             echo "변경 사항 없음"
           else
-            git add README.md
             git commit -m "📖 README 성경 구절 자동 업데이트"
             git push
           fi
