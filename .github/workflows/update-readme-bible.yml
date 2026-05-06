@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: 리포지토리 체크아웃
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Python 설치
         uses: actions/setup-python@v5
