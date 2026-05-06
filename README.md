@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **창세기 28:3**
-> 전능하신 하나님이 네게 복을 주시어 네가 생육하고 번성하게 하여 네가 여러 족속을 이루게 하시고
+📖 **스바냐 1:7**
+> 주 여호와 앞에서 잠잠할지어다 이는 여호와의 날이 가까웠으므로 여호와께서 희생을 준비하고 그가 청할 자들을 구별하셨음이니라
 
-🕊️ _업데이트 시각: 2026-05-06 16:58:15 KST_
+🕊️ _업데이트 시각: 2026-05-06 18:17:16 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
